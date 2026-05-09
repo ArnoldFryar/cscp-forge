@@ -1,3 +1,4 @@
+import { generatedQuestions } from "./generatedQuestions";
 import { getModuleName } from "./modules";
 import type { Difficulty, Question, QuestionType } from "./types";
 
@@ -97,7 +98,7 @@ const seeds: QuestionSeed[] = [
   { moduleId: "m8", topic: "Decision support", difficulty: "hard", questionType: "scenario", questionText: "A planning tool recommends a replenishment order that violates a supplier minimum. What should the system design include?", choices: ["Business rules and exception alerts", "No master data validation", "Hidden recommendations", "Manual spreadsheets only"], correctIndex: 0, explanation: "Decision-support tools need business rules and exception handling so recommendations are feasible.", examTrap: "Optimization output still needs constraints and governance.", studyTip: "Good systems combine data, rules, workflow, and human exception management." },
 ];
 
-export const questions: Question[] = seeds.map((seed, index) => {
+export const mockQuestions: Question[] = seeds.map((seed, index) => {
   const id = `q${String(index + 1).padStart(3, "0")}`;
   const choices = seed.choices.map((text, choiceIndex) => ({
     id: `${id}-${String.fromCharCode(97 + choiceIndex)}`,
@@ -125,3 +126,5 @@ export const questions: Question[] = seeds.map((seed, index) => {
     studyTip: seed.studyTip,
   };
 });
+
+export const questions: Question[] = generatedQuestions.length > 0 ? generatedQuestions : mockQuestions;

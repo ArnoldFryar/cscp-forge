@@ -7,7 +7,7 @@ type QuizCardProps = {
 
 export default function QuizCard({ question, moduleTitle }: QuizCardProps) {
   return (
-    <article className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900/70">
+    <article className="app-card p-5">
       <div className="flex flex-wrap items-center gap-2">
         {moduleTitle ? <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-bold text-slate-600 dark:bg-slate-800 dark:text-slate-300">{moduleTitle}</span> : null}
         <span className="rounded-full bg-cyan-50 px-3 py-1 text-xs font-black text-cyan-700 dark:bg-cyan-950 dark:text-cyan-200">{question.difficulty}</span>

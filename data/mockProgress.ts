@@ -18,10 +18,18 @@ export const quizResults: QuizResult[] = [
     score: 70,
     correctCount: 7,
     totalQuestions: 10,
+    incorrectCount: 3,
+    unansweredCount: 0,
     completedAt: "2026-05-05",
     questionResults: [
-      { questionId: "q011", selectedChoiceId: "q011-b", correctChoiceId: "q011-b", isCorrect: true },
-      { questionId: "q012", selectedChoiceId: "q012-a", correctChoiceId: "q012-b", isCorrect: false },
+      { questionId: "q011", topic: "S&OP purpose", selectedChoiceId: "q011-b", correctChoiceId: "q011-b", isCorrect: true },
+      { questionId: "q012", topic: "Forecast bias", selectedChoiceId: "q012-a", correctChoiceId: "q012-b", isCorrect: false },
+    ],
+    missedQuestionIds: ["q012"],
+    missedTopics: ["Forecast bias"],
+    topicPerformance: [
+      { id: "topic-result-001", moduleId: "m2", topic: "S&OP purpose", accuracy: 100, attempted: 1, correct: 1, trend: "up" },
+      { id: "topic-result-002", moduleId: "m2", topic: "Forecast bias", accuracy: 0, attempted: 1, correct: 0, trend: "down" },
     ],
   },
   {
@@ -31,10 +39,18 @@ export const quizResults: QuizResult[] = [
     score: 60,
     correctCount: 6,
     totalQuestions: 10,
+    incorrectCount: 4,
+    unansweredCount: 0,
     completedAt: "2026-05-06",
     questionResults: [
-      { questionId: "q061", selectedChoiceId: "q061-a", correctChoiceId: "q061-b", isCorrect: false },
-      { questionId: "q066", selectedChoiceId: "q066-a", correctChoiceId: "q066-a", isCorrect: true },
+      { questionId: "q061", topic: "Risk governance", selectedChoiceId: "q061-a", correctChoiceId: "q061-b", isCorrect: false },
+      { questionId: "q066", topic: "Risk response", selectedChoiceId: "q066-a", correctChoiceId: "q066-a", isCorrect: true },
+    ],
+    missedQuestionIds: ["q061"],
+    missedTopics: ["Risk governance"],
+    topicPerformance: [
+      { id: "topic-result-003", moduleId: "m7", topic: "Risk governance", accuracy: 0, attempted: 1, correct: 0, trend: "down" },
+      { id: "topic-result-004", moduleId: "m7", topic: "Risk response", accuracy: 100, attempted: 1, correct: 1, trend: "up" },
     ],
   },
   {
@@ -44,20 +60,32 @@ export const quizResults: QuizResult[] = [
     score: 80,
     correctCount: 8,
     totalQuestions: 10,
+    incorrectCount: 2,
+    unansweredCount: 0,
     completedAt: "2026-05-07",
     questionResults: [
-      { questionId: "q072", selectedChoiceId: "q072-a", correctChoiceId: "q072-a", isCorrect: true },
-      { questionId: "q080", selectedChoiceId: "q080-a", correctChoiceId: "q080-a", isCorrect: true },
+      { questionId: "q072", topic: "Metric design", selectedChoiceId: "q072-a", correctChoiceId: "q072-a", isCorrect: true },
+      { questionId: "q076", topic: "Automation fit", selectedChoiceId: "q076-b", correctChoiceId: "q076-a", isCorrect: false },
+      { questionId: "q079", topic: "Process improvement", selectedChoiceId: "q079-b", correctChoiceId: "q079-a", isCorrect: false },
+      { questionId: "q080", topic: "Decision support", selectedChoiceId: "q080-a", correctChoiceId: "q080-a", isCorrect: true },
+    ],
+    missedQuestionIds: ["q076", "q079"],
+    missedTopics: ["Automation fit", "Process improvement"],
+    topicPerformance: [
+      { id: "topic-result-005", moduleId: "m8", topic: "Metric design", accuracy: 100, attempted: 1, correct: 1, trend: "up" },
+      { id: "topic-result-006", moduleId: "m8", topic: "Automation fit", accuracy: 0, attempted: 1, correct: 0, trend: "down" },
+      { id: "topic-result-007", moduleId: "m8", topic: "Process improvement", accuracy: 0, attempted: 1, correct: 0, trend: "down" },
+      { id: "topic-result-008", moduleId: "m8", topic: "Decision support", accuracy: 100, attempted: 1, correct: 1, trend: "up" },
     ],
   },
 ];
 
 export const missedQuestions: MissedQuestion[] = [
-  { id: "missed-001", questionId: "q012", selectedChoiceId: "q012-a", missedAt: "2026-05-05", reviewCount: 1, status: "reviewing" },
-  { id: "missed-002", questionId: "q061", selectedChoiceId: "q061-a", missedAt: "2026-05-06", reviewCount: 0, status: "new" },
-  { id: "missed-003", questionId: "q025", selectedChoiceId: "q025-b", missedAt: "2026-05-03", reviewCount: 2, status: "reviewing" },
-  { id: "missed-004", questionId: "q043", selectedChoiceId: "q043-a", missedAt: "2026-05-02", reviewCount: 3, status: "mastered" },
-  { id: "missed-005", questionId: "q075", selectedChoiceId: "q075-c", missedAt: "2026-05-01", reviewCount: 1, status: "reviewing" },
+  { questionId: "q012", missedCount: 2, lastMissedAt: "2026-05-05", status: "reviewed", userSelectedChoiceId: "q012-a" },
+  { questionId: "q061", missedCount: 1, lastMissedAt: "2026-05-06", status: "new", userSelectedChoiceId: "q061-a" },
+  { questionId: "q025", missedCount: 3, lastMissedAt: "2026-05-03", status: "retrying", userSelectedChoiceId: "q025-b" },
+  { questionId: "q043", missedCount: 4, lastMissedAt: "2026-05-02", status: "mastered", userSelectedChoiceId: "q043-a" },
+  { questionId: "q075", missedCount: 2, lastMissedAt: "2026-05-01", status: "reviewed", userSelectedChoiceId: "q075-c" },
 ];
 
 export const topicPerformance: TopicPerformance[] = [

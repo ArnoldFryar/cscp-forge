@@ -22,13 +22,13 @@ export function getCompletionRate(moduleList: CSCPModule[]) {
 }
 
 export function getModuleById(moduleList: CSCPModule[], moduleId: string) {
-  const module = moduleList.find((item) => item.id === moduleId);
+  const moduleItem = moduleList.find((item) => item.id === moduleId);
 
-  if (!module) {
+  if (!moduleItem) {
     throw new Error(`Module not found: ${moduleId}`);
   }
 
-  return module;
+  return moduleItem;
 }
 
 export function getQuestionById(questionList: Question[], questionId: string) {

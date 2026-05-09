@@ -2,6 +2,12 @@ export type Difficulty = "easy" | "medium" | "hard";
 
 export type QuestionType = "concept" | "scenario" | "calculation" | "definition" | "process" | "risk" | "strategy";
 
+export type QuizMode = "study" | "exam" | "weak-area";
+
+export type QuizLength = 10 | 25 | 50 | "all";
+
+export type MissedQuestionStatus = "new" | "reviewed" | "retrying" | "mastered";
+
 export interface CSCPModule {
   id: string;
   number: number;
@@ -39,37 +45,46 @@ export interface Question {
 
 export interface QuizSession {
   id: string;
-  moduleId: string;
-  difficulty: Difficulty;
+  moduleId: string | "all";
+  difficulty: Difficulty | "all";
+  topic: string | "all";
+  mode: QuizMode;
+  length: QuizLength;
   questionIds: string[];
   currentQuestionIndex: number;
   startedAt: string;
   answeredChoiceIds: Record<string, string>;
+  questionOrder: string[];
 }
 
 export interface QuizResult {
   id: string;
   sessionId: string;
-  moduleId: string;
+  moduleId: string | "all";
   score: number;
   correctCount: number;
   totalQuestions: number;
+  incorrectCount: number;
+  unansweredCount: number;
   completedAt: string;
   questionResults: Array<{
     questionId: string;
-    selectedChoiceId: string;
+    topic: string;
+    selectedChoiceId: string | null;
     correctChoiceId: string;
     isCorrect: boolean;
   }>;
+  missedQuestionIds: string[];
+  missedTopics: string[];
+  topicPerformance: TopicPerformance[];
 }
 
 export interface MissedQuestion {
-  id: string;
   questionId: string;
-  selectedChoiceId: string;
-  missedAt: string;
-  reviewCount: number;
-  status: "new" | "reviewing" | "mastered";
+  missedCount: number;
+  lastMissedAt: string;
+  status: MissedQuestionStatus;
+  userSelectedChoiceId: string;
 }
 
 export interface StudyPlanItem {
