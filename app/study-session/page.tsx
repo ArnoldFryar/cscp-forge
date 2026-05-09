@@ -375,6 +375,7 @@ export default function StudySessionPage() {
                 <p className="app-eyebrow">Session plan</p>
                 <h2 className="app-section-title mt-2 tracking-tight">{sessionLength} minutes · {focusOptions.find((option) => option.value === focus)?.label}</h2>
                 <p className="app-body-copy mt-2 max-w-3xl text-sm">{focusOptions.find((option) => option.value === focus)?.description}</p>
+                <p className="mt-3 text-sm font-bold text-(--forge-text-secondary)">Follow these steps in order.</p>
               </div>
               <div className="rounded-lg border border-(--forge-border-soft) bg-(--forge-surface-elevated) px-4 py-3">
                 <p className="text-xs font-bold uppercase tracking-[0.16em] text-(--forge-text-muted)">Completed</p>
@@ -391,12 +392,18 @@ export default function StudySessionPage() {
                   <article key={block.id} className={`rounded-lg border p-4 transition ${isComplete ? "border-(--forge-accent) bg-[rgb(45_212_191/0.09)]" : "border-(--forge-border-soft) bg-(--forge-surface-elevated)"}`}>
                     <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
                       <div className="flex gap-3">
-                        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-(--forge-border-soft) bg-(--forge-surface-card)">
-                          <Icon size={18} aria-hidden="true" className="text-(--forge-accent)" />
+                        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-(--forge-border-soft) bg-(--forge-surface-card) text-sm font-black text-(--forge-accent)">
+                          {index + 1}
                         </div>
                         <div>
-                          <p className="text-xs font-black uppercase tracking-[0.16em] text-(--forge-text-muted)">Block {index + 1} · {block.minutes} min</p>
-                          <h3 className="mt-1 text-base font-black text-(--forge-text-primary)">{block.title}</h3>
+                          <div className="flex flex-wrap items-center gap-2">
+                            <p className="text-xs font-black uppercase tracking-[0.16em] text-(--forge-text-muted)">Step {index + 1} of {planBlocks.length}</p>
+                            <span className="text-xs font-bold uppercase tracking-[0.14em] text-(--forge-text-muted)">{block.minutes} min</span>
+                          </div>
+                          <div className="mt-1 flex items-center gap-2">
+                            <Icon size={16} aria-hidden="true" className="text-(--forge-accent)" />
+                            <h3 className="text-base font-black text-(--forge-text-primary)">{block.title}</h3>
+                          </div>
                           <p className="app-body-copy mt-1 text-sm">{block.description}</p>
                         </div>
                       </div>
@@ -421,7 +428,7 @@ export default function StudySessionPage() {
             <article className="app-card p-5 sm:p-6">
               <div className="flex items-center gap-2">
                 <Trophy size={18} aria-hidden="true" className="text-(--forge-accent)" />
-                <h2 className="app-section-title tracking-tight">Session closeout</h2>
+                <h2 className="app-section-title tracking-tight">Final step: Session closeout</h2>
               </div>
               <p className="app-body-copy mt-2 text-sm">Rate how ready you feel on this module after the session. This saves a local record of what you completed.</p>
 
@@ -445,9 +452,11 @@ export default function StudySessionPage() {
                 <p className="text-sm font-black text-(--forge-text-primary)">Completed this session</p>
                 {completedBlocks.length > 0 ? (
                   <ul className="mt-3 space-y-2 text-sm leading-6 text-(--forge-text-secondary)">
-                    {completedBlocks.map((block) => (
-                      <li key={block.id}>{block.title}</li>
-                    ))}
+                    {completedBlocks.map((block) => {
+                      const blockIndex = planBlocks.findIndex((planBlock) => planBlock.id === block.id);
+
+                      return <li key={block.id}>Step {blockIndex + 1}: {block.title}</li>;
+                    })}
                   </ul>
                 ) : (
                   <p className="app-body-copy mt-3 text-sm">No blocks marked complete yet.</p>
