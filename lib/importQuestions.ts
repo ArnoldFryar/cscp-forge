@@ -260,7 +260,7 @@ function buildQuestion(input: {
   const topic = input.row.topic.trim() || "General CSCP concept";
   const choices = input.optionTexts.map((text, index) => ({
     id: `${input.questionId}-${String.fromCharCode(97 + index)}`,
-    text,
+    text: sentenceCase(text),
   }));
   const correctChoiceId = choices[input.correctAnswerIndex].id;
   const explanationParts = deriveExplanationParts(input.row.explanation, input.row.study_tip, input.row.exam_trap, topic);
@@ -334,8 +334,8 @@ function parseWrongAnswerNotes(rawNotes: string) {
 
 function deriveExplanationParts(rawExplanation: string, rawStudyTip: string, rawExamTrap: string, topic: string) {
   const explanationText = rawExplanation.trim();
-  const studyTip = rawStudyTip.trim() || extractStudyTip(explanationText) || `Study the decision logic behind ${topic.toLowerCase()} and connect it to service, cost, and risk tradeoffs.`;
-  const examTrap = rawExamTrap.trim() || extractExamTrap(explanationText) || `Do not pick the answer that sounds busy or familiar but misses the actual ${topic.toLowerCase()} decision.`;
+  const studyTip = sentenceCase(rawStudyTip) || sentenceCase(extractStudyTip(explanationText)) || `Study the decision logic behind ${topic.toLowerCase()} and connect it to service, cost, and risk tradeoffs.`;
+  const examTrap = sentenceCase(rawExamTrap) || sentenceCase(extractExamTrap(explanationText)) || `Do not pick the answer that sounds busy or familiar but misses the actual ${topic.toLowerCase()} decision.`;
 
   const mainExplanation = explanationText
     .replace(/\s*For .*?remember:\s*.*$/i, "")
@@ -348,6 +348,11 @@ function deriveExplanationParts(rawExplanation: string, rawStudyTip: string, raw
     studyTip,
     examTrap,
   };
+}
+
+function sentenceCase(text: string) {
+  const trimmedText = text.trim();
+  return trimmedText.replace(/^([a-z])/, (letter) => letter.toUpperCase());
 }
 
 function extractStudyTip(explanationText: string) {

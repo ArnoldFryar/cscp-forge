@@ -2,11 +2,12 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BarChart3, Brain, BookOpenText, CalendarDays, ClipboardList, Download, Flag, Grid2X2, Home, Info, RotateCcw, ShieldCheck } from "lucide-react";
+import { BarChart3, Brain, BookOpenText, CalendarDays, ClipboardList, Download, Flag, Grid2X2, Home, Info, PlayCircle, RotateCcw, ShieldCheck } from "lucide-react";
 import type { ReactNode } from "react";
 
 const navItems = [
   { label: "Dashboard", href: "/", icon: Home },
+  { label: "Study Session", mobileLabel: "Session", href: "/study-session", icon: PlayCircle },
   { label: "Modules", href: "/modules", icon: Grid2X2 },
   { label: "Study Notes", mobileLabel: "Notes", href: "/study-notes", icon: BookOpenText },
   { label: "Practice", href: "/quiz", icon: ClipboardList },

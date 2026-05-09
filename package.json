@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "import:questions": "tsx scripts/importQuestions.ts"
+    "import:questions": "tsx scripts/importQuestions.ts",
+    "validate:questions": "tsx scripts/validateQuestionBank.ts"
   },
   "dependencies": {
     "lucide-react": "^1.14.0",

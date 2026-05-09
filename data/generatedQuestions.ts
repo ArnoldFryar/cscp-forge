@@ -37,8 +37,8 @@ export const generatedQuestions: Question[] = [
       "1-b": "This choice does not address the core supply chain strategy alignment principle tested by the question.",
       "1-c": "This choice does not address the core supply chain strategy alignment principle tested by the question."
     },
-    "examTrap": "optimizing one function without confirming the business strategy.",
-    "studyTip": "confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
+    "examTrap": "Optimizing one function without confirming the business strategy.",
+    "studyTip": "Confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
   },
   {
     "id": "2",
@@ -59,7 +59,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "2-c",
-        "text": "confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
+        "text": "Confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
       },
       {
         "id": "2-d",
@@ -73,8 +73,8 @@ export const generatedQuestions: Question[] = [
       "2-b": "This choice does not address the core supply chain strategy alignment principle tested by the question.",
       "2-d": "This choice does not address the core supply chain strategy alignment principle tested by the question."
     },
-    "examTrap": "optimizing one function without confirming the business strategy.",
-    "studyTip": "confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
+    "examTrap": "Optimizing one function without confirming the business strategy.",
+    "studyTip": "Confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
   },
   {
     "id": "3",
@@ -91,7 +91,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "3-b",
-        "text": "optimizing one function without confirming the business strategy."
+        "text": "Optimizing one function without confirming the business strategy."
       },
       {
         "id": "3-c",
@@ -109,8 +109,8 @@ export const generatedQuestions: Question[] = [
       "3-c": "This choice does not address the core supply chain strategy alignment principle tested by the question.",
       "3-d": "This choice does not address the core supply chain strategy alignment principle tested by the question."
     },
-    "examTrap": "optimizing one function without confirming the business strategy.",
-    "studyTip": "confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
+    "examTrap": "Optimizing one function without confirming the business strategy.",
+    "studyTip": "Confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
   },
   {
     "id": "4",
@@ -145,8 +145,8 @@ export const generatedQuestions: Question[] = [
       "4-c": "This choice does not address the core supply chain strategy alignment principle tested by the question.",
       "4-d": "This choice does not address the core supply chain strategy alignment principle tested by the question."
     },
-    "examTrap": "optimizing one function without confirming the business strategy.",
-    "studyTip": "confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
+    "examTrap": "Optimizing one function without confirming the business strategy.",
+    "studyTip": "Confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
   },
   {
     "id": "5",
@@ -171,7 +171,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "5-d",
-        "text": "confirm the competitive priority and align planning, service, inventory, and capacity decisions to it and verify the impact through agreed metrics."
+        "text": "Confirm the competitive priority and align planning, service, inventory, and capacity decisions to it and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "5-d",
@@ -181,8 +181,8 @@ export const generatedQuestions: Question[] = [
       "5-b": "This choice does not address the core supply chain strategy alignment principle tested by the question.",
       "5-c": "This choice does not address the core supply chain strategy alignment principle tested by the question."
     },
-    "examTrap": "optimizing one function without confirming the business strategy.",
-    "studyTip": "confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
+    "examTrap": "Optimizing one function without confirming the business strategy.",
+    "studyTip": "Confirm the competitive priority and align planning, service, inventory, and capacity decisions to it."
   },
   {
     "id": "6",
@@ -217,8 +217,8 @@ export const generatedQuestions: Question[] = [
       "6-b": "This choice does not address the core value proposition principle tested by the question.",
       "6-d": "This choice does not address the core value proposition principle tested by the question."
     },
-    "examTrap": "copying a competitor instead of matching the supply chain to customer value.",
-    "studyTip": "translate the customer promise into measurable supply chain capabilities."
+    "examTrap": "Copying a competitor instead of matching the supply chain to customer value.",
+    "studyTip": "Translate the customer promise into measurable supply chain capabilities."
   },
   {
     "id": "7",
@@ -235,7 +235,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "7-b",
-        "text": "translate the customer promise into measurable supply chain capabilities."
+        "text": "Translate the customer promise into measurable supply chain capabilities."
       },
       {
         "id": "7-c",
@@ -253,8 +253,8 @@ export const generatedQuestions: Question[] = [
       "7-c": "This choice does not address the core value proposition principle tested by the question.",
       "7-d": "This choice does not address the core value proposition principle tested by the question."
     },
-    "examTrap": "copying a competitor instead of matching the supply chain to customer value.",
-    "studyTip": "translate the customer promise into measurable supply chain capabilities."
+    "examTrap": "Copying a competitor instead of matching the supply chain to customer value.",
+    "studyTip": "Translate the customer promise into measurable supply chain capabilities."
   },
   {
     "id": "8",
@@ -267,7 +267,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "8-a",
-        "text": "copying a competitor instead of matching the supply chain to customer value."
+        "text": "Copying a competitor instead of matching the supply chain to customer value."
       },
       {
         "id": "8-b",
@@ -289,8 +289,8 @@ export const generatedQuestions: Question[] = [
       "8-c": "This choice does not address the core value proposition principle tested by the question.",
       "8-d": "This choice does not address the core value proposition principle tested by the question."
     },
-    "examTrap": "copying a competitor instead of matching the supply chain to customer value.",
-    "studyTip": "translate the customer promise into measurable supply chain capabilities."
+    "examTrap": "Copying a competitor instead of matching the supply chain to customer value.",
+    "studyTip": "Translate the customer promise into measurable supply chain capabilities."
   },
   {
     "id": "9",
@@ -325,8 +325,8 @@ export const generatedQuestions: Question[] = [
       "9-b": "This choice does not address the core value proposition principle tested by the question.",
       "9-c": "This choice does not address the core value proposition principle tested by the question."
     },
-    "examTrap": "copying a competitor instead of matching the supply chain to customer value.",
-    "studyTip": "translate the customer promise into measurable supply chain capabilities."
+    "examTrap": "Copying a competitor instead of matching the supply chain to customer value.",
+    "studyTip": "Translate the customer promise into measurable supply chain capabilities."
   },
   {
     "id": "10",
@@ -347,7 +347,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "10-c",
-        "text": "translate the customer promise into measurable supply chain capabilities and verify the impact through agreed metrics."
+        "text": "Translate the customer promise into measurable supply chain capabilities and verify the impact through agreed metrics."
       },
       {
         "id": "10-d",
@@ -361,8 +361,8 @@ export const generatedQuestions: Question[] = [
       "10-b": "This choice does not address the core value proposition principle tested by the question.",
       "10-d": "This choice does not address the core value proposition principle tested by the question."
     },
-    "examTrap": "copying a competitor instead of matching the supply chain to customer value.",
-    "studyTip": "translate the customer promise into measurable supply chain capabilities."
+    "examTrap": "Copying a competitor instead of matching the supply chain to customer value.",
+    "studyTip": "Translate the customer promise into measurable supply chain capabilities."
   },
   {
     "id": "11",
@@ -397,8 +397,8 @@ export const generatedQuestions: Question[] = [
       "11-c": "This choice does not address the core demand management principle tested by the question.",
       "11-d": "This choice does not address the core demand management principle tested by the question."
     },
-    "examTrap": "treating every demand signal as equal or guaranteed.",
-    "studyTip": "reconcile demand signals with capacity, supply, and business priorities."
+    "examTrap": "Treating every demand signal as equal or guaranteed.",
+    "studyTip": "Reconcile demand signals with capacity, supply, and business priorities."
   },
   {
     "id": "12",
@@ -411,7 +411,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "12-a",
-        "text": "reconcile demand signals with capacity, supply, and business priorities."
+        "text": "Reconcile demand signals with capacity, supply, and business priorities."
       },
       {
         "id": "12-b",
@@ -433,8 +433,8 @@ export const generatedQuestions: Question[] = [
       "12-c": "This choice does not address the core demand management principle tested by the question.",
       "12-d": "This choice does not address the core demand management principle tested by the question."
     },
-    "examTrap": "treating every demand signal as equal or guaranteed.",
-    "studyTip": "reconcile demand signals with capacity, supply, and business priorities."
+    "examTrap": "Treating every demand signal as equal or guaranteed.",
+    "studyTip": "Reconcile demand signals with capacity, supply, and business priorities."
   },
   {
     "id": "13",
@@ -459,7 +459,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "13-d",
-        "text": "treating every demand signal as equal or guaranteed."
+        "text": "Treating every demand signal as equal or guaranteed."
       }
     ],
     "correctChoiceId": "13-d",
@@ -469,8 +469,8 @@ export const generatedQuestions: Question[] = [
       "13-b": "This choice does not address the core demand management principle tested by the question.",
       "13-c": "This choice does not address the core demand management principle tested by the question."
     },
-    "examTrap": "treating every demand signal as equal or guaranteed.",
-    "studyTip": "reconcile demand signals with capacity, supply, and business priorities."
+    "examTrap": "Treating every demand signal as equal or guaranteed.",
+    "studyTip": "Reconcile demand signals with capacity, supply, and business priorities."
   },
   {
     "id": "14",
@@ -505,8 +505,8 @@ export const generatedQuestions: Question[] = [
       "14-b": "This choice does not address the core demand management principle tested by the question.",
       "14-d": "This choice does not address the core demand management principle tested by the question."
     },
-    "examTrap": "treating every demand signal as equal or guaranteed.",
-    "studyTip": "reconcile demand signals with capacity, supply, and business priorities."
+    "examTrap": "Treating every demand signal as equal or guaranteed.",
+    "studyTip": "Reconcile demand signals with capacity, supply, and business priorities."
   },
   {
     "id": "15",
@@ -523,7 +523,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "15-b",
-        "text": "reconcile demand signals with capacity, supply, and business priorities and verify the impact through agreed metrics."
+        "text": "Reconcile demand signals with capacity, supply, and business priorities and verify the impact through agreed metrics."
       },
       {
         "id": "15-c",
@@ -541,8 +541,8 @@ export const generatedQuestions: Question[] = [
       "15-c": "This choice does not address the core demand management principle tested by the question.",
       "15-d": "This choice does not address the core demand management principle tested by the question."
     },
-    "examTrap": "treating every demand signal as equal or guaranteed.",
-    "studyTip": "reconcile demand signals with capacity, supply, and business priorities."
+    "examTrap": "Treating every demand signal as equal or guaranteed.",
+    "studyTip": "Reconcile demand signals with capacity, supply, and business priorities."
   },
   {
     "id": "16",
@@ -577,8 +577,8 @@ export const generatedQuestions: Question[] = [
       "16-c": "This choice does not address the core demand shaping principle tested by the question.",
       "16-d": "This choice does not address the core demand shaping principle tested by the question."
     },
-    "examTrap": "using promotions without checking supply or capacity constraints.",
-    "studyTip": "use commercial levers to move demand toward available supply or strategic goals."
+    "examTrap": "Using promotions without checking supply or capacity constraints.",
+    "studyTip": "Use commercial levers to move demand toward available supply or strategic goals."
   },
   {
     "id": "17",
@@ -603,7 +603,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "17-d",
-        "text": "use commercial levers to move demand toward available supply or strategic goals."
+        "text": "Use commercial levers to move demand toward available supply or strategic goals."
       }
     ],
     "correctChoiceId": "17-d",
@@ -613,8 +613,8 @@ export const generatedQuestions: Question[] = [
       "17-b": "This choice does not address the core demand shaping principle tested by the question.",
       "17-c": "This choice does not address the core demand shaping principle tested by the question."
     },
-    "examTrap": "using promotions without checking supply or capacity constraints.",
-    "studyTip": "use commercial levers to move demand toward available supply or strategic goals."
+    "examTrap": "Using promotions without checking supply or capacity constraints.",
+    "studyTip": "Use commercial levers to move demand toward available supply or strategic goals."
   },
   {
     "id": "18",
@@ -635,7 +635,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "18-c",
-        "text": "using promotions without checking supply or capacity constraints."
+        "text": "Using promotions without checking supply or capacity constraints."
       },
       {
         "id": "18-d",
@@ -649,8 +649,8 @@ export const generatedQuestions: Question[] = [
       "18-b": "This choice does not address the core demand shaping principle tested by the question.",
       "18-d": "This choice does not address the core demand shaping principle tested by the question."
     },
-    "examTrap": "using promotions without checking supply or capacity constraints.",
-    "studyTip": "use commercial levers to move demand toward available supply or strategic goals."
+    "examTrap": "Using promotions without checking supply or capacity constraints.",
+    "studyTip": "Use commercial levers to move demand toward available supply or strategic goals."
   },
   {
     "id": "19",
@@ -685,8 +685,8 @@ export const generatedQuestions: Question[] = [
       "19-c": "This choice does not address the core demand shaping principle tested by the question.",
       "19-d": "This choice does not address the core demand shaping principle tested by the question."
     },
-    "examTrap": "using promotions without checking supply or capacity constraints.",
-    "studyTip": "use commercial levers to move demand toward available supply or strategic goals."
+    "examTrap": "Using promotions without checking supply or capacity constraints.",
+    "studyTip": "Use commercial levers to move demand toward available supply or strategic goals."
   },
   {
     "id": "20",
@@ -699,7 +699,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "20-a",
-        "text": "use commercial levers to move demand toward available supply or strategic goals and verify the impact through agreed metrics."
+        "text": "Use commercial levers to move demand toward available supply or strategic goals and verify the impact through agreed metrics."
       },
       {
         "id": "20-b",
@@ -721,8 +721,8 @@ export const generatedQuestions: Question[] = [
       "20-c": "This choice does not address the core demand shaping principle tested by the question.",
       "20-d": "This choice does not address the core demand shaping principle tested by the question."
     },
-    "examTrap": "using promotions without checking supply or capacity constraints.",
-    "studyTip": "use commercial levers to move demand toward available supply or strategic goals."
+    "examTrap": "Using promotions without checking supply or capacity constraints.",
+    "studyTip": "Use commercial levers to move demand toward available supply or strategic goals."
   },
   {
     "id": "21",
@@ -757,8 +757,8 @@ export const generatedQuestions: Question[] = [
       "21-b": "This choice does not address the core forecasting principle tested by the question.",
       "21-c": "This choice does not address the core forecasting principle tested by the question."
     },
-    "examTrap": "assuming the forecast is a promise instead of a planning input.",
-    "studyTip": "select a method that fits data quality, product life cycle, and volatility."
+    "examTrap": "Assuming the forecast is a promise instead of a planning input.",
+    "studyTip": "Select a method that fits data quality, product life cycle, and volatility."
   },
   {
     "id": "22",
@@ -779,7 +779,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "22-c",
-        "text": "select a method that fits data quality, product life cycle, and volatility."
+        "text": "Select a method that fits data quality, product life cycle, and volatility."
       },
       {
         "id": "22-d",
@@ -793,8 +793,8 @@ export const generatedQuestions: Question[] = [
       "22-b": "This choice does not address the core forecasting principle tested by the question.",
       "22-d": "This choice does not address the core forecasting principle tested by the question."
     },
-    "examTrap": "assuming the forecast is a promise instead of a planning input.",
-    "studyTip": "select a method that fits data quality, product life cycle, and volatility."
+    "examTrap": "Assuming the forecast is a promise instead of a planning input.",
+    "studyTip": "Select a method that fits data quality, product life cycle, and volatility."
   },
   {
     "id": "23",
@@ -811,7 +811,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "23-b",
-        "text": "assuming the forecast is a promise instead of a planning input."
+        "text": "Assuming the forecast is a promise instead of a planning input."
       },
       {
         "id": "23-c",
@@ -829,8 +829,8 @@ export const generatedQuestions: Question[] = [
       "23-c": "This choice does not address the core forecasting principle tested by the question.",
       "23-d": "This choice does not address the core forecasting principle tested by the question."
     },
-    "examTrap": "assuming the forecast is a promise instead of a planning input.",
-    "studyTip": "select a method that fits data quality, product life cycle, and volatility."
+    "examTrap": "Assuming the forecast is a promise instead of a planning input.",
+    "studyTip": "Select a method that fits data quality, product life cycle, and volatility."
   },
   {
     "id": "24",
@@ -865,8 +865,8 @@ export const generatedQuestions: Question[] = [
       "24-c": "This choice does not address the core forecasting principle tested by the question.",
       "24-d": "This choice does not address the core forecasting principle tested by the question."
     },
-    "examTrap": "assuming the forecast is a promise instead of a planning input.",
-    "studyTip": "select a method that fits data quality, product life cycle, and volatility."
+    "examTrap": "Assuming the forecast is a promise instead of a planning input.",
+    "studyTip": "Select a method that fits data quality, product life cycle, and volatility."
   },
   {
     "id": "25",
@@ -891,7 +891,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "25-d",
-        "text": "select a method that fits data quality, product life cycle, and volatility and verify the impact through agreed metrics."
+        "text": "Select a method that fits data quality, product life cycle, and volatility and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "25-d",
@@ -901,8 +901,8 @@ export const generatedQuestions: Question[] = [
       "25-b": "This choice does not address the core forecasting principle tested by the question.",
       "25-c": "This choice does not address the core forecasting principle tested by the question."
     },
-    "examTrap": "assuming the forecast is a promise instead of a planning input.",
-    "studyTip": "select a method that fits data quality, product life cycle, and volatility."
+    "examTrap": "Assuming the forecast is a promise instead of a planning input.",
+    "studyTip": "Select a method that fits data quality, product life cycle, and volatility."
   },
   {
     "id": "26",
@@ -937,8 +937,8 @@ export const generatedQuestions: Question[] = [
       "26-b": "This choice does not address the core qualitative forecasting principle tested by the question.",
       "26-d": "This choice does not address the core qualitative forecasting principle tested by the question."
     },
-    "examTrap": "forcing a statistical model onto poor or nonexistent history.",
-    "studyTip": "use expert input, market intelligence, or customer knowledge when data is weak."
+    "examTrap": "Forcing a statistical model onto poor or nonexistent history.",
+    "studyTip": "Use expert input, market intelligence, or customer knowledge when data is weak."
   },
   {
     "id": "27",
@@ -955,7 +955,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "27-b",
-        "text": "use expert input, market intelligence, or customer knowledge when data is weak."
+        "text": "Use expert input, market intelligence, or customer knowledge when data is weak."
       },
       {
         "id": "27-c",
@@ -973,8 +973,8 @@ export const generatedQuestions: Question[] = [
       "27-c": "This choice does not address the core qualitative forecasting principle tested by the question.",
       "27-d": "This choice does not address the core qualitative forecasting principle tested by the question."
     },
-    "examTrap": "forcing a statistical model onto poor or nonexistent history.",
-    "studyTip": "use expert input, market intelligence, or customer knowledge when data is weak."
+    "examTrap": "Forcing a statistical model onto poor or nonexistent history.",
+    "studyTip": "Use expert input, market intelligence, or customer knowledge when data is weak."
   },
   {
     "id": "28",
@@ -987,7 +987,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "28-a",
-        "text": "forcing a statistical model onto poor or nonexistent history."
+        "text": "Forcing a statistical model onto poor or nonexistent history."
       },
       {
         "id": "28-b",
@@ -1009,8 +1009,8 @@ export const generatedQuestions: Question[] = [
       "28-c": "This choice does not address the core qualitative forecasting principle tested by the question.",
       "28-d": "This choice does not address the core qualitative forecasting principle tested by the question."
     },
-    "examTrap": "forcing a statistical model onto poor or nonexistent history.",
-    "studyTip": "use expert input, market intelligence, or customer knowledge when data is weak."
+    "examTrap": "Forcing a statistical model onto poor or nonexistent history.",
+    "studyTip": "Use expert input, market intelligence, or customer knowledge when data is weak."
   },
   {
     "id": "29",
@@ -1045,8 +1045,8 @@ export const generatedQuestions: Question[] = [
       "29-b": "This choice does not address the core qualitative forecasting principle tested by the question.",
       "29-c": "This choice does not address the core qualitative forecasting principle tested by the question."
     },
-    "examTrap": "forcing a statistical model onto poor or nonexistent history.",
-    "studyTip": "use expert input, market intelligence, or customer knowledge when data is weak."
+    "examTrap": "Forcing a statistical model onto poor or nonexistent history.",
+    "studyTip": "Use expert input, market intelligence, or customer knowledge when data is weak."
   },
   {
     "id": "30",
@@ -1067,7 +1067,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "30-c",
-        "text": "use expert input, market intelligence, or customer knowledge when data is weak and verify the impact through agreed metrics."
+        "text": "Use expert input, market intelligence, or customer knowledge when data is weak and verify the impact through agreed metrics."
       },
       {
         "id": "30-d",
@@ -1081,8 +1081,8 @@ export const generatedQuestions: Question[] = [
       "30-b": "This choice does not address the core qualitative forecasting principle tested by the question.",
       "30-d": "This choice does not address the core qualitative forecasting principle tested by the question."
     },
-    "examTrap": "forcing a statistical model onto poor or nonexistent history.",
-    "studyTip": "use expert input, market intelligence, or customer knowledge when data is weak."
+    "examTrap": "Forcing a statistical model onto poor or nonexistent history.",
+    "studyTip": "Use expert input, market intelligence, or customer knowledge when data is weak."
   },
   {
     "id": "31",
@@ -1117,8 +1117,8 @@ export const generatedQuestions: Question[] = [
       "31-c": "This choice does not address the core time series forecasting principle tested by the question.",
       "31-d": "This choice does not address the core time series forecasting principle tested by the question."
     },
-    "examTrap": "ignoring structural changes in the market or product.",
-    "studyTip": "use historical demand patterns when past behavior is still relevant."
+    "examTrap": "Ignoring structural changes in the market or product.",
+    "studyTip": "Use historical demand patterns when past behavior is still relevant."
   },
   {
     "id": "32",
@@ -1131,7 +1131,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "32-a",
-        "text": "use historical demand patterns when past behavior is still relevant."
+        "text": "Use historical demand patterns when past behavior is still relevant."
       },
       {
         "id": "32-b",
@@ -1153,8 +1153,8 @@ export const generatedQuestions: Question[] = [
       "32-c": "This choice does not address the core time series forecasting principle tested by the question.",
       "32-d": "This choice does not address the core time series forecasting principle tested by the question."
     },
-    "examTrap": "ignoring structural changes in the market or product.",
-    "studyTip": "use historical demand patterns when past behavior is still relevant."
+    "examTrap": "Ignoring structural changes in the market or product.",
+    "studyTip": "Use historical demand patterns when past behavior is still relevant."
   },
   {
     "id": "33",
@@ -1179,7 +1179,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "33-d",
-        "text": "ignoring structural changes in the market or product."
+        "text": "Ignoring structural changes in the market or product."
       }
     ],
     "correctChoiceId": "33-d",
@@ -1189,8 +1189,8 @@ export const generatedQuestions: Question[] = [
       "33-b": "This choice does not address the core time series forecasting principle tested by the question.",
       "33-c": "This choice does not address the core time series forecasting principle tested by the question."
     },
-    "examTrap": "ignoring structural changes in the market or product.",
-    "studyTip": "use historical demand patterns when past behavior is still relevant."
+    "examTrap": "Ignoring structural changes in the market or product.",
+    "studyTip": "Use historical demand patterns when past behavior is still relevant."
   },
   {
     "id": "34",
@@ -1225,8 +1225,8 @@ export const generatedQuestions: Question[] = [
       "34-b": "This choice does not address the core time series forecasting principle tested by the question.",
       "34-d": "This choice does not address the core time series forecasting principle tested by the question."
     },
-    "examTrap": "ignoring structural changes in the market or product.",
-    "studyTip": "use historical demand patterns when past behavior is still relevant."
+    "examTrap": "Ignoring structural changes in the market or product.",
+    "studyTip": "Use historical demand patterns when past behavior is still relevant."
   },
   {
     "id": "35",
@@ -1243,7 +1243,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "35-b",
-        "text": "use historical demand patterns when past behavior is still relevant and verify the impact through agreed metrics."
+        "text": "Use historical demand patterns when past behavior is still relevant and verify the impact through agreed metrics."
       },
       {
         "id": "35-c",
@@ -1261,8 +1261,8 @@ export const generatedQuestions: Question[] = [
       "35-c": "This choice does not address the core time series forecasting principle tested by the question.",
       "35-d": "This choice does not address the core time series forecasting principle tested by the question."
     },
-    "examTrap": "ignoring structural changes in the market or product.",
-    "studyTip": "use historical demand patterns when past behavior is still relevant."
+    "examTrap": "Ignoring structural changes in the market or product.",
+    "studyTip": "Use historical demand patterns when past behavior is still relevant."
   },
   {
     "id": "36",
@@ -1297,8 +1297,8 @@ export const generatedQuestions: Question[] = [
       "36-c": "This choice does not address the core causal forecasting principle tested by the question.",
       "36-d": "This choice does not address the core causal forecasting principle tested by the question."
     },
-    "examTrap": "confusing correlation with a reliable cause-and-effect relationship.",
-    "studyTip": "identify variables that have a meaningful relationship with demand."
+    "examTrap": "Confusing correlation with a reliable cause-and-effect relationship.",
+    "studyTip": "Identify variables that have a meaningful relationship with demand."
   },
   {
     "id": "37",
@@ -1323,7 +1323,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "37-d",
-        "text": "identify variables that have a meaningful relationship with demand."
+        "text": "Identify variables that have a meaningful relationship with demand."
       }
     ],
     "correctChoiceId": "37-d",
@@ -1333,8 +1333,8 @@ export const generatedQuestions: Question[] = [
       "37-b": "This choice does not address the core causal forecasting principle tested by the question.",
       "37-c": "This choice does not address the core causal forecasting principle tested by the question."
     },
-    "examTrap": "confusing correlation with a reliable cause-and-effect relationship.",
-    "studyTip": "identify variables that have a meaningful relationship with demand."
+    "examTrap": "Confusing correlation with a reliable cause-and-effect relationship.",
+    "studyTip": "Identify variables that have a meaningful relationship with demand."
   },
   {
     "id": "38",
@@ -1355,7 +1355,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "38-c",
-        "text": "confusing correlation with a reliable cause-and-effect relationship."
+        "text": "Confusing correlation with a reliable cause-and-effect relationship."
       },
       {
         "id": "38-d",
@@ -1369,8 +1369,8 @@ export const generatedQuestions: Question[] = [
       "38-b": "This choice does not address the core causal forecasting principle tested by the question.",
       "38-d": "This choice does not address the core causal forecasting principle tested by the question."
     },
-    "examTrap": "confusing correlation with a reliable cause-and-effect relationship.",
-    "studyTip": "identify variables that have a meaningful relationship with demand."
+    "examTrap": "Confusing correlation with a reliable cause-and-effect relationship.",
+    "studyTip": "Identify variables that have a meaningful relationship with demand."
   },
   {
     "id": "39",
@@ -1405,8 +1405,8 @@ export const generatedQuestions: Question[] = [
       "39-c": "This choice does not address the core causal forecasting principle tested by the question.",
       "39-d": "This choice does not address the core causal forecasting principle tested by the question."
     },
-    "examTrap": "confusing correlation with a reliable cause-and-effect relationship.",
-    "studyTip": "identify variables that have a meaningful relationship with demand."
+    "examTrap": "Confusing correlation with a reliable cause-and-effect relationship.",
+    "studyTip": "Identify variables that have a meaningful relationship with demand."
   },
   {
     "id": "40",
@@ -1419,7 +1419,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "40-a",
-        "text": "identify variables that have a meaningful relationship with demand and verify the impact through agreed metrics."
+        "text": "Identify variables that have a meaningful relationship with demand and verify the impact through agreed metrics."
       },
       {
         "id": "40-b",
@@ -1441,8 +1441,8 @@ export const generatedQuestions: Question[] = [
       "40-c": "This choice does not address the core causal forecasting principle tested by the question.",
       "40-d": "This choice does not address the core causal forecasting principle tested by the question."
     },
-    "examTrap": "confusing correlation with a reliable cause-and-effect relationship.",
-    "studyTip": "identify variables that have a meaningful relationship with demand."
+    "examTrap": "Confusing correlation with a reliable cause-and-effect relationship.",
+    "studyTip": "Identify variables that have a meaningful relationship with demand."
   },
   {
     "id": "41",
@@ -1477,8 +1477,8 @@ export const generatedQuestions: Question[] = [
       "41-b": "This choice does not address the core forecast bias principle tested by the question.",
       "41-c": "This choice does not address the core forecast bias principle tested by the question."
     },
-    "examTrap": "only looking at absolute error and missing directional bias.",
-    "studyTip": "measure cumulative error and adjust the process, assumptions, or incentives."
+    "examTrap": "Only looking at absolute error and missing directional bias.",
+    "studyTip": "Measure cumulative error and adjust the process, assumptions, or incentives."
   },
   {
     "id": "42",
@@ -1499,7 +1499,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "42-c",
-        "text": "measure cumulative error and adjust the process, assumptions, or incentives."
+        "text": "Measure cumulative error and adjust the process, assumptions, or incentives."
       },
       {
         "id": "42-d",
@@ -1513,8 +1513,8 @@ export const generatedQuestions: Question[] = [
       "42-b": "This choice does not address the core forecast bias principle tested by the question.",
       "42-d": "This choice does not address the core forecast bias principle tested by the question."
     },
-    "examTrap": "only looking at absolute error and missing directional bias.",
-    "studyTip": "measure cumulative error and adjust the process, assumptions, or incentives."
+    "examTrap": "Only looking at absolute error and missing directional bias.",
+    "studyTip": "Measure cumulative error and adjust the process, assumptions, or incentives."
   },
   {
     "id": "43",
@@ -1531,7 +1531,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "43-b",
-        "text": "only looking at absolute error and missing directional bias."
+        "text": "Only looking at absolute error and missing directional bias."
       },
       {
         "id": "43-c",
@@ -1549,8 +1549,8 @@ export const generatedQuestions: Question[] = [
       "43-c": "This choice does not address the core forecast bias principle tested by the question.",
       "43-d": "This choice does not address the core forecast bias principle tested by the question."
     },
-    "examTrap": "only looking at absolute error and missing directional bias.",
-    "studyTip": "measure cumulative error and adjust the process, assumptions, or incentives."
+    "examTrap": "Only looking at absolute error and missing directional bias.",
+    "studyTip": "Measure cumulative error and adjust the process, assumptions, or incentives."
   },
   {
     "id": "44",
@@ -1585,8 +1585,8 @@ export const generatedQuestions: Question[] = [
       "44-c": "This choice does not address the core forecast bias principle tested by the question.",
       "44-d": "This choice does not address the core forecast bias principle tested by the question."
     },
-    "examTrap": "only looking at absolute error and missing directional bias.",
-    "studyTip": "measure cumulative error and adjust the process, assumptions, or incentives."
+    "examTrap": "Only looking at absolute error and missing directional bias.",
+    "studyTip": "Measure cumulative error and adjust the process, assumptions, or incentives."
   },
   {
     "id": "45",
@@ -1611,7 +1611,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "45-d",
-        "text": "measure cumulative error and adjust the process, assumptions, or incentives and verify the impact through agreed metrics."
+        "text": "Measure cumulative error and adjust the process, assumptions, or incentives and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "45-d",
@@ -1621,8 +1621,8 @@ export const generatedQuestions: Question[] = [
       "45-b": "This choice does not address the core forecast bias principle tested by the question.",
       "45-c": "This choice does not address the core forecast bias principle tested by the question."
     },
-    "examTrap": "only looking at absolute error and missing directional bias.",
-    "studyTip": "measure cumulative error and adjust the process, assumptions, or incentives."
+    "examTrap": "Only looking at absolute error and missing directional bias.",
+    "studyTip": "Measure cumulative error and adjust the process, assumptions, or incentives."
   },
   {
     "id": "46",
@@ -1657,8 +1657,8 @@ export const generatedQuestions: Question[] = [
       "46-b": "This choice does not address the core forecast accuracy principle tested by the question.",
       "46-d": "This choice does not address the core forecast accuracy principle tested by the question."
     },
-    "examTrap": "using one accuracy metric without understanding what it hides.",
-    "studyTip": "measure error with MAD, MAPE, or similar metrics and improve the inputs."
+    "examTrap": "Using one accuracy metric without understanding what it hides.",
+    "studyTip": "Measure error with MAD, MAPE, or similar metrics and improve the inputs."
   },
   {
     "id": "47",
@@ -1675,7 +1675,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "47-b",
-        "text": "measure error with MAD, MAPE, or similar metrics and improve the inputs."
+        "text": "Measure error with MAD, MAPE, or similar metrics and improve the inputs."
       },
       {
         "id": "47-c",
@@ -1693,8 +1693,8 @@ export const generatedQuestions: Question[] = [
       "47-c": "This choice does not address the core forecast accuracy principle tested by the question.",
       "47-d": "This choice does not address the core forecast accuracy principle tested by the question."
     },
-    "examTrap": "using one accuracy metric without understanding what it hides.",
-    "studyTip": "measure error with MAD, MAPE, or similar metrics and improve the inputs."
+    "examTrap": "Using one accuracy metric without understanding what it hides.",
+    "studyTip": "Measure error with MAD, MAPE, or similar metrics and improve the inputs."
   },
   {
     "id": "48",
@@ -1707,7 +1707,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "48-a",
-        "text": "using one accuracy metric without understanding what it hides."
+        "text": "Using one accuracy metric without understanding what it hides."
       },
       {
         "id": "48-b",
@@ -1729,8 +1729,8 @@ export const generatedQuestions: Question[] = [
       "48-c": "This choice does not address the core forecast accuracy principle tested by the question.",
       "48-d": "This choice does not address the core forecast accuracy principle tested by the question."
     },
-    "examTrap": "using one accuracy metric without understanding what it hides.",
-    "studyTip": "measure error with MAD, MAPE, or similar metrics and improve the inputs."
+    "examTrap": "Using one accuracy metric without understanding what it hides.",
+    "studyTip": "Measure error with MAD, MAPE, or similar metrics and improve the inputs."
   },
   {
     "id": "49",
@@ -1765,8 +1765,8 @@ export const generatedQuestions: Question[] = [
       "49-b": "This choice does not address the core forecast accuracy principle tested by the question.",
       "49-c": "This choice does not address the core forecast accuracy principle tested by the question."
     },
-    "examTrap": "using one accuracy metric without understanding what it hides.",
-    "studyTip": "measure error with MAD, MAPE, or similar metrics and improve the inputs."
+    "examTrap": "Using one accuracy metric without understanding what it hides.",
+    "studyTip": "Measure error with MAD, MAPE, or similar metrics and improve the inputs."
   },
   {
     "id": "50",
@@ -1787,7 +1787,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "50-c",
-        "text": "measure error with MAD, MAPE, or similar metrics and improve the inputs and verify the impact through agreed metrics."
+        "text": "Measure error with MAD, MAPE, or similar metrics and improve the inputs and verify the impact through agreed metrics."
       },
       {
         "id": "50-d",
@@ -1801,8 +1801,8 @@ export const generatedQuestions: Question[] = [
       "50-b": "This choice does not address the core forecast accuracy principle tested by the question.",
       "50-d": "This choice does not address the core forecast accuracy principle tested by the question."
     },
-    "examTrap": "using one accuracy metric without understanding what it hides.",
-    "studyTip": "measure error with MAD, MAPE, or similar metrics and improve the inputs."
+    "examTrap": "Using one accuracy metric without understanding what it hides.",
+    "studyTip": "Measure error with MAD, MAPE, or similar metrics and improve the inputs."
   },
   {
     "id": "51",
@@ -1837,8 +1837,8 @@ export const generatedQuestions: Question[] = [
       "51-c": "This choice does not address the core tracking signal principle tested by the question.",
       "51-d": "This choice does not address the core tracking signal principle tested by the question."
     },
-    "examTrap": "treating random variation as proof the model is broken.",
-    "studyTip": "investigate the forecast when the signal exceeds control limits."
+    "examTrap": "Treating random variation as proof the model is broken.",
+    "studyTip": "Investigate the forecast when the signal exceeds control limits."
   },
   {
     "id": "52",
@@ -1851,7 +1851,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "52-a",
-        "text": "investigate the forecast when the signal exceeds control limits."
+        "text": "Investigate the forecast when the signal exceeds control limits."
       },
       {
         "id": "52-b",
@@ -1873,8 +1873,8 @@ export const generatedQuestions: Question[] = [
       "52-c": "This choice does not address the core tracking signal principle tested by the question.",
       "52-d": "This choice does not address the core tracking signal principle tested by the question."
     },
-    "examTrap": "treating random variation as proof the model is broken.",
-    "studyTip": "investigate the forecast when the signal exceeds control limits."
+    "examTrap": "Treating random variation as proof the model is broken.",
+    "studyTip": "Investigate the forecast when the signal exceeds control limits."
   },
   {
     "id": "53",
@@ -1899,7 +1899,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "53-d",
-        "text": "treating random variation as proof the model is broken."
+        "text": "Treating random variation as proof the model is broken."
       }
     ],
     "correctChoiceId": "53-d",
@@ -1909,8 +1909,8 @@ export const generatedQuestions: Question[] = [
       "53-b": "This choice does not address the core tracking signal principle tested by the question.",
       "53-c": "This choice does not address the core tracking signal principle tested by the question."
     },
-    "examTrap": "treating random variation as proof the model is broken.",
-    "studyTip": "investigate the forecast when the signal exceeds control limits."
+    "examTrap": "Treating random variation as proof the model is broken.",
+    "studyTip": "Investigate the forecast when the signal exceeds control limits."
   },
   {
     "id": "54",
@@ -1945,8 +1945,8 @@ export const generatedQuestions: Question[] = [
       "54-b": "This choice does not address the core tracking signal principle tested by the question.",
       "54-d": "This choice does not address the core tracking signal principle tested by the question."
     },
-    "examTrap": "treating random variation as proof the model is broken.",
-    "studyTip": "investigate the forecast when the signal exceeds control limits."
+    "examTrap": "Treating random variation as proof the model is broken.",
+    "studyTip": "Investigate the forecast when the signal exceeds control limits."
   },
   {
     "id": "55",
@@ -1963,7 +1963,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "55-b",
-        "text": "investigate the forecast when the signal exceeds control limits and verify the impact through agreed metrics."
+        "text": "Investigate the forecast when the signal exceeds control limits and verify the impact through agreed metrics."
       },
       {
         "id": "55-c",
@@ -1981,8 +1981,8 @@ export const generatedQuestions: Question[] = [
       "55-c": "This choice does not address the core tracking signal principle tested by the question.",
       "55-d": "This choice does not address the core tracking signal principle tested by the question."
     },
-    "examTrap": "treating random variation as proof the model is broken.",
-    "studyTip": "investigate the forecast when the signal exceeds control limits."
+    "examTrap": "Treating random variation as proof the model is broken.",
+    "studyTip": "Investigate the forecast when the signal exceeds control limits."
   },
   {
     "id": "56",
@@ -2017,8 +2017,8 @@ export const generatedQuestions: Question[] = [
       "56-c": "This choice does not address the core product life cycle principle tested by the question.",
       "56-d": "This choice does not address the core product life cycle principle tested by the question."
     },
-    "examTrap": "using the same planning assumptions from launch through decline.",
-    "studyTip": "adjust forecasting and inventory policies as the product moves through its life cycle."
+    "examTrap": "Using the same planning assumptions from launch through decline.",
+    "studyTip": "Adjust forecasting and inventory policies as the product moves through its life cycle."
   },
   {
     "id": "57",
@@ -2043,7 +2043,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "57-d",
-        "text": "adjust forecasting and inventory policies as the product moves through its life cycle."
+        "text": "Adjust forecasting and inventory policies as the product moves through its life cycle."
       }
     ],
     "correctChoiceId": "57-d",
@@ -2053,8 +2053,8 @@ export const generatedQuestions: Question[] = [
       "57-b": "This choice does not address the core product life cycle principle tested by the question.",
       "57-c": "This choice does not address the core product life cycle principle tested by the question."
     },
-    "examTrap": "using the same planning assumptions from launch through decline.",
-    "studyTip": "adjust forecasting and inventory policies as the product moves through its life cycle."
+    "examTrap": "Using the same planning assumptions from launch through decline.",
+    "studyTip": "Adjust forecasting and inventory policies as the product moves through its life cycle."
   },
   {
     "id": "58",
@@ -2075,7 +2075,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "58-c",
-        "text": "using the same planning assumptions from launch through decline."
+        "text": "Using the same planning assumptions from launch through decline."
       },
       {
         "id": "58-d",
@@ -2089,8 +2089,8 @@ export const generatedQuestions: Question[] = [
       "58-b": "This choice does not address the core product life cycle principle tested by the question.",
       "58-d": "This choice does not address the core product life cycle principle tested by the question."
     },
-    "examTrap": "using the same planning assumptions from launch through decline.",
-    "studyTip": "adjust forecasting and inventory policies as the product moves through its life cycle."
+    "examTrap": "Using the same planning assumptions from launch through decline.",
+    "studyTip": "Adjust forecasting and inventory policies as the product moves through its life cycle."
   },
   {
     "id": "59",
@@ -2125,8 +2125,8 @@ export const generatedQuestions: Question[] = [
       "59-c": "This choice does not address the core product life cycle principle tested by the question.",
       "59-d": "This choice does not address the core product life cycle principle tested by the question."
     },
-    "examTrap": "using the same planning assumptions from launch through decline.",
-    "studyTip": "adjust forecasting and inventory policies as the product moves through its life cycle."
+    "examTrap": "Using the same planning assumptions from launch through decline.",
+    "studyTip": "Adjust forecasting and inventory policies as the product moves through its life cycle."
   },
   {
     "id": "60",
@@ -2139,7 +2139,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "60-a",
-        "text": "adjust forecasting and inventory policies as the product moves through its life cycle and verify the impact through agreed metrics."
+        "text": "Adjust forecasting and inventory policies as the product moves through its life cycle and verify the impact through agreed metrics."
       },
       {
         "id": "60-b",
@@ -2161,8 +2161,8 @@ export const generatedQuestions: Question[] = [
       "60-c": "This choice does not address the core product life cycle principle tested by the question.",
       "60-d": "This choice does not address the core product life cycle principle tested by the question."
     },
-    "examTrap": "using the same planning assumptions from launch through decline.",
-    "studyTip": "adjust forecasting and inventory policies as the product moves through its life cycle."
+    "examTrap": "Using the same planning assumptions from launch through decline.",
+    "studyTip": "Adjust forecasting and inventory policies as the product moves through its life cycle."
   },
   {
     "id": "61",
@@ -2197,8 +2197,8 @@ export const generatedQuestions: Question[] = [
       "61-b": "This choice does not address the core customer segmentation principle tested by the question.",
       "61-c": "This choice does not address the core customer segmentation principle tested by the question."
     },
-    "examTrap": "serving all customers the same regardless of value or cost-to-serve.",
-    "studyTip": "design differentiated service and planning policies by segment."
+    "examTrap": "Serving all customers the same regardless of value or cost-to-serve.",
+    "studyTip": "Design differentiated service and planning policies by segment."
   },
   {
     "id": "62",
@@ -2219,7 +2219,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "62-c",
-        "text": "design differentiated service and planning policies by segment."
+        "text": "Design differentiated service and planning policies by segment."
       },
       {
         "id": "62-d",
@@ -2233,8 +2233,8 @@ export const generatedQuestions: Question[] = [
       "62-b": "This choice does not address the core customer segmentation principle tested by the question.",
       "62-d": "This choice does not address the core customer segmentation principle tested by the question."
     },
-    "examTrap": "serving all customers the same regardless of value or cost-to-serve.",
-    "studyTip": "design differentiated service and planning policies by segment."
+    "examTrap": "Serving all customers the same regardless of value or cost-to-serve.",
+    "studyTip": "Design differentiated service and planning policies by segment."
   },
   {
     "id": "63",
@@ -2251,7 +2251,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "63-b",
-        "text": "serving all customers the same regardless of value or cost-to-serve."
+        "text": "Serving all customers the same regardless of value or cost-to-serve."
       },
       {
         "id": "63-c",
@@ -2269,8 +2269,8 @@ export const generatedQuestions: Question[] = [
       "63-c": "This choice does not address the core customer segmentation principle tested by the question.",
       "63-d": "This choice does not address the core customer segmentation principle tested by the question."
     },
-    "examTrap": "serving all customers the same regardless of value or cost-to-serve.",
-    "studyTip": "design differentiated service and planning policies by segment."
+    "examTrap": "Serving all customers the same regardless of value or cost-to-serve.",
+    "studyTip": "Design differentiated service and planning policies by segment."
   },
   {
     "id": "64",
@@ -2305,8 +2305,8 @@ export const generatedQuestions: Question[] = [
       "64-c": "This choice does not address the core customer segmentation principle tested by the question.",
       "64-d": "This choice does not address the core customer segmentation principle tested by the question."
     },
-    "examTrap": "serving all customers the same regardless of value or cost-to-serve.",
-    "studyTip": "design differentiated service and planning policies by segment."
+    "examTrap": "Serving all customers the same regardless of value or cost-to-serve.",
+    "studyTip": "Design differentiated service and planning policies by segment."
   },
   {
     "id": "65",
@@ -2331,7 +2331,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "65-d",
-        "text": "design differentiated service and planning policies by segment and verify the impact through agreed metrics."
+        "text": "Design differentiated service and planning policies by segment and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "65-d",
@@ -2341,8 +2341,8 @@ export const generatedQuestions: Question[] = [
       "65-b": "This choice does not address the core customer segmentation principle tested by the question.",
       "65-c": "This choice does not address the core customer segmentation principle tested by the question."
     },
-    "examTrap": "serving all customers the same regardless of value or cost-to-serve.",
-    "studyTip": "design differentiated service and planning policies by segment."
+    "examTrap": "Serving all customers the same regardless of value or cost-to-serve.",
+    "studyTip": "Design differentiated service and planning policies by segment."
   },
   {
     "id": "66",
@@ -2377,8 +2377,8 @@ export const generatedQuestions: Question[] = [
       "66-b": "This choice does not address the core demand variability principle tested by the question.",
       "66-d": "This choice does not address the core demand variability principle tested by the question."
     },
-    "examTrap": "treating average demand as enough for planning.",
-    "studyTip": "use buffers, flexible capacity, or demand shaping when variability is high."
+    "examTrap": "Treating average demand as enough for planning.",
+    "studyTip": "Use buffers, flexible capacity, or demand shaping when variability is high."
   },
   {
     "id": "67",
@@ -2395,7 +2395,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "67-b",
-        "text": "use buffers, flexible capacity, or demand shaping when variability is high."
+        "text": "Use buffers, flexible capacity, or demand shaping when variability is high."
       },
       {
         "id": "67-c",
@@ -2413,8 +2413,8 @@ export const generatedQuestions: Question[] = [
       "67-c": "This choice does not address the core demand variability principle tested by the question.",
       "67-d": "This choice does not address the core demand variability principle tested by the question."
     },
-    "examTrap": "treating average demand as enough for planning.",
-    "studyTip": "use buffers, flexible capacity, or demand shaping when variability is high."
+    "examTrap": "Treating average demand as enough for planning.",
+    "studyTip": "Use buffers, flexible capacity, or demand shaping when variability is high."
   },
   {
     "id": "68",
@@ -2427,7 +2427,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "68-a",
-        "text": "treating average demand as enough for planning."
+        "text": "Treating average demand as enough for planning."
       },
       {
         "id": "68-b",
@@ -2449,8 +2449,8 @@ export const generatedQuestions: Question[] = [
       "68-c": "This choice does not address the core demand variability principle tested by the question.",
       "68-d": "This choice does not address the core demand variability principle tested by the question."
     },
-    "examTrap": "treating average demand as enough for planning.",
-    "studyTip": "use buffers, flexible capacity, or demand shaping when variability is high."
+    "examTrap": "Treating average demand as enough for planning.",
+    "studyTip": "Use buffers, flexible capacity, or demand shaping when variability is high."
   },
   {
     "id": "69",
@@ -2485,8 +2485,8 @@ export const generatedQuestions: Question[] = [
       "69-b": "This choice does not address the core demand variability principle tested by the question.",
       "69-c": "This choice does not address the core demand variability principle tested by the question."
     },
-    "examTrap": "treating average demand as enough for planning.",
-    "studyTip": "use buffers, flexible capacity, or demand shaping when variability is high."
+    "examTrap": "Treating average demand as enough for planning.",
+    "studyTip": "Use buffers, flexible capacity, or demand shaping when variability is high."
   },
   {
     "id": "70",
@@ -2507,7 +2507,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "70-c",
-        "text": "use buffers, flexible capacity, or demand shaping when variability is high and verify the impact through agreed metrics."
+        "text": "Use buffers, flexible capacity, or demand shaping when variability is high and verify the impact through agreed metrics."
       },
       {
         "id": "70-d",
@@ -2521,8 +2521,8 @@ export const generatedQuestions: Question[] = [
       "70-b": "This choice does not address the core demand variability principle tested by the question.",
       "70-d": "This choice does not address the core demand variability principle tested by the question."
     },
-    "examTrap": "treating average demand as enough for planning.",
-    "studyTip": "use buffers, flexible capacity, or demand shaping when variability is high."
+    "examTrap": "Treating average demand as enough for planning.",
+    "studyTip": "Use buffers, flexible capacity, or demand shaping when variability is high."
   },
   {
     "id": "71",
@@ -2557,8 +2557,8 @@ export const generatedQuestions: Question[] = [
       "71-c": "This choice does not address the core collaborative planning principle tested by the question.",
       "71-d": "This choice does not address the core collaborative planning principle tested by the question."
     },
-    "examTrap": "letting each function maintain its own version of the truth.",
-    "studyTip": "use common assumptions and a shared plan across sales, operations, supply, and finance."
+    "examTrap": "Letting each function maintain its own version of the truth.",
+    "studyTip": "Use common assumptions and a shared plan across sales, operations, supply, and finance."
   },
   {
     "id": "72",
@@ -2571,7 +2571,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "72-a",
-        "text": "use common assumptions and a shared plan across sales, operations, supply, and finance."
+        "text": "Use common assumptions and a shared plan across sales, operations, supply, and finance."
       },
       {
         "id": "72-b",
@@ -2593,8 +2593,8 @@ export const generatedQuestions: Question[] = [
       "72-c": "This choice does not address the core collaborative planning principle tested by the question.",
       "72-d": "This choice does not address the core collaborative planning principle tested by the question."
     },
-    "examTrap": "letting each function maintain its own version of the truth.",
-    "studyTip": "use common assumptions and a shared plan across sales, operations, supply, and finance."
+    "examTrap": "Letting each function maintain its own version of the truth.",
+    "studyTip": "Use common assumptions and a shared plan across sales, operations, supply, and finance."
   },
   {
     "id": "73",
@@ -2619,7 +2619,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "73-d",
-        "text": "letting each function maintain its own version of the truth."
+        "text": "Letting each function maintain its own version of the truth."
       }
     ],
     "correctChoiceId": "73-d",
@@ -2629,8 +2629,8 @@ export const generatedQuestions: Question[] = [
       "73-b": "This choice does not address the core collaborative planning principle tested by the question.",
       "73-c": "This choice does not address the core collaborative planning principle tested by the question."
     },
-    "examTrap": "letting each function maintain its own version of the truth.",
-    "studyTip": "use common assumptions and a shared plan across sales, operations, supply, and finance."
+    "examTrap": "Letting each function maintain its own version of the truth.",
+    "studyTip": "Use common assumptions and a shared plan across sales, operations, supply, and finance."
   },
   {
     "id": "74",
@@ -2665,8 +2665,8 @@ export const generatedQuestions: Question[] = [
       "74-b": "This choice does not address the core collaborative planning principle tested by the question.",
       "74-d": "This choice does not address the core collaborative planning principle tested by the question."
     },
-    "examTrap": "letting each function maintain its own version of the truth.",
-    "studyTip": "use common assumptions and a shared plan across sales, operations, supply, and finance."
+    "examTrap": "Letting each function maintain its own version of the truth.",
+    "studyTip": "Use common assumptions and a shared plan across sales, operations, supply, and finance."
   },
   {
     "id": "75",
@@ -2683,7 +2683,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "75-b",
-        "text": "use common assumptions and a shared plan across sales, operations, supply, and finance and verify the impact through agreed metrics."
+        "text": "Use common assumptions and a shared plan across sales, operations, supply, and finance and verify the impact through agreed metrics."
       },
       {
         "id": "75-c",
@@ -2701,8 +2701,8 @@ export const generatedQuestions: Question[] = [
       "75-c": "This choice does not address the core collaborative planning principle tested by the question.",
       "75-d": "This choice does not address the core collaborative planning principle tested by the question."
     },
-    "examTrap": "letting each function maintain its own version of the truth.",
-    "studyTip": "use common assumptions and a shared plan across sales, operations, supply, and finance."
+    "examTrap": "Letting each function maintain its own version of the truth.",
+    "studyTip": "Use common assumptions and a shared plan across sales, operations, supply, and finance."
   },
   {
     "id": "76",
@@ -2737,8 +2737,8 @@ export const generatedQuestions: Question[] = [
       "76-c": "This choice does not address the core market intelligence principle tested by the question.",
       "76-d": "This choice does not address the core market intelligence principle tested by the question."
     },
-    "examTrap": "relying only on last year sales history.",
-    "studyTip": "combine external signals with internal history to improve planning assumptions."
+    "examTrap": "Relying only on last year sales history.",
+    "studyTip": "Combine external signals with internal history to improve planning assumptions."
   },
   {
     "id": "77",
@@ -2763,7 +2763,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "77-d",
-        "text": "combine external signals with internal history to improve planning assumptions."
+        "text": "Combine external signals with internal history to improve planning assumptions."
       }
     ],
     "correctChoiceId": "77-d",
@@ -2773,8 +2773,8 @@ export const generatedQuestions: Question[] = [
       "77-b": "This choice does not address the core market intelligence principle tested by the question.",
       "77-c": "This choice does not address the core market intelligence principle tested by the question."
     },
-    "examTrap": "relying only on last year sales history.",
-    "studyTip": "combine external signals with internal history to improve planning assumptions."
+    "examTrap": "Relying only on last year sales history.",
+    "studyTip": "Combine external signals with internal history to improve planning assumptions."
   },
   {
     "id": "78",
@@ -2795,7 +2795,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "78-c",
-        "text": "relying only on last year sales history."
+        "text": "Relying only on last year sales history."
       },
       {
         "id": "78-d",
@@ -2809,8 +2809,8 @@ export const generatedQuestions: Question[] = [
       "78-b": "This choice does not address the core market intelligence principle tested by the question.",
       "78-d": "This choice does not address the core market intelligence principle tested by the question."
     },
-    "examTrap": "relying only on last year sales history.",
-    "studyTip": "combine external signals with internal history to improve planning assumptions."
+    "examTrap": "Relying only on last year sales history.",
+    "studyTip": "Combine external signals with internal history to improve planning assumptions."
   },
   {
     "id": "79",
@@ -2845,8 +2845,8 @@ export const generatedQuestions: Question[] = [
       "79-c": "This choice does not address the core market intelligence principle tested by the question.",
       "79-d": "This choice does not address the core market intelligence principle tested by the question."
     },
-    "examTrap": "relying only on last year sales history.",
-    "studyTip": "combine external signals with internal history to improve planning assumptions."
+    "examTrap": "Relying only on last year sales history.",
+    "studyTip": "Combine external signals with internal history to improve planning assumptions."
   },
   {
     "id": "80",
@@ -2859,7 +2859,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "80-a",
-        "text": "combine external signals with internal history to improve planning assumptions and verify the impact through agreed metrics."
+        "text": "Combine external signals with internal history to improve planning assumptions and verify the impact through agreed metrics."
       },
       {
         "id": "80-b",
@@ -2881,8 +2881,8 @@ export const generatedQuestions: Question[] = [
       "80-c": "This choice does not address the core market intelligence principle tested by the question.",
       "80-d": "This choice does not address the core market intelligence principle tested by the question."
     },
-    "examTrap": "relying only on last year sales history.",
-    "studyTip": "combine external signals with internal history to improve planning assumptions."
+    "examTrap": "Relying only on last year sales history.",
+    "studyTip": "Combine external signals with internal history to improve planning assumptions."
   },
   {
     "id": "81",
@@ -2917,8 +2917,8 @@ export const generatedQuestions: Question[] = [
       "81-b": "This choice does not address the core order promising principle tested by the question.",
       "81-c": "This choice does not address the core order promising principle tested by the question."
     },
-    "examTrap": "promising based on inventory records that are not accurate.",
-    "studyTip": "promise dates using ATP or CTP logic rather than hope."
+    "examTrap": "Promising based on inventory records that are not accurate.",
+    "studyTip": "Promise dates using ATP or CTP logic rather than hope."
   },
   {
     "id": "82",
@@ -2939,7 +2939,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "82-c",
-        "text": "promise dates using ATP or CTP logic rather than hope."
+        "text": "Promise dates using ATP or CTP logic rather than hope."
       },
       {
         "id": "82-d",
@@ -2953,8 +2953,8 @@ export const generatedQuestions: Question[] = [
       "82-b": "This choice does not address the core order promising principle tested by the question.",
       "82-d": "This choice does not address the core order promising principle tested by the question."
     },
-    "examTrap": "promising based on inventory records that are not accurate.",
-    "studyTip": "promise dates using ATP or CTP logic rather than hope."
+    "examTrap": "Promising based on inventory records that are not accurate.",
+    "studyTip": "Promise dates using ATP or CTP logic rather than hope."
   },
   {
     "id": "83",
@@ -2971,7 +2971,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "83-b",
-        "text": "promising based on inventory records that are not accurate."
+        "text": "Promising based on inventory records that are not accurate."
       },
       {
         "id": "83-c",
@@ -2989,8 +2989,8 @@ export const generatedQuestions: Question[] = [
       "83-c": "This choice does not address the core order promising principle tested by the question.",
       "83-d": "This choice does not address the core order promising principle tested by the question."
     },
-    "examTrap": "promising based on inventory records that are not accurate.",
-    "studyTip": "promise dates using ATP or CTP logic rather than hope."
+    "examTrap": "Promising based on inventory records that are not accurate.",
+    "studyTip": "Promise dates using ATP or CTP logic rather than hope."
   },
   {
     "id": "84",
@@ -3025,8 +3025,8 @@ export const generatedQuestions: Question[] = [
       "84-c": "This choice does not address the core order promising principle tested by the question.",
       "84-d": "This choice does not address the core order promising principle tested by the question."
     },
-    "examTrap": "promising based on inventory records that are not accurate.",
-    "studyTip": "promise dates using ATP or CTP logic rather than hope."
+    "examTrap": "Promising based on inventory records that are not accurate.",
+    "studyTip": "Promise dates using ATP or CTP logic rather than hope."
   },
   {
     "id": "85",
@@ -3051,7 +3051,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "85-d",
-        "text": "promise dates using ATP or CTP logic rather than hope and verify the impact through agreed metrics."
+        "text": "Promise dates using ATP or CTP logic rather than hope and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "85-d",
@@ -3061,8 +3061,8 @@ export const generatedQuestions: Question[] = [
       "85-b": "This choice does not address the core order promising principle tested by the question.",
       "85-c": "This choice does not address the core order promising principle tested by the question."
     },
-    "examTrap": "promising based on inventory records that are not accurate.",
-    "studyTip": "promise dates using ATP or CTP logic rather than hope."
+    "examTrap": "Promising based on inventory records that are not accurate.",
+    "studyTip": "Promise dates using ATP or CTP logic rather than hope."
   },
   {
     "id": "86",
@@ -3097,8 +3097,8 @@ export const generatedQuestions: Question[] = [
       "86-b": "This choice does not address the core demand planning governance principle tested by the question.",
       "86-d": "This choice does not address the core demand planning governance principle tested by the question."
     },
-    "examTrap": "letting the forecast become an unmanaged spreadsheet war.",
-    "studyTip": "set ownership, review exceptions, and control changes to demand assumptions."
+    "examTrap": "Letting the forecast become an unmanaged spreadsheet war.",
+    "studyTip": "Set ownership, review exceptions, and control changes to demand assumptions."
   },
   {
     "id": "87",
@@ -3115,7 +3115,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "87-b",
-        "text": "set ownership, review exceptions, and control changes to demand assumptions."
+        "text": "Set ownership, review exceptions, and control changes to demand assumptions."
       },
       {
         "id": "87-c",
@@ -3133,8 +3133,8 @@ export const generatedQuestions: Question[] = [
       "87-c": "This choice does not address the core demand planning governance principle tested by the question.",
       "87-d": "This choice does not address the core demand planning governance principle tested by the question."
     },
-    "examTrap": "letting the forecast become an unmanaged spreadsheet war.",
-    "studyTip": "set ownership, review exceptions, and control changes to demand assumptions."
+    "examTrap": "Letting the forecast become an unmanaged spreadsheet war.",
+    "studyTip": "Set ownership, review exceptions, and control changes to demand assumptions."
   },
   {
     "id": "88",
@@ -3147,7 +3147,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "88-a",
-        "text": "letting the forecast become an unmanaged spreadsheet war."
+        "text": "Letting the forecast become an unmanaged spreadsheet war."
       },
       {
         "id": "88-b",
@@ -3169,8 +3169,8 @@ export const generatedQuestions: Question[] = [
       "88-c": "This choice does not address the core demand planning governance principle tested by the question.",
       "88-d": "This choice does not address the core demand planning governance principle tested by the question."
     },
-    "examTrap": "letting the forecast become an unmanaged spreadsheet war.",
-    "studyTip": "set ownership, review exceptions, and control changes to demand assumptions."
+    "examTrap": "Letting the forecast become an unmanaged spreadsheet war.",
+    "studyTip": "Set ownership, review exceptions, and control changes to demand assumptions."
   },
   {
     "id": "89",
@@ -3205,8 +3205,8 @@ export const generatedQuestions: Question[] = [
       "89-b": "This choice does not address the core demand planning governance principle tested by the question.",
       "89-c": "This choice does not address the core demand planning governance principle tested by the question."
     },
-    "examTrap": "letting the forecast become an unmanaged spreadsheet war.",
-    "studyTip": "set ownership, review exceptions, and control changes to demand assumptions."
+    "examTrap": "Letting the forecast become an unmanaged spreadsheet war.",
+    "studyTip": "Set ownership, review exceptions, and control changes to demand assumptions."
   },
   {
     "id": "90",
@@ -3227,7 +3227,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "90-c",
-        "text": "set ownership, review exceptions, and control changes to demand assumptions and verify the impact through agreed metrics."
+        "text": "Set ownership, review exceptions, and control changes to demand assumptions and verify the impact through agreed metrics."
       },
       {
         "id": "90-d",
@@ -3241,8 +3241,8 @@ export const generatedQuestions: Question[] = [
       "90-b": "This choice does not address the core demand planning governance principle tested by the question.",
       "90-d": "This choice does not address the core demand planning governance principle tested by the question."
     },
-    "examTrap": "letting the forecast become an unmanaged spreadsheet war.",
-    "studyTip": "set ownership, review exceptions, and control changes to demand assumptions."
+    "examTrap": "Letting the forecast become an unmanaged spreadsheet war.",
+    "studyTip": "Set ownership, review exceptions, and control changes to demand assumptions."
   },
   {
     "id": "91",
@@ -3277,8 +3277,8 @@ export const generatedQuestions: Question[] = [
       "91-c": "This choice does not address the core aggregate planning principle tested by the question.",
       "91-d": "This choice does not address the core aggregate planning principle tested by the question."
     },
-    "examTrap": "jumping straight to item-level detail before resolving the big constraint.",
-    "studyTip": "balance volume, capacity, inventory, and workforce at the family level."
+    "examTrap": "Jumping straight to item-level detail before resolving the big constraint.",
+    "studyTip": "Balance volume, capacity, inventory, and workforce at the family level."
   },
   {
     "id": "92",
@@ -3291,7 +3291,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "92-a",
-        "text": "balance volume, capacity, inventory, and workforce at the family level."
+        "text": "Balance volume, capacity, inventory, and workforce at the family level."
       },
       {
         "id": "92-b",
@@ -3313,8 +3313,8 @@ export const generatedQuestions: Question[] = [
       "92-c": "This choice does not address the core aggregate planning principle tested by the question.",
       "92-d": "This choice does not address the core aggregate planning principle tested by the question."
     },
-    "examTrap": "jumping straight to item-level detail before resolving the big constraint.",
-    "studyTip": "balance volume, capacity, inventory, and workforce at the family level."
+    "examTrap": "Jumping straight to item-level detail before resolving the big constraint.",
+    "studyTip": "Balance volume, capacity, inventory, and workforce at the family level."
   },
   {
     "id": "93",
@@ -3339,7 +3339,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "93-d",
-        "text": "jumping straight to item-level detail before resolving the big constraint."
+        "text": "Jumping straight to item-level detail before resolving the big constraint."
       }
     ],
     "correctChoiceId": "93-d",
@@ -3349,8 +3349,8 @@ export const generatedQuestions: Question[] = [
       "93-b": "This choice does not address the core aggregate planning principle tested by the question.",
       "93-c": "This choice does not address the core aggregate planning principle tested by the question."
     },
-    "examTrap": "jumping straight to item-level detail before resolving the big constraint.",
-    "studyTip": "balance volume, capacity, inventory, and workforce at the family level."
+    "examTrap": "Jumping straight to item-level detail before resolving the big constraint.",
+    "studyTip": "Balance volume, capacity, inventory, and workforce at the family level."
   },
   {
     "id": "94",
@@ -3385,8 +3385,8 @@ export const generatedQuestions: Question[] = [
       "94-b": "This choice does not address the core aggregate planning principle tested by the question.",
       "94-d": "This choice does not address the core aggregate planning principle tested by the question."
     },
-    "examTrap": "jumping straight to item-level detail before resolving the big constraint.",
-    "studyTip": "balance volume, capacity, inventory, and workforce at the family level."
+    "examTrap": "Jumping straight to item-level detail before resolving the big constraint.",
+    "studyTip": "Balance volume, capacity, inventory, and workforce at the family level."
   },
   {
     "id": "95",
@@ -3403,7 +3403,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "95-b",
-        "text": "balance volume, capacity, inventory, and workforce at the family level and verify the impact through agreed metrics."
+        "text": "Balance volume, capacity, inventory, and workforce at the family level and verify the impact through agreed metrics."
       },
       {
         "id": "95-c",
@@ -3421,8 +3421,8 @@ export const generatedQuestions: Question[] = [
       "95-c": "This choice does not address the core aggregate planning principle tested by the question.",
       "95-d": "This choice does not address the core aggregate planning principle tested by the question."
     },
-    "examTrap": "jumping straight to item-level detail before resolving the big constraint.",
-    "studyTip": "balance volume, capacity, inventory, and workforce at the family level."
+    "examTrap": "Jumping straight to item-level detail before resolving the big constraint.",
+    "studyTip": "Balance volume, capacity, inventory, and workforce at the family level."
   },
   {
     "id": "96",
@@ -3457,8 +3457,8 @@ export const generatedQuestions: Question[] = [
       "96-c": "This choice does not address the core forecast consumption principle tested by the question.",
       "96-d": "This choice does not address the core forecast consumption principle tested by the question."
     },
-    "examTrap": "adding orders to the full forecast and inflating demand.",
-    "studyTip": "net actual orders against the forecast according to policy."
+    "examTrap": "Adding orders to the full forecast and inflating demand.",
+    "studyTip": "Net actual orders against the forecast according to policy."
   },
   {
     "id": "97",
@@ -3483,7 +3483,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "97-d",
-        "text": "net actual orders against the forecast according to policy."
+        "text": "Net actual orders against the forecast according to policy."
       }
     ],
     "correctChoiceId": "97-d",
@@ -3493,8 +3493,8 @@ export const generatedQuestions: Question[] = [
       "97-b": "This choice does not address the core forecast consumption principle tested by the question.",
       "97-c": "This choice does not address the core forecast consumption principle tested by the question."
     },
-    "examTrap": "adding orders to the full forecast and inflating demand.",
-    "studyTip": "net actual orders against the forecast according to policy."
+    "examTrap": "Adding orders to the full forecast and inflating demand.",
+    "studyTip": "Net actual orders against the forecast according to policy."
   },
   {
     "id": "98",
@@ -3515,7 +3515,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "98-c",
-        "text": "adding orders to the full forecast and inflating demand."
+        "text": "Adding orders to the full forecast and inflating demand."
       },
       {
         "id": "98-d",
@@ -3529,8 +3529,8 @@ export const generatedQuestions: Question[] = [
       "98-b": "This choice does not address the core forecast consumption principle tested by the question.",
       "98-d": "This choice does not address the core forecast consumption principle tested by the question."
     },
-    "examTrap": "adding orders to the full forecast and inflating demand.",
-    "studyTip": "net actual orders against the forecast according to policy."
+    "examTrap": "Adding orders to the full forecast and inflating demand.",
+    "studyTip": "Net actual orders against the forecast according to policy."
   },
   {
     "id": "99",
@@ -3565,8 +3565,8 @@ export const generatedQuestions: Question[] = [
       "99-c": "This choice does not address the core forecast consumption principle tested by the question.",
       "99-d": "This choice does not address the core forecast consumption principle tested by the question."
     },
-    "examTrap": "adding orders to the full forecast and inflating demand.",
-    "studyTip": "net actual orders against the forecast according to policy."
+    "examTrap": "Adding orders to the full forecast and inflating demand.",
+    "studyTip": "Net actual orders against the forecast according to policy."
   },
   {
     "id": "100",
@@ -3579,7 +3579,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "100-a",
-        "text": "net actual orders against the forecast according to policy and verify the impact through agreed metrics."
+        "text": "Net actual orders against the forecast according to policy and verify the impact through agreed metrics."
       },
       {
         "id": "100-b",
@@ -3601,8 +3601,8 @@ export const generatedQuestions: Question[] = [
       "100-c": "This choice does not address the core forecast consumption principle tested by the question.",
       "100-d": "This choice does not address the core forecast consumption principle tested by the question."
     },
-    "examTrap": "adding orders to the full forecast and inflating demand.",
-    "studyTip": "net actual orders against the forecast according to policy."
+    "examTrap": "Adding orders to the full forecast and inflating demand.",
+    "studyTip": "Net actual orders against the forecast according to policy."
   },
   {
     "id": "101",
@@ -3637,8 +3637,8 @@ export const generatedQuestions: Question[] = [
       "101-b": "This choice does not address the core network design principle tested by the question.",
       "101-c": "This choice does not address the core network design principle tested by the question."
     },
-    "examTrap": "choosing the cheapest node without considering total network performance.",
-    "studyTip": "evaluate trade-offs between service, cost, risk, tax, and flexibility."
+    "examTrap": "Choosing the cheapest node without considering total network performance.",
+    "studyTip": "Evaluate trade-offs between service, cost, risk, tax, and flexibility."
   },
   {
     "id": "102",
@@ -3659,7 +3659,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "102-c",
-        "text": "evaluate trade-offs between service, cost, risk, tax, and flexibility."
+        "text": "Evaluate trade-offs between service, cost, risk, tax, and flexibility."
       },
       {
         "id": "102-d",
@@ -3673,8 +3673,8 @@ export const generatedQuestions: Question[] = [
       "102-b": "This choice does not address the core network design principle tested by the question.",
       "102-d": "This choice does not address the core network design principle tested by the question."
     },
-    "examTrap": "choosing the cheapest node without considering total network performance.",
-    "studyTip": "evaluate trade-offs between service, cost, risk, tax, and flexibility."
+    "examTrap": "Choosing the cheapest node without considering total network performance.",
+    "studyTip": "Evaluate trade-offs between service, cost, risk, tax, and flexibility."
   },
   {
     "id": "103",
@@ -3691,7 +3691,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "103-b",
-        "text": "choosing the cheapest node without considering total network performance."
+        "text": "Choosing the cheapest node without considering total network performance."
       },
       {
         "id": "103-c",
@@ -3709,8 +3709,8 @@ export const generatedQuestions: Question[] = [
       "103-c": "This choice does not address the core network design principle tested by the question.",
       "103-d": "This choice does not address the core network design principle tested by the question."
     },
-    "examTrap": "choosing the cheapest node without considering total network performance.",
-    "studyTip": "evaluate trade-offs between service, cost, risk, tax, and flexibility."
+    "examTrap": "Choosing the cheapest node without considering total network performance.",
+    "studyTip": "Evaluate trade-offs between service, cost, risk, tax, and flexibility."
   },
   {
     "id": "104",
@@ -3745,8 +3745,8 @@ export const generatedQuestions: Question[] = [
       "104-c": "This choice does not address the core network design principle tested by the question.",
       "104-d": "This choice does not address the core network design principle tested by the question."
     },
-    "examTrap": "choosing the cheapest node without considering total network performance.",
-    "studyTip": "evaluate trade-offs between service, cost, risk, tax, and flexibility."
+    "examTrap": "Choosing the cheapest node without considering total network performance.",
+    "studyTip": "Evaluate trade-offs between service, cost, risk, tax, and flexibility."
   },
   {
     "id": "105",
@@ -3771,7 +3771,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "105-d",
-        "text": "evaluate trade-offs between service, cost, risk, tax, and flexibility and verify the impact through agreed metrics."
+        "text": "Evaluate trade-offs between service, cost, risk, tax, and flexibility and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "105-d",
@@ -3781,8 +3781,8 @@ export const generatedQuestions: Question[] = [
       "105-b": "This choice does not address the core network design principle tested by the question.",
       "105-c": "This choice does not address the core network design principle tested by the question."
     },
-    "examTrap": "choosing the cheapest node without considering total network performance.",
-    "studyTip": "evaluate trade-offs between service, cost, risk, tax, and flexibility."
+    "examTrap": "Choosing the cheapest node without considering total network performance.",
+    "studyTip": "Evaluate trade-offs between service, cost, risk, tax, and flexibility."
   },
   {
     "id": "106",
@@ -3817,8 +3817,8 @@ export const generatedQuestions: Question[] = [
       "106-b": "This choice does not address the core globalization principle tested by the question.",
       "106-d": "This choice does not address the core globalization principle tested by the question."
     },
-    "examTrap": "assuming a domestic operating model works globally without adjustment.",
-    "studyTip": "build capabilities for trade, risk, coordination, and compliance."
+    "examTrap": "Assuming a domestic operating model works globally without adjustment.",
+    "studyTip": "Build capabilities for trade, risk, coordination, and compliance."
   },
   {
     "id": "107",
@@ -3835,7 +3835,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "107-b",
-        "text": "build capabilities for trade, risk, coordination, and compliance."
+        "text": "Build capabilities for trade, risk, coordination, and compliance."
       },
       {
         "id": "107-c",
@@ -3853,8 +3853,8 @@ export const generatedQuestions: Question[] = [
       "107-c": "This choice does not address the core globalization principle tested by the question.",
       "107-d": "This choice does not address the core globalization principle tested by the question."
     },
-    "examTrap": "assuming a domestic operating model works globally without adjustment.",
-    "studyTip": "build capabilities for trade, risk, coordination, and compliance."
+    "examTrap": "Assuming a domestic operating model works globally without adjustment.",
+    "studyTip": "Build capabilities for trade, risk, coordination, and compliance."
   },
   {
     "id": "108",
@@ -3867,7 +3867,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "108-a",
-        "text": "assuming a domestic operating model works globally without adjustment."
+        "text": "Assuming a domestic operating model works globally without adjustment."
       },
       {
         "id": "108-b",
@@ -3889,8 +3889,8 @@ export const generatedQuestions: Question[] = [
       "108-c": "This choice does not address the core globalization principle tested by the question.",
       "108-d": "This choice does not address the core globalization principle tested by the question."
     },
-    "examTrap": "assuming a domestic operating model works globally without adjustment.",
-    "studyTip": "build capabilities for trade, risk, coordination, and compliance."
+    "examTrap": "Assuming a domestic operating model works globally without adjustment.",
+    "studyTip": "Build capabilities for trade, risk, coordination, and compliance."
   },
   {
     "id": "109",
@@ -3925,8 +3925,8 @@ export const generatedQuestions: Question[] = [
       "109-b": "This choice does not address the core globalization principle tested by the question.",
       "109-c": "This choice does not address the core globalization principle tested by the question."
     },
-    "examTrap": "assuming a domestic operating model works globally without adjustment.",
-    "studyTip": "build capabilities for trade, risk, coordination, and compliance."
+    "examTrap": "Assuming a domestic operating model works globally without adjustment.",
+    "studyTip": "Build capabilities for trade, risk, coordination, and compliance."
   },
   {
     "id": "110",
@@ -3947,7 +3947,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "110-c",
-        "text": "build capabilities for trade, risk, coordination, and compliance and verify the impact through agreed metrics."
+        "text": "Build capabilities for trade, risk, coordination, and compliance and verify the impact through agreed metrics."
       },
       {
         "id": "110-d",
@@ -3961,8 +3961,8 @@ export const generatedQuestions: Question[] = [
       "110-b": "This choice does not address the core globalization principle tested by the question.",
       "110-d": "This choice does not address the core globalization principle tested by the question."
     },
-    "examTrap": "assuming a domestic operating model works globally without adjustment.",
-    "studyTip": "build capabilities for trade, risk, coordination, and compliance."
+    "examTrap": "Assuming a domestic operating model works globally without adjustment.",
+    "studyTip": "Build capabilities for trade, risk, coordination, and compliance."
   },
   {
     "id": "111",
@@ -3997,8 +3997,8 @@ export const generatedQuestions: Question[] = [
       "111-c": "This choice does not address the core supply chain strategy principle tested by the question.",
       "111-d": "This choice does not address the core supply chain strategy principle tested by the question."
     },
-    "examTrap": "pursuing lowest cost when the market competes on responsiveness.",
-    "studyTip": "align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
+    "examTrap": "Pursuing lowest cost when the market competes on responsiveness.",
+    "studyTip": "Align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
   },
   {
     "id": "112",
@@ -4011,7 +4011,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "112-a",
-        "text": "align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
+        "text": "Align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
       },
       {
         "id": "112-b",
@@ -4033,8 +4033,8 @@ export const generatedQuestions: Question[] = [
       "112-c": "This choice does not address the core supply chain strategy principle tested by the question.",
       "112-d": "This choice does not address the core supply chain strategy principle tested by the question."
     },
-    "examTrap": "pursuing lowest cost when the market competes on responsiveness.",
-    "studyTip": "align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
+    "examTrap": "Pursuing lowest cost when the market competes on responsiveness.",
+    "studyTip": "Align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
   },
   {
     "id": "113",
@@ -4059,7 +4059,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "113-d",
-        "text": "pursuing lowest cost when the market competes on responsiveness."
+        "text": "Pursuing lowest cost when the market competes on responsiveness."
       }
     ],
     "correctChoiceId": "113-d",
@@ -4069,8 +4069,8 @@ export const generatedQuestions: Question[] = [
       "113-b": "This choice does not address the core supply chain strategy principle tested by the question.",
       "113-c": "This choice does not address the core supply chain strategy principle tested by the question."
     },
-    "examTrap": "pursuing lowest cost when the market competes on responsiveness.",
-    "studyTip": "align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
+    "examTrap": "Pursuing lowest cost when the market competes on responsiveness.",
+    "studyTip": "Align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
   },
   {
     "id": "114",
@@ -4105,8 +4105,8 @@ export const generatedQuestions: Question[] = [
       "114-b": "This choice does not address the core supply chain strategy principle tested by the question.",
       "114-d": "This choice does not address the core supply chain strategy principle tested by the question."
     },
-    "examTrap": "pursuing lowest cost when the market competes on responsiveness.",
-    "studyTip": "align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
+    "examTrap": "Pursuing lowest cost when the market competes on responsiveness.",
+    "studyTip": "Align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
   },
   {
     "id": "115",
@@ -4123,7 +4123,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "115-b",
-        "text": "align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities and verify the impact through agreed metrics."
+        "text": "Align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities and verify the impact through agreed metrics."
       },
       {
         "id": "115-c",
@@ -4141,8 +4141,8 @@ export const generatedQuestions: Question[] = [
       "115-c": "This choice does not address the core supply chain strategy principle tested by the question.",
       "115-d": "This choice does not address the core supply chain strategy principle tested by the question."
     },
-    "examTrap": "pursuing lowest cost when the market competes on responsiveness.",
-    "studyTip": "align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
+    "examTrap": "Pursuing lowest cost when the market competes on responsiveness.",
+    "studyTip": "Align make/buy, sourcing, inventory, capacity, and logistics with competitive priorities."
   },
   {
     "id": "116",
@@ -4177,8 +4177,8 @@ export const generatedQuestions: Question[] = [
       "116-c": "This choice does not address the core core competency principle tested by the question.",
       "116-d": "This choice does not address the core core competency principle tested by the question."
     },
-    "examTrap": "outsourcing a capability that creates strategic advantage.",
-    "studyTip": "focus internal resources on capabilities that create differentiation."
+    "examTrap": "Outsourcing a capability that creates strategic advantage.",
+    "studyTip": "Focus internal resources on capabilities that create differentiation."
   },
   {
     "id": "117",
@@ -4203,7 +4203,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "117-d",
-        "text": "focus internal resources on capabilities that create differentiation."
+        "text": "Focus internal resources on capabilities that create differentiation."
       }
     ],
     "correctChoiceId": "117-d",
@@ -4213,8 +4213,8 @@ export const generatedQuestions: Question[] = [
       "117-b": "This choice does not address the core core competency principle tested by the question.",
       "117-c": "This choice does not address the core core competency principle tested by the question."
     },
-    "examTrap": "outsourcing a capability that creates strategic advantage.",
-    "studyTip": "focus internal resources on capabilities that create differentiation."
+    "examTrap": "Outsourcing a capability that creates strategic advantage.",
+    "studyTip": "Focus internal resources on capabilities that create differentiation."
   },
   {
     "id": "118",
@@ -4235,7 +4235,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "118-c",
-        "text": "outsourcing a capability that creates strategic advantage."
+        "text": "Outsourcing a capability that creates strategic advantage."
       },
       {
         "id": "118-d",
@@ -4249,8 +4249,8 @@ export const generatedQuestions: Question[] = [
       "118-b": "This choice does not address the core core competency principle tested by the question.",
       "118-d": "This choice does not address the core core competency principle tested by the question."
     },
-    "examTrap": "outsourcing a capability that creates strategic advantage.",
-    "studyTip": "focus internal resources on capabilities that create differentiation."
+    "examTrap": "Outsourcing a capability that creates strategic advantage.",
+    "studyTip": "Focus internal resources on capabilities that create differentiation."
   },
   {
     "id": "119",
@@ -4285,8 +4285,8 @@ export const generatedQuestions: Question[] = [
       "119-c": "This choice does not address the core core competency principle tested by the question.",
       "119-d": "This choice does not address the core core competency principle tested by the question."
     },
-    "examTrap": "outsourcing a capability that creates strategic advantage.",
-    "studyTip": "focus internal resources on capabilities that create differentiation."
+    "examTrap": "Outsourcing a capability that creates strategic advantage.",
+    "studyTip": "Focus internal resources on capabilities that create differentiation."
   },
   {
     "id": "120",
@@ -4299,7 +4299,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "120-a",
-        "text": "focus internal resources on capabilities that create differentiation and verify the impact through agreed metrics."
+        "text": "Focus internal resources on capabilities that create differentiation and verify the impact through agreed metrics."
       },
       {
         "id": "120-b",
@@ -4321,8 +4321,8 @@ export const generatedQuestions: Question[] = [
       "120-c": "This choice does not address the core core competency principle tested by the question.",
       "120-d": "This choice does not address the core core competency principle tested by the question."
     },
-    "examTrap": "outsourcing a capability that creates strategic advantage.",
-    "studyTip": "focus internal resources on capabilities that create differentiation."
+    "examTrap": "Outsourcing a capability that creates strategic advantage.",
+    "studyTip": "Focus internal resources on capabilities that create differentiation."
   },
   {
     "id": "121",
@@ -4357,8 +4357,8 @@ export const generatedQuestions: Question[] = [
       "121-b": "This choice does not address the core outsourcing principle tested by the question.",
       "121-c": "This choice does not address the core outsourcing principle tested by the question."
     },
-    "examTrap": "outsourcing to hide a broken process instead of fixing governance.",
-    "studyTip": "outsource when the provider improves total performance without unacceptable risk."
+    "examTrap": "Outsourcing to hide a broken process instead of fixing governance.",
+    "studyTip": "Outsource when the provider improves total performance without unacceptable risk."
   },
   {
     "id": "122",
@@ -4379,7 +4379,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "122-c",
-        "text": "outsource when the provider improves total performance without unacceptable risk."
+        "text": "Outsource when the provider improves total performance without unacceptable risk."
       },
       {
         "id": "122-d",
@@ -4393,8 +4393,8 @@ export const generatedQuestions: Question[] = [
       "122-b": "This choice does not address the core outsourcing principle tested by the question.",
       "122-d": "This choice does not address the core outsourcing principle tested by the question."
     },
-    "examTrap": "outsourcing to hide a broken process instead of fixing governance.",
-    "studyTip": "outsource when the provider improves total performance without unacceptable risk."
+    "examTrap": "Outsourcing to hide a broken process instead of fixing governance.",
+    "studyTip": "Outsource when the provider improves total performance without unacceptable risk."
   },
   {
     "id": "123",
@@ -4411,7 +4411,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "123-b",
-        "text": "outsourcing to hide a broken process instead of fixing governance."
+        "text": "Outsourcing to hide a broken process instead of fixing governance."
       },
       {
         "id": "123-c",
@@ -4429,8 +4429,8 @@ export const generatedQuestions: Question[] = [
       "123-c": "This choice does not address the core outsourcing principle tested by the question.",
       "123-d": "This choice does not address the core outsourcing principle tested by the question."
     },
-    "examTrap": "outsourcing to hide a broken process instead of fixing governance.",
-    "studyTip": "outsource when the provider improves total performance without unacceptable risk."
+    "examTrap": "Outsourcing to hide a broken process instead of fixing governance.",
+    "studyTip": "Outsource when the provider improves total performance without unacceptable risk."
   },
   {
     "id": "124",
@@ -4465,8 +4465,8 @@ export const generatedQuestions: Question[] = [
       "124-c": "This choice does not address the core outsourcing principle tested by the question.",
       "124-d": "This choice does not address the core outsourcing principle tested by the question."
     },
-    "examTrap": "outsourcing to hide a broken process instead of fixing governance.",
-    "studyTip": "outsource when the provider improves total performance without unacceptable risk."
+    "examTrap": "Outsourcing to hide a broken process instead of fixing governance.",
+    "studyTip": "Outsource when the provider improves total performance without unacceptable risk."
   },
   {
     "id": "125",
@@ -4491,7 +4491,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "125-d",
-        "text": "outsource when the provider improves total performance without unacceptable risk and verify the impact through agreed metrics."
+        "text": "Outsource when the provider improves total performance without unacceptable risk and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "125-d",
@@ -4501,8 +4501,8 @@ export const generatedQuestions: Question[] = [
       "125-b": "This choice does not address the core outsourcing principle tested by the question.",
       "125-c": "This choice does not address the core outsourcing principle tested by the question."
     },
-    "examTrap": "outsourcing to hide a broken process instead of fixing governance.",
-    "studyTip": "outsource when the provider improves total performance without unacceptable risk."
+    "examTrap": "Outsourcing to hide a broken process instead of fixing governance.",
+    "studyTip": "Outsource when the provider improves total performance without unacceptable risk."
   },
   {
     "id": "126",
@@ -4537,8 +4537,8 @@ export const generatedQuestions: Question[] = [
       "126-b": "This choice does not address the core offshoring principle tested by the question.",
       "126-d": "This choice does not address the core offshoring principle tested by the question."
     },
-    "examTrap": "looking only at labor rate and ignoring lead time, inventory, and risk.",
-    "studyTip": "evaluate landed cost, risk, responsiveness, and control before moving work offshore."
+    "examTrap": "Looking only at labor rate and ignoring lead time, inventory, and risk.",
+    "studyTip": "Evaluate landed cost, risk, responsiveness, and control before moving work offshore."
   },
   {
     "id": "127",
@@ -4555,7 +4555,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "127-b",
-        "text": "evaluate landed cost, risk, responsiveness, and control before moving work offshore."
+        "text": "Evaluate landed cost, risk, responsiveness, and control before moving work offshore."
       },
       {
         "id": "127-c",
@@ -4573,8 +4573,8 @@ export const generatedQuestions: Question[] = [
       "127-c": "This choice does not address the core offshoring principle tested by the question.",
       "127-d": "This choice does not address the core offshoring principle tested by the question."
     },
-    "examTrap": "looking only at labor rate and ignoring lead time, inventory, and risk.",
-    "studyTip": "evaluate landed cost, risk, responsiveness, and control before moving work offshore."
+    "examTrap": "Looking only at labor rate and ignoring lead time, inventory, and risk.",
+    "studyTip": "Evaluate landed cost, risk, responsiveness, and control before moving work offshore."
   },
   {
     "id": "128",
@@ -4587,7 +4587,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "128-a",
-        "text": "looking only at labor rate and ignoring lead time, inventory, and risk."
+        "text": "Looking only at labor rate and ignoring lead time, inventory, and risk."
       },
       {
         "id": "128-b",
@@ -4609,8 +4609,8 @@ export const generatedQuestions: Question[] = [
       "128-c": "This choice does not address the core offshoring principle tested by the question.",
       "128-d": "This choice does not address the core offshoring principle tested by the question."
     },
-    "examTrap": "looking only at labor rate and ignoring lead time, inventory, and risk.",
-    "studyTip": "evaluate landed cost, risk, responsiveness, and control before moving work offshore."
+    "examTrap": "Looking only at labor rate and ignoring lead time, inventory, and risk.",
+    "studyTip": "Evaluate landed cost, risk, responsiveness, and control before moving work offshore."
   },
   {
     "id": "129",
@@ -4645,8 +4645,8 @@ export const generatedQuestions: Question[] = [
       "129-b": "This choice does not address the core offshoring principle tested by the question.",
       "129-c": "This choice does not address the core offshoring principle tested by the question."
     },
-    "examTrap": "looking only at labor rate and ignoring lead time, inventory, and risk.",
-    "studyTip": "evaluate landed cost, risk, responsiveness, and control before moving work offshore."
+    "examTrap": "Looking only at labor rate and ignoring lead time, inventory, and risk.",
+    "studyTip": "Evaluate landed cost, risk, responsiveness, and control before moving work offshore."
   },
   {
     "id": "130",
@@ -4667,7 +4667,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "130-c",
-        "text": "evaluate landed cost, risk, responsiveness, and control before moving work offshore and verify the impact through agreed metrics."
+        "text": "Evaluate landed cost, risk, responsiveness, and control before moving work offshore and verify the impact through agreed metrics."
       },
       {
         "id": "130-d",
@@ -4681,8 +4681,8 @@ export const generatedQuestions: Question[] = [
       "130-b": "This choice does not address the core offshoring principle tested by the question.",
       "130-d": "This choice does not address the core offshoring principle tested by the question."
     },
-    "examTrap": "looking only at labor rate and ignoring lead time, inventory, and risk.",
-    "studyTip": "evaluate landed cost, risk, responsiveness, and control before moving work offshore."
+    "examTrap": "Looking only at labor rate and ignoring lead time, inventory, and risk.",
+    "studyTip": "Evaluate landed cost, risk, responsiveness, and control before moving work offshore."
   },
   {
     "id": "131",
@@ -4717,8 +4717,8 @@ export const generatedQuestions: Question[] = [
       "131-c": "This choice does not address the core nearshoring principle tested by the question.",
       "131-d": "This choice does not address the core nearshoring principle tested by the question."
     },
-    "examTrap": "assuming nearshoring always lowers total cost.",
-    "studyTip": "use nearshoring when lead time, resilience, or customer service matters."
+    "examTrap": "Assuming nearshoring always lowers total cost.",
+    "studyTip": "Use nearshoring when lead time, resilience, or customer service matters."
   },
   {
     "id": "132",
@@ -4731,7 +4731,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "132-a",
-        "text": "use nearshoring when lead time, resilience, or customer service matters."
+        "text": "Use nearshoring when lead time, resilience, or customer service matters."
       },
       {
         "id": "132-b",
@@ -4753,8 +4753,8 @@ export const generatedQuestions: Question[] = [
       "132-c": "This choice does not address the core nearshoring principle tested by the question.",
       "132-d": "This choice does not address the core nearshoring principle tested by the question."
     },
-    "examTrap": "assuming nearshoring always lowers total cost.",
-    "studyTip": "use nearshoring when lead time, resilience, or customer service matters."
+    "examTrap": "Assuming nearshoring always lowers total cost.",
+    "studyTip": "Use nearshoring when lead time, resilience, or customer service matters."
   },
   {
     "id": "133",
@@ -4779,7 +4779,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "133-d",
-        "text": "assuming nearshoring always lowers total cost."
+        "text": "Assuming nearshoring always lowers total cost."
       }
     ],
     "correctChoiceId": "133-d",
@@ -4789,8 +4789,8 @@ export const generatedQuestions: Question[] = [
       "133-b": "This choice does not address the core nearshoring principle tested by the question.",
       "133-c": "This choice does not address the core nearshoring principle tested by the question."
     },
-    "examTrap": "assuming nearshoring always lowers total cost.",
-    "studyTip": "use nearshoring when lead time, resilience, or customer service matters."
+    "examTrap": "Assuming nearshoring always lowers total cost.",
+    "studyTip": "Use nearshoring when lead time, resilience, or customer service matters."
   },
   {
     "id": "134",
@@ -4825,8 +4825,8 @@ export const generatedQuestions: Question[] = [
       "134-b": "This choice does not address the core nearshoring principle tested by the question.",
       "134-d": "This choice does not address the core nearshoring principle tested by the question."
     },
-    "examTrap": "assuming nearshoring always lowers total cost.",
-    "studyTip": "use nearshoring when lead time, resilience, or customer service matters."
+    "examTrap": "Assuming nearshoring always lowers total cost.",
+    "studyTip": "Use nearshoring when lead time, resilience, or customer service matters."
   },
   {
     "id": "135",
@@ -4843,7 +4843,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "135-b",
-        "text": "use nearshoring when lead time, resilience, or customer service matters and verify the impact through agreed metrics."
+        "text": "Use nearshoring when lead time, resilience, or customer service matters and verify the impact through agreed metrics."
       },
       {
         "id": "135-c",
@@ -4861,8 +4861,8 @@ export const generatedQuestions: Question[] = [
       "135-c": "This choice does not address the core nearshoring principle tested by the question.",
       "135-d": "This choice does not address the core nearshoring principle tested by the question."
     },
-    "examTrap": "assuming nearshoring always lowers total cost.",
-    "studyTip": "use nearshoring when lead time, resilience, or customer service matters."
+    "examTrap": "Assuming nearshoring always lowers total cost.",
+    "studyTip": "Use nearshoring when lead time, resilience, or customer service matters."
   },
   {
     "id": "136",
@@ -4897,8 +4897,8 @@ export const generatedQuestions: Question[] = [
       "136-c": "This choice does not address the core total cost of ownership principle tested by the question.",
       "136-d": "This choice does not address the core total cost of ownership principle tested by the question."
     },
-    "examTrap": "selecting the lowest purchase price without lifecycle cost analysis.",
-    "studyTip": "compare sourcing or network choices using total cost rather than unit price."
+    "examTrap": "Selecting the lowest purchase price without lifecycle cost analysis.",
+    "studyTip": "Compare sourcing or network choices using total cost rather than unit price."
   },
   {
     "id": "137",
@@ -4923,7 +4923,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "137-d",
-        "text": "compare sourcing or network choices using total cost rather than unit price."
+        "text": "Compare sourcing or network choices using total cost rather than unit price."
       }
     ],
     "correctChoiceId": "137-d",
@@ -4933,8 +4933,8 @@ export const generatedQuestions: Question[] = [
       "137-b": "This choice does not address the core total cost of ownership principle tested by the question.",
       "137-c": "This choice does not address the core total cost of ownership principle tested by the question."
     },
-    "examTrap": "selecting the lowest purchase price without lifecycle cost analysis.",
-    "studyTip": "compare sourcing or network choices using total cost rather than unit price."
+    "examTrap": "Selecting the lowest purchase price without lifecycle cost analysis.",
+    "studyTip": "Compare sourcing or network choices using total cost rather than unit price."
   },
   {
     "id": "138",
@@ -4955,7 +4955,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "138-c",
-        "text": "selecting the lowest purchase price without lifecycle cost analysis."
+        "text": "Selecting the lowest purchase price without lifecycle cost analysis."
       },
       {
         "id": "138-d",
@@ -4969,8 +4969,8 @@ export const generatedQuestions: Question[] = [
       "138-b": "This choice does not address the core total cost of ownership principle tested by the question.",
       "138-d": "This choice does not address the core total cost of ownership principle tested by the question."
     },
-    "examTrap": "selecting the lowest purchase price without lifecycle cost analysis.",
-    "studyTip": "compare sourcing or network choices using total cost rather than unit price."
+    "examTrap": "Selecting the lowest purchase price without lifecycle cost analysis.",
+    "studyTip": "Compare sourcing or network choices using total cost rather than unit price."
   },
   {
     "id": "139",
@@ -5005,8 +5005,8 @@ export const generatedQuestions: Question[] = [
       "139-c": "This choice does not address the core total cost of ownership principle tested by the question.",
       "139-d": "This choice does not address the core total cost of ownership principle tested by the question."
     },
-    "examTrap": "selecting the lowest purchase price without lifecycle cost analysis.",
-    "studyTip": "compare sourcing or network choices using total cost rather than unit price."
+    "examTrap": "Selecting the lowest purchase price without lifecycle cost analysis.",
+    "studyTip": "Compare sourcing or network choices using total cost rather than unit price."
   },
   {
     "id": "140",
@@ -5019,7 +5019,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "140-a",
-        "text": "compare sourcing or network choices using total cost rather than unit price and verify the impact through agreed metrics."
+        "text": "Compare sourcing or network choices using total cost rather than unit price and verify the impact through agreed metrics."
       },
       {
         "id": "140-b",
@@ -5041,8 +5041,8 @@ export const generatedQuestions: Question[] = [
       "140-c": "This choice does not address the core total cost of ownership principle tested by the question.",
       "140-d": "This choice does not address the core total cost of ownership principle tested by the question."
     },
-    "examTrap": "selecting the lowest purchase price without lifecycle cost analysis.",
-    "studyTip": "compare sourcing or network choices using total cost rather than unit price."
+    "examTrap": "Selecting the lowest purchase price without lifecycle cost analysis.",
+    "studyTip": "Compare sourcing or network choices using total cost rather than unit price."
   },
   {
     "id": "141",
@@ -5077,8 +5077,8 @@ export const generatedQuestions: Question[] = [
       "141-b": "This choice does not address the core cash-to-cash cycle principle tested by the question.",
       "141-c": "This choice does not address the core cash-to-cash cycle principle tested by the question."
     },
-    "examTrap": "improving cash flow by damaging supplier relationships.",
-    "studyTip": "reduce inventory days and receivable days while managing payable days responsibly."
+    "examTrap": "Improving cash flow by damaging supplier relationships.",
+    "studyTip": "Reduce inventory days and receivable days while managing payable days responsibly."
   },
   {
     "id": "142",
@@ -5099,7 +5099,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "142-c",
-        "text": "reduce inventory days and receivable days while managing payable days responsibly."
+        "text": "Reduce inventory days and receivable days while managing payable days responsibly."
       },
       {
         "id": "142-d",
@@ -5113,8 +5113,8 @@ export const generatedQuestions: Question[] = [
       "142-b": "This choice does not address the core cash-to-cash cycle principle tested by the question.",
       "142-d": "This choice does not address the core cash-to-cash cycle principle tested by the question."
     },
-    "examTrap": "improving cash flow by damaging supplier relationships.",
-    "studyTip": "reduce inventory days and receivable days while managing payable days responsibly."
+    "examTrap": "Improving cash flow by damaging supplier relationships.",
+    "studyTip": "Reduce inventory days and receivable days while managing payable days responsibly."
   },
   {
     "id": "143",
@@ -5131,7 +5131,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "143-b",
-        "text": "improving cash flow by damaging supplier relationships."
+        "text": "Improving cash flow by damaging supplier relationships."
       },
       {
         "id": "143-c",
@@ -5149,8 +5149,8 @@ export const generatedQuestions: Question[] = [
       "143-c": "This choice does not address the core cash-to-cash cycle principle tested by the question.",
       "143-d": "This choice does not address the core cash-to-cash cycle principle tested by the question."
     },
-    "examTrap": "improving cash flow by damaging supplier relationships.",
-    "studyTip": "reduce inventory days and receivable days while managing payable days responsibly."
+    "examTrap": "Improving cash flow by damaging supplier relationships.",
+    "studyTip": "Reduce inventory days and receivable days while managing payable days responsibly."
   },
   {
     "id": "144",
@@ -5185,8 +5185,8 @@ export const generatedQuestions: Question[] = [
       "144-c": "This choice does not address the core cash-to-cash cycle principle tested by the question.",
       "144-d": "This choice does not address the core cash-to-cash cycle principle tested by the question."
     },
-    "examTrap": "improving cash flow by damaging supplier relationships.",
-    "studyTip": "reduce inventory days and receivable days while managing payable days responsibly."
+    "examTrap": "Improving cash flow by damaging supplier relationships.",
+    "studyTip": "Reduce inventory days and receivable days while managing payable days responsibly."
   },
   {
     "id": "145",
@@ -5211,7 +5211,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "145-d",
-        "text": "reduce inventory days and receivable days while managing payable days responsibly and verify the impact through agreed metrics."
+        "text": "Reduce inventory days and receivable days while managing payable days responsibly and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "145-d",
@@ -5221,8 +5221,8 @@ export const generatedQuestions: Question[] = [
       "145-b": "This choice does not address the core cash-to-cash cycle principle tested by the question.",
       "145-c": "This choice does not address the core cash-to-cash cycle principle tested by the question."
     },
-    "examTrap": "improving cash flow by damaging supplier relationships.",
-    "studyTip": "reduce inventory days and receivable days while managing payable days responsibly."
+    "examTrap": "Improving cash flow by damaging supplier relationships.",
+    "studyTip": "Reduce inventory days and receivable days while managing payable days responsibly."
   },
   {
     "id": "146",
@@ -5257,8 +5257,8 @@ export const generatedQuestions: Question[] = [
       "146-b": "This choice does not address the core supply chain visibility principle tested by the question.",
       "146-d": "This choice does not address the core supply chain visibility principle tested by the question."
     },
-    "examTrap": "buying visibility software without data discipline.",
-    "studyTip": "improve data sharing, event tracking, and exception management."
+    "examTrap": "Buying visibility software without data discipline.",
+    "studyTip": "Improve data sharing, event tracking, and exception management."
   },
   {
     "id": "147",
@@ -5275,7 +5275,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "147-b",
-        "text": "improve data sharing, event tracking, and exception management."
+        "text": "Improve data sharing, event tracking, and exception management."
       },
       {
         "id": "147-c",
@@ -5293,8 +5293,8 @@ export const generatedQuestions: Question[] = [
       "147-c": "This choice does not address the core supply chain visibility principle tested by the question.",
       "147-d": "This choice does not address the core supply chain visibility principle tested by the question."
     },
-    "examTrap": "buying visibility software without data discipline.",
-    "studyTip": "improve data sharing, event tracking, and exception management."
+    "examTrap": "Buying visibility software without data discipline.",
+    "studyTip": "Improve data sharing, event tracking, and exception management."
   },
   {
     "id": "148",
@@ -5307,7 +5307,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "148-a",
-        "text": "buying visibility software without data discipline."
+        "text": "Buying visibility software without data discipline."
       },
       {
         "id": "148-b",
@@ -5329,8 +5329,8 @@ export const generatedQuestions: Question[] = [
       "148-c": "This choice does not address the core supply chain visibility principle tested by the question.",
       "148-d": "This choice does not address the core supply chain visibility principle tested by the question."
     },
-    "examTrap": "buying visibility software without data discipline.",
-    "studyTip": "improve data sharing, event tracking, and exception management."
+    "examTrap": "Buying visibility software without data discipline.",
+    "studyTip": "Improve data sharing, event tracking, and exception management."
   },
   {
     "id": "149",
@@ -5365,8 +5365,8 @@ export const generatedQuestions: Question[] = [
       "149-b": "This choice does not address the core supply chain visibility principle tested by the question.",
       "149-c": "This choice does not address the core supply chain visibility principle tested by the question."
     },
-    "examTrap": "buying visibility software without data discipline.",
-    "studyTip": "improve data sharing, event tracking, and exception management."
+    "examTrap": "Buying visibility software without data discipline.",
+    "studyTip": "Improve data sharing, event tracking, and exception management."
   },
   {
     "id": "150",
@@ -5387,7 +5387,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "150-c",
-        "text": "improve data sharing, event tracking, and exception management and verify the impact through agreed metrics."
+        "text": "Improve data sharing, event tracking, and exception management and verify the impact through agreed metrics."
       },
       {
         "id": "150-d",
@@ -5401,8 +5401,8 @@ export const generatedQuestions: Question[] = [
       "150-b": "This choice does not address the core supply chain visibility principle tested by the question.",
       "150-d": "This choice does not address the core supply chain visibility principle tested by the question."
     },
-    "examTrap": "buying visibility software without data discipline.",
-    "studyTip": "improve data sharing, event tracking, and exception management."
+    "examTrap": "Buying visibility software without data discipline.",
+    "studyTip": "Improve data sharing, event tracking, and exception management."
   },
   {
     "id": "151",
@@ -5437,8 +5437,8 @@ export const generatedQuestions: Question[] = [
       "151-c": "This choice does not address the core scor model principle tested by the question.",
       "151-d": "This choice does not address the core scor model principle tested by the question."
     },
-    "examTrap": "treating the model as a software implementation checklist.",
-    "studyTip": "use common process language to diagnose and benchmark supply chain performance."
+    "examTrap": "Treating the model as a software implementation checklist.",
+    "studyTip": "Use common process language to diagnose and benchmark supply chain performance."
   },
   {
     "id": "152",
@@ -5451,7 +5451,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "152-a",
-        "text": "use common process language to diagnose and benchmark supply chain performance."
+        "text": "Use common process language to diagnose and benchmark supply chain performance."
       },
       {
         "id": "152-b",
@@ -5473,8 +5473,8 @@ export const generatedQuestions: Question[] = [
       "152-c": "This choice does not address the core scor model principle tested by the question.",
       "152-d": "This choice does not address the core scor model principle tested by the question."
     },
-    "examTrap": "treating the model as a software implementation checklist.",
-    "studyTip": "use common process language to diagnose and benchmark supply chain performance."
+    "examTrap": "Treating the model as a software implementation checklist.",
+    "studyTip": "Use common process language to diagnose and benchmark supply chain performance."
   },
   {
     "id": "153",
@@ -5499,7 +5499,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "153-d",
-        "text": "treating the model as a software implementation checklist."
+        "text": "Treating the model as a software implementation checklist."
       }
     ],
     "correctChoiceId": "153-d",
@@ -5509,8 +5509,8 @@ export const generatedQuestions: Question[] = [
       "153-b": "This choice does not address the core scor model principle tested by the question.",
       "153-c": "This choice does not address the core scor model principle tested by the question."
     },
-    "examTrap": "treating the model as a software implementation checklist.",
-    "studyTip": "use common process language to diagnose and benchmark supply chain performance."
+    "examTrap": "Treating the model as a software implementation checklist.",
+    "studyTip": "Use common process language to diagnose and benchmark supply chain performance."
   },
   {
     "id": "154",
@@ -5545,8 +5545,8 @@ export const generatedQuestions: Question[] = [
       "154-b": "This choice does not address the core scor model principle tested by the question.",
       "154-d": "This choice does not address the core scor model principle tested by the question."
     },
-    "examTrap": "treating the model as a software implementation checklist.",
-    "studyTip": "use common process language to diagnose and benchmark supply chain performance."
+    "examTrap": "Treating the model as a software implementation checklist.",
+    "studyTip": "Use common process language to diagnose and benchmark supply chain performance."
   },
   {
     "id": "155",
@@ -5563,7 +5563,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "155-b",
-        "text": "use common process language to diagnose and benchmark supply chain performance and verify the impact through agreed metrics."
+        "text": "Use common process language to diagnose and benchmark supply chain performance and verify the impact through agreed metrics."
       },
       {
         "id": "155-c",
@@ -5581,8 +5581,8 @@ export const generatedQuestions: Question[] = [
       "155-c": "This choice does not address the core scor model principle tested by the question.",
       "155-d": "This choice does not address the core scor model principle tested by the question."
     },
-    "examTrap": "treating the model as a software implementation checklist.",
-    "studyTip": "use common process language to diagnose and benchmark supply chain performance."
+    "examTrap": "Treating the model as a software implementation checklist.",
+    "studyTip": "Use common process language to diagnose and benchmark supply chain performance."
   },
   {
     "id": "156",
@@ -5617,8 +5617,8 @@ export const generatedQuestions: Question[] = [
       "156-c": "This choice does not address the core supply chain segmentation principle tested by the question.",
       "156-d": "This choice does not address the core supply chain segmentation principle tested by the question."
     },
-    "examTrap": "forcing one operating model onto every product or customer.",
-    "studyTip": "match planning, inventory, and service policies to value and variability."
+    "examTrap": "Forcing one operating model onto every product or customer.",
+    "studyTip": "Match planning, inventory, and service policies to value and variability."
   },
   {
     "id": "157",
@@ -5643,7 +5643,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "157-d",
-        "text": "match planning, inventory, and service policies to value and variability."
+        "text": "Match planning, inventory, and service policies to value and variability."
       }
     ],
     "correctChoiceId": "157-d",
@@ -5653,8 +5653,8 @@ export const generatedQuestions: Question[] = [
       "157-b": "This choice does not address the core supply chain segmentation principle tested by the question.",
       "157-c": "This choice does not address the core supply chain segmentation principle tested by the question."
     },
-    "examTrap": "forcing one operating model onto every product or customer.",
-    "studyTip": "match planning, inventory, and service policies to value and variability."
+    "examTrap": "Forcing one operating model onto every product or customer.",
+    "studyTip": "Match planning, inventory, and service policies to value and variability."
   },
   {
     "id": "158",
@@ -5675,7 +5675,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "158-c",
-        "text": "forcing one operating model onto every product or customer."
+        "text": "Forcing one operating model onto every product or customer."
       },
       {
         "id": "158-d",
@@ -5689,8 +5689,8 @@ export const generatedQuestions: Question[] = [
       "158-b": "This choice does not address the core supply chain segmentation principle tested by the question.",
       "158-d": "This choice does not address the core supply chain segmentation principle tested by the question."
     },
-    "examTrap": "forcing one operating model onto every product or customer.",
-    "studyTip": "match planning, inventory, and service policies to value and variability."
+    "examTrap": "Forcing one operating model onto every product or customer.",
+    "studyTip": "Match planning, inventory, and service policies to value and variability."
   },
   {
     "id": "159",
@@ -5725,8 +5725,8 @@ export const generatedQuestions: Question[] = [
       "159-c": "This choice does not address the core supply chain segmentation principle tested by the question.",
       "159-d": "This choice does not address the core supply chain segmentation principle tested by the question."
     },
-    "examTrap": "forcing one operating model onto every product or customer.",
-    "studyTip": "match planning, inventory, and service policies to value and variability."
+    "examTrap": "Forcing one operating model onto every product or customer.",
+    "studyTip": "Match planning, inventory, and service policies to value and variability."
   },
   {
     "id": "160",
@@ -5739,7 +5739,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "160-a",
-        "text": "match planning, inventory, and service policies to value and variability and verify the impact through agreed metrics."
+        "text": "Match planning, inventory, and service policies to value and variability and verify the impact through agreed metrics."
       },
       {
         "id": "160-b",
@@ -5761,8 +5761,8 @@ export const generatedQuestions: Question[] = [
       "160-c": "This choice does not address the core supply chain segmentation principle tested by the question.",
       "160-d": "This choice does not address the core supply chain segmentation principle tested by the question."
     },
-    "examTrap": "forcing one operating model onto every product or customer.",
-    "studyTip": "match planning, inventory, and service policies to value and variability."
+    "examTrap": "Forcing one operating model onto every product or customer.",
+    "studyTip": "Match planning, inventory, and service policies to value and variability."
   },
   {
     "id": "161",
@@ -5797,8 +5797,8 @@ export const generatedQuestions: Question[] = [
       "161-b": "This choice does not address the core resilient network design principle tested by the question.",
       "161-c": "This choice does not address the core resilient network design principle tested by the question."
     },
-    "examTrap": "eliminating every buffer and backup to chase short-term cost.",
-    "studyTip": "balance efficiency with redundancy, optionality, and recovery capability."
+    "examTrap": "Eliminating every buffer and backup to chase short-term cost.",
+    "studyTip": "Balance efficiency with redundancy, optionality, and recovery capability."
   },
   {
     "id": "162",
@@ -5819,7 +5819,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "162-c",
-        "text": "balance efficiency with redundancy, optionality, and recovery capability."
+        "text": "Balance efficiency with redundancy, optionality, and recovery capability."
       },
       {
         "id": "162-d",
@@ -5833,8 +5833,8 @@ export const generatedQuestions: Question[] = [
       "162-b": "This choice does not address the core resilient network design principle tested by the question.",
       "162-d": "This choice does not address the core resilient network design principle tested by the question."
     },
-    "examTrap": "eliminating every buffer and backup to chase short-term cost.",
-    "studyTip": "balance efficiency with redundancy, optionality, and recovery capability."
+    "examTrap": "Eliminating every buffer and backup to chase short-term cost.",
+    "studyTip": "Balance efficiency with redundancy, optionality, and recovery capability."
   },
   {
     "id": "163",
@@ -5851,7 +5851,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "163-b",
-        "text": "eliminating every buffer and backup to chase short-term cost."
+        "text": "Eliminating every buffer and backup to chase short-term cost."
       },
       {
         "id": "163-c",
@@ -5869,8 +5869,8 @@ export const generatedQuestions: Question[] = [
       "163-c": "This choice does not address the core resilient network design principle tested by the question.",
       "163-d": "This choice does not address the core resilient network design principle tested by the question."
     },
-    "examTrap": "eliminating every buffer and backup to chase short-term cost.",
-    "studyTip": "balance efficiency with redundancy, optionality, and recovery capability."
+    "examTrap": "Eliminating every buffer and backup to chase short-term cost.",
+    "studyTip": "Balance efficiency with redundancy, optionality, and recovery capability."
   },
   {
     "id": "164",
@@ -5905,8 +5905,8 @@ export const generatedQuestions: Question[] = [
       "164-c": "This choice does not address the core resilient network design principle tested by the question.",
       "164-d": "This choice does not address the core resilient network design principle tested by the question."
     },
-    "examTrap": "eliminating every buffer and backup to chase short-term cost.",
-    "studyTip": "balance efficiency with redundancy, optionality, and recovery capability."
+    "examTrap": "Eliminating every buffer and backup to chase short-term cost.",
+    "studyTip": "Balance efficiency with redundancy, optionality, and recovery capability."
   },
   {
     "id": "165",
@@ -5931,7 +5931,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "165-d",
-        "text": "balance efficiency with redundancy, optionality, and recovery capability and verify the impact through agreed metrics."
+        "text": "Balance efficiency with redundancy, optionality, and recovery capability and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "165-d",
@@ -5941,8 +5941,8 @@ export const generatedQuestions: Question[] = [
       "165-b": "This choice does not address the core resilient network design principle tested by the question.",
       "165-c": "This choice does not address the core resilient network design principle tested by the question."
     },
-    "examTrap": "eliminating every buffer and backup to chase short-term cost.",
-    "studyTip": "balance efficiency with redundancy, optionality, and recovery capability."
+    "examTrap": "Eliminating every buffer and backup to chase short-term cost.",
+    "studyTip": "Balance efficiency with redundancy, optionality, and recovery capability."
   },
   {
     "id": "166",
@@ -5977,8 +5977,8 @@ export const generatedQuestions: Question[] = [
       "166-b": "This choice does not address the core tax and duty considerations principle tested by the question.",
       "166-d": "This choice does not address the core tax and duty considerations principle tested by the question."
     },
-    "examTrap": "ignoring trade rules until after the network is built.",
-    "studyTip": "include tax and duty impacts in network and sourcing decisions."
+    "examTrap": "Ignoring trade rules until after the network is built.",
+    "studyTip": "Include tax and duty impacts in network and sourcing decisions."
   },
   {
     "id": "167",
@@ -5995,7 +5995,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "167-b",
-        "text": "include tax and duty impacts in network and sourcing decisions."
+        "text": "Include tax and duty impacts in network and sourcing decisions."
       },
       {
         "id": "167-c",
@@ -6013,8 +6013,8 @@ export const generatedQuestions: Question[] = [
       "167-c": "This choice does not address the core tax and duty considerations principle tested by the question.",
       "167-d": "This choice does not address the core tax and duty considerations principle tested by the question."
     },
-    "examTrap": "ignoring trade rules until after the network is built.",
-    "studyTip": "include tax and duty impacts in network and sourcing decisions."
+    "examTrap": "Ignoring trade rules until after the network is built.",
+    "studyTip": "Include tax and duty impacts in network and sourcing decisions."
   },
   {
     "id": "168",
@@ -6027,7 +6027,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "168-a",
-        "text": "ignoring trade rules until after the network is built."
+        "text": "Ignoring trade rules until after the network is built."
       },
       {
         "id": "168-b",
@@ -6049,8 +6049,8 @@ export const generatedQuestions: Question[] = [
       "168-c": "This choice does not address the core tax and duty considerations principle tested by the question.",
       "168-d": "This choice does not address the core tax and duty considerations principle tested by the question."
     },
-    "examTrap": "ignoring trade rules until after the network is built.",
-    "studyTip": "include tax and duty impacts in network and sourcing decisions."
+    "examTrap": "Ignoring trade rules until after the network is built.",
+    "studyTip": "Include tax and duty impacts in network and sourcing decisions."
   },
   {
     "id": "169",
@@ -6085,8 +6085,8 @@ export const generatedQuestions: Question[] = [
       "169-b": "This choice does not address the core tax and duty considerations principle tested by the question.",
       "169-c": "This choice does not address the core tax and duty considerations principle tested by the question."
     },
-    "examTrap": "ignoring trade rules until after the network is built.",
-    "studyTip": "include tax and duty impacts in network and sourcing decisions."
+    "examTrap": "Ignoring trade rules until after the network is built.",
+    "studyTip": "Include tax and duty impacts in network and sourcing decisions."
   },
   {
     "id": "170",
@@ -6107,7 +6107,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "170-c",
-        "text": "include tax and duty impacts in network and sourcing decisions and verify the impact through agreed metrics."
+        "text": "Include tax and duty impacts in network and sourcing decisions and verify the impact through agreed metrics."
       },
       {
         "id": "170-d",
@@ -6121,8 +6121,8 @@ export const generatedQuestions: Question[] = [
       "170-b": "This choice does not address the core tax and duty considerations principle tested by the question.",
       "170-d": "This choice does not address the core tax and duty considerations principle tested by the question."
     },
-    "examTrap": "ignoring trade rules until after the network is built.",
-    "studyTip": "include tax and duty impacts in network and sourcing decisions."
+    "examTrap": "Ignoring trade rules until after the network is built.",
+    "studyTip": "Include tax and duty impacts in network and sourcing decisions."
   },
   {
     "id": "171",
@@ -6157,8 +6157,8 @@ export const generatedQuestions: Question[] = [
       "171-c": "This choice does not address the core capacity location decisions principle tested by the question.",
       "171-d": "This choice does not address the core capacity location decisions principle tested by the question."
     },
-    "examTrap": "choosing a location based on incentives alone.",
-    "studyTip": "score alternatives against strategic and operational criteria."
+    "examTrap": "Choosing a location based on incentives alone.",
+    "studyTip": "Score alternatives against strategic and operational criteria."
   },
   {
     "id": "172",
@@ -6171,7 +6171,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "172-a",
-        "text": "score alternatives against strategic and operational criteria."
+        "text": "Score alternatives against strategic and operational criteria."
       },
       {
         "id": "172-b",
@@ -6193,8 +6193,8 @@ export const generatedQuestions: Question[] = [
       "172-c": "This choice does not address the core capacity location decisions principle tested by the question.",
       "172-d": "This choice does not address the core capacity location decisions principle tested by the question."
     },
-    "examTrap": "choosing a location based on incentives alone.",
-    "studyTip": "score alternatives against strategic and operational criteria."
+    "examTrap": "Choosing a location based on incentives alone.",
+    "studyTip": "Score alternatives against strategic and operational criteria."
   },
   {
     "id": "173",
@@ -6219,7 +6219,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "173-d",
-        "text": "choosing a location based on incentives alone."
+        "text": "Choosing a location based on incentives alone."
       }
     ],
     "correctChoiceId": "173-d",
@@ -6229,8 +6229,8 @@ export const generatedQuestions: Question[] = [
       "173-b": "This choice does not address the core capacity location decisions principle tested by the question.",
       "173-c": "This choice does not address the core capacity location decisions principle tested by the question."
     },
-    "examTrap": "choosing a location based on incentives alone.",
-    "studyTip": "score alternatives against strategic and operational criteria."
+    "examTrap": "Choosing a location based on incentives alone.",
+    "studyTip": "Score alternatives against strategic and operational criteria."
   },
   {
     "id": "174",
@@ -6265,8 +6265,8 @@ export const generatedQuestions: Question[] = [
       "174-b": "This choice does not address the core capacity location decisions principle tested by the question.",
       "174-d": "This choice does not address the core capacity location decisions principle tested by the question."
     },
-    "examTrap": "choosing a location based on incentives alone.",
-    "studyTip": "score alternatives against strategic and operational criteria."
+    "examTrap": "Choosing a location based on incentives alone.",
+    "studyTip": "Score alternatives against strategic and operational criteria."
   },
   {
     "id": "175",
@@ -6283,7 +6283,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "175-b",
-        "text": "score alternatives against strategic and operational criteria and verify the impact through agreed metrics."
+        "text": "Score alternatives against strategic and operational criteria and verify the impact through agreed metrics."
       },
       {
         "id": "175-c",
@@ -6301,8 +6301,8 @@ export const generatedQuestions: Question[] = [
       "175-c": "This choice does not address the core capacity location decisions principle tested by the question.",
       "175-d": "This choice does not address the core capacity location decisions principle tested by the question."
     },
-    "examTrap": "choosing a location based on incentives alone.",
-    "studyTip": "score alternatives against strategic and operational criteria."
+    "examTrap": "Choosing a location based on incentives alone.",
+    "studyTip": "Score alternatives against strategic and operational criteria."
   },
   {
     "id": "176",
@@ -6337,8 +6337,8 @@ export const generatedQuestions: Question[] = [
       "176-c": "This choice does not address the core environmental scanning principle tested by the question.",
       "176-d": "This choice does not address the core environmental scanning principle tested by the question."
     },
-    "examTrap": "assuming today constraints will remain stable.",
-    "studyTip": "update strategy and risk assumptions as external conditions change."
+    "examTrap": "Assuming today constraints will remain stable.",
+    "studyTip": "Update strategy and risk assumptions as external conditions change."
   },
   {
     "id": "177",
@@ -6363,7 +6363,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "177-d",
-        "text": "update strategy and risk assumptions as external conditions change."
+        "text": "Update strategy and risk assumptions as external conditions change."
       }
     ],
     "correctChoiceId": "177-d",
@@ -6373,8 +6373,8 @@ export const generatedQuestions: Question[] = [
       "177-b": "This choice does not address the core environmental scanning principle tested by the question.",
       "177-c": "This choice does not address the core environmental scanning principle tested by the question."
     },
-    "examTrap": "assuming today constraints will remain stable.",
-    "studyTip": "update strategy and risk assumptions as external conditions change."
+    "examTrap": "Assuming today constraints will remain stable.",
+    "studyTip": "Update strategy and risk assumptions as external conditions change."
   },
   {
     "id": "178",
@@ -6395,7 +6395,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "178-c",
-        "text": "assuming today constraints will remain stable."
+        "text": "Assuming today constraints will remain stable."
       },
       {
         "id": "178-d",
@@ -6409,8 +6409,8 @@ export const generatedQuestions: Question[] = [
       "178-b": "This choice does not address the core environmental scanning principle tested by the question.",
       "178-d": "This choice does not address the core environmental scanning principle tested by the question."
     },
-    "examTrap": "assuming today constraints will remain stable.",
-    "studyTip": "update strategy and risk assumptions as external conditions change."
+    "examTrap": "Assuming today constraints will remain stable.",
+    "studyTip": "Update strategy and risk assumptions as external conditions change."
   },
   {
     "id": "179",
@@ -6445,8 +6445,8 @@ export const generatedQuestions: Question[] = [
       "179-c": "This choice does not address the core environmental scanning principle tested by the question.",
       "179-d": "This choice does not address the core environmental scanning principle tested by the question."
     },
-    "examTrap": "assuming today constraints will remain stable.",
-    "studyTip": "update strategy and risk assumptions as external conditions change."
+    "examTrap": "Assuming today constraints will remain stable.",
+    "studyTip": "Update strategy and risk assumptions as external conditions change."
   },
   {
     "id": "180",
@@ -6459,7 +6459,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "180-a",
-        "text": "update strategy and risk assumptions as external conditions change and verify the impact through agreed metrics."
+        "text": "Update strategy and risk assumptions as external conditions change and verify the impact through agreed metrics."
       },
       {
         "id": "180-b",
@@ -6481,8 +6481,8 @@ export const generatedQuestions: Question[] = [
       "180-c": "This choice does not address the core environmental scanning principle tested by the question.",
       "180-d": "This choice does not address the core environmental scanning principle tested by the question."
     },
-    "examTrap": "assuming today constraints will remain stable.",
-    "studyTip": "update strategy and risk assumptions as external conditions change."
+    "examTrap": "Assuming today constraints will remain stable.",
+    "studyTip": "Update strategy and risk assumptions as external conditions change."
   },
   {
     "id": "181",
@@ -6517,8 +6517,8 @@ export const generatedQuestions: Question[] = [
       "181-b": "This choice does not address the core enterprise performance measures principle tested by the question.",
       "181-c": "This choice does not address the core enterprise performance measures principle tested by the question."
     },
-    "examTrap": "rewarding local efficiency that hurts total performance.",
-    "studyTip": "choose balanced metrics for service, cost, asset use, quality, and flexibility."
+    "examTrap": "Rewarding local efficiency that hurts total performance.",
+    "studyTip": "Choose balanced metrics for service, cost, asset use, quality, and flexibility."
   },
   {
     "id": "182",
@@ -6539,7 +6539,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "182-c",
-        "text": "choose balanced metrics for service, cost, asset use, quality, and flexibility."
+        "text": "Choose balanced metrics for service, cost, asset use, quality, and flexibility."
       },
       {
         "id": "182-d",
@@ -6553,8 +6553,8 @@ export const generatedQuestions: Question[] = [
       "182-b": "This choice does not address the core enterprise performance measures principle tested by the question.",
       "182-d": "This choice does not address the core enterprise performance measures principle tested by the question."
     },
-    "examTrap": "rewarding local efficiency that hurts total performance.",
-    "studyTip": "choose balanced metrics for service, cost, asset use, quality, and flexibility."
+    "examTrap": "Rewarding local efficiency that hurts total performance.",
+    "studyTip": "Choose balanced metrics for service, cost, asset use, quality, and flexibility."
   },
   {
     "id": "183",
@@ -6571,7 +6571,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "183-b",
-        "text": "rewarding local efficiency that hurts total performance."
+        "text": "Rewarding local efficiency that hurts total performance."
       },
       {
         "id": "183-c",
@@ -6589,8 +6589,8 @@ export const generatedQuestions: Question[] = [
       "183-c": "This choice does not address the core enterprise performance measures principle tested by the question.",
       "183-d": "This choice does not address the core enterprise performance measures principle tested by the question."
     },
-    "examTrap": "rewarding local efficiency that hurts total performance.",
-    "studyTip": "choose balanced metrics for service, cost, asset use, quality, and flexibility."
+    "examTrap": "Rewarding local efficiency that hurts total performance.",
+    "studyTip": "Choose balanced metrics for service, cost, asset use, quality, and flexibility."
   },
   {
     "id": "184",
@@ -6625,8 +6625,8 @@ export const generatedQuestions: Question[] = [
       "184-c": "This choice does not address the core enterprise performance measures principle tested by the question.",
       "184-d": "This choice does not address the core enterprise performance measures principle tested by the question."
     },
-    "examTrap": "rewarding local efficiency that hurts total performance.",
-    "studyTip": "choose balanced metrics for service, cost, asset use, quality, and flexibility."
+    "examTrap": "Rewarding local efficiency that hurts total performance.",
+    "studyTip": "Choose balanced metrics for service, cost, asset use, quality, and flexibility."
   },
   {
     "id": "185",
@@ -6651,7 +6651,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "185-d",
-        "text": "choose balanced metrics for service, cost, asset use, quality, and flexibility and verify the impact through agreed metrics."
+        "text": "Choose balanced metrics for service, cost, asset use, quality, and flexibility and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "185-d",
@@ -6661,8 +6661,8 @@ export const generatedQuestions: Question[] = [
       "185-b": "This choice does not address the core enterprise performance measures principle tested by the question.",
       "185-c": "This choice does not address the core enterprise performance measures principle tested by the question."
     },
-    "examTrap": "rewarding local efficiency that hurts total performance.",
-    "studyTip": "choose balanced metrics for service, cost, asset use, quality, and flexibility."
+    "examTrap": "Rewarding local efficiency that hurts total performance.",
+    "studyTip": "Choose balanced metrics for service, cost, asset use, quality, and flexibility."
   },
   {
     "id": "186",
@@ -6697,8 +6697,8 @@ export const generatedQuestions: Question[] = [
       "186-b": "This choice does not address the core trade-off analysis principle tested by the question.",
       "186-d": "This choice does not address the core trade-off analysis principle tested by the question."
     },
-    "examTrap": "pretending one choice can maximize every metric at once.",
-    "studyTip": "make the constraint and decision priority explicit before choosing."
+    "examTrap": "Pretending one choice can maximize every metric at once.",
+    "studyTip": "Make the constraint and decision priority explicit before choosing."
   },
   {
     "id": "187",
@@ -6715,7 +6715,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "187-b",
-        "text": "make the constraint and decision priority explicit before choosing."
+        "text": "Make the constraint and decision priority explicit before choosing."
       },
       {
         "id": "187-c",
@@ -6733,8 +6733,8 @@ export const generatedQuestions: Question[] = [
       "187-c": "This choice does not address the core trade-off analysis principle tested by the question.",
       "187-d": "This choice does not address the core trade-off analysis principle tested by the question."
     },
-    "examTrap": "pretending one choice can maximize every metric at once.",
-    "studyTip": "make the constraint and decision priority explicit before choosing."
+    "examTrap": "Pretending one choice can maximize every metric at once.",
+    "studyTip": "Make the constraint and decision priority explicit before choosing."
   },
   {
     "id": "188",
@@ -6747,7 +6747,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "188-a",
-        "text": "pretending one choice can maximize every metric at once."
+        "text": "Pretending one choice can maximize every metric at once."
       },
       {
         "id": "188-b",
@@ -6769,8 +6769,8 @@ export const generatedQuestions: Question[] = [
       "188-c": "This choice does not address the core trade-off analysis principle tested by the question.",
       "188-d": "This choice does not address the core trade-off analysis principle tested by the question."
     },
-    "examTrap": "pretending one choice can maximize every metric at once.",
-    "studyTip": "make the constraint and decision priority explicit before choosing."
+    "examTrap": "Pretending one choice can maximize every metric at once.",
+    "studyTip": "Make the constraint and decision priority explicit before choosing."
   },
   {
     "id": "189",
@@ -6805,8 +6805,8 @@ export const generatedQuestions: Question[] = [
       "189-b": "This choice does not address the core trade-off analysis principle tested by the question.",
       "189-c": "This choice does not address the core trade-off analysis principle tested by the question."
     },
-    "examTrap": "pretending one choice can maximize every metric at once.",
-    "studyTip": "make the constraint and decision priority explicit before choosing."
+    "examTrap": "Pretending one choice can maximize every metric at once.",
+    "studyTip": "Make the constraint and decision priority explicit before choosing."
   },
   {
     "id": "190",
@@ -6827,7 +6827,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "190-c",
-        "text": "make the constraint and decision priority explicit before choosing and verify the impact through agreed metrics."
+        "text": "Make the constraint and decision priority explicit before choosing and verify the impact through agreed metrics."
       },
       {
         "id": "190-d",
@@ -6841,8 +6841,8 @@ export const generatedQuestions: Question[] = [
       "190-b": "This choice does not address the core trade-off analysis principle tested by the question.",
       "190-d": "This choice does not address the core trade-off analysis principle tested by the question."
     },
-    "examTrap": "pretending one choice can maximize every metric at once.",
-    "studyTip": "make the constraint and decision priority explicit before choosing."
+    "examTrap": "Pretending one choice can maximize every metric at once.",
+    "studyTip": "Make the constraint and decision priority explicit before choosing."
   },
   {
     "id": "191",
@@ -6877,8 +6877,8 @@ export const generatedQuestions: Question[] = [
       "191-c": "This choice does not address the core business continuity in networks principle tested by the question.",
       "191-d": "This choice does not address the core business continuity in networks principle tested by the question."
     },
-    "examTrap": "having a plan that has never been tested.",
-    "studyTip": "map critical nodes and create recovery playbooks."
+    "examTrap": "Having a plan that has never been tested.",
+    "studyTip": "Map critical nodes and create recovery playbooks."
   },
   {
     "id": "192",
@@ -6891,7 +6891,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "192-a",
-        "text": "map critical nodes and create recovery playbooks."
+        "text": "Map critical nodes and create recovery playbooks."
       },
       {
         "id": "192-b",
@@ -6913,8 +6913,8 @@ export const generatedQuestions: Question[] = [
       "192-c": "This choice does not address the core business continuity in networks principle tested by the question.",
       "192-d": "This choice does not address the core business continuity in networks principle tested by the question."
     },
-    "examTrap": "having a plan that has never been tested.",
-    "studyTip": "map critical nodes and create recovery playbooks."
+    "examTrap": "Having a plan that has never been tested.",
+    "studyTip": "Map critical nodes and create recovery playbooks."
   },
   {
     "id": "193",
@@ -6939,7 +6939,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "193-d",
-        "text": "having a plan that has never been tested."
+        "text": "Having a plan that has never been tested."
       }
     ],
     "correctChoiceId": "193-d",
@@ -6949,8 +6949,8 @@ export const generatedQuestions: Question[] = [
       "193-b": "This choice does not address the core business continuity in networks principle tested by the question.",
       "193-c": "This choice does not address the core business continuity in networks principle tested by the question."
     },
-    "examTrap": "having a plan that has never been tested.",
-    "studyTip": "map critical nodes and create recovery playbooks."
+    "examTrap": "Having a plan that has never been tested.",
+    "studyTip": "Map critical nodes and create recovery playbooks."
   },
   {
     "id": "194",
@@ -6985,8 +6985,8 @@ export const generatedQuestions: Question[] = [
       "194-b": "This choice does not address the core business continuity in networks principle tested by the question.",
       "194-d": "This choice does not address the core business continuity in networks principle tested by the question."
     },
-    "examTrap": "having a plan that has never been tested.",
-    "studyTip": "map critical nodes and create recovery playbooks."
+    "examTrap": "Having a plan that has never been tested.",
+    "studyTip": "Map critical nodes and create recovery playbooks."
   },
   {
     "id": "195",
@@ -7003,7 +7003,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "195-b",
-        "text": "map critical nodes and create recovery playbooks and verify the impact through agreed metrics."
+        "text": "Map critical nodes and create recovery playbooks and verify the impact through agreed metrics."
       },
       {
         "id": "195-c",
@@ -7021,8 +7021,8 @@ export const generatedQuestions: Question[] = [
       "195-c": "This choice does not address the core business continuity in networks principle tested by the question.",
       "195-d": "This choice does not address the core business continuity in networks principle tested by the question."
     },
-    "examTrap": "having a plan that has never been tested.",
-    "studyTip": "map critical nodes and create recovery playbooks."
+    "examTrap": "Having a plan that has never been tested.",
+    "studyTip": "Map critical nodes and create recovery playbooks."
   },
   {
     "id": "196",
@@ -7057,8 +7057,8 @@ export const generatedQuestions: Question[] = [
       "196-c": "This choice does not address the core data governance principle tested by the question.",
       "196-d": "This choice does not address the core data governance principle tested by the question."
     },
-    "examTrap": "believing dashboards fix bad master data.",
-    "studyTip": "define data owners and controls before relying on analytics."
+    "examTrap": "Believing dashboards fix bad master data.",
+    "studyTip": "Define data owners and controls before relying on analytics."
   },
   {
     "id": "197",
@@ -7083,7 +7083,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "197-d",
-        "text": "define data owners and controls before relying on analytics."
+        "text": "Define data owners and controls before relying on analytics."
       }
     ],
     "correctChoiceId": "197-d",
@@ -7093,8 +7093,8 @@ export const generatedQuestions: Question[] = [
       "197-b": "This choice does not address the core data governance principle tested by the question.",
       "197-c": "This choice does not address the core data governance principle tested by the question."
     },
-    "examTrap": "believing dashboards fix bad master data.",
-    "studyTip": "define data owners and controls before relying on analytics."
+    "examTrap": "Believing dashboards fix bad master data.",
+    "studyTip": "Define data owners and controls before relying on analytics."
   },
   {
     "id": "198",
@@ -7115,7 +7115,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "198-c",
-        "text": "believing dashboards fix bad master data."
+        "text": "Believing dashboards fix bad master data."
       },
       {
         "id": "198-d",
@@ -7129,8 +7129,8 @@ export const generatedQuestions: Question[] = [
       "198-b": "This choice does not address the core data governance principle tested by the question.",
       "198-d": "This choice does not address the core data governance principle tested by the question."
     },
-    "examTrap": "believing dashboards fix bad master data.",
-    "studyTip": "define data owners and controls before relying on analytics."
+    "examTrap": "Believing dashboards fix bad master data.",
+    "studyTip": "Define data owners and controls before relying on analytics."
   },
   {
     "id": "199",
@@ -7165,8 +7165,8 @@ export const generatedQuestions: Question[] = [
       "199-c": "This choice does not address the core data governance principle tested by the question.",
       "199-d": "This choice does not address the core data governance principle tested by the question."
     },
-    "examTrap": "believing dashboards fix bad master data.",
-    "studyTip": "define data owners and controls before relying on analytics."
+    "examTrap": "Believing dashboards fix bad master data.",
+    "studyTip": "Define data owners and controls before relying on analytics."
   },
   {
     "id": "200",
@@ -7179,7 +7179,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "200-a",
-        "text": "define data owners and controls before relying on analytics and verify the impact through agreed metrics."
+        "text": "Define data owners and controls before relying on analytics and verify the impact through agreed metrics."
       },
       {
         "id": "200-b",
@@ -7201,8 +7201,8 @@ export const generatedQuestions: Question[] = [
       "200-c": "This choice does not address the core data governance principle tested by the question.",
       "200-d": "This choice does not address the core data governance principle tested by the question."
     },
-    "examTrap": "believing dashboards fix bad master data.",
-    "studyTip": "define data owners and controls before relying on analytics."
+    "examTrap": "Believing dashboards fix bad master data.",
+    "studyTip": "Define data owners and controls before relying on analytics."
   },
   {
     "id": "201",
@@ -7237,8 +7237,8 @@ export const generatedQuestions: Question[] = [
       "201-b": "This choice does not address the core strategic sourcing principle tested by the question.",
       "201-c": "This choice does not address the core strategic sourcing principle tested by the question."
     },
-    "examTrap": "running every buy as a price-only bid.",
-    "studyTip": "analyze spend, market, requirements, supplier capability, and risk before awarding business."
+    "examTrap": "Running every buy as a price-only bid.",
+    "studyTip": "Analyze spend, market, requirements, supplier capability, and risk before awarding business."
   },
   {
     "id": "202",
@@ -7259,7 +7259,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "202-c",
-        "text": "analyze spend, market, requirements, supplier capability, and risk before awarding business."
+        "text": "Analyze spend, market, requirements, supplier capability, and risk before awarding business."
       },
       {
         "id": "202-d",
@@ -7273,8 +7273,8 @@ export const generatedQuestions: Question[] = [
       "202-b": "This choice does not address the core strategic sourcing principle tested by the question.",
       "202-d": "This choice does not address the core strategic sourcing principle tested by the question."
     },
-    "examTrap": "running every buy as a price-only bid.",
-    "studyTip": "analyze spend, market, requirements, supplier capability, and risk before awarding business."
+    "examTrap": "Running every buy as a price-only bid.",
+    "studyTip": "Analyze spend, market, requirements, supplier capability, and risk before awarding business."
   },
   {
     "id": "203",
@@ -7291,7 +7291,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "203-b",
-        "text": "running every buy as a price-only bid."
+        "text": "Running every buy as a price-only bid."
       },
       {
         "id": "203-c",
@@ -7309,8 +7309,8 @@ export const generatedQuestions: Question[] = [
       "203-c": "This choice does not address the core strategic sourcing principle tested by the question.",
       "203-d": "This choice does not address the core strategic sourcing principle tested by the question."
     },
-    "examTrap": "running every buy as a price-only bid.",
-    "studyTip": "analyze spend, market, requirements, supplier capability, and risk before awarding business."
+    "examTrap": "Running every buy as a price-only bid.",
+    "studyTip": "Analyze spend, market, requirements, supplier capability, and risk before awarding business."
   },
   {
     "id": "204",
@@ -7345,8 +7345,8 @@ export const generatedQuestions: Question[] = [
       "204-c": "This choice does not address the core strategic sourcing principle tested by the question.",
       "204-d": "This choice does not address the core strategic sourcing principle tested by the question."
     },
-    "examTrap": "running every buy as a price-only bid.",
-    "studyTip": "analyze spend, market, requirements, supplier capability, and risk before awarding business."
+    "examTrap": "Running every buy as a price-only bid.",
+    "studyTip": "Analyze spend, market, requirements, supplier capability, and risk before awarding business."
   },
   {
     "id": "205",
@@ -7371,7 +7371,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "205-d",
-        "text": "analyze spend, market, requirements, supplier capability, and risk before awarding business and verify the impact through agreed metrics."
+        "text": "Analyze spend, market, requirements, supplier capability, and risk before awarding business and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "205-d",
@@ -7381,8 +7381,8 @@ export const generatedQuestions: Question[] = [
       "205-b": "This choice does not address the core strategic sourcing principle tested by the question.",
       "205-c": "This choice does not address the core strategic sourcing principle tested by the question."
     },
-    "examTrap": "running every buy as a price-only bid.",
-    "studyTip": "analyze spend, market, requirements, supplier capability, and risk before awarding business."
+    "examTrap": "Running every buy as a price-only bid.",
+    "studyTip": "Analyze spend, market, requirements, supplier capability, and risk before awarding business."
   },
   {
     "id": "206",
@@ -7417,8 +7417,8 @@ export const generatedQuestions: Question[] = [
       "206-b": "This choice does not address the core category management principle tested by the question.",
       "206-d": "This choice does not address the core category management principle tested by the question."
     },
-    "examTrap": "using the same sourcing tactic for all categories.",
-    "studyTip": "develop category strategies based on market leverage and business need."
+    "examTrap": "Using the same sourcing tactic for all categories.",
+    "studyTip": "Develop category strategies based on market leverage and business need."
   },
   {
     "id": "207",
@@ -7435,7 +7435,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "207-b",
-        "text": "develop category strategies based on market leverage and business need."
+        "text": "Develop category strategies based on market leverage and business need."
       },
       {
         "id": "207-c",
@@ -7453,8 +7453,8 @@ export const generatedQuestions: Question[] = [
       "207-c": "This choice does not address the core category management principle tested by the question.",
       "207-d": "This choice does not address the core category management principle tested by the question."
     },
-    "examTrap": "using the same sourcing tactic for all categories.",
-    "studyTip": "develop category strategies based on market leverage and business need."
+    "examTrap": "Using the same sourcing tactic for all categories.",
+    "studyTip": "Develop category strategies based on market leverage and business need."
   },
   {
     "id": "208",
@@ -7467,7 +7467,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "208-a",
-        "text": "using the same sourcing tactic for all categories."
+        "text": "Using the same sourcing tactic for all categories."
       },
       {
         "id": "208-b",
@@ -7489,8 +7489,8 @@ export const generatedQuestions: Question[] = [
       "208-c": "This choice does not address the core category management principle tested by the question.",
       "208-d": "This choice does not address the core category management principle tested by the question."
     },
-    "examTrap": "using the same sourcing tactic for all categories.",
-    "studyTip": "develop category strategies based on market leverage and business need."
+    "examTrap": "Using the same sourcing tactic for all categories.",
+    "studyTip": "Develop category strategies based on market leverage and business need."
   },
   {
     "id": "209",
@@ -7525,8 +7525,8 @@ export const generatedQuestions: Question[] = [
       "209-b": "This choice does not address the core category management principle tested by the question.",
       "209-c": "This choice does not address the core category management principle tested by the question."
     },
-    "examTrap": "using the same sourcing tactic for all categories.",
-    "studyTip": "develop category strategies based on market leverage and business need."
+    "examTrap": "Using the same sourcing tactic for all categories.",
+    "studyTip": "Develop category strategies based on market leverage and business need."
   },
   {
     "id": "210",
@@ -7547,7 +7547,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "210-c",
-        "text": "develop category strategies based on market leverage and business need and verify the impact through agreed metrics."
+        "text": "Develop category strategies based on market leverage and business need and verify the impact through agreed metrics."
       },
       {
         "id": "210-d",
@@ -7561,8 +7561,8 @@ export const generatedQuestions: Question[] = [
       "210-b": "This choice does not address the core category management principle tested by the question.",
       "210-d": "This choice does not address the core category management principle tested by the question."
     },
-    "examTrap": "using the same sourcing tactic for all categories.",
-    "studyTip": "develop category strategies based on market leverage and business need."
+    "examTrap": "Using the same sourcing tactic for all categories.",
+    "studyTip": "Develop category strategies based on market leverage and business need."
   },
   {
     "id": "211",
@@ -7597,8 +7597,8 @@ export const generatedQuestions: Question[] = [
       "211-c": "This choice does not address the core supplier segmentation principle tested by the question.",
       "211-d": "This choice does not address the core supplier segmentation principle tested by the question."
     },
-    "examTrap": "treating office supplies and sole-source production parts the same.",
-    "studyTip": "apply different governance and relationship models by supplier segment."
+    "examTrap": "Treating office supplies and sole-source production parts the same.",
+    "studyTip": "Apply different governance and relationship models by supplier segment."
   },
   {
     "id": "212",
@@ -7611,7 +7611,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "212-a",
-        "text": "apply different governance and relationship models by supplier segment."
+        "text": "Apply different governance and relationship models by supplier segment."
       },
       {
         "id": "212-b",
@@ -7633,8 +7633,8 @@ export const generatedQuestions: Question[] = [
       "212-c": "This choice does not address the core supplier segmentation principle tested by the question.",
       "212-d": "This choice does not address the core supplier segmentation principle tested by the question."
     },
-    "examTrap": "treating office supplies and sole-source production parts the same.",
-    "studyTip": "apply different governance and relationship models by supplier segment."
+    "examTrap": "Treating office supplies and sole-source production parts the same.",
+    "studyTip": "Apply different governance and relationship models by supplier segment."
   },
   {
     "id": "213",
@@ -7659,7 +7659,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "213-d",
-        "text": "treating office supplies and sole-source production parts the same."
+        "text": "Treating office supplies and sole-source production parts the same."
       }
     ],
     "correctChoiceId": "213-d",
@@ -7669,8 +7669,8 @@ export const generatedQuestions: Question[] = [
       "213-b": "This choice does not address the core supplier segmentation principle tested by the question.",
       "213-c": "This choice does not address the core supplier segmentation principle tested by the question."
     },
-    "examTrap": "treating office supplies and sole-source production parts the same.",
-    "studyTip": "apply different governance and relationship models by supplier segment."
+    "examTrap": "Treating office supplies and sole-source production parts the same.",
+    "studyTip": "Apply different governance and relationship models by supplier segment."
   },
   {
     "id": "214",
@@ -7705,8 +7705,8 @@ export const generatedQuestions: Question[] = [
       "214-b": "This choice does not address the core supplier segmentation principle tested by the question.",
       "214-d": "This choice does not address the core supplier segmentation principle tested by the question."
     },
-    "examTrap": "treating office supplies and sole-source production parts the same.",
-    "studyTip": "apply different governance and relationship models by supplier segment."
+    "examTrap": "Treating office supplies and sole-source production parts the same.",
+    "studyTip": "Apply different governance and relationship models by supplier segment."
   },
   {
     "id": "215",
@@ -7723,7 +7723,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "215-b",
-        "text": "apply different governance and relationship models by supplier segment and verify the impact through agreed metrics."
+        "text": "Apply different governance and relationship models by supplier segment and verify the impact through agreed metrics."
       },
       {
         "id": "215-c",
@@ -7741,8 +7741,8 @@ export const generatedQuestions: Question[] = [
       "215-c": "This choice does not address the core supplier segmentation principle tested by the question.",
       "215-d": "This choice does not address the core supplier segmentation principle tested by the question."
     },
-    "examTrap": "treating office supplies and sole-source production parts the same.",
-    "studyTip": "apply different governance and relationship models by supplier segment."
+    "examTrap": "Treating office supplies and sole-source production parts the same.",
+    "studyTip": "Apply different governance and relationship models by supplier segment."
   },
   {
     "id": "216",
@@ -7777,8 +7777,8 @@ export const generatedQuestions: Question[] = [
       "216-c": "This choice does not address the core make-or-buy decision principle tested by the question.",
       "216-d": "This choice does not address the core make-or-buy decision principle tested by the question."
     },
-    "examTrap": "basing the decision only on short-term unit cost.",
-    "studyTip": "compare capability, capacity, cost, risk, control, and strategic importance."
+    "examTrap": "Basing the decision only on short-term unit cost.",
+    "studyTip": "Compare capability, capacity, cost, risk, control, and strategic importance."
   },
   {
     "id": "217",
@@ -7803,7 +7803,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "217-d",
-        "text": "compare capability, capacity, cost, risk, control, and strategic importance."
+        "text": "Compare capability, capacity, cost, risk, control, and strategic importance."
       }
     ],
     "correctChoiceId": "217-d",
@@ -7813,8 +7813,8 @@ export const generatedQuestions: Question[] = [
       "217-b": "This choice does not address the core make-or-buy decision principle tested by the question.",
       "217-c": "This choice does not address the core make-or-buy decision principle tested by the question."
     },
-    "examTrap": "basing the decision only on short-term unit cost.",
-    "studyTip": "compare capability, capacity, cost, risk, control, and strategic importance."
+    "examTrap": "Basing the decision only on short-term unit cost.",
+    "studyTip": "Compare capability, capacity, cost, risk, control, and strategic importance."
   },
   {
     "id": "218",
@@ -7835,7 +7835,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "218-c",
-        "text": "basing the decision only on short-term unit cost."
+        "text": "Basing the decision only on short-term unit cost."
       },
       {
         "id": "218-d",
@@ -7849,8 +7849,8 @@ export const generatedQuestions: Question[] = [
       "218-b": "This choice does not address the core make-or-buy decision principle tested by the question.",
       "218-d": "This choice does not address the core make-or-buy decision principle tested by the question."
     },
-    "examTrap": "basing the decision only on short-term unit cost.",
-    "studyTip": "compare capability, capacity, cost, risk, control, and strategic importance."
+    "examTrap": "Basing the decision only on short-term unit cost.",
+    "studyTip": "Compare capability, capacity, cost, risk, control, and strategic importance."
   },
   {
     "id": "219",
@@ -7885,8 +7885,8 @@ export const generatedQuestions: Question[] = [
       "219-c": "This choice does not address the core make-or-buy decision principle tested by the question.",
       "219-d": "This choice does not address the core make-or-buy decision principle tested by the question."
     },
-    "examTrap": "basing the decision only on short-term unit cost.",
-    "studyTip": "compare capability, capacity, cost, risk, control, and strategic importance."
+    "examTrap": "Basing the decision only on short-term unit cost.",
+    "studyTip": "Compare capability, capacity, cost, risk, control, and strategic importance."
   },
   {
     "id": "220",
@@ -7899,7 +7899,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "220-a",
-        "text": "compare capability, capacity, cost, risk, control, and strategic importance and verify the impact through agreed metrics."
+        "text": "Compare capability, capacity, cost, risk, control, and strategic importance and verify the impact through agreed metrics."
       },
       {
         "id": "220-b",
@@ -7921,8 +7921,8 @@ export const generatedQuestions: Question[] = [
       "220-c": "This choice does not address the core make-or-buy decision principle tested by the question.",
       "220-d": "This choice does not address the core make-or-buy decision principle tested by the question."
     },
-    "examTrap": "basing the decision only on short-term unit cost.",
-    "studyTip": "compare capability, capacity, cost, risk, control, and strategic importance."
+    "examTrap": "Basing the decision only on short-term unit cost.",
+    "studyTip": "Compare capability, capacity, cost, risk, control, and strategic importance."
   },
   {
     "id": "221",
@@ -7957,8 +7957,8 @@ export const generatedQuestions: Question[] = [
       "221-b": "This choice does not address the core request for proposal principle tested by the question.",
       "221-c": "This choice does not address the core request for proposal principle tested by the question."
     },
-    "examTrap": "using an RFP when requirements are already simple and price-based.",
-    "studyTip": "use RFPs when solution approach, service, or technical capability matters."
+    "examTrap": "Using an RFP when requirements are already simple and price-based.",
+    "studyTip": "Use RFPs when solution approach, service, or technical capability matters."
   },
   {
     "id": "222",
@@ -7979,7 +7979,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "222-c",
-        "text": "use RFPs when solution approach, service, or technical capability matters."
+        "text": "Use RFPs when solution approach, service, or technical capability matters."
       },
       {
         "id": "222-d",
@@ -7993,8 +7993,8 @@ export const generatedQuestions: Question[] = [
       "222-b": "This choice does not address the core request for proposal principle tested by the question.",
       "222-d": "This choice does not address the core request for proposal principle tested by the question."
     },
-    "examTrap": "using an RFP when requirements are already simple and price-based.",
-    "studyTip": "use RFPs when solution approach, service, or technical capability matters."
+    "examTrap": "Using an RFP when requirements are already simple and price-based.",
+    "studyTip": "Use RFPs when solution approach, service, or technical capability matters."
   },
   {
     "id": "223",
@@ -8011,7 +8011,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "223-b",
-        "text": "using an RFP when requirements are already simple and price-based."
+        "text": "Using an RFP when requirements are already simple and price-based."
       },
       {
         "id": "223-c",
@@ -8029,8 +8029,8 @@ export const generatedQuestions: Question[] = [
       "223-c": "This choice does not address the core request for proposal principle tested by the question.",
       "223-d": "This choice does not address the core request for proposal principle tested by the question."
     },
-    "examTrap": "using an RFP when requirements are already simple and price-based.",
-    "studyTip": "use RFPs when solution approach, service, or technical capability matters."
+    "examTrap": "Using an RFP when requirements are already simple and price-based.",
+    "studyTip": "Use RFPs when solution approach, service, or technical capability matters."
   },
   {
     "id": "224",
@@ -8065,8 +8065,8 @@ export const generatedQuestions: Question[] = [
       "224-c": "This choice does not address the core request for proposal principle tested by the question.",
       "224-d": "This choice does not address the core request for proposal principle tested by the question."
     },
-    "examTrap": "using an RFP when requirements are already simple and price-based.",
-    "studyTip": "use RFPs when solution approach, service, or technical capability matters."
+    "examTrap": "Using an RFP when requirements are already simple and price-based.",
+    "studyTip": "Use RFPs when solution approach, service, or technical capability matters."
   },
   {
     "id": "225",
@@ -8091,7 +8091,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "225-d",
-        "text": "use RFPs when solution approach, service, or technical capability matters and verify the impact through agreed metrics."
+        "text": "Use RFPs when solution approach, service, or technical capability matters and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "225-d",
@@ -8101,8 +8101,8 @@ export const generatedQuestions: Question[] = [
       "225-b": "This choice does not address the core request for proposal principle tested by the question.",
       "225-c": "This choice does not address the core request for proposal principle tested by the question."
     },
-    "examTrap": "using an RFP when requirements are already simple and price-based.",
-    "studyTip": "use RFPs when solution approach, service, or technical capability matters."
+    "examTrap": "Using an RFP when requirements are already simple and price-based.",
+    "studyTip": "Use RFPs when solution approach, service, or technical capability matters."
   },
   {
     "id": "226",
@@ -8137,8 +8137,8 @@ export const generatedQuestions: Question[] = [
       "226-b": "This choice does not address the core request for quotation principle tested by the question.",
       "226-d": "This choice does not address the core request for quotation principle tested by the question."
     },
-    "examTrap": "asking for quotes before requirements are stable.",
-    "studyTip": "use RFQs when requirements are well defined and price comparison is appropriate."
+    "examTrap": "Asking for quotes before requirements are stable.",
+    "studyTip": "Use RFQs when requirements are well defined and price comparison is appropriate."
   },
   {
     "id": "227",
@@ -8155,7 +8155,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "227-b",
-        "text": "use RFQs when requirements are well defined and price comparison is appropriate."
+        "text": "Use RFQs when requirements are well defined and price comparison is appropriate."
       },
       {
         "id": "227-c",
@@ -8173,8 +8173,8 @@ export const generatedQuestions: Question[] = [
       "227-c": "This choice does not address the core request for quotation principle tested by the question.",
       "227-d": "This choice does not address the core request for quotation principle tested by the question."
     },
-    "examTrap": "asking for quotes before requirements are stable.",
-    "studyTip": "use RFQs when requirements are well defined and price comparison is appropriate."
+    "examTrap": "Asking for quotes before requirements are stable.",
+    "studyTip": "Use RFQs when requirements are well defined and price comparison is appropriate."
   },
   {
     "id": "228",
@@ -8187,7 +8187,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "228-a",
-        "text": "asking for quotes before requirements are stable."
+        "text": "Asking for quotes before requirements are stable."
       },
       {
         "id": "228-b",
@@ -8209,8 +8209,8 @@ export const generatedQuestions: Question[] = [
       "228-c": "This choice does not address the core request for quotation principle tested by the question.",
       "228-d": "This choice does not address the core request for quotation principle tested by the question."
     },
-    "examTrap": "asking for quotes before requirements are stable.",
-    "studyTip": "use RFQs when requirements are well defined and price comparison is appropriate."
+    "examTrap": "Asking for quotes before requirements are stable.",
+    "studyTip": "Use RFQs when requirements are well defined and price comparison is appropriate."
   },
   {
     "id": "229",
@@ -8245,8 +8245,8 @@ export const generatedQuestions: Question[] = [
       "229-b": "This choice does not address the core request for quotation principle tested by the question.",
       "229-c": "This choice does not address the core request for quotation principle tested by the question."
     },
-    "examTrap": "asking for quotes before requirements are stable.",
-    "studyTip": "use RFQs when requirements are well defined and price comparison is appropriate."
+    "examTrap": "Asking for quotes before requirements are stable.",
+    "studyTip": "Use RFQs when requirements are well defined and price comparison is appropriate."
   },
   {
     "id": "230",
@@ -8267,7 +8267,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "230-c",
-        "text": "use RFQs when requirements are well defined and price comparison is appropriate and verify the impact through agreed metrics."
+        "text": "Use RFQs when requirements are well defined and price comparison is appropriate and verify the impact through agreed metrics."
       },
       {
         "id": "230-d",
@@ -8281,8 +8281,8 @@ export const generatedQuestions: Question[] = [
       "230-b": "This choice does not address the core request for quotation principle tested by the question.",
       "230-d": "This choice does not address the core request for quotation principle tested by the question."
     },
-    "examTrap": "asking for quotes before requirements are stable.",
-    "studyTip": "use RFQs when requirements are well defined and price comparison is appropriate."
+    "examTrap": "Asking for quotes before requirements are stable.",
+    "studyTip": "Use RFQs when requirements are well defined and price comparison is appropriate."
   },
   {
     "id": "231",
@@ -8317,8 +8317,8 @@ export const generatedQuestions: Question[] = [
       "231-c": "This choice does not address the core supplier qualification principle tested by the question.",
       "231-d": "This choice does not address the core supplier qualification principle tested by the question."
     },
-    "examTrap": "approving based only on a sales presentation.",
-    "studyTip": "audit capability before approving a supplier for production or critical work."
+    "examTrap": "Approving based only on a sales presentation.",
+    "studyTip": "Audit capability before approving a supplier for production or critical work."
   },
   {
     "id": "232",
@@ -8331,7 +8331,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "232-a",
-        "text": "audit capability before approving a supplier for production or critical work."
+        "text": "Audit capability before approving a supplier for production or critical work."
       },
       {
         "id": "232-b",
@@ -8353,8 +8353,8 @@ export const generatedQuestions: Question[] = [
       "232-c": "This choice does not address the core supplier qualification principle tested by the question.",
       "232-d": "This choice does not address the core supplier qualification principle tested by the question."
     },
-    "examTrap": "approving based only on a sales presentation.",
-    "studyTip": "audit capability before approving a supplier for production or critical work."
+    "examTrap": "Approving based only on a sales presentation.",
+    "studyTip": "Audit capability before approving a supplier for production or critical work."
   },
   {
     "id": "233",
@@ -8379,7 +8379,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "233-d",
-        "text": "approving based only on a sales presentation."
+        "text": "Approving based only on a sales presentation."
       }
     ],
     "correctChoiceId": "233-d",
@@ -8389,8 +8389,8 @@ export const generatedQuestions: Question[] = [
       "233-b": "This choice does not address the core supplier qualification principle tested by the question.",
       "233-c": "This choice does not address the core supplier qualification principle tested by the question."
     },
-    "examTrap": "approving based only on a sales presentation.",
-    "studyTip": "audit capability before approving a supplier for production or critical work."
+    "examTrap": "Approving based only on a sales presentation.",
+    "studyTip": "Audit capability before approving a supplier for production or critical work."
   },
   {
     "id": "234",
@@ -8425,8 +8425,8 @@ export const generatedQuestions: Question[] = [
       "234-b": "This choice does not address the core supplier qualification principle tested by the question.",
       "234-d": "This choice does not address the core supplier qualification principle tested by the question."
     },
-    "examTrap": "approving based only on a sales presentation.",
-    "studyTip": "audit capability before approving a supplier for production or critical work."
+    "examTrap": "Approving based only on a sales presentation.",
+    "studyTip": "Audit capability before approving a supplier for production or critical work."
   },
   {
     "id": "235",
@@ -8443,7 +8443,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "235-b",
-        "text": "audit capability before approving a supplier for production or critical work and verify the impact through agreed metrics."
+        "text": "Audit capability before approving a supplier for production or critical work and verify the impact through agreed metrics."
       },
       {
         "id": "235-c",
@@ -8461,8 +8461,8 @@ export const generatedQuestions: Question[] = [
       "235-c": "This choice does not address the core supplier qualification principle tested by the question.",
       "235-d": "This choice does not address the core supplier qualification principle tested by the question."
     },
-    "examTrap": "approving based only on a sales presentation.",
-    "studyTip": "audit capability before approving a supplier for production or critical work."
+    "examTrap": "Approving based only on a sales presentation.",
+    "studyTip": "Audit capability before approving a supplier for production or critical work."
   },
   {
     "id": "236",
@@ -8497,8 +8497,8 @@ export const generatedQuestions: Question[] = [
       "236-c": "This choice does not address the core supplier development principle tested by the question.",
       "236-d": "This choice does not address the core supplier development principle tested by the question."
     },
-    "examTrap": "using scorecards only as punishment.",
-    "studyTip": "focus on root causes, process capability, and measurable performance improvement."
+    "examTrap": "Using scorecards only as punishment.",
+    "studyTip": "Focus on root causes, process capability, and measurable performance improvement."
   },
   {
     "id": "237",
@@ -8523,7 +8523,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "237-d",
-        "text": "focus on root causes, process capability, and measurable performance improvement."
+        "text": "Focus on root causes, process capability, and measurable performance improvement."
       }
     ],
     "correctChoiceId": "237-d",
@@ -8533,8 +8533,8 @@ export const generatedQuestions: Question[] = [
       "237-b": "This choice does not address the core supplier development principle tested by the question.",
       "237-c": "This choice does not address the core supplier development principle tested by the question."
     },
-    "examTrap": "using scorecards only as punishment.",
-    "studyTip": "focus on root causes, process capability, and measurable performance improvement."
+    "examTrap": "Using scorecards only as punishment.",
+    "studyTip": "Focus on root causes, process capability, and measurable performance improvement."
   },
   {
     "id": "238",
@@ -8555,7 +8555,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "238-c",
-        "text": "using scorecards only as punishment."
+        "text": "Using scorecards only as punishment."
       },
       {
         "id": "238-d",
@@ -8569,8 +8569,8 @@ export const generatedQuestions: Question[] = [
       "238-b": "This choice does not address the core supplier development principle tested by the question.",
       "238-d": "This choice does not address the core supplier development principle tested by the question."
     },
-    "examTrap": "using scorecards only as punishment.",
-    "studyTip": "focus on root causes, process capability, and measurable performance improvement."
+    "examTrap": "Using scorecards only as punishment.",
+    "studyTip": "Focus on root causes, process capability, and measurable performance improvement."
   },
   {
     "id": "239",
@@ -8605,8 +8605,8 @@ export const generatedQuestions: Question[] = [
       "239-c": "This choice does not address the core supplier development principle tested by the question.",
       "239-d": "This choice does not address the core supplier development principle tested by the question."
     },
-    "examTrap": "using scorecards only as punishment.",
-    "studyTip": "focus on root causes, process capability, and measurable performance improvement."
+    "examTrap": "Using scorecards only as punishment.",
+    "studyTip": "Focus on root causes, process capability, and measurable performance improvement."
   },
   {
     "id": "240",
@@ -8619,7 +8619,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "240-a",
-        "text": "focus on root causes, process capability, and measurable performance improvement and verify the impact through agreed metrics."
+        "text": "Focus on root causes, process capability, and measurable performance improvement and verify the impact through agreed metrics."
       },
       {
         "id": "240-b",
@@ -8641,8 +8641,8 @@ export const generatedQuestions: Question[] = [
       "240-c": "This choice does not address the core supplier development principle tested by the question.",
       "240-d": "This choice does not address the core supplier development principle tested by the question."
     },
-    "examTrap": "using scorecards only as punishment.",
-    "studyTip": "focus on root causes, process capability, and measurable performance improvement."
+    "examTrap": "Using scorecards only as punishment.",
+    "studyTip": "Focus on root causes, process capability, and measurable performance improvement."
   },
   {
     "id": "241",
@@ -8677,8 +8677,8 @@ export const generatedQuestions: Question[] = [
       "241-b": "This choice does not address the core supplier scorecard principle tested by the question.",
       "241-c": "This choice does not address the core supplier scorecard principle tested by the question."
     },
-    "examTrap": "tracking metrics without action ownership.",
-    "studyTip": "review metrics with corrective actions and follow-up cadence."
+    "examTrap": "Tracking metrics without action ownership.",
+    "studyTip": "Review metrics with corrective actions and follow-up cadence."
   },
   {
     "id": "242",
@@ -8699,7 +8699,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "242-c",
-        "text": "review metrics with corrective actions and follow-up cadence."
+        "text": "Review metrics with corrective actions and follow-up cadence."
       },
       {
         "id": "242-d",
@@ -8713,8 +8713,8 @@ export const generatedQuestions: Question[] = [
       "242-b": "This choice does not address the core supplier scorecard principle tested by the question.",
       "242-d": "This choice does not address the core supplier scorecard principle tested by the question."
     },
-    "examTrap": "tracking metrics without action ownership.",
-    "studyTip": "review metrics with corrective actions and follow-up cadence."
+    "examTrap": "Tracking metrics without action ownership.",
+    "studyTip": "Review metrics with corrective actions and follow-up cadence."
   },
   {
     "id": "243",
@@ -8731,7 +8731,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "243-b",
-        "text": "tracking metrics without action ownership."
+        "text": "Tracking metrics without action ownership."
       },
       {
         "id": "243-c",
@@ -8749,8 +8749,8 @@ export const generatedQuestions: Question[] = [
       "243-c": "This choice does not address the core supplier scorecard principle tested by the question.",
       "243-d": "This choice does not address the core supplier scorecard principle tested by the question."
     },
-    "examTrap": "tracking metrics without action ownership.",
-    "studyTip": "review metrics with corrective actions and follow-up cadence."
+    "examTrap": "Tracking metrics without action ownership.",
+    "studyTip": "Review metrics with corrective actions and follow-up cadence."
   },
   {
     "id": "244",
@@ -8785,8 +8785,8 @@ export const generatedQuestions: Question[] = [
       "244-c": "This choice does not address the core supplier scorecard principle tested by the question.",
       "244-d": "This choice does not address the core supplier scorecard principle tested by the question."
     },
-    "examTrap": "tracking metrics without action ownership.",
-    "studyTip": "review metrics with corrective actions and follow-up cadence."
+    "examTrap": "Tracking metrics without action ownership.",
+    "studyTip": "Review metrics with corrective actions and follow-up cadence."
   },
   {
     "id": "245",
@@ -8811,7 +8811,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "245-d",
-        "text": "review metrics with corrective actions and follow-up cadence and verify the impact through agreed metrics."
+        "text": "Review metrics with corrective actions and follow-up cadence and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "245-d",
@@ -8821,8 +8821,8 @@ export const generatedQuestions: Question[] = [
       "245-b": "This choice does not address the core supplier scorecard principle tested by the question.",
       "245-c": "This choice does not address the core supplier scorecard principle tested by the question."
     },
-    "examTrap": "tracking metrics without action ownership.",
-    "studyTip": "review metrics with corrective actions and follow-up cadence."
+    "examTrap": "Tracking metrics without action ownership.",
+    "studyTip": "Review metrics with corrective actions and follow-up cadence."
   },
   {
     "id": "246",
@@ -8857,8 +8857,8 @@ export const generatedQuestions: Question[] = [
       "246-b": "This choice does not address the core total cost analysis principle tested by the question.",
       "246-d": "This choice does not address the core total cost analysis principle tested by the question."
     },
-    "examTrap": "celebrating purchase price variance while increasing expedite costs.",
-    "studyTip": "include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
+    "examTrap": "Celebrating purchase price variance while increasing expedite costs.",
+    "studyTip": "Include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
   },
   {
     "id": "247",
@@ -8875,7 +8875,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "247-b",
-        "text": "include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
+        "text": "Include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
       },
       {
         "id": "247-c",
@@ -8893,8 +8893,8 @@ export const generatedQuestions: Question[] = [
       "247-c": "This choice does not address the core total cost analysis principle tested by the question.",
       "247-d": "This choice does not address the core total cost analysis principle tested by the question."
     },
-    "examTrap": "celebrating purchase price variance while increasing expedite costs.",
-    "studyTip": "include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
+    "examTrap": "Celebrating purchase price variance while increasing expedite costs.",
+    "studyTip": "Include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
   },
   {
     "id": "248",
@@ -8907,7 +8907,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "248-a",
-        "text": "celebrating purchase price variance while increasing expedite costs."
+        "text": "Celebrating purchase price variance while increasing expedite costs."
       },
       {
         "id": "248-b",
@@ -8929,8 +8929,8 @@ export const generatedQuestions: Question[] = [
       "248-c": "This choice does not address the core total cost analysis principle tested by the question.",
       "248-d": "This choice does not address the core total cost analysis principle tested by the question."
     },
-    "examTrap": "celebrating purchase price variance while increasing expedite costs.",
-    "studyTip": "include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
+    "examTrap": "Celebrating purchase price variance while increasing expedite costs.",
+    "studyTip": "Include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
   },
   {
     "id": "249",
@@ -8965,8 +8965,8 @@ export const generatedQuestions: Question[] = [
       "249-b": "This choice does not address the core total cost analysis principle tested by the question.",
       "249-c": "This choice does not address the core total cost analysis principle tested by the question."
     },
-    "examTrap": "celebrating purchase price variance while increasing expedite costs.",
-    "studyTip": "include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
+    "examTrap": "Celebrating purchase price variance while increasing expedite costs.",
+    "studyTip": "Include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
   },
   {
     "id": "250",
@@ -8987,7 +8987,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "250-c",
-        "text": "include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs and verify the impact through agreed metrics."
+        "text": "Include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs and verify the impact through agreed metrics."
       },
       {
         "id": "250-d",
@@ -9001,8 +9001,8 @@ export const generatedQuestions: Question[] = [
       "250-b": "This choice does not address the core total cost analysis principle tested by the question.",
       "250-d": "This choice does not address the core total cost analysis principle tested by the question."
     },
-    "examTrap": "celebrating purchase price variance while increasing expedite costs.",
-    "studyTip": "include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
+    "examTrap": "Celebrating purchase price variance while increasing expedite costs.",
+    "studyTip": "Include freight, inventory, quality, admin, duties, tooling, risk, and lifecycle costs."
   },
   {
     "id": "251",
@@ -9037,8 +9037,8 @@ export const generatedQuestions: Question[] = [
       "251-c": "This choice does not address the core contract management principle tested by the question.",
       "251-d": "This choice does not address the core contract management principle tested by the question."
     },
-    "examTrap": "filing contracts away after signature.",
-    "studyTip": "ensure terms, service levels, compliance, and change controls are clear."
+    "examTrap": "Filing contracts away after signature.",
+    "studyTip": "Ensure terms, service levels, compliance, and change controls are clear."
   },
   {
     "id": "252",
@@ -9051,7 +9051,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "252-a",
-        "text": "ensure terms, service levels, compliance, and change controls are clear."
+        "text": "Ensure terms, service levels, compliance, and change controls are clear."
       },
       {
         "id": "252-b",
@@ -9073,8 +9073,8 @@ export const generatedQuestions: Question[] = [
       "252-c": "This choice does not address the core contract management principle tested by the question.",
       "252-d": "This choice does not address the core contract management principle tested by the question."
     },
-    "examTrap": "filing contracts away after signature.",
-    "studyTip": "ensure terms, service levels, compliance, and change controls are clear."
+    "examTrap": "Filing contracts away after signature.",
+    "studyTip": "Ensure terms, service levels, compliance, and change controls are clear."
   },
   {
     "id": "253",
@@ -9099,7 +9099,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "253-d",
-        "text": "filing contracts away after signature."
+        "text": "Filing contracts away after signature."
       }
     ],
     "correctChoiceId": "253-d",
@@ -9109,8 +9109,8 @@ export const generatedQuestions: Question[] = [
       "253-b": "This choice does not address the core contract management principle tested by the question.",
       "253-c": "This choice does not address the core contract management principle tested by the question."
     },
-    "examTrap": "filing contracts away after signature.",
-    "studyTip": "ensure terms, service levels, compliance, and change controls are clear."
+    "examTrap": "Filing contracts away after signature.",
+    "studyTip": "Ensure terms, service levels, compliance, and change controls are clear."
   },
   {
     "id": "254",
@@ -9145,8 +9145,8 @@ export const generatedQuestions: Question[] = [
       "254-b": "This choice does not address the core contract management principle tested by the question.",
       "254-d": "This choice does not address the core contract management principle tested by the question."
     },
-    "examTrap": "filing contracts away after signature.",
-    "studyTip": "ensure terms, service levels, compliance, and change controls are clear."
+    "examTrap": "Filing contracts away after signature.",
+    "studyTip": "Ensure terms, service levels, compliance, and change controls are clear."
   },
   {
     "id": "255",
@@ -9163,7 +9163,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "255-b",
-        "text": "ensure terms, service levels, compliance, and change controls are clear and verify the impact through agreed metrics."
+        "text": "Ensure terms, service levels, compliance, and change controls are clear and verify the impact through agreed metrics."
       },
       {
         "id": "255-c",
@@ -9181,8 +9181,8 @@ export const generatedQuestions: Question[] = [
       "255-c": "This choice does not address the core contract management principle tested by the question.",
       "255-d": "This choice does not address the core contract management principle tested by the question."
     },
-    "examTrap": "filing contracts away after signature.",
-    "studyTip": "ensure terms, service levels, compliance, and change controls are clear."
+    "examTrap": "Filing contracts away after signature.",
+    "studyTip": "Ensure terms, service levels, compliance, and change controls are clear."
   },
   {
     "id": "256",
@@ -9217,8 +9217,8 @@ export const generatedQuestions: Question[] = [
       "256-c": "This choice does not address the core service level agreement principle tested by the question.",
       "256-d": "This choice does not address the core service level agreement principle tested by the question."
     },
-    "examTrap": "using vague expectations that cannot be measured.",
-    "studyTip": "set measurable obligations and remedies for service performance."
+    "examTrap": "Using vague expectations that cannot be measured.",
+    "studyTip": "Set measurable obligations and remedies for service performance."
   },
   {
     "id": "257",
@@ -9243,7 +9243,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "257-d",
-        "text": "set measurable obligations and remedies for service performance."
+        "text": "Set measurable obligations and remedies for service performance."
       }
     ],
     "correctChoiceId": "257-d",
@@ -9253,8 +9253,8 @@ export const generatedQuestions: Question[] = [
       "257-b": "This choice does not address the core service level agreement principle tested by the question.",
       "257-c": "This choice does not address the core service level agreement principle tested by the question."
     },
-    "examTrap": "using vague expectations that cannot be measured.",
-    "studyTip": "set measurable obligations and remedies for service performance."
+    "examTrap": "Using vague expectations that cannot be measured.",
+    "studyTip": "Set measurable obligations and remedies for service performance."
   },
   {
     "id": "258",
@@ -9275,7 +9275,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "258-c",
-        "text": "using vague expectations that cannot be measured."
+        "text": "Using vague expectations that cannot be measured."
       },
       {
         "id": "258-d",
@@ -9289,8 +9289,8 @@ export const generatedQuestions: Question[] = [
       "258-b": "This choice does not address the core service level agreement principle tested by the question.",
       "258-d": "This choice does not address the core service level agreement principle tested by the question."
     },
-    "examTrap": "using vague expectations that cannot be measured.",
-    "studyTip": "set measurable obligations and remedies for service performance."
+    "examTrap": "Using vague expectations that cannot be measured.",
+    "studyTip": "Set measurable obligations and remedies for service performance."
   },
   {
     "id": "259",
@@ -9325,8 +9325,8 @@ export const generatedQuestions: Question[] = [
       "259-c": "This choice does not address the core service level agreement principle tested by the question.",
       "259-d": "This choice does not address the core service level agreement principle tested by the question."
     },
-    "examTrap": "using vague expectations that cannot be measured.",
-    "studyTip": "set measurable obligations and remedies for service performance."
+    "examTrap": "Using vague expectations that cannot be measured.",
+    "studyTip": "Set measurable obligations and remedies for service performance."
   },
   {
     "id": "260",
@@ -9339,7 +9339,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "260-a",
-        "text": "set measurable obligations and remedies for service performance and verify the impact through agreed metrics."
+        "text": "Set measurable obligations and remedies for service performance and verify the impact through agreed metrics."
       },
       {
         "id": "260-b",
@@ -9361,8 +9361,8 @@ export const generatedQuestions: Question[] = [
       "260-c": "This choice does not address the core service level agreement principle tested by the question.",
       "260-d": "This choice does not address the core service level agreement principle tested by the question."
     },
-    "examTrap": "using vague expectations that cannot be measured.",
-    "studyTip": "set measurable obligations and remedies for service performance."
+    "examTrap": "Using vague expectations that cannot be measured.",
+    "studyTip": "Set measurable obligations and remedies for service performance."
   },
   {
     "id": "261",
@@ -9397,8 +9397,8 @@ export const generatedQuestions: Question[] = [
       "261-b": "This choice does not address the core supplier risk management principle tested by the question.",
       "261-c": "This choice does not address the core supplier risk management principle tested by the question."
     },
-    "examTrap": "waiting until a supplier fails to assess risk.",
-    "studyTip": "rank exposure and build mitigation plans for critical suppliers."
+    "examTrap": "Waiting until a supplier fails to assess risk.",
+    "studyTip": "Rank exposure and build mitigation plans for critical suppliers."
   },
   {
     "id": "262",
@@ -9419,7 +9419,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "262-c",
-        "text": "rank exposure and build mitigation plans for critical suppliers."
+        "text": "Rank exposure and build mitigation plans for critical suppliers."
       },
       {
         "id": "262-d",
@@ -9433,8 +9433,8 @@ export const generatedQuestions: Question[] = [
       "262-b": "This choice does not address the core supplier risk management principle tested by the question.",
       "262-d": "This choice does not address the core supplier risk management principle tested by the question."
     },
-    "examTrap": "waiting until a supplier fails to assess risk.",
-    "studyTip": "rank exposure and build mitigation plans for critical suppliers."
+    "examTrap": "Waiting until a supplier fails to assess risk.",
+    "studyTip": "Rank exposure and build mitigation plans for critical suppliers."
   },
   {
     "id": "263",
@@ -9451,7 +9451,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "263-b",
-        "text": "waiting until a supplier fails to assess risk."
+        "text": "Waiting until a supplier fails to assess risk."
       },
       {
         "id": "263-c",
@@ -9469,8 +9469,8 @@ export const generatedQuestions: Question[] = [
       "263-c": "This choice does not address the core supplier risk management principle tested by the question.",
       "263-d": "This choice does not address the core supplier risk management principle tested by the question."
     },
-    "examTrap": "waiting until a supplier fails to assess risk.",
-    "studyTip": "rank exposure and build mitigation plans for critical suppliers."
+    "examTrap": "Waiting until a supplier fails to assess risk.",
+    "studyTip": "Rank exposure and build mitigation plans for critical suppliers."
   },
   {
     "id": "264",
@@ -9505,8 +9505,8 @@ export const generatedQuestions: Question[] = [
       "264-c": "This choice does not address the core supplier risk management principle tested by the question.",
       "264-d": "This choice does not address the core supplier risk management principle tested by the question."
     },
-    "examTrap": "waiting until a supplier fails to assess risk.",
-    "studyTip": "rank exposure and build mitigation plans for critical suppliers."
+    "examTrap": "Waiting until a supplier fails to assess risk.",
+    "studyTip": "Rank exposure and build mitigation plans for critical suppliers."
   },
   {
     "id": "265",
@@ -9531,7 +9531,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "265-d",
-        "text": "rank exposure and build mitigation plans for critical suppliers and verify the impact through agreed metrics."
+        "text": "Rank exposure and build mitigation plans for critical suppliers and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "265-d",
@@ -9541,8 +9541,8 @@ export const generatedQuestions: Question[] = [
       "265-b": "This choice does not address the core supplier risk management principle tested by the question.",
       "265-c": "This choice does not address the core supplier risk management principle tested by the question."
     },
-    "examTrap": "waiting until a supplier fails to assess risk.",
-    "studyTip": "rank exposure and build mitigation plans for critical suppliers."
+    "examTrap": "Waiting until a supplier fails to assess risk.",
+    "studyTip": "Rank exposure and build mitigation plans for critical suppliers."
   },
   {
     "id": "266",
@@ -9577,8 +9577,8 @@ export const generatedQuestions: Question[] = [
       "266-b": "This choice does not address the core dual sourcing principle tested by the question.",
       "266-d": "This choice does not address the core dual sourcing principle tested by the question."
     },
-    "examTrap": "dual sourcing everything without considering cost or volume fragmentation.",
-    "studyTip": "use dual sourcing when risk reduction or capacity flexibility justifies complexity."
+    "examTrap": "Dual sourcing everything without considering cost or volume fragmentation.",
+    "studyTip": "Use dual sourcing when risk reduction or capacity flexibility justifies complexity."
   },
   {
     "id": "267",
@@ -9595,7 +9595,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "267-b",
-        "text": "use dual sourcing when risk reduction or capacity flexibility justifies complexity."
+        "text": "Use dual sourcing when risk reduction or capacity flexibility justifies complexity."
       },
       {
         "id": "267-c",
@@ -9613,8 +9613,8 @@ export const generatedQuestions: Question[] = [
       "267-c": "This choice does not address the core dual sourcing principle tested by the question.",
       "267-d": "This choice does not address the core dual sourcing principle tested by the question."
     },
-    "examTrap": "dual sourcing everything without considering cost or volume fragmentation.",
-    "studyTip": "use dual sourcing when risk reduction or capacity flexibility justifies complexity."
+    "examTrap": "Dual sourcing everything without considering cost or volume fragmentation.",
+    "studyTip": "Use dual sourcing when risk reduction or capacity flexibility justifies complexity."
   },
   {
     "id": "268",
@@ -9627,7 +9627,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "268-a",
-        "text": "dual sourcing everything without considering cost or volume fragmentation."
+        "text": "Dual sourcing everything without considering cost or volume fragmentation."
       },
       {
         "id": "268-b",
@@ -9649,8 +9649,8 @@ export const generatedQuestions: Question[] = [
       "268-c": "This choice does not address the core dual sourcing principle tested by the question.",
       "268-d": "This choice does not address the core dual sourcing principle tested by the question."
     },
-    "examTrap": "dual sourcing everything without considering cost or volume fragmentation.",
-    "studyTip": "use dual sourcing when risk reduction or capacity flexibility justifies complexity."
+    "examTrap": "Dual sourcing everything without considering cost or volume fragmentation.",
+    "studyTip": "Use dual sourcing when risk reduction or capacity flexibility justifies complexity."
   },
   {
     "id": "269",
@@ -9685,8 +9685,8 @@ export const generatedQuestions: Question[] = [
       "269-b": "This choice does not address the core dual sourcing principle tested by the question.",
       "269-c": "This choice does not address the core dual sourcing principle tested by the question."
     },
-    "examTrap": "dual sourcing everything without considering cost or volume fragmentation.",
-    "studyTip": "use dual sourcing when risk reduction or capacity flexibility justifies complexity."
+    "examTrap": "Dual sourcing everything without considering cost or volume fragmentation.",
+    "studyTip": "Use dual sourcing when risk reduction or capacity flexibility justifies complexity."
   },
   {
     "id": "270",
@@ -9707,7 +9707,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "270-c",
-        "text": "use dual sourcing when risk reduction or capacity flexibility justifies complexity and verify the impact through agreed metrics."
+        "text": "Use dual sourcing when risk reduction or capacity flexibility justifies complexity and verify the impact through agreed metrics."
       },
       {
         "id": "270-d",
@@ -9721,8 +9721,8 @@ export const generatedQuestions: Question[] = [
       "270-b": "This choice does not address the core dual sourcing principle tested by the question.",
       "270-d": "This choice does not address the core dual sourcing principle tested by the question."
     },
-    "examTrap": "dual sourcing everything without considering cost or volume fragmentation.",
-    "studyTip": "use dual sourcing when risk reduction or capacity flexibility justifies complexity."
+    "examTrap": "Dual sourcing everything without considering cost or volume fragmentation.",
+    "studyTip": "Use dual sourcing when risk reduction or capacity flexibility justifies complexity."
   },
   {
     "id": "271",
@@ -9757,8 +9757,8 @@ export const generatedQuestions: Question[] = [
       "271-c": "This choice does not address the core single sourcing principle tested by the question.",
       "271-d": "This choice does not address the core single sourcing principle tested by the question."
     },
-    "examTrap": "confusing single source with sole source.",
-    "studyTip": "use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
+    "examTrap": "Confusing single source with sole source.",
+    "studyTip": "Use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
   },
   {
     "id": "272",
@@ -9771,7 +9771,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "272-a",
-        "text": "use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
+        "text": "Use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
       },
       {
         "id": "272-b",
@@ -9793,8 +9793,8 @@ export const generatedQuestions: Question[] = [
       "272-c": "This choice does not address the core single sourcing principle tested by the question.",
       "272-d": "This choice does not address the core single sourcing principle tested by the question."
     },
-    "examTrap": "confusing single source with sole source.",
-    "studyTip": "use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
+    "examTrap": "Confusing single source with sole source.",
+    "studyTip": "Use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
   },
   {
     "id": "273",
@@ -9819,7 +9819,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "273-d",
-        "text": "confusing single source with sole source."
+        "text": "Confusing single source with sole source."
       }
     ],
     "correctChoiceId": "273-d",
@@ -9829,8 +9829,8 @@ export const generatedQuestions: Question[] = [
       "273-b": "This choice does not address the core single sourcing principle tested by the question.",
       "273-c": "This choice does not address the core single sourcing principle tested by the question."
     },
-    "examTrap": "confusing single source with sole source.",
-    "studyTip": "use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
+    "examTrap": "Confusing single source with sole source.",
+    "studyTip": "Use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
   },
   {
     "id": "274",
@@ -9865,8 +9865,8 @@ export const generatedQuestions: Question[] = [
       "274-b": "This choice does not address the core single sourcing principle tested by the question.",
       "274-d": "This choice does not address the core single sourcing principle tested by the question."
     },
-    "examTrap": "confusing single source with sole source.",
-    "studyTip": "use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
+    "examTrap": "Confusing single source with sole source.",
+    "studyTip": "Use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
   },
   {
     "id": "275",
@@ -9883,7 +9883,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "275-b",
-        "text": "use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk and verify the impact through agreed metrics."
+        "text": "Use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk and verify the impact through agreed metrics."
       },
       {
         "id": "275-c",
@@ -9901,8 +9901,8 @@ export const generatedQuestions: Question[] = [
       "275-c": "This choice does not address the core single sourcing principle tested by the question.",
       "275-d": "This choice does not address the core single sourcing principle tested by the question."
     },
-    "examTrap": "confusing single source with sole source.",
-    "studyTip": "use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
+    "examTrap": "Confusing single source with sole source.",
+    "studyTip": "Use single sourcing when partnership, volume leverage, quality, or integration benefits outweigh risk."
   },
   {
     "id": "276",
@@ -9937,8 +9937,8 @@ export const generatedQuestions: Question[] = [
       "276-c": "This choice does not address the core sole sourcing principle tested by the question.",
       "276-d": "This choice does not address the core sole sourcing principle tested by the question."
     },
-    "examTrap": "assuming a sole source can be switched quickly during disruption.",
-    "studyTip": "manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
+    "examTrap": "Assuming a sole source can be switched quickly during disruption.",
+    "studyTip": "Manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
   },
   {
     "id": "277",
@@ -9963,7 +9963,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "277-d",
-        "text": "manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
+        "text": "Manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
       }
     ],
     "correctChoiceId": "277-d",
@@ -9973,8 +9973,8 @@ export const generatedQuestions: Question[] = [
       "277-b": "This choice does not address the core sole sourcing principle tested by the question.",
       "277-c": "This choice does not address the core sole sourcing principle tested by the question."
     },
-    "examTrap": "assuming a sole source can be switched quickly during disruption.",
-    "studyTip": "manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
+    "examTrap": "Assuming a sole source can be switched quickly during disruption.",
+    "studyTip": "Manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
   },
   {
     "id": "278",
@@ -9995,7 +9995,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "278-c",
-        "text": "assuming a sole source can be switched quickly during disruption."
+        "text": "Assuming a sole source can be switched quickly during disruption."
       },
       {
         "id": "278-d",
@@ -10009,8 +10009,8 @@ export const generatedQuestions: Question[] = [
       "278-b": "This choice does not address the core sole sourcing principle tested by the question.",
       "278-d": "This choice does not address the core sole sourcing principle tested by the question."
     },
-    "examTrap": "assuming a sole source can be switched quickly during disruption.",
-    "studyTip": "manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
+    "examTrap": "Assuming a sole source can be switched quickly during disruption.",
+    "studyTip": "Manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
   },
   {
     "id": "279",
@@ -10045,8 +10045,8 @@ export const generatedQuestions: Question[] = [
       "279-c": "This choice does not address the core sole sourcing principle tested by the question.",
       "279-d": "This choice does not address the core sole sourcing principle tested by the question."
     },
-    "examTrap": "assuming a sole source can be switched quickly during disruption.",
-    "studyTip": "manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
+    "examTrap": "Assuming a sole source can be switched quickly during disruption.",
+    "studyTip": "Manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
   },
   {
     "id": "280",
@@ -10059,7 +10059,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "280-a",
-        "text": "manage sole-source risk through contracts, inventory, design alternatives, or continuity plans and verify the impact through agreed metrics."
+        "text": "Manage sole-source risk through contracts, inventory, design alternatives, or continuity plans and verify the impact through agreed metrics."
       },
       {
         "id": "280-b",
@@ -10081,8 +10081,8 @@ export const generatedQuestions: Question[] = [
       "280-c": "This choice does not address the core sole sourcing principle tested by the question.",
       "280-d": "This choice does not address the core sole sourcing principle tested by the question."
     },
-    "examTrap": "assuming a sole source can be switched quickly during disruption.",
-    "studyTip": "manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
+    "examTrap": "Assuming a sole source can be switched quickly during disruption.",
+    "studyTip": "Manage sole-source risk through contracts, inventory, design alternatives, or continuity plans."
   },
   {
     "id": "281",
@@ -10117,8 +10117,8 @@ export const generatedQuestions: Question[] = [
       "281-b": "This choice does not address the core ethical sourcing principle tested by the question.",
       "281-c": "This choice does not address the core ethical sourcing principle tested by the question."
     },
-    "examTrap": "treating ethics as a public relations issue only.",
-    "studyTip": "verify supplier compliance and align sourcing with organizational values and regulation."
+    "examTrap": "Treating ethics as a public relations issue only.",
+    "studyTip": "Verify supplier compliance and align sourcing with organizational values and regulation."
   },
   {
     "id": "282",
@@ -10139,7 +10139,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "282-c",
-        "text": "verify supplier compliance and align sourcing with organizational values and regulation."
+        "text": "Verify supplier compliance and align sourcing with organizational values and regulation."
       },
       {
         "id": "282-d",
@@ -10153,8 +10153,8 @@ export const generatedQuestions: Question[] = [
       "282-b": "This choice does not address the core ethical sourcing principle tested by the question.",
       "282-d": "This choice does not address the core ethical sourcing principle tested by the question."
     },
-    "examTrap": "treating ethics as a public relations issue only.",
-    "studyTip": "verify supplier compliance and align sourcing with organizational values and regulation."
+    "examTrap": "Treating ethics as a public relations issue only.",
+    "studyTip": "Verify supplier compliance and align sourcing with organizational values and regulation."
   },
   {
     "id": "283",
@@ -10171,7 +10171,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "283-b",
-        "text": "treating ethics as a public relations issue only."
+        "text": "Treating ethics as a public relations issue only."
       },
       {
         "id": "283-c",
@@ -10189,8 +10189,8 @@ export const generatedQuestions: Question[] = [
       "283-c": "This choice does not address the core ethical sourcing principle tested by the question.",
       "283-d": "This choice does not address the core ethical sourcing principle tested by the question."
     },
-    "examTrap": "treating ethics as a public relations issue only.",
-    "studyTip": "verify supplier compliance and align sourcing with organizational values and regulation."
+    "examTrap": "Treating ethics as a public relations issue only.",
+    "studyTip": "Verify supplier compliance and align sourcing with organizational values and regulation."
   },
   {
     "id": "284",
@@ -10225,8 +10225,8 @@ export const generatedQuestions: Question[] = [
       "284-c": "This choice does not address the core ethical sourcing principle tested by the question.",
       "284-d": "This choice does not address the core ethical sourcing principle tested by the question."
     },
-    "examTrap": "treating ethics as a public relations issue only.",
-    "studyTip": "verify supplier compliance and align sourcing with organizational values and regulation."
+    "examTrap": "Treating ethics as a public relations issue only.",
+    "studyTip": "Verify supplier compliance and align sourcing with organizational values and regulation."
   },
   {
     "id": "285",
@@ -10251,7 +10251,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "285-d",
-        "text": "verify supplier compliance and align sourcing with organizational values and regulation and verify the impact through agreed metrics."
+        "text": "Verify supplier compliance and align sourcing with organizational values and regulation and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "285-d",
@@ -10261,8 +10261,8 @@ export const generatedQuestions: Question[] = [
       "285-b": "This choice does not address the core ethical sourcing principle tested by the question.",
       "285-c": "This choice does not address the core ethical sourcing principle tested by the question."
     },
-    "examTrap": "treating ethics as a public relations issue only.",
-    "studyTip": "verify supplier compliance and align sourcing with organizational values and regulation."
+    "examTrap": "Treating ethics as a public relations issue only.",
+    "studyTip": "Verify supplier compliance and align sourcing with organizational values and regulation."
   },
   {
     "id": "286",
@@ -10297,8 +10297,8 @@ export const generatedQuestions: Question[] = [
       "286-b": "This choice does not address the core negotiation planning principle tested by the question.",
       "286-d": "This choice does not address the core negotiation planning principle tested by the question."
     },
-    "examTrap": "negotiating without knowing the supplier market or internal priorities.",
-    "studyTip": "enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
+    "examTrap": "Negotiating without knowing the supplier market or internal priorities.",
+    "studyTip": "Enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
   },
   {
     "id": "287",
@@ -10315,7 +10315,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "287-b",
-        "text": "enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
+        "text": "Enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
       },
       {
         "id": "287-c",
@@ -10333,8 +10333,8 @@ export const generatedQuestions: Question[] = [
       "287-c": "This choice does not address the core negotiation planning principle tested by the question.",
       "287-d": "This choice does not address the core negotiation planning principle tested by the question."
     },
-    "examTrap": "negotiating without knowing the supplier market or internal priorities.",
-    "studyTip": "enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
+    "examTrap": "Negotiating without knowing the supplier market or internal priorities.",
+    "studyTip": "Enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
   },
   {
     "id": "288",
@@ -10347,7 +10347,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "288-a",
-        "text": "negotiating without knowing the supplier market or internal priorities."
+        "text": "Negotiating without knowing the supplier market or internal priorities."
       },
       {
         "id": "288-b",
@@ -10369,8 +10369,8 @@ export const generatedQuestions: Question[] = [
       "288-c": "This choice does not address the core negotiation planning principle tested by the question.",
       "288-d": "This choice does not address the core negotiation planning principle tested by the question."
     },
-    "examTrap": "negotiating without knowing the supplier market or internal priorities.",
-    "studyTip": "enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
+    "examTrap": "Negotiating without knowing the supplier market or internal priorities.",
+    "studyTip": "Enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
   },
   {
     "id": "289",
@@ -10405,8 +10405,8 @@ export const generatedQuestions: Question[] = [
       "289-b": "This choice does not address the core negotiation planning principle tested by the question.",
       "289-c": "This choice does not address the core negotiation planning principle tested by the question."
     },
-    "examTrap": "negotiating without knowing the supplier market or internal priorities.",
-    "studyTip": "enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
+    "examTrap": "Negotiating without knowing the supplier market or internal priorities.",
+    "studyTip": "Enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
   },
   {
     "id": "290",
@@ -10427,7 +10427,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "290-c",
-        "text": "enter negotiation with BATNA, walk-away points, and fact-based trade-offs and verify the impact through agreed metrics."
+        "text": "Enter negotiation with BATNA, walk-away points, and fact-based trade-offs and verify the impact through agreed metrics."
       },
       {
         "id": "290-d",
@@ -10441,8 +10441,8 @@ export const generatedQuestions: Question[] = [
       "290-b": "This choice does not address the core negotiation planning principle tested by the question.",
       "290-d": "This choice does not address the core negotiation planning principle tested by the question."
     },
-    "examTrap": "negotiating without knowing the supplier market or internal priorities.",
-    "studyTip": "enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
+    "examTrap": "Negotiating without knowing the supplier market or internal priorities.",
+    "studyTip": "Enter negotiation with BATNA, walk-away points, and fact-based trade-offs."
   },
   {
     "id": "291",
@@ -10477,8 +10477,8 @@ export const generatedQuestions: Question[] = [
       "291-c": "This choice does not address the core landed cost in sourcing principle tested by the question.",
       "291-d": "This choice does not address the core landed cost in sourcing principle tested by the question."
     },
-    "examTrap": "choosing distant supply because unit price is lower.",
-    "studyTip": "compare suppliers based on delivered economics and service impact."
+    "examTrap": "Choosing distant supply because unit price is lower.",
+    "studyTip": "Compare suppliers based on delivered economics and service impact."
   },
   {
     "id": "292",
@@ -10491,7 +10491,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "292-a",
-        "text": "compare suppliers based on delivered economics and service impact."
+        "text": "Compare suppliers based on delivered economics and service impact."
       },
       {
         "id": "292-b",
@@ -10513,8 +10513,8 @@ export const generatedQuestions: Question[] = [
       "292-c": "This choice does not address the core landed cost in sourcing principle tested by the question.",
       "292-d": "This choice does not address the core landed cost in sourcing principle tested by the question."
     },
-    "examTrap": "choosing distant supply because unit price is lower.",
-    "studyTip": "compare suppliers based on delivered economics and service impact."
+    "examTrap": "Choosing distant supply because unit price is lower.",
+    "studyTip": "Compare suppliers based on delivered economics and service impact."
   },
   {
     "id": "293",
@@ -10539,7 +10539,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "293-d",
-        "text": "choosing distant supply because unit price is lower."
+        "text": "Choosing distant supply because unit price is lower."
       }
     ],
     "correctChoiceId": "293-d",
@@ -10549,8 +10549,8 @@ export const generatedQuestions: Question[] = [
       "293-b": "This choice does not address the core landed cost in sourcing principle tested by the question.",
       "293-c": "This choice does not address the core landed cost in sourcing principle tested by the question."
     },
-    "examTrap": "choosing distant supply because unit price is lower.",
-    "studyTip": "compare suppliers based on delivered economics and service impact."
+    "examTrap": "Choosing distant supply because unit price is lower.",
+    "studyTip": "Compare suppliers based on delivered economics and service impact."
   },
   {
     "id": "294",
@@ -10585,8 +10585,8 @@ export const generatedQuestions: Question[] = [
       "294-b": "This choice does not address the core landed cost in sourcing principle tested by the question.",
       "294-d": "This choice does not address the core landed cost in sourcing principle tested by the question."
     },
-    "examTrap": "choosing distant supply because unit price is lower.",
-    "studyTip": "compare suppliers based on delivered economics and service impact."
+    "examTrap": "Choosing distant supply because unit price is lower.",
+    "studyTip": "Compare suppliers based on delivered economics and service impact."
   },
   {
     "id": "295",
@@ -10603,7 +10603,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "295-b",
-        "text": "compare suppliers based on delivered economics and service impact and verify the impact through agreed metrics."
+        "text": "Compare suppliers based on delivered economics and service impact and verify the impact through agreed metrics."
       },
       {
         "id": "295-c",
@@ -10621,8 +10621,8 @@ export const generatedQuestions: Question[] = [
       "295-c": "This choice does not address the core landed cost in sourcing principle tested by the question.",
       "295-d": "This choice does not address the core landed cost in sourcing principle tested by the question."
     },
-    "examTrap": "choosing distant supply because unit price is lower.",
-    "studyTip": "compare suppliers based on delivered economics and service impact."
+    "examTrap": "Choosing distant supply because unit price is lower.",
+    "studyTip": "Compare suppliers based on delivered economics and service impact."
   },
   {
     "id": "296",
@@ -10657,8 +10657,8 @@ export const generatedQuestions: Question[] = [
       "296-c": "This choice does not address the core early supplier involvement principle tested by the question.",
       "296-d": "This choice does not address the core early supplier involvement principle tested by the question."
     },
-    "examTrap": "using suppliers only after design decisions are final.",
-    "studyTip": "involve capable suppliers before specifications are locked."
+    "examTrap": "Using suppliers only after design decisions are final.",
+    "studyTip": "Involve capable suppliers before specifications are locked."
   },
   {
     "id": "297",
@@ -10683,7 +10683,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "297-d",
-        "text": "involve capable suppliers before specifications are locked."
+        "text": "Involve capable suppliers before specifications are locked."
       }
     ],
     "correctChoiceId": "297-d",
@@ -10693,8 +10693,8 @@ export const generatedQuestions: Question[] = [
       "297-b": "This choice does not address the core early supplier involvement principle tested by the question.",
       "297-c": "This choice does not address the core early supplier involvement principle tested by the question."
     },
-    "examTrap": "using suppliers only after design decisions are final.",
-    "studyTip": "involve capable suppliers before specifications are locked."
+    "examTrap": "Using suppliers only after design decisions are final.",
+    "studyTip": "Involve capable suppliers before specifications are locked."
   },
   {
     "id": "298",
@@ -10715,7 +10715,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "298-c",
-        "text": "using suppliers only after design decisions are final."
+        "text": "Using suppliers only after design decisions are final."
       },
       {
         "id": "298-d",
@@ -10729,8 +10729,8 @@ export const generatedQuestions: Question[] = [
       "298-b": "This choice does not address the core early supplier involvement principle tested by the question.",
       "298-d": "This choice does not address the core early supplier involvement principle tested by the question."
     },
-    "examTrap": "using suppliers only after design decisions are final.",
-    "studyTip": "involve capable suppliers before specifications are locked."
+    "examTrap": "Using suppliers only after design decisions are final.",
+    "studyTip": "Involve capable suppliers before specifications are locked."
   },
   {
     "id": "299",
@@ -10765,8 +10765,8 @@ export const generatedQuestions: Question[] = [
       "299-c": "This choice does not address the core early supplier involvement principle tested by the question.",
       "299-d": "This choice does not address the core early supplier involvement principle tested by the question."
     },
-    "examTrap": "using suppliers only after design decisions are final.",
-    "studyTip": "involve capable suppliers before specifications are locked."
+    "examTrap": "Using suppliers only after design decisions are final.",
+    "studyTip": "Involve capable suppliers before specifications are locked."
   },
   {
     "id": "300",
@@ -10779,7 +10779,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "300-a",
-        "text": "involve capable suppliers before specifications are locked and verify the impact through agreed metrics."
+        "text": "Involve capable suppliers before specifications are locked and verify the impact through agreed metrics."
       },
       {
         "id": "300-b",
@@ -10801,8 +10801,8 @@ export const generatedQuestions: Question[] = [
       "300-c": "This choice does not address the core early supplier involvement principle tested by the question.",
       "300-d": "This choice does not address the core early supplier involvement principle tested by the question."
     },
-    "examTrap": "using suppliers only after design decisions are final.",
-    "studyTip": "involve capable suppliers before specifications are locked."
+    "examTrap": "Using suppliers only after design decisions are final.",
+    "studyTip": "Involve capable suppliers before specifications are locked."
   },
   {
     "id": "301",
@@ -10837,8 +10837,8 @@ export const generatedQuestions: Question[] = [
       "301-b": "This choice does not address the core inventory accuracy principle tested by the question.",
       "301-c": "This choice does not address the core inventory accuracy principle tested by the question."
     },
-    "examTrap": "running MRP with unreliable records.",
-    "studyTip": "use cycle counting, transaction discipline, and root cause correction."
+    "examTrap": "Running MRP with unreliable records.",
+    "studyTip": "Use cycle counting, transaction discipline, and root cause correction."
   },
   {
     "id": "302",
@@ -10859,7 +10859,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "302-c",
-        "text": "use cycle counting, transaction discipline, and root cause correction."
+        "text": "Use cycle counting, transaction discipline, and root cause correction."
       },
       {
         "id": "302-d",
@@ -10873,8 +10873,8 @@ export const generatedQuestions: Question[] = [
       "302-b": "This choice does not address the core inventory accuracy principle tested by the question.",
       "302-d": "This choice does not address the core inventory accuracy principle tested by the question."
     },
-    "examTrap": "running MRP with unreliable records.",
-    "studyTip": "use cycle counting, transaction discipline, and root cause correction."
+    "examTrap": "Running MRP with unreliable records.",
+    "studyTip": "Use cycle counting, transaction discipline, and root cause correction."
   },
   {
     "id": "303",
@@ -10891,7 +10891,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "303-b",
-        "text": "running MRP with unreliable records."
+        "text": "Running MRP with unreliable records."
       },
       {
         "id": "303-c",
@@ -10909,8 +10909,8 @@ export const generatedQuestions: Question[] = [
       "303-c": "This choice does not address the core inventory accuracy principle tested by the question.",
       "303-d": "This choice does not address the core inventory accuracy principle tested by the question."
     },
-    "examTrap": "running MRP with unreliable records.",
-    "studyTip": "use cycle counting, transaction discipline, and root cause correction."
+    "examTrap": "Running MRP with unreliable records.",
+    "studyTip": "Use cycle counting, transaction discipline, and root cause correction."
   },
   {
     "id": "304",
@@ -10945,8 +10945,8 @@ export const generatedQuestions: Question[] = [
       "304-c": "This choice does not address the core inventory accuracy principle tested by the question.",
       "304-d": "This choice does not address the core inventory accuracy principle tested by the question."
     },
-    "examTrap": "running MRP with unreliable records.",
-    "studyTip": "use cycle counting, transaction discipline, and root cause correction."
+    "examTrap": "Running MRP with unreliable records.",
+    "studyTip": "Use cycle counting, transaction discipline, and root cause correction."
   },
   {
     "id": "305",
@@ -10971,7 +10971,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "305-d",
-        "text": "use cycle counting, transaction discipline, and root cause correction and verify the impact through agreed metrics."
+        "text": "Use cycle counting, transaction discipline, and root cause correction and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "305-d",
@@ -10981,8 +10981,8 @@ export const generatedQuestions: Question[] = [
       "305-b": "This choice does not address the core inventory accuracy principle tested by the question.",
       "305-c": "This choice does not address the core inventory accuracy principle tested by the question."
     },
-    "examTrap": "running MRP with unreliable records.",
-    "studyTip": "use cycle counting, transaction discipline, and root cause correction."
+    "examTrap": "Running MRP with unreliable records.",
+    "studyTip": "Use cycle counting, transaction discipline, and root cause correction."
   },
   {
     "id": "306",
@@ -11017,8 +11017,8 @@ export const generatedQuestions: Question[] = [
       "306-b": "This choice does not address the core inventory types principle tested by the question.",
       "306-d": "This choice does not address the core inventory types principle tested by the question."
     },
-    "examTrap": "calling all inventory waste without understanding its purpose.",
-    "studyTip": "identify why inventory exists before deciding whether to reduce it."
+    "examTrap": "Calling all inventory waste without understanding its purpose.",
+    "studyTip": "Identify why inventory exists before deciding whether to reduce it."
   },
   {
     "id": "307",
@@ -11035,7 +11035,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "307-b",
-        "text": "identify why inventory exists before deciding whether to reduce it."
+        "text": "Identify why inventory exists before deciding whether to reduce it."
       },
       {
         "id": "307-c",
@@ -11053,8 +11053,8 @@ export const generatedQuestions: Question[] = [
       "307-c": "This choice does not address the core inventory types principle tested by the question.",
       "307-d": "This choice does not address the core inventory types principle tested by the question."
     },
-    "examTrap": "calling all inventory waste without understanding its purpose.",
-    "studyTip": "identify why inventory exists before deciding whether to reduce it."
+    "examTrap": "Calling all inventory waste without understanding its purpose.",
+    "studyTip": "Identify why inventory exists before deciding whether to reduce it."
   },
   {
     "id": "308",
@@ -11067,7 +11067,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "308-a",
-        "text": "calling all inventory waste without understanding its purpose."
+        "text": "Calling all inventory waste without understanding its purpose."
       },
       {
         "id": "308-b",
@@ -11089,8 +11089,8 @@ export const generatedQuestions: Question[] = [
       "308-c": "This choice does not address the core inventory types principle tested by the question.",
       "308-d": "This choice does not address the core inventory types principle tested by the question."
     },
-    "examTrap": "calling all inventory waste without understanding its purpose.",
-    "studyTip": "identify why inventory exists before deciding whether to reduce it."
+    "examTrap": "Calling all inventory waste without understanding its purpose.",
+    "studyTip": "Identify why inventory exists before deciding whether to reduce it."
   },
   {
     "id": "309",
@@ -11125,8 +11125,8 @@ export const generatedQuestions: Question[] = [
       "309-b": "This choice does not address the core inventory types principle tested by the question.",
       "309-c": "This choice does not address the core inventory types principle tested by the question."
     },
-    "examTrap": "calling all inventory waste without understanding its purpose.",
-    "studyTip": "identify why inventory exists before deciding whether to reduce it."
+    "examTrap": "Calling all inventory waste without understanding its purpose.",
+    "studyTip": "Identify why inventory exists before deciding whether to reduce it."
   },
   {
     "id": "310",
@@ -11147,7 +11147,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "310-c",
-        "text": "identify why inventory exists before deciding whether to reduce it and verify the impact through agreed metrics."
+        "text": "Identify why inventory exists before deciding whether to reduce it and verify the impact through agreed metrics."
       },
       {
         "id": "310-d",
@@ -11161,8 +11161,8 @@ export const generatedQuestions: Question[] = [
       "310-b": "This choice does not address the core inventory types principle tested by the question.",
       "310-d": "This choice does not address the core inventory types principle tested by the question."
     },
-    "examTrap": "calling all inventory waste without understanding its purpose.",
-    "studyTip": "identify why inventory exists before deciding whether to reduce it."
+    "examTrap": "Calling all inventory waste without understanding its purpose.",
+    "studyTip": "Identify why inventory exists before deciding whether to reduce it."
   },
   {
     "id": "311",
@@ -11197,8 +11197,8 @@ export const generatedQuestions: Question[] = [
       "311-c": "This choice does not address the core mrp principle tested by the question.",
       "311-d": "This choice does not address the core mrp principle tested by the question."
     },
-    "examTrap": "expecting MRP to fix bad master data.",
-    "studyTip": "use accurate BOMs, routings, lead times, and inventory records."
+    "examTrap": "Expecting MRP to fix bad master data.",
+    "studyTip": "Use accurate BOMs, routings, lead times, and inventory records."
   },
   {
     "id": "312",
@@ -11211,7 +11211,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "312-a",
-        "text": "use accurate BOMs, routings, lead times, and inventory records."
+        "text": "Use accurate BOMs, routings, lead times, and inventory records."
       },
       {
         "id": "312-b",
@@ -11233,8 +11233,8 @@ export const generatedQuestions: Question[] = [
       "312-c": "This choice does not address the core mrp principle tested by the question.",
       "312-d": "This choice does not address the core mrp principle tested by the question."
     },
-    "examTrap": "expecting MRP to fix bad master data.",
-    "studyTip": "use accurate BOMs, routings, lead times, and inventory records."
+    "examTrap": "Expecting MRP to fix bad master data.",
+    "studyTip": "Use accurate BOMs, routings, lead times, and inventory records."
   },
   {
     "id": "313",
@@ -11259,7 +11259,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "313-d",
-        "text": "expecting MRP to fix bad master data."
+        "text": "Expecting MRP to fix bad master data."
       }
     ],
     "correctChoiceId": "313-d",
@@ -11269,8 +11269,8 @@ export const generatedQuestions: Question[] = [
       "313-b": "This choice does not address the core mrp principle tested by the question.",
       "313-c": "This choice does not address the core mrp principle tested by the question."
     },
-    "examTrap": "expecting MRP to fix bad master data.",
-    "studyTip": "use accurate BOMs, routings, lead times, and inventory records."
+    "examTrap": "Expecting MRP to fix bad master data.",
+    "studyTip": "Use accurate BOMs, routings, lead times, and inventory records."
   },
   {
     "id": "314",
@@ -11305,8 +11305,8 @@ export const generatedQuestions: Question[] = [
       "314-b": "This choice does not address the core mrp principle tested by the question.",
       "314-d": "This choice does not address the core mrp principle tested by the question."
     },
-    "examTrap": "expecting MRP to fix bad master data.",
-    "studyTip": "use accurate BOMs, routings, lead times, and inventory records."
+    "examTrap": "Expecting MRP to fix bad master data.",
+    "studyTip": "Use accurate BOMs, routings, lead times, and inventory records."
   },
   {
     "id": "315",
@@ -11323,7 +11323,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "315-b",
-        "text": "use accurate BOMs, routings, lead times, and inventory records and verify the impact through agreed metrics."
+        "text": "Use accurate BOMs, routings, lead times, and inventory records and verify the impact through agreed metrics."
       },
       {
         "id": "315-c",
@@ -11341,8 +11341,8 @@ export const generatedQuestions: Question[] = [
       "315-c": "This choice does not address the core mrp principle tested by the question.",
       "315-d": "This choice does not address the core mrp principle tested by the question."
     },
-    "examTrap": "expecting MRP to fix bad master data.",
-    "studyTip": "use accurate BOMs, routings, lead times, and inventory records."
+    "examTrap": "Expecting MRP to fix bad master data.",
+    "studyTip": "Use accurate BOMs, routings, lead times, and inventory records."
   },
   {
     "id": "316",
@@ -11377,8 +11377,8 @@ export const generatedQuestions: Question[] = [
       "316-c": "This choice does not address the core master production schedule principle tested by the question.",
       "316-d": "This choice does not address the core master production schedule principle tested by the question."
     },
-    "examTrap": "loading the MPS beyond capacity or supply feasibility.",
-    "studyTip": "use the MPS to translate demand into a realistic production plan."
+    "examTrap": "Loading the MPS beyond capacity or supply feasibility.",
+    "studyTip": "Use the MPS to translate demand into a realistic production plan."
   },
   {
     "id": "317",
@@ -11403,7 +11403,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "317-d",
-        "text": "use the MPS to translate demand into a realistic production plan."
+        "text": "Use the MPS to translate demand into a realistic production plan."
       }
     ],
     "correctChoiceId": "317-d",
@@ -11413,8 +11413,8 @@ export const generatedQuestions: Question[] = [
       "317-b": "This choice does not address the core master production schedule principle tested by the question.",
       "317-c": "This choice does not address the core master production schedule principle tested by the question."
     },
-    "examTrap": "loading the MPS beyond capacity or supply feasibility.",
-    "studyTip": "use the MPS to translate demand into a realistic production plan."
+    "examTrap": "Loading the MPS beyond capacity or supply feasibility.",
+    "studyTip": "Use the MPS to translate demand into a realistic production plan."
   },
   {
     "id": "318",
@@ -11435,7 +11435,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "318-c",
-        "text": "loading the MPS beyond capacity or supply feasibility."
+        "text": "Loading the MPS beyond capacity or supply feasibility."
       },
       {
         "id": "318-d",
@@ -11449,8 +11449,8 @@ export const generatedQuestions: Question[] = [
       "318-b": "This choice does not address the core master production schedule principle tested by the question.",
       "318-d": "This choice does not address the core master production schedule principle tested by the question."
     },
-    "examTrap": "loading the MPS beyond capacity or supply feasibility.",
-    "studyTip": "use the MPS to translate demand into a realistic production plan."
+    "examTrap": "Loading the MPS beyond capacity or supply feasibility.",
+    "studyTip": "Use the MPS to translate demand into a realistic production plan."
   },
   {
     "id": "319",
@@ -11485,8 +11485,8 @@ export const generatedQuestions: Question[] = [
       "319-c": "This choice does not address the core master production schedule principle tested by the question.",
       "319-d": "This choice does not address the core master production schedule principle tested by the question."
     },
-    "examTrap": "loading the MPS beyond capacity or supply feasibility.",
-    "studyTip": "use the MPS to translate demand into a realistic production plan."
+    "examTrap": "Loading the MPS beyond capacity or supply feasibility.",
+    "studyTip": "Use the MPS to translate demand into a realistic production plan."
   },
   {
     "id": "320",
@@ -11499,7 +11499,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "320-a",
-        "text": "use the MPS to translate demand into a realistic production plan and verify the impact through agreed metrics."
+        "text": "Use the MPS to translate demand into a realistic production plan and verify the impact through agreed metrics."
       },
       {
         "id": "320-b",
@@ -11521,8 +11521,8 @@ export const generatedQuestions: Question[] = [
       "320-c": "This choice does not address the core master production schedule principle tested by the question.",
       "320-d": "This choice does not address the core master production schedule principle tested by the question."
     },
-    "examTrap": "loading the MPS beyond capacity or supply feasibility.",
-    "studyTip": "use the MPS to translate demand into a realistic production plan."
+    "examTrap": "Loading the MPS beyond capacity or supply feasibility.",
+    "studyTip": "Use the MPS to translate demand into a realistic production plan."
   },
   {
     "id": "321",
@@ -11557,8 +11557,8 @@ export const generatedQuestions: Question[] = [
       "321-b": "This choice does not address the core bill of materials principle tested by the question.",
       "321-c": "This choice does not address the core bill of materials principle tested by the question."
     },
-    "examTrap": "ignoring engineering changes and creating planning errors.",
-    "studyTip": "maintain BOM accuracy to support planning, costing, and execution."
+    "examTrap": "Ignoring engineering changes and creating planning errors.",
+    "studyTip": "Maintain BOM accuracy to support planning, costing, and execution."
   },
   {
     "id": "322",
@@ -11579,7 +11579,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "322-c",
-        "text": "maintain BOM accuracy to support planning, costing, and execution."
+        "text": "Maintain BOM accuracy to support planning, costing, and execution."
       },
       {
         "id": "322-d",
@@ -11593,8 +11593,8 @@ export const generatedQuestions: Question[] = [
       "322-b": "This choice does not address the core bill of materials principle tested by the question.",
       "322-d": "This choice does not address the core bill of materials principle tested by the question."
     },
-    "examTrap": "ignoring engineering changes and creating planning errors.",
-    "studyTip": "maintain BOM accuracy to support planning, costing, and execution."
+    "examTrap": "Ignoring engineering changes and creating planning errors.",
+    "studyTip": "Maintain BOM accuracy to support planning, costing, and execution."
   },
   {
     "id": "323",
@@ -11611,7 +11611,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "323-b",
-        "text": "ignoring engineering changes and creating planning errors."
+        "text": "Ignoring engineering changes and creating planning errors."
       },
       {
         "id": "323-c",
@@ -11629,8 +11629,8 @@ export const generatedQuestions: Question[] = [
       "323-c": "This choice does not address the core bill of materials principle tested by the question.",
       "323-d": "This choice does not address the core bill of materials principle tested by the question."
     },
-    "examTrap": "ignoring engineering changes and creating planning errors.",
-    "studyTip": "maintain BOM accuracy to support planning, costing, and execution."
+    "examTrap": "Ignoring engineering changes and creating planning errors.",
+    "studyTip": "Maintain BOM accuracy to support planning, costing, and execution."
   },
   {
     "id": "324",
@@ -11665,8 +11665,8 @@ export const generatedQuestions: Question[] = [
       "324-c": "This choice does not address the core bill of materials principle tested by the question.",
       "324-d": "This choice does not address the core bill of materials principle tested by the question."
     },
-    "examTrap": "ignoring engineering changes and creating planning errors.",
-    "studyTip": "maintain BOM accuracy to support planning, costing, and execution."
+    "examTrap": "Ignoring engineering changes and creating planning errors.",
+    "studyTip": "Maintain BOM accuracy to support planning, costing, and execution."
   },
   {
     "id": "325",
@@ -11691,7 +11691,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "325-d",
-        "text": "maintain BOM accuracy to support planning, costing, and execution and verify the impact through agreed metrics."
+        "text": "Maintain BOM accuracy to support planning, costing, and execution and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "325-d",
@@ -11701,8 +11701,8 @@ export const generatedQuestions: Question[] = [
       "325-b": "This choice does not address the core bill of materials principle tested by the question.",
       "325-c": "This choice does not address the core bill of materials principle tested by the question."
     },
-    "examTrap": "ignoring engineering changes and creating planning errors.",
-    "studyTip": "maintain BOM accuracy to support planning, costing, and execution."
+    "examTrap": "Ignoring engineering changes and creating planning errors.",
+    "studyTip": "Maintain BOM accuracy to support planning, costing, and execution."
   },
   {
     "id": "326",
@@ -11737,8 +11737,8 @@ export const generatedQuestions: Question[] = [
       "326-b": "This choice does not address the core capacity planning principle tested by the question.",
       "326-d": "This choice does not address the core capacity planning principle tested by the question."
     },
-    "examTrap": "assuming material availability means capacity is available.",
-    "studyTip": "compare required capacity to available capacity and resolve gaps early."
+    "examTrap": "Assuming material availability means capacity is available.",
+    "studyTip": "Compare required capacity to available capacity and resolve gaps early."
   },
   {
     "id": "327",
@@ -11755,7 +11755,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "327-b",
-        "text": "compare required capacity to available capacity and resolve gaps early."
+        "text": "Compare required capacity to available capacity and resolve gaps early."
       },
       {
         "id": "327-c",
@@ -11773,8 +11773,8 @@ export const generatedQuestions: Question[] = [
       "327-c": "This choice does not address the core capacity planning principle tested by the question.",
       "327-d": "This choice does not address the core capacity planning principle tested by the question."
     },
-    "examTrap": "assuming material availability means capacity is available.",
-    "studyTip": "compare required capacity to available capacity and resolve gaps early."
+    "examTrap": "Assuming material availability means capacity is available.",
+    "studyTip": "Compare required capacity to available capacity and resolve gaps early."
   },
   {
     "id": "328",
@@ -11787,7 +11787,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "328-a",
-        "text": "assuming material availability means capacity is available."
+        "text": "Assuming material availability means capacity is available."
       },
       {
         "id": "328-b",
@@ -11809,8 +11809,8 @@ export const generatedQuestions: Question[] = [
       "328-c": "This choice does not address the core capacity planning principle tested by the question.",
       "328-d": "This choice does not address the core capacity planning principle tested by the question."
     },
-    "examTrap": "assuming material availability means capacity is available.",
-    "studyTip": "compare required capacity to available capacity and resolve gaps early."
+    "examTrap": "Assuming material availability means capacity is available.",
+    "studyTip": "Compare required capacity to available capacity and resolve gaps early."
   },
   {
     "id": "329",
@@ -11845,8 +11845,8 @@ export const generatedQuestions: Question[] = [
       "329-b": "This choice does not address the core capacity planning principle tested by the question.",
       "329-c": "This choice does not address the core capacity planning principle tested by the question."
     },
-    "examTrap": "assuming material availability means capacity is available.",
-    "studyTip": "compare required capacity to available capacity and resolve gaps early."
+    "examTrap": "Assuming material availability means capacity is available.",
+    "studyTip": "Compare required capacity to available capacity and resolve gaps early."
   },
   {
     "id": "330",
@@ -11867,7 +11867,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "330-c",
-        "text": "compare required capacity to available capacity and resolve gaps early and verify the impact through agreed metrics."
+        "text": "Compare required capacity to available capacity and resolve gaps early and verify the impact through agreed metrics."
       },
       {
         "id": "330-d",
@@ -11881,8 +11881,8 @@ export const generatedQuestions: Question[] = [
       "330-b": "This choice does not address the core capacity planning principle tested by the question.",
       "330-d": "This choice does not address the core capacity planning principle tested by the question."
     },
-    "examTrap": "assuming material availability means capacity is available.",
-    "studyTip": "compare required capacity to available capacity and resolve gaps early."
+    "examTrap": "Assuming material availability means capacity is available.",
+    "studyTip": "Compare required capacity to available capacity and resolve gaps early."
   },
   {
     "id": "331",
@@ -11917,8 +11917,8 @@ export const generatedQuestions: Question[] = [
       "331-c": "This choice does not address the core rough-cut capacity planning principle tested by the question.",
       "331-d": "This choice does not address the core rough-cut capacity planning principle tested by the question."
     },
-    "examTrap": "waiting until production scheduling to find a capacity problem.",
-    "studyTip": "check key resources before releasing detailed plans."
+    "examTrap": "Waiting until production scheduling to find a capacity problem.",
+    "studyTip": "Check key resources before releasing detailed plans."
   },
   {
     "id": "332",
@@ -11931,7 +11931,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "332-a",
-        "text": "check key resources before releasing detailed plans."
+        "text": "Check key resources before releasing detailed plans."
       },
       {
         "id": "332-b",
@@ -11953,8 +11953,8 @@ export const generatedQuestions: Question[] = [
       "332-c": "This choice does not address the core rough-cut capacity planning principle tested by the question.",
       "332-d": "This choice does not address the core rough-cut capacity planning principle tested by the question."
     },
-    "examTrap": "waiting until production scheduling to find a capacity problem.",
-    "studyTip": "check key resources before releasing detailed plans."
+    "examTrap": "Waiting until production scheduling to find a capacity problem.",
+    "studyTip": "Check key resources before releasing detailed plans."
   },
   {
     "id": "333",
@@ -11979,7 +11979,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "333-d",
-        "text": "waiting until production scheduling to find a capacity problem."
+        "text": "Waiting until production scheduling to find a capacity problem."
       }
     ],
     "correctChoiceId": "333-d",
@@ -11989,8 +11989,8 @@ export const generatedQuestions: Question[] = [
       "333-b": "This choice does not address the core rough-cut capacity planning principle tested by the question.",
       "333-c": "This choice does not address the core rough-cut capacity planning principle tested by the question."
     },
-    "examTrap": "waiting until production scheduling to find a capacity problem.",
-    "studyTip": "check key resources before releasing detailed plans."
+    "examTrap": "Waiting until production scheduling to find a capacity problem.",
+    "studyTip": "Check key resources before releasing detailed plans."
   },
   {
     "id": "334",
@@ -12025,8 +12025,8 @@ export const generatedQuestions: Question[] = [
       "334-b": "This choice does not address the core rough-cut capacity planning principle tested by the question.",
       "334-d": "This choice does not address the core rough-cut capacity planning principle tested by the question."
     },
-    "examTrap": "waiting until production scheduling to find a capacity problem.",
-    "studyTip": "check key resources before releasing detailed plans."
+    "examTrap": "Waiting until production scheduling to find a capacity problem.",
+    "studyTip": "Check key resources before releasing detailed plans."
   },
   {
     "id": "335",
@@ -12043,7 +12043,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "335-b",
-        "text": "check key resources before releasing detailed plans and verify the impact through agreed metrics."
+        "text": "Check key resources before releasing detailed plans and verify the impact through agreed metrics."
       },
       {
         "id": "335-c",
@@ -12061,8 +12061,8 @@ export const generatedQuestions: Question[] = [
       "335-c": "This choice does not address the core rough-cut capacity planning principle tested by the question.",
       "335-d": "This choice does not address the core rough-cut capacity planning principle tested by the question."
     },
-    "examTrap": "waiting until production scheduling to find a capacity problem.",
-    "studyTip": "check key resources before releasing detailed plans."
+    "examTrap": "Waiting until production scheduling to find a capacity problem.",
+    "studyTip": "Check key resources before releasing detailed plans."
   },
   {
     "id": "336",
@@ -12097,8 +12097,8 @@ export const generatedQuestions: Question[] = [
       "336-c": "This choice does not address the core finite scheduling principle tested by the question.",
       "336-d": "This choice does not address the core finite scheduling principle tested by the question."
     },
-    "examTrap": "planning unlimited work through a constrained resource.",
-    "studyTip": "sequence work within actual resource limits."
+    "examTrap": "Planning unlimited work through a constrained resource.",
+    "studyTip": "Sequence work within actual resource limits."
   },
   {
     "id": "337",
@@ -12123,7 +12123,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "337-d",
-        "text": "sequence work within actual resource limits."
+        "text": "Sequence work within actual resource limits."
       }
     ],
     "correctChoiceId": "337-d",
@@ -12133,8 +12133,8 @@ export const generatedQuestions: Question[] = [
       "337-b": "This choice does not address the core finite scheduling principle tested by the question.",
       "337-c": "This choice does not address the core finite scheduling principle tested by the question."
     },
-    "examTrap": "planning unlimited work through a constrained resource.",
-    "studyTip": "sequence work within actual resource limits."
+    "examTrap": "Planning unlimited work through a constrained resource.",
+    "studyTip": "Sequence work within actual resource limits."
   },
   {
     "id": "338",
@@ -12155,7 +12155,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "338-c",
-        "text": "planning unlimited work through a constrained resource."
+        "text": "Planning unlimited work through a constrained resource."
       },
       {
         "id": "338-d",
@@ -12169,8 +12169,8 @@ export const generatedQuestions: Question[] = [
       "338-b": "This choice does not address the core finite scheduling principle tested by the question.",
       "338-d": "This choice does not address the core finite scheduling principle tested by the question."
     },
-    "examTrap": "planning unlimited work through a constrained resource.",
-    "studyTip": "sequence work within actual resource limits."
+    "examTrap": "Planning unlimited work through a constrained resource.",
+    "studyTip": "Sequence work within actual resource limits."
   },
   {
     "id": "339",
@@ -12205,8 +12205,8 @@ export const generatedQuestions: Question[] = [
       "339-c": "This choice does not address the core finite scheduling principle tested by the question.",
       "339-d": "This choice does not address the core finite scheduling principle tested by the question."
     },
-    "examTrap": "planning unlimited work through a constrained resource.",
-    "studyTip": "sequence work within actual resource limits."
+    "examTrap": "Planning unlimited work through a constrained resource.",
+    "studyTip": "Sequence work within actual resource limits."
   },
   {
     "id": "340",
@@ -12219,7 +12219,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "340-a",
-        "text": "sequence work within actual resource limits and verify the impact through agreed metrics."
+        "text": "Sequence work within actual resource limits and verify the impact through agreed metrics."
       },
       {
         "id": "340-b",
@@ -12241,8 +12241,8 @@ export const generatedQuestions: Question[] = [
       "340-c": "This choice does not address the core finite scheduling principle tested by the question.",
       "340-d": "This choice does not address the core finite scheduling principle tested by the question."
     },
-    "examTrap": "planning unlimited work through a constrained resource.",
-    "studyTip": "sequence work within actual resource limits."
+    "examTrap": "Planning unlimited work through a constrained resource.",
+    "studyTip": "Sequence work within actual resource limits."
   },
   {
     "id": "341",
@@ -12277,8 +12277,8 @@ export const generatedQuestions: Question[] = [
       "341-b": "This choice does not address the core lean operations principle tested by the question.",
       "341-c": "This choice does not address the core lean operations principle tested by the question."
     },
-    "examTrap": "cutting inventory without fixing process instability.",
-    "studyTip": "remove waste, stabilize processes, and improve flow before automating."
+    "examTrap": "Cutting inventory without fixing process instability.",
+    "studyTip": "Remove waste, stabilize processes, and improve flow before automating."
   },
   {
     "id": "342",
@@ -12299,7 +12299,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "342-c",
-        "text": "remove waste, stabilize processes, and improve flow before automating."
+        "text": "Remove waste, stabilize processes, and improve flow before automating."
       },
       {
         "id": "342-d",
@@ -12313,8 +12313,8 @@ export const generatedQuestions: Question[] = [
       "342-b": "This choice does not address the core lean operations principle tested by the question.",
       "342-d": "This choice does not address the core lean operations principle tested by the question."
     },
-    "examTrap": "cutting inventory without fixing process instability.",
-    "studyTip": "remove waste, stabilize processes, and improve flow before automating."
+    "examTrap": "Cutting inventory without fixing process instability.",
+    "studyTip": "Remove waste, stabilize processes, and improve flow before automating."
   },
   {
     "id": "343",
@@ -12331,7 +12331,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "343-b",
-        "text": "cutting inventory without fixing process instability."
+        "text": "Cutting inventory without fixing process instability."
       },
       {
         "id": "343-c",
@@ -12349,8 +12349,8 @@ export const generatedQuestions: Question[] = [
       "343-c": "This choice does not address the core lean operations principle tested by the question.",
       "343-d": "This choice does not address the core lean operations principle tested by the question."
     },
-    "examTrap": "cutting inventory without fixing process instability.",
-    "studyTip": "remove waste, stabilize processes, and improve flow before automating."
+    "examTrap": "Cutting inventory without fixing process instability.",
+    "studyTip": "Remove waste, stabilize processes, and improve flow before automating."
   },
   {
     "id": "344",
@@ -12385,8 +12385,8 @@ export const generatedQuestions: Question[] = [
       "344-c": "This choice does not address the core lean operations principle tested by the question.",
       "344-d": "This choice does not address the core lean operations principle tested by the question."
     },
-    "examTrap": "cutting inventory without fixing process instability.",
-    "studyTip": "remove waste, stabilize processes, and improve flow before automating."
+    "examTrap": "Cutting inventory without fixing process instability.",
+    "studyTip": "Remove waste, stabilize processes, and improve flow before automating."
   },
   {
     "id": "345",
@@ -12411,7 +12411,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "345-d",
-        "text": "remove waste, stabilize processes, and improve flow before automating and verify the impact through agreed metrics."
+        "text": "Remove waste, stabilize processes, and improve flow before automating and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "345-d",
@@ -12421,8 +12421,8 @@ export const generatedQuestions: Question[] = [
       "345-b": "This choice does not address the core lean operations principle tested by the question.",
       "345-c": "This choice does not address the core lean operations principle tested by the question."
     },
-    "examTrap": "cutting inventory without fixing process instability.",
-    "studyTip": "remove waste, stabilize processes, and improve flow before automating."
+    "examTrap": "Cutting inventory without fixing process instability.",
+    "studyTip": "Remove waste, stabilize processes, and improve flow before automating."
   },
   {
     "id": "346",
@@ -12457,8 +12457,8 @@ export const generatedQuestions: Question[] = [
       "346-b": "This choice does not address the core kanban principle tested by the question.",
       "346-d": "This choice does not address the core kanban principle tested by the question."
     },
-    "examTrap": "using kanban for highly erratic items without controls.",
-    "studyTip": "use kanban where demand is reasonably stable and replenishment rules are clear."
+    "examTrap": "Using kanban for highly erratic items without controls.",
+    "studyTip": "Use kanban where demand is reasonably stable and replenishment rules are clear."
   },
   {
     "id": "347",
@@ -12475,7 +12475,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "347-b",
-        "text": "use kanban where demand is reasonably stable and replenishment rules are clear."
+        "text": "Use kanban where demand is reasonably stable and replenishment rules are clear."
       },
       {
         "id": "347-c",
@@ -12493,8 +12493,8 @@ export const generatedQuestions: Question[] = [
       "347-c": "This choice does not address the core kanban principle tested by the question.",
       "347-d": "This choice does not address the core kanban principle tested by the question."
     },
-    "examTrap": "using kanban for highly erratic items without controls.",
-    "studyTip": "use kanban where demand is reasonably stable and replenishment rules are clear."
+    "examTrap": "Using kanban for highly erratic items without controls.",
+    "studyTip": "Use kanban where demand is reasonably stable and replenishment rules are clear."
   },
   {
     "id": "348",
@@ -12507,7 +12507,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "348-a",
-        "text": "using kanban for highly erratic items without controls."
+        "text": "Using kanban for highly erratic items without controls."
       },
       {
         "id": "348-b",
@@ -12529,8 +12529,8 @@ export const generatedQuestions: Question[] = [
       "348-c": "This choice does not address the core kanban principle tested by the question.",
       "348-d": "This choice does not address the core kanban principle tested by the question."
     },
-    "examTrap": "using kanban for highly erratic items without controls.",
-    "studyTip": "use kanban where demand is reasonably stable and replenishment rules are clear."
+    "examTrap": "Using kanban for highly erratic items without controls.",
+    "studyTip": "Use kanban where demand is reasonably stable and replenishment rules are clear."
   },
   {
     "id": "349",
@@ -12565,8 +12565,8 @@ export const generatedQuestions: Question[] = [
       "349-b": "This choice does not address the core kanban principle tested by the question.",
       "349-c": "This choice does not address the core kanban principle tested by the question."
     },
-    "examTrap": "using kanban for highly erratic items without controls.",
-    "studyTip": "use kanban where demand is reasonably stable and replenishment rules are clear."
+    "examTrap": "Using kanban for highly erratic items without controls.",
+    "studyTip": "Use kanban where demand is reasonably stable and replenishment rules are clear."
   },
   {
     "id": "350",
@@ -12587,7 +12587,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "350-c",
-        "text": "use kanban where demand is reasonably stable and replenishment rules are clear and verify the impact through agreed metrics."
+        "text": "Use kanban where demand is reasonably stable and replenishment rules are clear and verify the impact through agreed metrics."
       },
       {
         "id": "350-d",
@@ -12601,8 +12601,8 @@ export const generatedQuestions: Question[] = [
       "350-b": "This choice does not address the core kanban principle tested by the question.",
       "350-d": "This choice does not address the core kanban principle tested by the question."
     },
-    "examTrap": "using kanban for highly erratic items without controls.",
-    "studyTip": "use kanban where demand is reasonably stable and replenishment rules are clear."
+    "examTrap": "Using kanban for highly erratic items without controls.",
+    "studyTip": "Use kanban where demand is reasonably stable and replenishment rules are clear."
   },
   {
     "id": "351",
@@ -12637,8 +12637,8 @@ export const generatedQuestions: Question[] = [
       "351-c": "This choice does not address the core economic order quantity principle tested by the question.",
       "351-d": "This choice does not address the core economic order quantity principle tested by the question."
     },
-    "examTrap": "treating EOQ as exact when assumptions are unrealistic.",
-    "studyTip": "use EOQ when demand and cost assumptions are stable enough to be useful."
+    "examTrap": "Treating EOQ as exact when assumptions are unrealistic.",
+    "studyTip": "Use EOQ when demand and cost assumptions are stable enough to be useful."
   },
   {
     "id": "352",
@@ -12651,7 +12651,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "352-a",
-        "text": "use EOQ when demand and cost assumptions are stable enough to be useful."
+        "text": "Use EOQ when demand and cost assumptions are stable enough to be useful."
       },
       {
         "id": "352-b",
@@ -12673,8 +12673,8 @@ export const generatedQuestions: Question[] = [
       "352-c": "This choice does not address the core economic order quantity principle tested by the question.",
       "352-d": "This choice does not address the core economic order quantity principle tested by the question."
     },
-    "examTrap": "treating EOQ as exact when assumptions are unrealistic.",
-    "studyTip": "use EOQ when demand and cost assumptions are stable enough to be useful."
+    "examTrap": "Treating EOQ as exact when assumptions are unrealistic.",
+    "studyTip": "Use EOQ when demand and cost assumptions are stable enough to be useful."
   },
   {
     "id": "353",
@@ -12699,7 +12699,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "353-d",
-        "text": "treating EOQ as exact when assumptions are unrealistic."
+        "text": "Treating EOQ as exact when assumptions are unrealistic."
       }
     ],
     "correctChoiceId": "353-d",
@@ -12709,8 +12709,8 @@ export const generatedQuestions: Question[] = [
       "353-b": "This choice does not address the core economic order quantity principle tested by the question.",
       "353-c": "This choice does not address the core economic order quantity principle tested by the question."
     },
-    "examTrap": "treating EOQ as exact when assumptions are unrealistic.",
-    "studyTip": "use EOQ when demand and cost assumptions are stable enough to be useful."
+    "examTrap": "Treating EOQ as exact when assumptions are unrealistic.",
+    "studyTip": "Use EOQ when demand and cost assumptions are stable enough to be useful."
   },
   {
     "id": "354",
@@ -12745,8 +12745,8 @@ export const generatedQuestions: Question[] = [
       "354-b": "This choice does not address the core economic order quantity principle tested by the question.",
       "354-d": "This choice does not address the core economic order quantity principle tested by the question."
     },
-    "examTrap": "treating EOQ as exact when assumptions are unrealistic.",
-    "studyTip": "use EOQ when demand and cost assumptions are stable enough to be useful."
+    "examTrap": "Treating EOQ as exact when assumptions are unrealistic.",
+    "studyTip": "Use EOQ when demand and cost assumptions are stable enough to be useful."
   },
   {
     "id": "355",
@@ -12763,7 +12763,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "355-b",
-        "text": "use EOQ when demand and cost assumptions are stable enough to be useful and verify the impact through agreed metrics."
+        "text": "Use EOQ when demand and cost assumptions are stable enough to be useful and verify the impact through agreed metrics."
       },
       {
         "id": "355-c",
@@ -12781,8 +12781,8 @@ export const generatedQuestions: Question[] = [
       "355-c": "This choice does not address the core economic order quantity principle tested by the question.",
       "355-d": "This choice does not address the core economic order quantity principle tested by the question."
     },
-    "examTrap": "treating EOQ as exact when assumptions are unrealistic.",
-    "studyTip": "use EOQ when demand and cost assumptions are stable enough to be useful."
+    "examTrap": "Treating EOQ as exact when assumptions are unrealistic.",
+    "studyTip": "Use EOQ when demand and cost assumptions are stable enough to be useful."
   },
   {
     "id": "356",
@@ -12817,8 +12817,8 @@ export const generatedQuestions: Question[] = [
       "356-c": "This choice does not address the core reorder point principle tested by the question.",
       "356-d": "This choice does not address the core reorder point principle tested by the question."
     },
-    "examTrap": "forgetting lead time variability and stockout risk.",
-    "studyTip": "set ROP using demand during lead time plus safety stock."
+    "examTrap": "Forgetting lead time variability and stockout risk.",
+    "studyTip": "Set ROP using demand during lead time plus safety stock."
   },
   {
     "id": "357",
@@ -12843,7 +12843,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "357-d",
-        "text": "set ROP using demand during lead time plus safety stock."
+        "text": "Set ROP using demand during lead time plus safety stock."
       }
     ],
     "correctChoiceId": "357-d",
@@ -12853,8 +12853,8 @@ export const generatedQuestions: Question[] = [
       "357-b": "This choice does not address the core reorder point principle tested by the question.",
       "357-c": "This choice does not address the core reorder point principle tested by the question."
     },
-    "examTrap": "forgetting lead time variability and stockout risk.",
-    "studyTip": "set ROP using demand during lead time plus safety stock."
+    "examTrap": "Forgetting lead time variability and stockout risk.",
+    "studyTip": "Set ROP using demand during lead time plus safety stock."
   },
   {
     "id": "358",
@@ -12875,7 +12875,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "358-c",
-        "text": "forgetting lead time variability and stockout risk."
+        "text": "Forgetting lead time variability and stockout risk."
       },
       {
         "id": "358-d",
@@ -12889,8 +12889,8 @@ export const generatedQuestions: Question[] = [
       "358-b": "This choice does not address the core reorder point principle tested by the question.",
       "358-d": "This choice does not address the core reorder point principle tested by the question."
     },
-    "examTrap": "forgetting lead time variability and stockout risk.",
-    "studyTip": "set ROP using demand during lead time plus safety stock."
+    "examTrap": "Forgetting lead time variability and stockout risk.",
+    "studyTip": "Set ROP using demand during lead time plus safety stock."
   },
   {
     "id": "359",
@@ -12925,8 +12925,8 @@ export const generatedQuestions: Question[] = [
       "359-c": "This choice does not address the core reorder point principle tested by the question.",
       "359-d": "This choice does not address the core reorder point principle tested by the question."
     },
-    "examTrap": "forgetting lead time variability and stockout risk.",
-    "studyTip": "set ROP using demand during lead time plus safety stock."
+    "examTrap": "Forgetting lead time variability and stockout risk.",
+    "studyTip": "Set ROP using demand during lead time plus safety stock."
   },
   {
     "id": "360",
@@ -12939,7 +12939,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "360-a",
-        "text": "set ROP using demand during lead time plus safety stock and verify the impact through agreed metrics."
+        "text": "Set ROP using demand during lead time plus safety stock and verify the impact through agreed metrics."
       },
       {
         "id": "360-b",
@@ -12961,8 +12961,8 @@ export const generatedQuestions: Question[] = [
       "360-c": "This choice does not address the core reorder point principle tested by the question.",
       "360-d": "This choice does not address the core reorder point principle tested by the question."
     },
-    "examTrap": "forgetting lead time variability and stockout risk.",
-    "studyTip": "set ROP using demand during lead time plus safety stock."
+    "examTrap": "Forgetting lead time variability and stockout risk.",
+    "studyTip": "Set ROP using demand during lead time plus safety stock."
   },
   {
     "id": "361",
@@ -12997,8 +12997,8 @@ export const generatedQuestions: Question[] = [
       "361-b": "This choice does not address the core safety stock principle tested by the question.",
       "361-c": "This choice does not address the core safety stock principle tested by the question."
     },
-    "examTrap": "using safety stock to hide chronic process problems.",
-    "studyTip": "size safety stock based on variability, service targets, and lead time."
+    "examTrap": "Using safety stock to hide chronic process problems.",
+    "studyTip": "Size safety stock based on variability, service targets, and lead time."
   },
   {
     "id": "362",
@@ -13019,7 +13019,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "362-c",
-        "text": "size safety stock based on variability, service targets, and lead time."
+        "text": "Size safety stock based on variability, service targets, and lead time."
       },
       {
         "id": "362-d",
@@ -13033,8 +13033,8 @@ export const generatedQuestions: Question[] = [
       "362-b": "This choice does not address the core safety stock principle tested by the question.",
       "362-d": "This choice does not address the core safety stock principle tested by the question."
     },
-    "examTrap": "using safety stock to hide chronic process problems.",
-    "studyTip": "size safety stock based on variability, service targets, and lead time."
+    "examTrap": "Using safety stock to hide chronic process problems.",
+    "studyTip": "Size safety stock based on variability, service targets, and lead time."
   },
   {
     "id": "363",
@@ -13051,7 +13051,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "363-b",
-        "text": "using safety stock to hide chronic process problems."
+        "text": "Using safety stock to hide chronic process problems."
       },
       {
         "id": "363-c",
@@ -13069,8 +13069,8 @@ export const generatedQuestions: Question[] = [
       "363-c": "This choice does not address the core safety stock principle tested by the question.",
       "363-d": "This choice does not address the core safety stock principle tested by the question."
     },
-    "examTrap": "using safety stock to hide chronic process problems.",
-    "studyTip": "size safety stock based on variability, service targets, and lead time."
+    "examTrap": "Using safety stock to hide chronic process problems.",
+    "studyTip": "Size safety stock based on variability, service targets, and lead time."
   },
   {
     "id": "364",
@@ -13105,8 +13105,8 @@ export const generatedQuestions: Question[] = [
       "364-c": "This choice does not address the core safety stock principle tested by the question.",
       "364-d": "This choice does not address the core safety stock principle tested by the question."
     },
-    "examTrap": "using safety stock to hide chronic process problems.",
-    "studyTip": "size safety stock based on variability, service targets, and lead time."
+    "examTrap": "Using safety stock to hide chronic process problems.",
+    "studyTip": "Size safety stock based on variability, service targets, and lead time."
   },
   {
     "id": "365",
@@ -13131,7 +13131,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "365-d",
-        "text": "size safety stock based on variability, service targets, and lead time and verify the impact through agreed metrics."
+        "text": "Size safety stock based on variability, service targets, and lead time and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "365-d",
@@ -13141,8 +13141,8 @@ export const generatedQuestions: Question[] = [
       "365-b": "This choice does not address the core safety stock principle tested by the question.",
       "365-c": "This choice does not address the core safety stock principle tested by the question."
     },
-    "examTrap": "using safety stock to hide chronic process problems.",
-    "studyTip": "size safety stock based on variability, service targets, and lead time."
+    "examTrap": "Using safety stock to hide chronic process problems.",
+    "studyTip": "Size safety stock based on variability, service targets, and lead time."
   },
   {
     "id": "366",
@@ -13177,8 +13177,8 @@ export const generatedQuestions: Question[] = [
       "366-b": "This choice does not address the core cycle counting principle tested by the question.",
       "366-d": "This choice does not address the core cycle counting principle tested by the question."
     },
-    "examTrap": "counting only at year-end and calling it control.",
-    "studyTip": "prioritize high-value, high-risk, or high-movement items."
+    "examTrap": "Counting only at year-end and calling it control.",
+    "studyTip": "Prioritize high-value, high-risk, or high-movement items."
   },
   {
     "id": "367",
@@ -13195,7 +13195,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "367-b",
-        "text": "prioritize high-value, high-risk, or high-movement items."
+        "text": "Prioritize high-value, high-risk, or high-movement items."
       },
       {
         "id": "367-c",
@@ -13213,8 +13213,8 @@ export const generatedQuestions: Question[] = [
       "367-c": "This choice does not address the core cycle counting principle tested by the question.",
       "367-d": "This choice does not address the core cycle counting principle tested by the question."
     },
-    "examTrap": "counting only at year-end and calling it control.",
-    "studyTip": "prioritize high-value, high-risk, or high-movement items."
+    "examTrap": "Counting only at year-end and calling it control.",
+    "studyTip": "Prioritize high-value, high-risk, or high-movement items."
   },
   {
     "id": "368",
@@ -13227,7 +13227,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "368-a",
-        "text": "counting only at year-end and calling it control."
+        "text": "Counting only at year-end and calling it control."
       },
       {
         "id": "368-b",
@@ -13249,8 +13249,8 @@ export const generatedQuestions: Question[] = [
       "368-c": "This choice does not address the core cycle counting principle tested by the question.",
       "368-d": "This choice does not address the core cycle counting principle tested by the question."
     },
-    "examTrap": "counting only at year-end and calling it control.",
-    "studyTip": "prioritize high-value, high-risk, or high-movement items."
+    "examTrap": "Counting only at year-end and calling it control.",
+    "studyTip": "Prioritize high-value, high-risk, or high-movement items."
   },
   {
     "id": "369",
@@ -13285,8 +13285,8 @@ export const generatedQuestions: Question[] = [
       "369-b": "This choice does not address the core cycle counting principle tested by the question.",
       "369-c": "This choice does not address the core cycle counting principle tested by the question."
     },
-    "examTrap": "counting only at year-end and calling it control.",
-    "studyTip": "prioritize high-value, high-risk, or high-movement items."
+    "examTrap": "Counting only at year-end and calling it control.",
+    "studyTip": "Prioritize high-value, high-risk, or high-movement items."
   },
   {
     "id": "370",
@@ -13307,7 +13307,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "370-c",
-        "text": "prioritize high-value, high-risk, or high-movement items and verify the impact through agreed metrics."
+        "text": "Prioritize high-value, high-risk, or high-movement items and verify the impact through agreed metrics."
       },
       {
         "id": "370-d",
@@ -13321,8 +13321,8 @@ export const generatedQuestions: Question[] = [
       "370-b": "This choice does not address the core cycle counting principle tested by the question.",
       "370-d": "This choice does not address the core cycle counting principle tested by the question."
     },
-    "examTrap": "counting only at year-end and calling it control.",
-    "studyTip": "prioritize high-value, high-risk, or high-movement items."
+    "examTrap": "Counting only at year-end and calling it control.",
+    "studyTip": "Prioritize high-value, high-risk, or high-movement items."
   },
   {
     "id": "371",
@@ -13357,8 +13357,8 @@ export const generatedQuestions: Question[] = [
       "371-c": "This choice does not address the core abc classification principle tested by the question.",
       "371-d": "This choice does not address the core abc classification principle tested by the question."
     },
-    "examTrap": "managing all items with the same level of effort.",
-    "studyTip": "apply tighter control to A items and appropriate control to B and C items."
+    "examTrap": "Managing all items with the same level of effort.",
+    "studyTip": "Apply tighter control to A items and appropriate control to B and C items."
   },
   {
     "id": "372",
@@ -13371,7 +13371,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "372-a",
-        "text": "apply tighter control to A items and appropriate control to B and C items."
+        "text": "Apply tighter control to A items and appropriate control to B and C items."
       },
       {
         "id": "372-b",
@@ -13393,8 +13393,8 @@ export const generatedQuestions: Question[] = [
       "372-c": "This choice does not address the core abc classification principle tested by the question.",
       "372-d": "This choice does not address the core abc classification principle tested by the question."
     },
-    "examTrap": "managing all items with the same level of effort.",
-    "studyTip": "apply tighter control to A items and appropriate control to B and C items."
+    "examTrap": "Managing all items with the same level of effort.",
+    "studyTip": "Apply tighter control to A items and appropriate control to B and C items."
   },
   {
     "id": "373",
@@ -13419,7 +13419,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "373-d",
-        "text": "managing all items with the same level of effort."
+        "text": "Managing all items with the same level of effort."
       }
     ],
     "correctChoiceId": "373-d",
@@ -13429,8 +13429,8 @@ export const generatedQuestions: Question[] = [
       "373-b": "This choice does not address the core abc classification principle tested by the question.",
       "373-c": "This choice does not address the core abc classification principle tested by the question."
     },
-    "examTrap": "managing all items with the same level of effort.",
-    "studyTip": "apply tighter control to A items and appropriate control to B and C items."
+    "examTrap": "Managing all items with the same level of effort.",
+    "studyTip": "Apply tighter control to A items and appropriate control to B and C items."
   },
   {
     "id": "374",
@@ -13465,8 +13465,8 @@ export const generatedQuestions: Question[] = [
       "374-b": "This choice does not address the core abc classification principle tested by the question.",
       "374-d": "This choice does not address the core abc classification principle tested by the question."
     },
-    "examTrap": "managing all items with the same level of effort.",
-    "studyTip": "apply tighter control to A items and appropriate control to B and C items."
+    "examTrap": "Managing all items with the same level of effort.",
+    "studyTip": "Apply tighter control to A items and appropriate control to B and C items."
   },
   {
     "id": "375",
@@ -13483,7 +13483,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "375-b",
-        "text": "apply tighter control to A items and appropriate control to B and C items and verify the impact through agreed metrics."
+        "text": "Apply tighter control to A items and appropriate control to B and C items and verify the impact through agreed metrics."
       },
       {
         "id": "375-c",
@@ -13501,8 +13501,8 @@ export const generatedQuestions: Question[] = [
       "375-c": "This choice does not address the core abc classification principle tested by the question.",
       "375-d": "This choice does not address the core abc classification principle tested by the question."
     },
-    "examTrap": "managing all items with the same level of effort.",
-    "studyTip": "apply tighter control to A items and appropriate control to B and C items."
+    "examTrap": "Managing all items with the same level of effort.",
+    "studyTip": "Apply tighter control to A items and appropriate control to B and C items."
   },
   {
     "id": "376",
@@ -13537,8 +13537,8 @@ export const generatedQuestions: Question[] = [
       "376-c": "This choice does not address the core constraint management principle tested by the question.",
       "376-d": "This choice does not address the core constraint management principle tested by the question."
     },
-    "examTrap": "improving a nonconstraint and expecting total output to rise.",
-    "studyTip": "protect and improve the constraint before optimizing nonconstraints."
+    "examTrap": "Improving a nonconstraint and expecting total output to rise.",
+    "studyTip": "Protect and improve the constraint before optimizing nonconstraints."
   },
   {
     "id": "377",
@@ -13563,7 +13563,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "377-d",
-        "text": "protect and improve the constraint before optimizing nonconstraints."
+        "text": "Protect and improve the constraint before optimizing nonconstraints."
       }
     ],
     "correctChoiceId": "377-d",
@@ -13573,8 +13573,8 @@ export const generatedQuestions: Question[] = [
       "377-b": "This choice does not address the core constraint management principle tested by the question.",
       "377-c": "This choice does not address the core constraint management principle tested by the question."
     },
-    "examTrap": "improving a nonconstraint and expecting total output to rise.",
-    "studyTip": "protect and improve the constraint before optimizing nonconstraints."
+    "examTrap": "Improving a nonconstraint and expecting total output to rise.",
+    "studyTip": "Protect and improve the constraint before optimizing nonconstraints."
   },
   {
     "id": "378",
@@ -13595,7 +13595,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "378-c",
-        "text": "improving a nonconstraint and expecting total output to rise."
+        "text": "Improving a nonconstraint and expecting total output to rise."
       },
       {
         "id": "378-d",
@@ -13609,8 +13609,8 @@ export const generatedQuestions: Question[] = [
       "378-b": "This choice does not address the core constraint management principle tested by the question.",
       "378-d": "This choice does not address the core constraint management principle tested by the question."
     },
-    "examTrap": "improving a nonconstraint and expecting total output to rise.",
-    "studyTip": "protect and improve the constraint before optimizing nonconstraints."
+    "examTrap": "Improving a nonconstraint and expecting total output to rise.",
+    "studyTip": "Protect and improve the constraint before optimizing nonconstraints."
   },
   {
     "id": "379",
@@ -13645,8 +13645,8 @@ export const generatedQuestions: Question[] = [
       "379-c": "This choice does not address the core constraint management principle tested by the question.",
       "379-d": "This choice does not address the core constraint management principle tested by the question."
     },
-    "examTrap": "improving a nonconstraint and expecting total output to rise.",
-    "studyTip": "protect and improve the constraint before optimizing nonconstraints."
+    "examTrap": "Improving a nonconstraint and expecting total output to rise.",
+    "studyTip": "Protect and improve the constraint before optimizing nonconstraints."
   },
   {
     "id": "380",
@@ -13659,7 +13659,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "380-a",
-        "text": "protect and improve the constraint before optimizing nonconstraints and verify the impact through agreed metrics."
+        "text": "Protect and improve the constraint before optimizing nonconstraints and verify the impact through agreed metrics."
       },
       {
         "id": "380-b",
@@ -13681,8 +13681,8 @@ export const generatedQuestions: Question[] = [
       "380-c": "This choice does not address the core constraint management principle tested by the question.",
       "380-d": "This choice does not address the core constraint management principle tested by the question."
     },
-    "examTrap": "improving a nonconstraint and expecting total output to rise.",
-    "studyTip": "protect and improve the constraint before optimizing nonconstraints."
+    "examTrap": "Improving a nonconstraint and expecting total output to rise.",
+    "studyTip": "Protect and improve the constraint before optimizing nonconstraints."
   },
   {
     "id": "381",
@@ -13717,8 +13717,8 @@ export const generatedQuestions: Question[] = [
       "381-b": "This choice does not address the core work in process principle tested by the question.",
       "381-c": "This choice does not address the core work in process principle tested by the question."
     },
-    "examTrap": "allowing excess WIP to hide bottlenecks and quality issues.",
-    "studyTip": "control WIP to improve flow, lead time, and visibility."
+    "examTrap": "Allowing excess WIP to hide bottlenecks and quality issues.",
+    "studyTip": "Control WIP to improve flow, lead time, and visibility."
   },
   {
     "id": "382",
@@ -13739,7 +13739,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "382-c",
-        "text": "control WIP to improve flow, lead time, and visibility."
+        "text": "Control WIP to improve flow, lead time, and visibility."
       },
       {
         "id": "382-d",
@@ -13753,8 +13753,8 @@ export const generatedQuestions: Question[] = [
       "382-b": "This choice does not address the core work in process principle tested by the question.",
       "382-d": "This choice does not address the core work in process principle tested by the question."
     },
-    "examTrap": "allowing excess WIP to hide bottlenecks and quality issues.",
-    "studyTip": "control WIP to improve flow, lead time, and visibility."
+    "examTrap": "Allowing excess WIP to hide bottlenecks and quality issues.",
+    "studyTip": "Control WIP to improve flow, lead time, and visibility."
   },
   {
     "id": "383",
@@ -13771,7 +13771,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "383-b",
-        "text": "allowing excess WIP to hide bottlenecks and quality issues."
+        "text": "Allowing excess WIP to hide bottlenecks and quality issues."
       },
       {
         "id": "383-c",
@@ -13789,8 +13789,8 @@ export const generatedQuestions: Question[] = [
       "383-c": "This choice does not address the core work in process principle tested by the question.",
       "383-d": "This choice does not address the core work in process principle tested by the question."
     },
-    "examTrap": "allowing excess WIP to hide bottlenecks and quality issues.",
-    "studyTip": "control WIP to improve flow, lead time, and visibility."
+    "examTrap": "Allowing excess WIP to hide bottlenecks and quality issues.",
+    "studyTip": "Control WIP to improve flow, lead time, and visibility."
   },
   {
     "id": "384",
@@ -13825,8 +13825,8 @@ export const generatedQuestions: Question[] = [
       "384-c": "This choice does not address the core work in process principle tested by the question.",
       "384-d": "This choice does not address the core work in process principle tested by the question."
     },
-    "examTrap": "allowing excess WIP to hide bottlenecks and quality issues.",
-    "studyTip": "control WIP to improve flow, lead time, and visibility."
+    "examTrap": "Allowing excess WIP to hide bottlenecks and quality issues.",
+    "studyTip": "Control WIP to improve flow, lead time, and visibility."
   },
   {
     "id": "385",
@@ -13851,7 +13851,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "385-d",
-        "text": "control WIP to improve flow, lead time, and visibility and verify the impact through agreed metrics."
+        "text": "Control WIP to improve flow, lead time, and visibility and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "385-d",
@@ -13861,8 +13861,8 @@ export const generatedQuestions: Question[] = [
       "385-b": "This choice does not address the core work in process principle tested by the question.",
       "385-c": "This choice does not address the core work in process principle tested by the question."
     },
-    "examTrap": "allowing excess WIP to hide bottlenecks and quality issues.",
-    "studyTip": "control WIP to improve flow, lead time, and visibility."
+    "examTrap": "Allowing excess WIP to hide bottlenecks and quality issues.",
+    "studyTip": "Control WIP to improve flow, lead time, and visibility."
   },
   {
     "id": "386",
@@ -13897,8 +13897,8 @@ export const generatedQuestions: Question[] = [
       "386-b": "This choice does not address the core production lead time principle tested by the question.",
       "386-d": "This choice does not address the core production lead time principle tested by the question."
     },
-    "examTrap": "thinking run time is the same as total lead time.",
-    "studyTip": "reduce waiting, queue, setup, and move time to improve responsiveness."
+    "examTrap": "Thinking run time is the same as total lead time.",
+    "studyTip": "Reduce waiting, queue, setup, and move time to improve responsiveness."
   },
   {
     "id": "387",
@@ -13915,7 +13915,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "387-b",
-        "text": "reduce waiting, queue, setup, and move time to improve responsiveness."
+        "text": "Reduce waiting, queue, setup, and move time to improve responsiveness."
       },
       {
         "id": "387-c",
@@ -13933,8 +13933,8 @@ export const generatedQuestions: Question[] = [
       "387-c": "This choice does not address the core production lead time principle tested by the question.",
       "387-d": "This choice does not address the core production lead time principle tested by the question."
     },
-    "examTrap": "thinking run time is the same as total lead time.",
-    "studyTip": "reduce waiting, queue, setup, and move time to improve responsiveness."
+    "examTrap": "Thinking run time is the same as total lead time.",
+    "studyTip": "Reduce waiting, queue, setup, and move time to improve responsiveness."
   },
   {
     "id": "388",
@@ -13947,7 +13947,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "388-a",
-        "text": "thinking run time is the same as total lead time."
+        "text": "Thinking run time is the same as total lead time."
       },
       {
         "id": "388-b",
@@ -13969,8 +13969,8 @@ export const generatedQuestions: Question[] = [
       "388-c": "This choice does not address the core production lead time principle tested by the question.",
       "388-d": "This choice does not address the core production lead time principle tested by the question."
     },
-    "examTrap": "thinking run time is the same as total lead time.",
-    "studyTip": "reduce waiting, queue, setup, and move time to improve responsiveness."
+    "examTrap": "Thinking run time is the same as total lead time.",
+    "studyTip": "Reduce waiting, queue, setup, and move time to improve responsiveness."
   },
   {
     "id": "389",
@@ -14005,8 +14005,8 @@ export const generatedQuestions: Question[] = [
       "389-b": "This choice does not address the core production lead time principle tested by the question.",
       "389-c": "This choice does not address the core production lead time principle tested by the question."
     },
-    "examTrap": "thinking run time is the same as total lead time.",
-    "studyTip": "reduce waiting, queue, setup, and move time to improve responsiveness."
+    "examTrap": "Thinking run time is the same as total lead time.",
+    "studyTip": "Reduce waiting, queue, setup, and move time to improve responsiveness."
   },
   {
     "id": "390",
@@ -14027,7 +14027,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "390-c",
-        "text": "reduce waiting, queue, setup, and move time to improve responsiveness and verify the impact through agreed metrics."
+        "text": "Reduce waiting, queue, setup, and move time to improve responsiveness and verify the impact through agreed metrics."
       },
       {
         "id": "390-d",
@@ -14041,8 +14041,8 @@ export const generatedQuestions: Question[] = [
       "390-b": "This choice does not address the core production lead time principle tested by the question.",
       "390-d": "This choice does not address the core production lead time principle tested by the question."
     },
-    "examTrap": "thinking run time is the same as total lead time.",
-    "studyTip": "reduce waiting, queue, setup, and move time to improve responsiveness."
+    "examTrap": "Thinking run time is the same as total lead time.",
+    "studyTip": "Reduce waiting, queue, setup, and move time to improve responsiveness."
   },
   {
     "id": "391",
@@ -14077,8 +14077,8 @@ export const generatedQuestions: Question[] = [
       "391-c": "This choice does not address the core quality at the source principle tested by the question.",
       "391-d": "This choice does not address the core quality at the source principle tested by the question."
     },
-    "examTrap": "inspecting quality after defects have already multiplied.",
-    "studyTip": "prevent defects where work is performed and stop problems early."
+    "examTrap": "Inspecting quality after defects have already multiplied.",
+    "studyTip": "Prevent defects where work is performed and stop problems early."
   },
   {
     "id": "392",
@@ -14091,7 +14091,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "392-a",
-        "text": "prevent defects where work is performed and stop problems early."
+        "text": "Prevent defects where work is performed and stop problems early."
       },
       {
         "id": "392-b",
@@ -14113,8 +14113,8 @@ export const generatedQuestions: Question[] = [
       "392-c": "This choice does not address the core quality at the source principle tested by the question.",
       "392-d": "This choice does not address the core quality at the source principle tested by the question."
     },
-    "examTrap": "inspecting quality after defects have already multiplied.",
-    "studyTip": "prevent defects where work is performed and stop problems early."
+    "examTrap": "Inspecting quality after defects have already multiplied.",
+    "studyTip": "Prevent defects where work is performed and stop problems early."
   },
   {
     "id": "393",
@@ -14139,7 +14139,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "393-d",
-        "text": "inspecting quality after defects have already multiplied."
+        "text": "Inspecting quality after defects have already multiplied."
       }
     ],
     "correctChoiceId": "393-d",
@@ -14149,8 +14149,8 @@ export const generatedQuestions: Question[] = [
       "393-b": "This choice does not address the core quality at the source principle tested by the question.",
       "393-c": "This choice does not address the core quality at the source principle tested by the question."
     },
-    "examTrap": "inspecting quality after defects have already multiplied.",
-    "studyTip": "prevent defects where work is performed and stop problems early."
+    "examTrap": "Inspecting quality after defects have already multiplied.",
+    "studyTip": "Prevent defects where work is performed and stop problems early."
   },
   {
     "id": "394",
@@ -14185,8 +14185,8 @@ export const generatedQuestions: Question[] = [
       "394-b": "This choice does not address the core quality at the source principle tested by the question.",
       "394-d": "This choice does not address the core quality at the source principle tested by the question."
     },
-    "examTrap": "inspecting quality after defects have already multiplied.",
-    "studyTip": "prevent defects where work is performed and stop problems early."
+    "examTrap": "Inspecting quality after defects have already multiplied.",
+    "studyTip": "Prevent defects where work is performed and stop problems early."
   },
   {
     "id": "395",
@@ -14203,7 +14203,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "395-b",
-        "text": "prevent defects where work is performed and stop problems early and verify the impact through agreed metrics."
+        "text": "Prevent defects where work is performed and stop problems early and verify the impact through agreed metrics."
       },
       {
         "id": "395-c",
@@ -14221,8 +14221,8 @@ export const generatedQuestions: Question[] = [
       "395-c": "This choice does not address the core quality at the source principle tested by the question.",
       "395-d": "This choice does not address the core quality at the source principle tested by the question."
     },
-    "examTrap": "inspecting quality after defects have already multiplied.",
-    "studyTip": "prevent defects where work is performed and stop problems early."
+    "examTrap": "Inspecting quality after defects have already multiplied.",
+    "studyTip": "Prevent defects where work is performed and stop problems early."
   },
   {
     "id": "396",
@@ -14257,8 +14257,8 @@ export const generatedQuestions: Question[] = [
       "396-c": "This choice does not address the core preventive maintenance principle tested by the question.",
       "396-d": "This choice does not address the core preventive maintenance principle tested by the question."
     },
-    "examTrap": "skipping maintenance to gain short-term capacity.",
-    "studyTip": "schedule maintenance based on risk, usage, and criticality."
+    "examTrap": "Skipping maintenance to gain short-term capacity.",
+    "studyTip": "Schedule maintenance based on risk, usage, and criticality."
   },
   {
     "id": "397",
@@ -14283,7 +14283,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "397-d",
-        "text": "schedule maintenance based on risk, usage, and criticality."
+        "text": "Schedule maintenance based on risk, usage, and criticality."
       }
     ],
     "correctChoiceId": "397-d",
@@ -14293,8 +14293,8 @@ export const generatedQuestions: Question[] = [
       "397-b": "This choice does not address the core preventive maintenance principle tested by the question.",
       "397-c": "This choice does not address the core preventive maintenance principle tested by the question."
     },
-    "examTrap": "skipping maintenance to gain short-term capacity.",
-    "studyTip": "schedule maintenance based on risk, usage, and criticality."
+    "examTrap": "Skipping maintenance to gain short-term capacity.",
+    "studyTip": "Schedule maintenance based on risk, usage, and criticality."
   },
   {
     "id": "398",
@@ -14315,7 +14315,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "398-c",
-        "text": "skipping maintenance to gain short-term capacity."
+        "text": "Skipping maintenance to gain short-term capacity."
       },
       {
         "id": "398-d",
@@ -14329,8 +14329,8 @@ export const generatedQuestions: Question[] = [
       "398-b": "This choice does not address the core preventive maintenance principle tested by the question.",
       "398-d": "This choice does not address the core preventive maintenance principle tested by the question."
     },
-    "examTrap": "skipping maintenance to gain short-term capacity.",
-    "studyTip": "schedule maintenance based on risk, usage, and criticality."
+    "examTrap": "Skipping maintenance to gain short-term capacity.",
+    "studyTip": "Schedule maintenance based on risk, usage, and criticality."
   },
   {
     "id": "399",
@@ -14365,8 +14365,8 @@ export const generatedQuestions: Question[] = [
       "399-c": "This choice does not address the core preventive maintenance principle tested by the question.",
       "399-d": "This choice does not address the core preventive maintenance principle tested by the question."
     },
-    "examTrap": "skipping maintenance to gain short-term capacity.",
-    "studyTip": "schedule maintenance based on risk, usage, and criticality."
+    "examTrap": "Skipping maintenance to gain short-term capacity.",
+    "studyTip": "Schedule maintenance based on risk, usage, and criticality."
   },
   {
     "id": "400",
@@ -14379,7 +14379,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "400-a",
-        "text": "schedule maintenance based on risk, usage, and criticality and verify the impact through agreed metrics."
+        "text": "Schedule maintenance based on risk, usage, and criticality and verify the impact through agreed metrics."
       },
       {
         "id": "400-b",
@@ -14401,8 +14401,8 @@ export const generatedQuestions: Question[] = [
       "400-c": "This choice does not address the core preventive maintenance principle tested by the question.",
       "400-d": "This choice does not address the core preventive maintenance principle tested by the question."
     },
-    "examTrap": "skipping maintenance to gain short-term capacity.",
-    "studyTip": "schedule maintenance based on risk, usage, and criticality."
+    "examTrap": "Skipping maintenance to gain short-term capacity.",
+    "studyTip": "Schedule maintenance based on risk, usage, and criticality."
   },
   {
     "id": "401",
@@ -14437,8 +14437,8 @@ export const generatedQuestions: Question[] = [
       "401-b": "This choice does not address the core transportation mode selection principle tested by the question.",
       "401-c": "This choice does not address the core transportation mode selection principle tested by the question."
     },
-    "examTrap": "choosing mode by freight rate alone.",
-    "studyTip": "match mode to urgency, value, distance, reliability, and handling requirements."
+    "examTrap": "Choosing mode by freight rate alone.",
+    "studyTip": "Match mode to urgency, value, distance, reliability, and handling requirements."
   },
   {
     "id": "402",
@@ -14459,7 +14459,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "402-c",
-        "text": "match mode to urgency, value, distance, reliability, and handling requirements."
+        "text": "Match mode to urgency, value, distance, reliability, and handling requirements."
       },
       {
         "id": "402-d",
@@ -14473,8 +14473,8 @@ export const generatedQuestions: Question[] = [
       "402-b": "This choice does not address the core transportation mode selection principle tested by the question.",
       "402-d": "This choice does not address the core transportation mode selection principle tested by the question."
     },
-    "examTrap": "choosing mode by freight rate alone.",
-    "studyTip": "match mode to urgency, value, distance, reliability, and handling requirements."
+    "examTrap": "Choosing mode by freight rate alone.",
+    "studyTip": "Match mode to urgency, value, distance, reliability, and handling requirements."
   },
   {
     "id": "403",
@@ -14491,7 +14491,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "403-b",
-        "text": "choosing mode by freight rate alone."
+        "text": "Choosing mode by freight rate alone."
       },
       {
         "id": "403-c",
@@ -14509,8 +14509,8 @@ export const generatedQuestions: Question[] = [
       "403-c": "This choice does not address the core transportation mode selection principle tested by the question.",
       "403-d": "This choice does not address the core transportation mode selection principle tested by the question."
     },
-    "examTrap": "choosing mode by freight rate alone.",
-    "studyTip": "match mode to urgency, value, distance, reliability, and handling requirements."
+    "examTrap": "Choosing mode by freight rate alone.",
+    "studyTip": "Match mode to urgency, value, distance, reliability, and handling requirements."
   },
   {
     "id": "404",
@@ -14545,8 +14545,8 @@ export const generatedQuestions: Question[] = [
       "404-c": "This choice does not address the core transportation mode selection principle tested by the question.",
       "404-d": "This choice does not address the core transportation mode selection principle tested by the question."
     },
-    "examTrap": "choosing mode by freight rate alone.",
-    "studyTip": "match mode to urgency, value, distance, reliability, and handling requirements."
+    "examTrap": "Choosing mode by freight rate alone.",
+    "studyTip": "Match mode to urgency, value, distance, reliability, and handling requirements."
   },
   {
     "id": "405",
@@ -14571,7 +14571,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "405-d",
-        "text": "match mode to urgency, value, distance, reliability, and handling requirements and verify the impact through agreed metrics."
+        "text": "Match mode to urgency, value, distance, reliability, and handling requirements and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "405-d",
@@ -14581,8 +14581,8 @@ export const generatedQuestions: Question[] = [
       "405-b": "This choice does not address the core transportation mode selection principle tested by the question.",
       "405-c": "This choice does not address the core transportation mode selection principle tested by the question."
     },
-    "examTrap": "choosing mode by freight rate alone.",
-    "studyTip": "match mode to urgency, value, distance, reliability, and handling requirements."
+    "examTrap": "Choosing mode by freight rate alone.",
+    "studyTip": "Match mode to urgency, value, distance, reliability, and handling requirements."
   },
   {
     "id": "406",
@@ -14617,8 +14617,8 @@ export const generatedQuestions: Question[] = [
       "406-b": "This choice does not address the core intermodal transportation principle tested by the question.",
       "406-d": "This choice does not address the core intermodal transportation principle tested by the question."
     },
-    "examTrap": "ignoring handoff complexity and transit variability.",
-    "studyTip": "use intermodal to balance cost, capacity, sustainability, and service."
+    "examTrap": "Ignoring handoff complexity and transit variability.",
+    "studyTip": "Use intermodal to balance cost, capacity, sustainability, and service."
   },
   {
     "id": "407",
@@ -14635,7 +14635,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "407-b",
-        "text": "use intermodal to balance cost, capacity, sustainability, and service."
+        "text": "Use intermodal to balance cost, capacity, sustainability, and service."
       },
       {
         "id": "407-c",
@@ -14653,8 +14653,8 @@ export const generatedQuestions: Question[] = [
       "407-c": "This choice does not address the core intermodal transportation principle tested by the question.",
       "407-d": "This choice does not address the core intermodal transportation principle tested by the question."
     },
-    "examTrap": "ignoring handoff complexity and transit variability.",
-    "studyTip": "use intermodal to balance cost, capacity, sustainability, and service."
+    "examTrap": "Ignoring handoff complexity and transit variability.",
+    "studyTip": "Use intermodal to balance cost, capacity, sustainability, and service."
   },
   {
     "id": "408",
@@ -14667,7 +14667,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "408-a",
-        "text": "ignoring handoff complexity and transit variability."
+        "text": "Ignoring handoff complexity and transit variability."
       },
       {
         "id": "408-b",
@@ -14689,8 +14689,8 @@ export const generatedQuestions: Question[] = [
       "408-c": "This choice does not address the core intermodal transportation principle tested by the question.",
       "408-d": "This choice does not address the core intermodal transportation principle tested by the question."
     },
-    "examTrap": "ignoring handoff complexity and transit variability.",
-    "studyTip": "use intermodal to balance cost, capacity, sustainability, and service."
+    "examTrap": "Ignoring handoff complexity and transit variability.",
+    "studyTip": "Use intermodal to balance cost, capacity, sustainability, and service."
   },
   {
     "id": "409",
@@ -14725,8 +14725,8 @@ export const generatedQuestions: Question[] = [
       "409-b": "This choice does not address the core intermodal transportation principle tested by the question.",
       "409-c": "This choice does not address the core intermodal transportation principle tested by the question."
     },
-    "examTrap": "ignoring handoff complexity and transit variability.",
-    "studyTip": "use intermodal to balance cost, capacity, sustainability, and service."
+    "examTrap": "Ignoring handoff complexity and transit variability.",
+    "studyTip": "Use intermodal to balance cost, capacity, sustainability, and service."
   },
   {
     "id": "410",
@@ -14747,7 +14747,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "410-c",
-        "text": "use intermodal to balance cost, capacity, sustainability, and service and verify the impact through agreed metrics."
+        "text": "Use intermodal to balance cost, capacity, sustainability, and service and verify the impact through agreed metrics."
       },
       {
         "id": "410-d",
@@ -14761,8 +14761,8 @@ export const generatedQuestions: Question[] = [
       "410-b": "This choice does not address the core intermodal transportation principle tested by the question.",
       "410-d": "This choice does not address the core intermodal transportation principle tested by the question."
     },
-    "examTrap": "ignoring handoff complexity and transit variability.",
-    "studyTip": "use intermodal to balance cost, capacity, sustainability, and service."
+    "examTrap": "Ignoring handoff complexity and transit variability.",
+    "studyTip": "Use intermodal to balance cost, capacity, sustainability, and service."
   },
   {
     "id": "411",
@@ -14797,8 +14797,8 @@ export const generatedQuestions: Question[] = [
       "411-c": "This choice does not address the core warehouse management principle tested by the question.",
       "411-d": "This choice does not address the core warehouse management principle tested by the question."
     },
-    "examTrap": "treating the warehouse as only storage space.",
-    "studyTip": "design processes for accuracy, flow, labor efficiency, and service."
+    "examTrap": "Treating the warehouse as only storage space.",
+    "studyTip": "Design processes for accuracy, flow, labor efficiency, and service."
   },
   {
     "id": "412",
@@ -14811,7 +14811,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "412-a",
-        "text": "design processes for accuracy, flow, labor efficiency, and service."
+        "text": "Design processes for accuracy, flow, labor efficiency, and service."
       },
       {
         "id": "412-b",
@@ -14833,8 +14833,8 @@ export const generatedQuestions: Question[] = [
       "412-c": "This choice does not address the core warehouse management principle tested by the question.",
       "412-d": "This choice does not address the core warehouse management principle tested by the question."
     },
-    "examTrap": "treating the warehouse as only storage space.",
-    "studyTip": "design processes for accuracy, flow, labor efficiency, and service."
+    "examTrap": "Treating the warehouse as only storage space.",
+    "studyTip": "Design processes for accuracy, flow, labor efficiency, and service."
   },
   {
     "id": "413",
@@ -14859,7 +14859,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "413-d",
-        "text": "treating the warehouse as only storage space."
+        "text": "Treating the warehouse as only storage space."
       }
     ],
     "correctChoiceId": "413-d",
@@ -14869,8 +14869,8 @@ export const generatedQuestions: Question[] = [
       "413-b": "This choice does not address the core warehouse management principle tested by the question.",
       "413-c": "This choice does not address the core warehouse management principle tested by the question."
     },
-    "examTrap": "treating the warehouse as only storage space.",
-    "studyTip": "design processes for accuracy, flow, labor efficiency, and service."
+    "examTrap": "Treating the warehouse as only storage space.",
+    "studyTip": "Design processes for accuracy, flow, labor efficiency, and service."
   },
   {
     "id": "414",
@@ -14905,8 +14905,8 @@ export const generatedQuestions: Question[] = [
       "414-b": "This choice does not address the core warehouse management principle tested by the question.",
       "414-d": "This choice does not address the core warehouse management principle tested by the question."
     },
-    "examTrap": "treating the warehouse as only storage space.",
-    "studyTip": "design processes for accuracy, flow, labor efficiency, and service."
+    "examTrap": "Treating the warehouse as only storage space.",
+    "studyTip": "Design processes for accuracy, flow, labor efficiency, and service."
   },
   {
     "id": "415",
@@ -14923,7 +14923,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "415-b",
-        "text": "design processes for accuracy, flow, labor efficiency, and service and verify the impact through agreed metrics."
+        "text": "Design processes for accuracy, flow, labor efficiency, and service and verify the impact through agreed metrics."
       },
       {
         "id": "415-c",
@@ -14941,8 +14941,8 @@ export const generatedQuestions: Question[] = [
       "415-c": "This choice does not address the core warehouse management principle tested by the question.",
       "415-d": "This choice does not address the core warehouse management principle tested by the question."
     },
-    "examTrap": "treating the warehouse as only storage space.",
-    "studyTip": "design processes for accuracy, flow, labor efficiency, and service."
+    "examTrap": "Treating the warehouse as only storage space.",
+    "studyTip": "Design processes for accuracy, flow, labor efficiency, and service."
   },
   {
     "id": "416",
@@ -14977,8 +14977,8 @@ export const generatedQuestions: Question[] = [
       "416-c": "This choice does not address the core distribution strategy principle tested by the question.",
       "416-d": "This choice does not address the core distribution strategy principle tested by the question."
     },
-    "examTrap": "adding warehouses without understanding inventory and transportation impacts.",
-    "studyTip": "choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
+    "examTrap": "Adding warehouses without understanding inventory and transportation impacts.",
+    "studyTip": "Choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
   },
   {
     "id": "417",
@@ -15003,7 +15003,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "417-d",
-        "text": "choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
+        "text": "Choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
       }
     ],
     "correctChoiceId": "417-d",
@@ -15013,8 +15013,8 @@ export const generatedQuestions: Question[] = [
       "417-b": "This choice does not address the core distribution strategy principle tested by the question.",
       "417-c": "This choice does not address the core distribution strategy principle tested by the question."
     },
-    "examTrap": "adding warehouses without understanding inventory and transportation impacts.",
-    "studyTip": "choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
+    "examTrap": "Adding warehouses without understanding inventory and transportation impacts.",
+    "studyTip": "Choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
   },
   {
     "id": "418",
@@ -15035,7 +15035,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "418-c",
-        "text": "adding warehouses without understanding inventory and transportation impacts."
+        "text": "Adding warehouses without understanding inventory and transportation impacts."
       },
       {
         "id": "418-d",
@@ -15049,8 +15049,8 @@ export const generatedQuestions: Question[] = [
       "418-b": "This choice does not address the core distribution strategy principle tested by the question.",
       "418-d": "This choice does not address the core distribution strategy principle tested by the question."
     },
-    "examTrap": "adding warehouses without understanding inventory and transportation impacts.",
-    "studyTip": "choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
+    "examTrap": "Adding warehouses without understanding inventory and transportation impacts.",
+    "studyTip": "Choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
   },
   {
     "id": "419",
@@ -15085,8 +15085,8 @@ export const generatedQuestions: Question[] = [
       "419-c": "This choice does not address the core distribution strategy principle tested by the question.",
       "419-d": "This choice does not address the core distribution strategy principle tested by the question."
     },
-    "examTrap": "adding warehouses without understanding inventory and transportation impacts.",
-    "studyTip": "choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
+    "examTrap": "Adding warehouses without understanding inventory and transportation impacts.",
+    "studyTip": "Choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
   },
   {
     "id": "420",
@@ -15099,7 +15099,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "420-a",
-        "text": "choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs and verify the impact through agreed metrics."
+        "text": "Choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs and verify the impact through agreed metrics."
       },
       {
         "id": "420-b",
@@ -15121,8 +15121,8 @@ export const generatedQuestions: Question[] = [
       "420-c": "This choice does not address the core distribution strategy principle tested by the question.",
       "420-d": "This choice does not address the core distribution strategy principle tested by the question."
     },
-    "examTrap": "adding warehouses without understanding inventory and transportation impacts.",
-    "studyTip": "choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
+    "examTrap": "Adding warehouses without understanding inventory and transportation impacts.",
+    "studyTip": "Choose centralized, decentralized, cross-dock, or hybrid design based on service and cost trade-offs."
   },
   {
     "id": "421",
@@ -15157,8 +15157,8 @@ export const generatedQuestions: Question[] = [
       "421-b": "This choice does not address the core cross-docking principle tested by the question.",
       "421-c": "This choice does not address the core cross-docking principle tested by the question."
     },
-    "examTrap": "cross-docking unstable or poorly identified freight.",
-    "studyTip": "use cross-docking when demand, timing, and coordination are reliable."
+    "examTrap": "Cross-docking unstable or poorly identified freight.",
+    "studyTip": "Use cross-docking when demand, timing, and coordination are reliable."
   },
   {
     "id": "422",
@@ -15179,7 +15179,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "422-c",
-        "text": "use cross-docking when demand, timing, and coordination are reliable."
+        "text": "Use cross-docking when demand, timing, and coordination are reliable."
       },
       {
         "id": "422-d",
@@ -15193,8 +15193,8 @@ export const generatedQuestions: Question[] = [
       "422-b": "This choice does not address the core cross-docking principle tested by the question.",
       "422-d": "This choice does not address the core cross-docking principle tested by the question."
     },
-    "examTrap": "cross-docking unstable or poorly identified freight.",
-    "studyTip": "use cross-docking when demand, timing, and coordination are reliable."
+    "examTrap": "Cross-docking unstable or poorly identified freight.",
+    "studyTip": "Use cross-docking when demand, timing, and coordination are reliable."
   },
   {
     "id": "423",
@@ -15211,7 +15211,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "423-b",
-        "text": "cross-docking unstable or poorly identified freight."
+        "text": "Cross-docking unstable or poorly identified freight."
       },
       {
         "id": "423-c",
@@ -15229,8 +15229,8 @@ export const generatedQuestions: Question[] = [
       "423-c": "This choice does not address the core cross-docking principle tested by the question.",
       "423-d": "This choice does not address the core cross-docking principle tested by the question."
     },
-    "examTrap": "cross-docking unstable or poorly identified freight.",
-    "studyTip": "use cross-docking when demand, timing, and coordination are reliable."
+    "examTrap": "Cross-docking unstable or poorly identified freight.",
+    "studyTip": "Use cross-docking when demand, timing, and coordination are reliable."
   },
   {
     "id": "424",
@@ -15265,8 +15265,8 @@ export const generatedQuestions: Question[] = [
       "424-c": "This choice does not address the core cross-docking principle tested by the question.",
       "424-d": "This choice does not address the core cross-docking principle tested by the question."
     },
-    "examTrap": "cross-docking unstable or poorly identified freight.",
-    "studyTip": "use cross-docking when demand, timing, and coordination are reliable."
+    "examTrap": "Cross-docking unstable or poorly identified freight.",
+    "studyTip": "Use cross-docking when demand, timing, and coordination are reliable."
   },
   {
     "id": "425",
@@ -15291,7 +15291,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "425-d",
-        "text": "use cross-docking when demand, timing, and coordination are reliable and verify the impact through agreed metrics."
+        "text": "Use cross-docking when demand, timing, and coordination are reliable and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "425-d",
@@ -15301,8 +15301,8 @@ export const generatedQuestions: Question[] = [
       "425-b": "This choice does not address the core cross-docking principle tested by the question.",
       "425-c": "This choice does not address the core cross-docking principle tested by the question."
     },
-    "examTrap": "cross-docking unstable or poorly identified freight.",
-    "studyTip": "use cross-docking when demand, timing, and coordination are reliable."
+    "examTrap": "Cross-docking unstable or poorly identified freight.",
+    "studyTip": "Use cross-docking when demand, timing, and coordination are reliable."
   },
   {
     "id": "426",
@@ -15337,8 +15337,8 @@ export const generatedQuestions: Question[] = [
       "426-b": "This choice does not address the core last-mile delivery principle tested by the question.",
       "426-d": "This choice does not address the core last-mile delivery principle tested by the question."
     },
-    "examTrap": "underestimating cost and complexity near the customer.",
-    "studyTip": "manage cost, speed, visibility, and customer experience."
+    "examTrap": "Underestimating cost and complexity near the customer.",
+    "studyTip": "Manage cost, speed, visibility, and customer experience."
   },
   {
     "id": "427",
@@ -15355,7 +15355,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "427-b",
-        "text": "manage cost, speed, visibility, and customer experience."
+        "text": "Manage cost, speed, visibility, and customer experience."
       },
       {
         "id": "427-c",
@@ -15373,8 +15373,8 @@ export const generatedQuestions: Question[] = [
       "427-c": "This choice does not address the core last-mile delivery principle tested by the question.",
       "427-d": "This choice does not address the core last-mile delivery principle tested by the question."
     },
-    "examTrap": "underestimating cost and complexity near the customer.",
-    "studyTip": "manage cost, speed, visibility, and customer experience."
+    "examTrap": "Underestimating cost and complexity near the customer.",
+    "studyTip": "Manage cost, speed, visibility, and customer experience."
   },
   {
     "id": "428",
@@ -15387,7 +15387,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "428-a",
-        "text": "underestimating cost and complexity near the customer."
+        "text": "Underestimating cost and complexity near the customer."
       },
       {
         "id": "428-b",
@@ -15409,8 +15409,8 @@ export const generatedQuestions: Question[] = [
       "428-c": "This choice does not address the core last-mile delivery principle tested by the question.",
       "428-d": "This choice does not address the core last-mile delivery principle tested by the question."
     },
-    "examTrap": "underestimating cost and complexity near the customer.",
-    "studyTip": "manage cost, speed, visibility, and customer experience."
+    "examTrap": "Underestimating cost and complexity near the customer.",
+    "studyTip": "Manage cost, speed, visibility, and customer experience."
   },
   {
     "id": "429",
@@ -15445,8 +15445,8 @@ export const generatedQuestions: Question[] = [
       "429-b": "This choice does not address the core last-mile delivery principle tested by the question.",
       "429-c": "This choice does not address the core last-mile delivery principle tested by the question."
     },
-    "examTrap": "underestimating cost and complexity near the customer.",
-    "studyTip": "manage cost, speed, visibility, and customer experience."
+    "examTrap": "Underestimating cost and complexity near the customer.",
+    "studyTip": "Manage cost, speed, visibility, and customer experience."
   },
   {
     "id": "430",
@@ -15467,7 +15467,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "430-c",
-        "text": "manage cost, speed, visibility, and customer experience and verify the impact through agreed metrics."
+        "text": "Manage cost, speed, visibility, and customer experience and verify the impact through agreed metrics."
       },
       {
         "id": "430-d",
@@ -15481,8 +15481,8 @@ export const generatedQuestions: Question[] = [
       "430-b": "This choice does not address the core last-mile delivery principle tested by the question.",
       "430-d": "This choice does not address the core last-mile delivery principle tested by the question."
     },
-    "examTrap": "underestimating cost and complexity near the customer.",
-    "studyTip": "manage cost, speed, visibility, and customer experience."
+    "examTrap": "Underestimating cost and complexity near the customer.",
+    "studyTip": "Manage cost, speed, visibility, and customer experience."
   },
   {
     "id": "431",
@@ -15517,8 +15517,8 @@ export const generatedQuestions: Question[] = [
       "431-c": "This choice does not address the core freight consolidation principle tested by the question.",
       "431-d": "This choice does not address the core freight consolidation principle tested by the question."
     },
-    "examTrap": "consolidating so aggressively that service fails.",
-    "studyTip": "consolidate when service windows and volume support it."
+    "examTrap": "Consolidating so aggressively that service fails.",
+    "studyTip": "Consolidate when service windows and volume support it."
   },
   {
     "id": "432",
@@ -15531,7 +15531,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "432-a",
-        "text": "consolidate when service windows and volume support it."
+        "text": "Consolidate when service windows and volume support it."
       },
       {
         "id": "432-b",
@@ -15553,8 +15553,8 @@ export const generatedQuestions: Question[] = [
       "432-c": "This choice does not address the core freight consolidation principle tested by the question.",
       "432-d": "This choice does not address the core freight consolidation principle tested by the question."
     },
-    "examTrap": "consolidating so aggressively that service fails.",
-    "studyTip": "consolidate when service windows and volume support it."
+    "examTrap": "Consolidating so aggressively that service fails.",
+    "studyTip": "Consolidate when service windows and volume support it."
   },
   {
     "id": "433",
@@ -15579,7 +15579,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "433-d",
-        "text": "consolidating so aggressively that service fails."
+        "text": "Consolidating so aggressively that service fails."
       }
     ],
     "correctChoiceId": "433-d",
@@ -15589,8 +15589,8 @@ export const generatedQuestions: Question[] = [
       "433-b": "This choice does not address the core freight consolidation principle tested by the question.",
       "433-c": "This choice does not address the core freight consolidation principle tested by the question."
     },
-    "examTrap": "consolidating so aggressively that service fails.",
-    "studyTip": "consolidate when service windows and volume support it."
+    "examTrap": "Consolidating so aggressively that service fails.",
+    "studyTip": "Consolidate when service windows and volume support it."
   },
   {
     "id": "434",
@@ -15625,8 +15625,8 @@ export const generatedQuestions: Question[] = [
       "434-b": "This choice does not address the core freight consolidation principle tested by the question.",
       "434-d": "This choice does not address the core freight consolidation principle tested by the question."
     },
-    "examTrap": "consolidating so aggressively that service fails.",
-    "studyTip": "consolidate when service windows and volume support it."
+    "examTrap": "Consolidating so aggressively that service fails.",
+    "studyTip": "Consolidate when service windows and volume support it."
   },
   {
     "id": "435",
@@ -15643,7 +15643,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "435-b",
-        "text": "consolidate when service windows and volume support it and verify the impact through agreed metrics."
+        "text": "Consolidate when service windows and volume support it and verify the impact through agreed metrics."
       },
       {
         "id": "435-c",
@@ -15661,8 +15661,8 @@ export const generatedQuestions: Question[] = [
       "435-c": "This choice does not address the core freight consolidation principle tested by the question.",
       "435-d": "This choice does not address the core freight consolidation principle tested by the question."
     },
-    "examTrap": "consolidating so aggressively that service fails.",
-    "studyTip": "consolidate when service windows and volume support it."
+    "examTrap": "Consolidating so aggressively that service fails.",
+    "studyTip": "Consolidate when service windows and volume support it."
   },
   {
     "id": "436",
@@ -15697,8 +15697,8 @@ export const generatedQuestions: Question[] = [
       "436-c": "This choice does not address the core incoterms principle tested by the question.",
       "436-d": "This choice does not address the core incoterms principle tested by the question."
     },
-    "examTrap": "assuming Incoterms determine title transfer or payment terms.",
-    "studyTip": "use the correct term to clarify buyer and seller responsibilities."
+    "examTrap": "Assuming Incoterms determine title transfer or payment terms.",
+    "studyTip": "Use the correct term to clarify buyer and seller responsibilities."
   },
   {
     "id": "437",
@@ -15723,7 +15723,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "437-d",
-        "text": "use the correct term to clarify buyer and seller responsibilities."
+        "text": "Use the correct term to clarify buyer and seller responsibilities."
       }
     ],
     "correctChoiceId": "437-d",
@@ -15733,8 +15733,8 @@ export const generatedQuestions: Question[] = [
       "437-b": "This choice does not address the core incoterms principle tested by the question.",
       "437-c": "This choice does not address the core incoterms principle tested by the question."
     },
-    "examTrap": "assuming Incoterms determine title transfer or payment terms.",
-    "studyTip": "use the correct term to clarify buyer and seller responsibilities."
+    "examTrap": "Assuming Incoterms determine title transfer or payment terms.",
+    "studyTip": "Use the correct term to clarify buyer and seller responsibilities."
   },
   {
     "id": "438",
@@ -15755,7 +15755,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "438-c",
-        "text": "assuming Incoterms determine title transfer or payment terms."
+        "text": "Assuming Incoterms determine title transfer or payment terms."
       },
       {
         "id": "438-d",
@@ -15769,8 +15769,8 @@ export const generatedQuestions: Question[] = [
       "438-b": "This choice does not address the core incoterms principle tested by the question.",
       "438-d": "This choice does not address the core incoterms principle tested by the question."
     },
-    "examTrap": "assuming Incoterms determine title transfer or payment terms.",
-    "studyTip": "use the correct term to clarify buyer and seller responsibilities."
+    "examTrap": "Assuming Incoterms determine title transfer or payment terms.",
+    "studyTip": "Use the correct term to clarify buyer and seller responsibilities."
   },
   {
     "id": "439",
@@ -15805,8 +15805,8 @@ export const generatedQuestions: Question[] = [
       "439-c": "This choice does not address the core incoterms principle tested by the question.",
       "439-d": "This choice does not address the core incoterms principle tested by the question."
     },
-    "examTrap": "assuming Incoterms determine title transfer or payment terms.",
-    "studyTip": "use the correct term to clarify buyer and seller responsibilities."
+    "examTrap": "Assuming Incoterms determine title transfer or payment terms.",
+    "studyTip": "Use the correct term to clarify buyer and seller responsibilities."
   },
   {
     "id": "440",
@@ -15819,7 +15819,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "440-a",
-        "text": "use the correct term to clarify buyer and seller responsibilities and verify the impact through agreed metrics."
+        "text": "Use the correct term to clarify buyer and seller responsibilities and verify the impact through agreed metrics."
       },
       {
         "id": "440-b",
@@ -15841,8 +15841,8 @@ export const generatedQuestions: Question[] = [
       "440-c": "This choice does not address the core incoterms principle tested by the question.",
       "440-d": "This choice does not address the core incoterms principle tested by the question."
     },
-    "examTrap": "assuming Incoterms determine title transfer or payment terms.",
-    "studyTip": "use the correct term to clarify buyer and seller responsibilities."
+    "examTrap": "Assuming Incoterms determine title transfer or payment terms.",
+    "studyTip": "Use the correct term to clarify buyer and seller responsibilities."
   },
   {
     "id": "441",
@@ -15877,8 +15877,8 @@ export const generatedQuestions: Question[] = [
       "441-b": "This choice does not address the core customs compliance principle tested by the question.",
       "441-c": "This choice does not address the core customs compliance principle tested by the question."
     },
-    "examTrap": "treating compliance as a broker-only responsibility.",
-    "studyTip": "control documentation and classification before shipment."
+    "examTrap": "Treating compliance as a broker-only responsibility.",
+    "studyTip": "Control documentation and classification before shipment."
   },
   {
     "id": "442",
@@ -15899,7 +15899,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "442-c",
-        "text": "control documentation and classification before shipment."
+        "text": "Control documentation and classification before shipment."
       },
       {
         "id": "442-d",
@@ -15913,8 +15913,8 @@ export const generatedQuestions: Question[] = [
       "442-b": "This choice does not address the core customs compliance principle tested by the question.",
       "442-d": "This choice does not address the core customs compliance principle tested by the question."
     },
-    "examTrap": "treating compliance as a broker-only responsibility.",
-    "studyTip": "control documentation and classification before shipment."
+    "examTrap": "Treating compliance as a broker-only responsibility.",
+    "studyTip": "Control documentation and classification before shipment."
   },
   {
     "id": "443",
@@ -15931,7 +15931,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "443-b",
-        "text": "treating compliance as a broker-only responsibility."
+        "text": "Treating compliance as a broker-only responsibility."
       },
       {
         "id": "443-c",
@@ -15949,8 +15949,8 @@ export const generatedQuestions: Question[] = [
       "443-c": "This choice does not address the core customs compliance principle tested by the question.",
       "443-d": "This choice does not address the core customs compliance principle tested by the question."
     },
-    "examTrap": "treating compliance as a broker-only responsibility.",
-    "studyTip": "control documentation and classification before shipment."
+    "examTrap": "Treating compliance as a broker-only responsibility.",
+    "studyTip": "Control documentation and classification before shipment."
   },
   {
     "id": "444",
@@ -15985,8 +15985,8 @@ export const generatedQuestions: Question[] = [
       "444-c": "This choice does not address the core customs compliance principle tested by the question.",
       "444-d": "This choice does not address the core customs compliance principle tested by the question."
     },
-    "examTrap": "treating compliance as a broker-only responsibility.",
-    "studyTip": "control documentation and classification before shipment."
+    "examTrap": "Treating compliance as a broker-only responsibility.",
+    "studyTip": "Control documentation and classification before shipment."
   },
   {
     "id": "445",
@@ -16011,7 +16011,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "445-d",
-        "text": "control documentation and classification before shipment and verify the impact through agreed metrics."
+        "text": "Control documentation and classification before shipment and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "445-d",
@@ -16021,8 +16021,8 @@ export const generatedQuestions: Question[] = [
       "445-b": "This choice does not address the core customs compliance principle tested by the question.",
       "445-c": "This choice does not address the core customs compliance principle tested by the question."
     },
-    "examTrap": "treating compliance as a broker-only responsibility.",
-    "studyTip": "control documentation and classification before shipment."
+    "examTrap": "Treating compliance as a broker-only responsibility.",
+    "studyTip": "Control documentation and classification before shipment."
   },
   {
     "id": "446",
@@ -16057,8 +16057,8 @@ export const generatedQuestions: Question[] = [
       "446-b": "This choice does not address the core landed cost logistics principle tested by the question.",
       "446-d": "This choice does not address the core landed cost logistics principle tested by the question."
     },
-    "examTrap": "optimizing freight rate while increasing total delivered cost.",
-    "studyTip": "use landed cost to compare logistics and sourcing alternatives."
+    "examTrap": "Optimizing freight rate while increasing total delivered cost.",
+    "studyTip": "Use landed cost to compare logistics and sourcing alternatives."
   },
   {
     "id": "447",
@@ -16075,7 +16075,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "447-b",
-        "text": "use landed cost to compare logistics and sourcing alternatives."
+        "text": "Use landed cost to compare logistics and sourcing alternatives."
       },
       {
         "id": "447-c",
@@ -16093,8 +16093,8 @@ export const generatedQuestions: Question[] = [
       "447-c": "This choice does not address the core landed cost logistics principle tested by the question.",
       "447-d": "This choice does not address the core landed cost logistics principle tested by the question."
     },
-    "examTrap": "optimizing freight rate while increasing total delivered cost.",
-    "studyTip": "use landed cost to compare logistics and sourcing alternatives."
+    "examTrap": "Optimizing freight rate while increasing total delivered cost.",
+    "studyTip": "Use landed cost to compare logistics and sourcing alternatives."
   },
   {
     "id": "448",
@@ -16107,7 +16107,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "448-a",
-        "text": "optimizing freight rate while increasing total delivered cost."
+        "text": "Optimizing freight rate while increasing total delivered cost."
       },
       {
         "id": "448-b",
@@ -16129,8 +16129,8 @@ export const generatedQuestions: Question[] = [
       "448-c": "This choice does not address the core landed cost logistics principle tested by the question.",
       "448-d": "This choice does not address the core landed cost logistics principle tested by the question."
     },
-    "examTrap": "optimizing freight rate while increasing total delivered cost.",
-    "studyTip": "use landed cost to compare logistics and sourcing alternatives."
+    "examTrap": "Optimizing freight rate while increasing total delivered cost.",
+    "studyTip": "Use landed cost to compare logistics and sourcing alternatives."
   },
   {
     "id": "449",
@@ -16165,8 +16165,8 @@ export const generatedQuestions: Question[] = [
       "449-b": "This choice does not address the core landed cost logistics principle tested by the question.",
       "449-c": "This choice does not address the core landed cost logistics principle tested by the question."
     },
-    "examTrap": "optimizing freight rate while increasing total delivered cost.",
-    "studyTip": "use landed cost to compare logistics and sourcing alternatives."
+    "examTrap": "Optimizing freight rate while increasing total delivered cost.",
+    "studyTip": "Use landed cost to compare logistics and sourcing alternatives."
   },
   {
     "id": "450",
@@ -16187,7 +16187,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "450-c",
-        "text": "use landed cost to compare logistics and sourcing alternatives and verify the impact through agreed metrics."
+        "text": "Use landed cost to compare logistics and sourcing alternatives and verify the impact through agreed metrics."
       },
       {
         "id": "450-d",
@@ -16201,8 +16201,8 @@ export const generatedQuestions: Question[] = [
       "450-b": "This choice does not address the core landed cost logistics principle tested by the question.",
       "450-d": "This choice does not address the core landed cost logistics principle tested by the question."
     },
-    "examTrap": "optimizing freight rate while increasing total delivered cost.",
-    "studyTip": "use landed cost to compare logistics and sourcing alternatives."
+    "examTrap": "Optimizing freight rate while increasing total delivered cost.",
+    "studyTip": "Use landed cost to compare logistics and sourcing alternatives."
   },
   {
     "id": "451",
@@ -16237,8 +16237,8 @@ export const generatedQuestions: Question[] = [
       "451-c": "This choice does not address the core reverse logistics principle tested by the question.",
       "451-d": "This choice does not address the core reverse logistics principle tested by the question."
     },
-    "examTrap": "treating returns as an afterthought.",
-    "studyTip": "design reverse flows with disposition rules and cost visibility."
+    "examTrap": "Treating returns as an afterthought.",
+    "studyTip": "Design reverse flows with disposition rules and cost visibility."
   },
   {
     "id": "452",
@@ -16251,7 +16251,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "452-a",
-        "text": "design reverse flows with disposition rules and cost visibility."
+        "text": "Design reverse flows with disposition rules and cost visibility."
       },
       {
         "id": "452-b",
@@ -16273,8 +16273,8 @@ export const generatedQuestions: Question[] = [
       "452-c": "This choice does not address the core reverse logistics principle tested by the question.",
       "452-d": "This choice does not address the core reverse logistics principle tested by the question."
     },
-    "examTrap": "treating returns as an afterthought.",
-    "studyTip": "design reverse flows with disposition rules and cost visibility."
+    "examTrap": "Treating returns as an afterthought.",
+    "studyTip": "Design reverse flows with disposition rules and cost visibility."
   },
   {
     "id": "453",
@@ -16299,7 +16299,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "453-d",
-        "text": "treating returns as an afterthought."
+        "text": "Treating returns as an afterthought."
       }
     ],
     "correctChoiceId": "453-d",
@@ -16309,8 +16309,8 @@ export const generatedQuestions: Question[] = [
       "453-b": "This choice does not address the core reverse logistics principle tested by the question.",
       "453-c": "This choice does not address the core reverse logistics principle tested by the question."
     },
-    "examTrap": "treating returns as an afterthought.",
-    "studyTip": "design reverse flows with disposition rules and cost visibility."
+    "examTrap": "Treating returns as an afterthought.",
+    "studyTip": "Design reverse flows with disposition rules and cost visibility."
   },
   {
     "id": "454",
@@ -16345,8 +16345,8 @@ export const generatedQuestions: Question[] = [
       "454-b": "This choice does not address the core reverse logistics principle tested by the question.",
       "454-d": "This choice does not address the core reverse logistics principle tested by the question."
     },
-    "examTrap": "treating returns as an afterthought.",
-    "studyTip": "design reverse flows with disposition rules and cost visibility."
+    "examTrap": "Treating returns as an afterthought.",
+    "studyTip": "Design reverse flows with disposition rules and cost visibility."
   },
   {
     "id": "455",
@@ -16363,7 +16363,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "455-b",
-        "text": "design reverse flows with disposition rules and cost visibility and verify the impact through agreed metrics."
+        "text": "Design reverse flows with disposition rules and cost visibility and verify the impact through agreed metrics."
       },
       {
         "id": "455-c",
@@ -16381,8 +16381,8 @@ export const generatedQuestions: Question[] = [
       "455-c": "This choice does not address the core reverse logistics principle tested by the question.",
       "455-d": "This choice does not address the core reverse logistics principle tested by the question."
     },
-    "examTrap": "treating returns as an afterthought.",
-    "studyTip": "design reverse flows with disposition rules and cost visibility."
+    "examTrap": "Treating returns as an afterthought.",
+    "studyTip": "Design reverse flows with disposition rules and cost visibility."
   },
   {
     "id": "456",
@@ -16417,8 +16417,8 @@ export const generatedQuestions: Question[] = [
       "456-c": "This choice does not address the core returns management principle tested by the question.",
       "456-d": "This choice does not address the core returns management principle tested by the question."
     },
-    "examTrap": "processing returns without learning why they happen.",
-    "studyTip": "standardize return reasons and disposition paths."
+    "examTrap": "Processing returns without learning why they happen.",
+    "studyTip": "Standardize return reasons and disposition paths."
   },
   {
     "id": "457",
@@ -16443,7 +16443,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "457-d",
-        "text": "standardize return reasons and disposition paths."
+        "text": "Standardize return reasons and disposition paths."
       }
     ],
     "correctChoiceId": "457-d",
@@ -16453,8 +16453,8 @@ export const generatedQuestions: Question[] = [
       "457-b": "This choice does not address the core returns management principle tested by the question.",
       "457-c": "This choice does not address the core returns management principle tested by the question."
     },
-    "examTrap": "processing returns without learning why they happen.",
-    "studyTip": "standardize return reasons and disposition paths."
+    "examTrap": "Processing returns without learning why they happen.",
+    "studyTip": "Standardize return reasons and disposition paths."
   },
   {
     "id": "458",
@@ -16475,7 +16475,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "458-c",
-        "text": "processing returns without learning why they happen."
+        "text": "Processing returns without learning why they happen."
       },
       {
         "id": "458-d",
@@ -16489,8 +16489,8 @@ export const generatedQuestions: Question[] = [
       "458-b": "This choice does not address the core returns management principle tested by the question.",
       "458-d": "This choice does not address the core returns management principle tested by the question."
     },
-    "examTrap": "processing returns without learning why they happen.",
-    "studyTip": "standardize return reasons and disposition paths."
+    "examTrap": "Processing returns without learning why they happen.",
+    "studyTip": "Standardize return reasons and disposition paths."
   },
   {
     "id": "459",
@@ -16525,8 +16525,8 @@ export const generatedQuestions: Question[] = [
       "459-c": "This choice does not address the core returns management principle tested by the question.",
       "459-d": "This choice does not address the core returns management principle tested by the question."
     },
-    "examTrap": "processing returns without learning why they happen.",
-    "studyTip": "standardize return reasons and disposition paths."
+    "examTrap": "Processing returns without learning why they happen.",
+    "studyTip": "Standardize return reasons and disposition paths."
   },
   {
     "id": "460",
@@ -16539,7 +16539,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "460-a",
-        "text": "standardize return reasons and disposition paths and verify the impact through agreed metrics."
+        "text": "Standardize return reasons and disposition paths and verify the impact through agreed metrics."
       },
       {
         "id": "460-b",
@@ -16561,8 +16561,8 @@ export const generatedQuestions: Question[] = [
       "460-c": "This choice does not address the core returns management principle tested by the question.",
       "460-d": "This choice does not address the core returns management principle tested by the question."
     },
-    "examTrap": "processing returns without learning why they happen.",
-    "studyTip": "standardize return reasons and disposition paths."
+    "examTrap": "Processing returns without learning why they happen.",
+    "studyTip": "Standardize return reasons and disposition paths."
   },
   {
     "id": "461",
@@ -16597,8 +16597,8 @@ export const generatedQuestions: Question[] = [
       "461-b": "This choice does not address the core third-party logistics principle tested by the question.",
       "461-c": "This choice does not address the core third-party logistics principle tested by the question."
     },
-    "examTrap": "outsourcing logistics without service levels and performance governance.",
-    "studyTip": "use 3PLs for capability, scale, flexibility, or geographic reach."
+    "examTrap": "Outsourcing logistics without service levels and performance governance.",
+    "studyTip": "Use 3PLs for capability, scale, flexibility, or geographic reach."
   },
   {
     "id": "462",
@@ -16619,7 +16619,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "462-c",
-        "text": "use 3PLs for capability, scale, flexibility, or geographic reach."
+        "text": "Use 3PLs for capability, scale, flexibility, or geographic reach."
       },
       {
         "id": "462-d",
@@ -16633,8 +16633,8 @@ export const generatedQuestions: Question[] = [
       "462-b": "This choice does not address the core third-party logistics principle tested by the question.",
       "462-d": "This choice does not address the core third-party logistics principle tested by the question."
     },
-    "examTrap": "outsourcing logistics without service levels and performance governance.",
-    "studyTip": "use 3PLs for capability, scale, flexibility, or geographic reach."
+    "examTrap": "Outsourcing logistics without service levels and performance governance.",
+    "studyTip": "Use 3PLs for capability, scale, flexibility, or geographic reach."
   },
   {
     "id": "463",
@@ -16651,7 +16651,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "463-b",
-        "text": "outsourcing logistics without service levels and performance governance."
+        "text": "Outsourcing logistics without service levels and performance governance."
       },
       {
         "id": "463-c",
@@ -16669,8 +16669,8 @@ export const generatedQuestions: Question[] = [
       "463-c": "This choice does not address the core third-party logistics principle tested by the question.",
       "463-d": "This choice does not address the core third-party logistics principle tested by the question."
     },
-    "examTrap": "outsourcing logistics without service levels and performance governance.",
-    "studyTip": "use 3PLs for capability, scale, flexibility, or geographic reach."
+    "examTrap": "Outsourcing logistics without service levels and performance governance.",
+    "studyTip": "Use 3PLs for capability, scale, flexibility, or geographic reach."
   },
   {
     "id": "464",
@@ -16705,8 +16705,8 @@ export const generatedQuestions: Question[] = [
       "464-c": "This choice does not address the core third-party logistics principle tested by the question.",
       "464-d": "This choice does not address the core third-party logistics principle tested by the question."
     },
-    "examTrap": "outsourcing logistics without service levels and performance governance.",
-    "studyTip": "use 3PLs for capability, scale, flexibility, or geographic reach."
+    "examTrap": "Outsourcing logistics without service levels and performance governance.",
+    "studyTip": "Use 3PLs for capability, scale, flexibility, or geographic reach."
   },
   {
     "id": "465",
@@ -16731,7 +16731,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "465-d",
-        "text": "use 3PLs for capability, scale, flexibility, or geographic reach and verify the impact through agreed metrics."
+        "text": "Use 3PLs for capability, scale, flexibility, or geographic reach and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "465-d",
@@ -16741,8 +16741,8 @@ export const generatedQuestions: Question[] = [
       "465-b": "This choice does not address the core third-party logistics principle tested by the question.",
       "465-c": "This choice does not address the core third-party logistics principle tested by the question."
     },
-    "examTrap": "outsourcing logistics without service levels and performance governance.",
-    "studyTip": "use 3PLs for capability, scale, flexibility, or geographic reach."
+    "examTrap": "Outsourcing logistics without service levels and performance governance.",
+    "studyTip": "Use 3PLs for capability, scale, flexibility, or geographic reach."
   },
   {
     "id": "466",
@@ -16777,8 +16777,8 @@ export const generatedQuestions: Question[] = [
       "466-b": "This choice does not address the core cold chain principle tested by the question.",
       "466-d": "This choice does not address the core cold chain principle tested by the question."
     },
-    "examTrap": "tracking shipment location but not temperature integrity.",
-    "studyTip": "monitor conditions, compliance, and exception response across the chain."
+    "examTrap": "Tracking shipment location but not temperature integrity.",
+    "studyTip": "Monitor conditions, compliance, and exception response across the chain."
   },
   {
     "id": "467",
@@ -16795,7 +16795,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "467-b",
-        "text": "monitor conditions, compliance, and exception response across the chain."
+        "text": "Monitor conditions, compliance, and exception response across the chain."
       },
       {
         "id": "467-c",
@@ -16813,8 +16813,8 @@ export const generatedQuestions: Question[] = [
       "467-c": "This choice does not address the core cold chain principle tested by the question.",
       "467-d": "This choice does not address the core cold chain principle tested by the question."
     },
-    "examTrap": "tracking shipment location but not temperature integrity.",
-    "studyTip": "monitor conditions, compliance, and exception response across the chain."
+    "examTrap": "Tracking shipment location but not temperature integrity.",
+    "studyTip": "Monitor conditions, compliance, and exception response across the chain."
   },
   {
     "id": "468",
@@ -16827,7 +16827,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "468-a",
-        "text": "tracking shipment location but not temperature integrity."
+        "text": "Tracking shipment location but not temperature integrity."
       },
       {
         "id": "468-b",
@@ -16849,8 +16849,8 @@ export const generatedQuestions: Question[] = [
       "468-c": "This choice does not address the core cold chain principle tested by the question.",
       "468-d": "This choice does not address the core cold chain principle tested by the question."
     },
-    "examTrap": "tracking shipment location but not temperature integrity.",
-    "studyTip": "monitor conditions, compliance, and exception response across the chain."
+    "examTrap": "Tracking shipment location but not temperature integrity.",
+    "studyTip": "Monitor conditions, compliance, and exception response across the chain."
   },
   {
     "id": "469",
@@ -16885,8 +16885,8 @@ export const generatedQuestions: Question[] = [
       "469-b": "This choice does not address the core cold chain principle tested by the question.",
       "469-c": "This choice does not address the core cold chain principle tested by the question."
     },
-    "examTrap": "tracking shipment location but not temperature integrity.",
-    "studyTip": "monitor conditions, compliance, and exception response across the chain."
+    "examTrap": "Tracking shipment location but not temperature integrity.",
+    "studyTip": "Monitor conditions, compliance, and exception response across the chain."
   },
   {
     "id": "470",
@@ -16907,7 +16907,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "470-c",
-        "text": "monitor conditions, compliance, and exception response across the chain and verify the impact through agreed metrics."
+        "text": "Monitor conditions, compliance, and exception response across the chain and verify the impact through agreed metrics."
       },
       {
         "id": "470-d",
@@ -16921,8 +16921,8 @@ export const generatedQuestions: Question[] = [
       "470-b": "This choice does not address the core cold chain principle tested by the question.",
       "470-d": "This choice does not address the core cold chain principle tested by the question."
     },
-    "examTrap": "tracking shipment location but not temperature integrity.",
-    "studyTip": "monitor conditions, compliance, and exception response across the chain."
+    "examTrap": "Tracking shipment location but not temperature integrity.",
+    "studyTip": "Monitor conditions, compliance, and exception response across the chain."
   },
   {
     "id": "471",
@@ -16957,8 +16957,8 @@ export const generatedQuestions: Question[] = [
       "471-c": "This choice does not address the core packaging logistics principle tested by the question.",
       "471-d": "This choice does not address the core packaging logistics principle tested by the question."
     },
-    "examTrap": "choosing packaging only by material cost.",
-    "studyTip": "optimize packaging for product protection and network efficiency."
+    "examTrap": "Choosing packaging only by material cost.",
+    "studyTip": "Optimize packaging for product protection and network efficiency."
   },
   {
     "id": "472",
@@ -16971,7 +16971,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "472-a",
-        "text": "optimize packaging for product protection and network efficiency."
+        "text": "Optimize packaging for product protection and network efficiency."
       },
       {
         "id": "472-b",
@@ -16993,8 +16993,8 @@ export const generatedQuestions: Question[] = [
       "472-c": "This choice does not address the core packaging logistics principle tested by the question.",
       "472-d": "This choice does not address the core packaging logistics principle tested by the question."
     },
-    "examTrap": "choosing packaging only by material cost.",
-    "studyTip": "optimize packaging for product protection and network efficiency."
+    "examTrap": "Choosing packaging only by material cost.",
+    "studyTip": "Optimize packaging for product protection and network efficiency."
   },
   {
     "id": "473",
@@ -17019,7 +17019,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "473-d",
-        "text": "choosing packaging only by material cost."
+        "text": "Choosing packaging only by material cost."
       }
     ],
     "correctChoiceId": "473-d",
@@ -17029,8 +17029,8 @@ export const generatedQuestions: Question[] = [
       "473-b": "This choice does not address the core packaging logistics principle tested by the question.",
       "473-c": "This choice does not address the core packaging logistics principle tested by the question."
     },
-    "examTrap": "choosing packaging only by material cost.",
-    "studyTip": "optimize packaging for product protection and network efficiency."
+    "examTrap": "Choosing packaging only by material cost.",
+    "studyTip": "Optimize packaging for product protection and network efficiency."
   },
   {
     "id": "474",
@@ -17065,8 +17065,8 @@ export const generatedQuestions: Question[] = [
       "474-b": "This choice does not address the core packaging logistics principle tested by the question.",
       "474-d": "This choice does not address the core packaging logistics principle tested by the question."
     },
-    "examTrap": "choosing packaging only by material cost.",
-    "studyTip": "optimize packaging for product protection and network efficiency."
+    "examTrap": "Choosing packaging only by material cost.",
+    "studyTip": "Optimize packaging for product protection and network efficiency."
   },
   {
     "id": "475",
@@ -17083,7 +17083,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "475-b",
-        "text": "optimize packaging for product protection and network efficiency and verify the impact through agreed metrics."
+        "text": "Optimize packaging for product protection and network efficiency and verify the impact through agreed metrics."
       },
       {
         "id": "475-c",
@@ -17101,8 +17101,8 @@ export const generatedQuestions: Question[] = [
       "475-c": "This choice does not address the core packaging logistics principle tested by the question.",
       "475-d": "This choice does not address the core packaging logistics principle tested by the question."
     },
-    "examTrap": "choosing packaging only by material cost.",
-    "studyTip": "optimize packaging for product protection and network efficiency."
+    "examTrap": "Choosing packaging only by material cost.",
+    "studyTip": "Optimize packaging for product protection and network efficiency."
   },
   {
     "id": "476",
@@ -17137,8 +17137,8 @@ export const generatedQuestions: Question[] = [
       "476-c": "This choice does not address the core order fulfillment principle tested by the question.",
       "476-d": "This choice does not address the core order fulfillment principle tested by the question."
     },
-    "examTrap": "looking only at shipping speed and ignoring order accuracy.",
-    "studyTip": "measure and improve cycle time, accuracy, availability, and delivery performance."
+    "examTrap": "Looking only at shipping speed and ignoring order accuracy.",
+    "studyTip": "Measure and improve cycle time, accuracy, availability, and delivery performance."
   },
   {
     "id": "477",
@@ -17163,7 +17163,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "477-d",
-        "text": "measure and improve cycle time, accuracy, availability, and delivery performance."
+        "text": "Measure and improve cycle time, accuracy, availability, and delivery performance."
       }
     ],
     "correctChoiceId": "477-d",
@@ -17173,8 +17173,8 @@ export const generatedQuestions: Question[] = [
       "477-b": "This choice does not address the core order fulfillment principle tested by the question.",
       "477-c": "This choice does not address the core order fulfillment principle tested by the question."
     },
-    "examTrap": "looking only at shipping speed and ignoring order accuracy.",
-    "studyTip": "measure and improve cycle time, accuracy, availability, and delivery performance."
+    "examTrap": "Looking only at shipping speed and ignoring order accuracy.",
+    "studyTip": "Measure and improve cycle time, accuracy, availability, and delivery performance."
   },
   {
     "id": "478",
@@ -17195,7 +17195,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "478-c",
-        "text": "looking only at shipping speed and ignoring order accuracy."
+        "text": "Looking only at shipping speed and ignoring order accuracy."
       },
       {
         "id": "478-d",
@@ -17209,8 +17209,8 @@ export const generatedQuestions: Question[] = [
       "478-b": "This choice does not address the core order fulfillment principle tested by the question.",
       "478-d": "This choice does not address the core order fulfillment principle tested by the question."
     },
-    "examTrap": "looking only at shipping speed and ignoring order accuracy.",
-    "studyTip": "measure and improve cycle time, accuracy, availability, and delivery performance."
+    "examTrap": "Looking only at shipping speed and ignoring order accuracy.",
+    "studyTip": "Measure and improve cycle time, accuracy, availability, and delivery performance."
   },
   {
     "id": "479",
@@ -17245,8 +17245,8 @@ export const generatedQuestions: Question[] = [
       "479-c": "This choice does not address the core order fulfillment principle tested by the question.",
       "479-d": "This choice does not address the core order fulfillment principle tested by the question."
     },
-    "examTrap": "looking only at shipping speed and ignoring order accuracy.",
-    "studyTip": "measure and improve cycle time, accuracy, availability, and delivery performance."
+    "examTrap": "Looking only at shipping speed and ignoring order accuracy.",
+    "studyTip": "Measure and improve cycle time, accuracy, availability, and delivery performance."
   },
   {
     "id": "480",
@@ -17259,7 +17259,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "480-a",
-        "text": "measure and improve cycle time, accuracy, availability, and delivery performance and verify the impact through agreed metrics."
+        "text": "Measure and improve cycle time, accuracy, availability, and delivery performance and verify the impact through agreed metrics."
       },
       {
         "id": "480-b",
@@ -17281,8 +17281,8 @@ export const generatedQuestions: Question[] = [
       "480-c": "This choice does not address the core order fulfillment principle tested by the question.",
       "480-d": "This choice does not address the core order fulfillment principle tested by the question."
     },
-    "examTrap": "looking only at shipping speed and ignoring order accuracy.",
-    "studyTip": "measure and improve cycle time, accuracy, availability, and delivery performance."
+    "examTrap": "Looking only at shipping speed and ignoring order accuracy.",
+    "studyTip": "Measure and improve cycle time, accuracy, availability, and delivery performance."
   },
   {
     "id": "481",
@@ -17317,8 +17317,8 @@ export const generatedQuestions: Question[] = [
       "481-b": "This choice does not address the core transportation management system principle tested by the question.",
       "481-c": "This choice does not address the core transportation management system principle tested by the question."
     },
-    "examTrap": "expecting software to fix bad routing guides.",
-    "studyTip": "use TMS with clean data, carrier rules, and exception management."
+    "examTrap": "Expecting software to fix bad routing guides.",
+    "studyTip": "Use TMS with clean data, carrier rules, and exception management."
   },
   {
     "id": "482",
@@ -17339,7 +17339,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "482-c",
-        "text": "use TMS with clean data, carrier rules, and exception management."
+        "text": "Use TMS with clean data, carrier rules, and exception management."
       },
       {
         "id": "482-d",
@@ -17353,8 +17353,8 @@ export const generatedQuestions: Question[] = [
       "482-b": "This choice does not address the core transportation management system principle tested by the question.",
       "482-d": "This choice does not address the core transportation management system principle tested by the question."
     },
-    "examTrap": "expecting software to fix bad routing guides.",
-    "studyTip": "use TMS with clean data, carrier rules, and exception management."
+    "examTrap": "Expecting software to fix bad routing guides.",
+    "studyTip": "Use TMS with clean data, carrier rules, and exception management."
   },
   {
     "id": "483",
@@ -17371,7 +17371,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "483-b",
-        "text": "expecting software to fix bad routing guides."
+        "text": "Expecting software to fix bad routing guides."
       },
       {
         "id": "483-c",
@@ -17389,8 +17389,8 @@ export const generatedQuestions: Question[] = [
       "483-c": "This choice does not address the core transportation management system principle tested by the question.",
       "483-d": "This choice does not address the core transportation management system principle tested by the question."
     },
-    "examTrap": "expecting software to fix bad routing guides.",
-    "studyTip": "use TMS with clean data, carrier rules, and exception management."
+    "examTrap": "Expecting software to fix bad routing guides.",
+    "studyTip": "Use TMS with clean data, carrier rules, and exception management."
   },
   {
     "id": "484",
@@ -17425,8 +17425,8 @@ export const generatedQuestions: Question[] = [
       "484-c": "This choice does not address the core transportation management system principle tested by the question.",
       "484-d": "This choice does not address the core transportation management system principle tested by the question."
     },
-    "examTrap": "expecting software to fix bad routing guides.",
-    "studyTip": "use TMS with clean data, carrier rules, and exception management."
+    "examTrap": "Expecting software to fix bad routing guides.",
+    "studyTip": "Use TMS with clean data, carrier rules, and exception management."
   },
   {
     "id": "485",
@@ -17451,7 +17451,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "485-d",
-        "text": "use TMS with clean data, carrier rules, and exception management and verify the impact through agreed metrics."
+        "text": "Use TMS with clean data, carrier rules, and exception management and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "485-d",
@@ -17461,8 +17461,8 @@ export const generatedQuestions: Question[] = [
       "485-b": "This choice does not address the core transportation management system principle tested by the question.",
       "485-c": "This choice does not address the core transportation management system principle tested by the question."
     },
-    "examTrap": "expecting software to fix bad routing guides.",
-    "studyTip": "use TMS with clean data, carrier rules, and exception management."
+    "examTrap": "Expecting software to fix bad routing guides.",
+    "studyTip": "Use TMS with clean data, carrier rules, and exception management."
   },
   {
     "id": "486",
@@ -17497,8 +17497,8 @@ export const generatedQuestions: Question[] = [
       "486-b": "This choice does not address the core distribution performance metrics principle tested by the question.",
       "486-d": "This choice does not address the core distribution performance metrics principle tested by the question."
     },
-    "examTrap": "using one metric that encourages bad behavior elsewhere.",
-    "studyTip": "balance service, cost, quality, and asset utilization."
+    "examTrap": "Using one metric that encourages bad behavior elsewhere.",
+    "studyTip": "Balance service, cost, quality, and asset utilization."
   },
   {
     "id": "487",
@@ -17515,7 +17515,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "487-b",
-        "text": "balance service, cost, quality, and asset utilization."
+        "text": "Balance service, cost, quality, and asset utilization."
       },
       {
         "id": "487-c",
@@ -17533,8 +17533,8 @@ export const generatedQuestions: Question[] = [
       "487-c": "This choice does not address the core distribution performance metrics principle tested by the question.",
       "487-d": "This choice does not address the core distribution performance metrics principle tested by the question."
     },
-    "examTrap": "using one metric that encourages bad behavior elsewhere.",
-    "studyTip": "balance service, cost, quality, and asset utilization."
+    "examTrap": "Using one metric that encourages bad behavior elsewhere.",
+    "studyTip": "Balance service, cost, quality, and asset utilization."
   },
   {
     "id": "488",
@@ -17547,7 +17547,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "488-a",
-        "text": "using one metric that encourages bad behavior elsewhere."
+        "text": "Using one metric that encourages bad behavior elsewhere."
       },
       {
         "id": "488-b",
@@ -17569,8 +17569,8 @@ export const generatedQuestions: Question[] = [
       "488-c": "This choice does not address the core distribution performance metrics principle tested by the question.",
       "488-d": "This choice does not address the core distribution performance metrics principle tested by the question."
     },
-    "examTrap": "using one metric that encourages bad behavior elsewhere.",
-    "studyTip": "balance service, cost, quality, and asset utilization."
+    "examTrap": "Using one metric that encourages bad behavior elsewhere.",
+    "studyTip": "Balance service, cost, quality, and asset utilization."
   },
   {
     "id": "489",
@@ -17605,8 +17605,8 @@ export const generatedQuestions: Question[] = [
       "489-b": "This choice does not address the core distribution performance metrics principle tested by the question.",
       "489-c": "This choice does not address the core distribution performance metrics principle tested by the question."
     },
-    "examTrap": "using one metric that encourages bad behavior elsewhere.",
-    "studyTip": "balance service, cost, quality, and asset utilization."
+    "examTrap": "Using one metric that encourages bad behavior elsewhere.",
+    "studyTip": "Balance service, cost, quality, and asset utilization."
   },
   {
     "id": "490",
@@ -17627,7 +17627,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "490-c",
-        "text": "balance service, cost, quality, and asset utilization and verify the impact through agreed metrics."
+        "text": "Balance service, cost, quality, and asset utilization and verify the impact through agreed metrics."
       },
       {
         "id": "490-d",
@@ -17641,8 +17641,8 @@ export const generatedQuestions: Question[] = [
       "490-b": "This choice does not address the core distribution performance metrics principle tested by the question.",
       "490-d": "This choice does not address the core distribution performance metrics principle tested by the question."
     },
-    "examTrap": "using one metric that encourages bad behavior elsewhere.",
-    "studyTip": "balance service, cost, quality, and asset utilization."
+    "examTrap": "Using one metric that encourages bad behavior elsewhere.",
+    "studyTip": "Balance service, cost, quality, and asset utilization."
   },
   {
     "id": "491",
@@ -17677,8 +17677,8 @@ export const generatedQuestions: Question[] = [
       "491-c": "This choice does not address the core hazardous materials logistics principle tested by the question.",
       "491-d": "This choice does not address the core hazardous materials logistics principle tested by the question."
     },
-    "examTrap": "treating hazardous shipments like normal freight.",
-    "studyTip": "ensure trained personnel and compliant processes before movement."
+    "examTrap": "Treating hazardous shipments like normal freight.",
+    "studyTip": "Ensure trained personnel and compliant processes before movement."
   },
   {
     "id": "492",
@@ -17691,7 +17691,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "492-a",
-        "text": "ensure trained personnel and compliant processes before movement."
+        "text": "Ensure trained personnel and compliant processes before movement."
       },
       {
         "id": "492-b",
@@ -17713,8 +17713,8 @@ export const generatedQuestions: Question[] = [
       "492-c": "This choice does not address the core hazardous materials logistics principle tested by the question.",
       "492-d": "This choice does not address the core hazardous materials logistics principle tested by the question."
     },
-    "examTrap": "treating hazardous shipments like normal freight.",
-    "studyTip": "ensure trained personnel and compliant processes before movement."
+    "examTrap": "Treating hazardous shipments like normal freight.",
+    "studyTip": "Ensure trained personnel and compliant processes before movement."
   },
   {
     "id": "493",
@@ -17739,7 +17739,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "493-d",
-        "text": "treating hazardous shipments like normal freight."
+        "text": "Treating hazardous shipments like normal freight."
       }
     ],
     "correctChoiceId": "493-d",
@@ -17749,8 +17749,8 @@ export const generatedQuestions: Question[] = [
       "493-b": "This choice does not address the core hazardous materials logistics principle tested by the question.",
       "493-c": "This choice does not address the core hazardous materials logistics principle tested by the question."
     },
-    "examTrap": "treating hazardous shipments like normal freight.",
-    "studyTip": "ensure trained personnel and compliant processes before movement."
+    "examTrap": "Treating hazardous shipments like normal freight.",
+    "studyTip": "Ensure trained personnel and compliant processes before movement."
   },
   {
     "id": "494",
@@ -17785,8 +17785,8 @@ export const generatedQuestions: Question[] = [
       "494-b": "This choice does not address the core hazardous materials logistics principle tested by the question.",
       "494-d": "This choice does not address the core hazardous materials logistics principle tested by the question."
     },
-    "examTrap": "treating hazardous shipments like normal freight.",
-    "studyTip": "ensure trained personnel and compliant processes before movement."
+    "examTrap": "Treating hazardous shipments like normal freight.",
+    "studyTip": "Ensure trained personnel and compliant processes before movement."
   },
   {
     "id": "495",
@@ -17803,7 +17803,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "495-b",
-        "text": "ensure trained personnel and compliant processes before movement and verify the impact through agreed metrics."
+        "text": "Ensure trained personnel and compliant processes before movement and verify the impact through agreed metrics."
       },
       {
         "id": "495-c",
@@ -17821,8 +17821,8 @@ export const generatedQuestions: Question[] = [
       "495-c": "This choice does not address the core hazardous materials logistics principle tested by the question.",
       "495-d": "This choice does not address the core hazardous materials logistics principle tested by the question."
     },
-    "examTrap": "treating hazardous shipments like normal freight.",
-    "studyTip": "ensure trained personnel and compliant processes before movement."
+    "examTrap": "Treating hazardous shipments like normal freight.",
+    "studyTip": "Ensure trained personnel and compliant processes before movement."
   },
   {
     "id": "496",
@@ -17857,8 +17857,8 @@ export const generatedQuestions: Question[] = [
       "496-c": "This choice does not address the core sustainable logistics principle tested by the question.",
       "496-d": "This choice does not address the core sustainable logistics principle tested by the question."
     },
-    "examTrap": "making sustainability claims without operational metrics.",
-    "studyTip": "connect sustainability actions to service, cost, and measurable emissions outcomes."
+    "examTrap": "Making sustainability claims without operational metrics.",
+    "studyTip": "Connect sustainability actions to service, cost, and measurable emissions outcomes."
   },
   {
     "id": "497",
@@ -17883,7 +17883,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "497-d",
-        "text": "connect sustainability actions to service, cost, and measurable emissions outcomes."
+        "text": "Connect sustainability actions to service, cost, and measurable emissions outcomes."
       }
     ],
     "correctChoiceId": "497-d",
@@ -17893,8 +17893,8 @@ export const generatedQuestions: Question[] = [
       "497-b": "This choice does not address the core sustainable logistics principle tested by the question.",
       "497-c": "This choice does not address the core sustainable logistics principle tested by the question."
     },
-    "examTrap": "making sustainability claims without operational metrics.",
-    "studyTip": "connect sustainability actions to service, cost, and measurable emissions outcomes."
+    "examTrap": "Making sustainability claims without operational metrics.",
+    "studyTip": "Connect sustainability actions to service, cost, and measurable emissions outcomes."
   },
   {
     "id": "498",
@@ -17915,7 +17915,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "498-c",
-        "text": "making sustainability claims without operational metrics."
+        "text": "Making sustainability claims without operational metrics."
       },
       {
         "id": "498-d",
@@ -17929,8 +17929,8 @@ export const generatedQuestions: Question[] = [
       "498-b": "This choice does not address the core sustainable logistics principle tested by the question.",
       "498-d": "This choice does not address the core sustainable logistics principle tested by the question."
     },
-    "examTrap": "making sustainability claims without operational metrics.",
-    "studyTip": "connect sustainability actions to service, cost, and measurable emissions outcomes."
+    "examTrap": "Making sustainability claims without operational metrics.",
+    "studyTip": "Connect sustainability actions to service, cost, and measurable emissions outcomes."
   },
   {
     "id": "499",
@@ -17965,8 +17965,8 @@ export const generatedQuestions: Question[] = [
       "499-c": "This choice does not address the core sustainable logistics principle tested by the question.",
       "499-d": "This choice does not address the core sustainable logistics principle tested by the question."
     },
-    "examTrap": "making sustainability claims without operational metrics.",
-    "studyTip": "connect sustainability actions to service, cost, and measurable emissions outcomes."
+    "examTrap": "Making sustainability claims without operational metrics.",
+    "studyTip": "Connect sustainability actions to service, cost, and measurable emissions outcomes."
   },
   {
     "id": "500",
@@ -17979,7 +17979,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "500-a",
-        "text": "connect sustainability actions to service, cost, and measurable emissions outcomes and verify the impact through agreed metrics."
+        "text": "Connect sustainability actions to service, cost, and measurable emissions outcomes and verify the impact through agreed metrics."
       },
       {
         "id": "500-b",
@@ -18001,8 +18001,8 @@ export const generatedQuestions: Question[] = [
       "500-c": "This choice does not address the core sustainable logistics principle tested by the question.",
       "500-d": "This choice does not address the core sustainable logistics principle tested by the question."
     },
-    "examTrap": "making sustainability claims without operational metrics.",
-    "studyTip": "connect sustainability actions to service, cost, and measurable emissions outcomes."
+    "examTrap": "Making sustainability claims without operational metrics.",
+    "studyTip": "Connect sustainability actions to service, cost, and measurable emissions outcomes."
   },
   {
     "id": "501",
@@ -18037,8 +18037,8 @@ export const generatedQuestions: Question[] = [
       "501-b": "This choice does not address the core relationship management principle tested by the question.",
       "501-c": "This choice does not address the core relationship management principle tested by the question."
     },
-    "examTrap": "assuming good relationships happen because people are friendly.",
-    "studyTip": "set clear roles, metrics, cadence, and escalation paths."
+    "examTrap": "Assuming good relationships happen because people are friendly.",
+    "studyTip": "Set clear roles, metrics, cadence, and escalation paths."
   },
   {
     "id": "502",
@@ -18059,7 +18059,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "502-c",
-        "text": "set clear roles, metrics, cadence, and escalation paths."
+        "text": "Set clear roles, metrics, cadence, and escalation paths."
       },
       {
         "id": "502-d",
@@ -18073,8 +18073,8 @@ export const generatedQuestions: Question[] = [
       "502-b": "This choice does not address the core relationship management principle tested by the question.",
       "502-d": "This choice does not address the core relationship management principle tested by the question."
     },
-    "examTrap": "assuming good relationships happen because people are friendly.",
-    "studyTip": "set clear roles, metrics, cadence, and escalation paths."
+    "examTrap": "Assuming good relationships happen because people are friendly.",
+    "studyTip": "Set clear roles, metrics, cadence, and escalation paths."
   },
   {
     "id": "503",
@@ -18091,7 +18091,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "503-b",
-        "text": "assuming good relationships happen because people are friendly."
+        "text": "Assuming good relationships happen because people are friendly."
       },
       {
         "id": "503-c",
@@ -18109,8 +18109,8 @@ export const generatedQuestions: Question[] = [
       "503-c": "This choice does not address the core relationship management principle tested by the question.",
       "503-d": "This choice does not address the core relationship management principle tested by the question."
     },
-    "examTrap": "assuming good relationships happen because people are friendly.",
-    "studyTip": "set clear roles, metrics, cadence, and escalation paths."
+    "examTrap": "Assuming good relationships happen because people are friendly.",
+    "studyTip": "Set clear roles, metrics, cadence, and escalation paths."
   },
   {
     "id": "504",
@@ -18145,8 +18145,8 @@ export const generatedQuestions: Question[] = [
       "504-c": "This choice does not address the core relationship management principle tested by the question.",
       "504-d": "This choice does not address the core relationship management principle tested by the question."
     },
-    "examTrap": "assuming good relationships happen because people are friendly.",
-    "studyTip": "set clear roles, metrics, cadence, and escalation paths."
+    "examTrap": "Assuming good relationships happen because people are friendly.",
+    "studyTip": "Set clear roles, metrics, cadence, and escalation paths."
   },
   {
     "id": "505",
@@ -18171,7 +18171,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "505-d",
-        "text": "set clear roles, metrics, cadence, and escalation paths and verify the impact through agreed metrics."
+        "text": "Set clear roles, metrics, cadence, and escalation paths and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "505-d",
@@ -18181,8 +18181,8 @@ export const generatedQuestions: Question[] = [
       "505-b": "This choice does not address the core relationship management principle tested by the question.",
       "505-c": "This choice does not address the core relationship management principle tested by the question."
     },
-    "examTrap": "assuming good relationships happen because people are friendly.",
-    "studyTip": "set clear roles, metrics, cadence, and escalation paths."
+    "examTrap": "Assuming good relationships happen because people are friendly.",
+    "studyTip": "Set clear roles, metrics, cadence, and escalation paths."
   },
   {
     "id": "506",
@@ -18217,8 +18217,8 @@ export const generatedQuestions: Question[] = [
       "506-b": "This choice does not address the core collaboration principle tested by the question.",
       "506-d": "This choice does not address the core collaboration principle tested by the question."
     },
-    "examTrap": "calling every supplier meeting collaboration.",
-    "studyTip": "share relevant information, align incentives, and solve problems jointly."
+    "examTrap": "Calling every supplier meeting collaboration.",
+    "studyTip": "Share relevant information, align incentives, and solve problems jointly."
   },
   {
     "id": "507",
@@ -18235,7 +18235,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "507-b",
-        "text": "share relevant information, align incentives, and solve problems jointly."
+        "text": "Share relevant information, align incentives, and solve problems jointly."
       },
       {
         "id": "507-c",
@@ -18253,8 +18253,8 @@ export const generatedQuestions: Question[] = [
       "507-c": "This choice does not address the core collaboration principle tested by the question.",
       "507-d": "This choice does not address the core collaboration principle tested by the question."
     },
-    "examTrap": "calling every supplier meeting collaboration.",
-    "studyTip": "share relevant information, align incentives, and solve problems jointly."
+    "examTrap": "Calling every supplier meeting collaboration.",
+    "studyTip": "Share relevant information, align incentives, and solve problems jointly."
   },
   {
     "id": "508",
@@ -18267,7 +18267,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "508-a",
-        "text": "calling every supplier meeting collaboration."
+        "text": "Calling every supplier meeting collaboration."
       },
       {
         "id": "508-b",
@@ -18289,8 +18289,8 @@ export const generatedQuestions: Question[] = [
       "508-c": "This choice does not address the core collaboration principle tested by the question.",
       "508-d": "This choice does not address the core collaboration principle tested by the question."
     },
-    "examTrap": "calling every supplier meeting collaboration.",
-    "studyTip": "share relevant information, align incentives, and solve problems jointly."
+    "examTrap": "Calling every supplier meeting collaboration.",
+    "studyTip": "Share relevant information, align incentives, and solve problems jointly."
   },
   {
     "id": "509",
@@ -18325,8 +18325,8 @@ export const generatedQuestions: Question[] = [
       "509-b": "This choice does not address the core collaboration principle tested by the question.",
       "509-c": "This choice does not address the core collaboration principle tested by the question."
     },
-    "examTrap": "calling every supplier meeting collaboration.",
-    "studyTip": "share relevant information, align incentives, and solve problems jointly."
+    "examTrap": "Calling every supplier meeting collaboration.",
+    "studyTip": "Share relevant information, align incentives, and solve problems jointly."
   },
   {
     "id": "510",
@@ -18347,7 +18347,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "510-c",
-        "text": "share relevant information, align incentives, and solve problems jointly and verify the impact through agreed metrics."
+        "text": "Share relevant information, align incentives, and solve problems jointly and verify the impact through agreed metrics."
       },
       {
         "id": "510-d",
@@ -18361,8 +18361,8 @@ export const generatedQuestions: Question[] = [
       "510-b": "This choice does not address the core collaboration principle tested by the question.",
       "510-d": "This choice does not address the core collaboration principle tested by the question."
     },
-    "examTrap": "calling every supplier meeting collaboration.",
-    "studyTip": "share relevant information, align incentives, and solve problems jointly."
+    "examTrap": "Calling every supplier meeting collaboration.",
+    "studyTip": "Share relevant information, align incentives, and solve problems jointly."
   },
   {
     "id": "511",
@@ -18397,8 +18397,8 @@ export const generatedQuestions: Question[] = [
       "511-c": "This choice does not address the core trust in supply chains principle tested by the question.",
       "511-d": "This choice does not address the core trust in supply chains principle tested by the question."
     },
-    "examTrap": "expecting trust without transparency or accountability.",
-    "studyTip": "build trust through consistent performance, clear communication, and follow-through."
+    "examTrap": "Expecting trust without transparency or accountability.",
+    "studyTip": "Build trust through consistent performance, clear communication, and follow-through."
   },
   {
     "id": "512",
@@ -18411,7 +18411,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "512-a",
-        "text": "build trust through consistent performance, clear communication, and follow-through."
+        "text": "Build trust through consistent performance, clear communication, and follow-through."
       },
       {
         "id": "512-b",
@@ -18433,8 +18433,8 @@ export const generatedQuestions: Question[] = [
       "512-c": "This choice does not address the core trust in supply chains principle tested by the question.",
       "512-d": "This choice does not address the core trust in supply chains principle tested by the question."
     },
-    "examTrap": "expecting trust without transparency or accountability.",
-    "studyTip": "build trust through consistent performance, clear communication, and follow-through."
+    "examTrap": "Expecting trust without transparency or accountability.",
+    "studyTip": "Build trust through consistent performance, clear communication, and follow-through."
   },
   {
     "id": "513",
@@ -18459,7 +18459,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "513-d",
-        "text": "expecting trust without transparency or accountability."
+        "text": "Expecting trust without transparency or accountability."
       }
     ],
     "correctChoiceId": "513-d",
@@ -18469,8 +18469,8 @@ export const generatedQuestions: Question[] = [
       "513-b": "This choice does not address the core trust in supply chains principle tested by the question.",
       "513-c": "This choice does not address the core trust in supply chains principle tested by the question."
     },
-    "examTrap": "expecting trust without transparency or accountability.",
-    "studyTip": "build trust through consistent performance, clear communication, and follow-through."
+    "examTrap": "Expecting trust without transparency or accountability.",
+    "studyTip": "Build trust through consistent performance, clear communication, and follow-through."
   },
   {
     "id": "514",
@@ -18505,8 +18505,8 @@ export const generatedQuestions: Question[] = [
       "514-b": "This choice does not address the core trust in supply chains principle tested by the question.",
       "514-d": "This choice does not address the core trust in supply chains principle tested by the question."
     },
-    "examTrap": "expecting trust without transparency or accountability.",
-    "studyTip": "build trust through consistent performance, clear communication, and follow-through."
+    "examTrap": "Expecting trust without transparency or accountability.",
+    "studyTip": "Build trust through consistent performance, clear communication, and follow-through."
   },
   {
     "id": "515",
@@ -18523,7 +18523,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "515-b",
-        "text": "build trust through consistent performance, clear communication, and follow-through and verify the impact through agreed metrics."
+        "text": "Build trust through consistent performance, clear communication, and follow-through and verify the impact through agreed metrics."
       },
       {
         "id": "515-c",
@@ -18541,8 +18541,8 @@ export const generatedQuestions: Question[] = [
       "515-c": "This choice does not address the core trust in supply chains principle tested by the question.",
       "515-d": "This choice does not address the core trust in supply chains principle tested by the question."
     },
-    "examTrap": "expecting trust without transparency or accountability.",
-    "studyTip": "build trust through consistent performance, clear communication, and follow-through."
+    "examTrap": "Expecting trust without transparency or accountability.",
+    "studyTip": "Build trust through consistent performance, clear communication, and follow-through."
   },
   {
     "id": "516",
@@ -18577,8 +18577,8 @@ export const generatedQuestions: Question[] = [
       "516-c": "This choice does not address the core customer relationship management principle tested by the question.",
       "516-d": "This choice does not address the core customer relationship management principle tested by the question."
     },
-    "examTrap": "treating CRM as software only.",
-    "studyTip": "connect customer needs to service policies, data, and performance routines."
+    "examTrap": "Treating CRM as software only.",
+    "studyTip": "Connect customer needs to service policies, data, and performance routines."
   },
   {
     "id": "517",
@@ -18603,7 +18603,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "517-d",
-        "text": "connect customer needs to service policies, data, and performance routines."
+        "text": "Connect customer needs to service policies, data, and performance routines."
       }
     ],
     "correctChoiceId": "517-d",
@@ -18613,8 +18613,8 @@ export const generatedQuestions: Question[] = [
       "517-b": "This choice does not address the core customer relationship management principle tested by the question.",
       "517-c": "This choice does not address the core customer relationship management principle tested by the question."
     },
-    "examTrap": "treating CRM as software only.",
-    "studyTip": "connect customer needs to service policies, data, and performance routines."
+    "examTrap": "Treating CRM as software only.",
+    "studyTip": "Connect customer needs to service policies, data, and performance routines."
   },
   {
     "id": "518",
@@ -18635,7 +18635,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "518-c",
-        "text": "treating CRM as software only."
+        "text": "Treating CRM as software only."
       },
       {
         "id": "518-d",
@@ -18649,8 +18649,8 @@ export const generatedQuestions: Question[] = [
       "518-b": "This choice does not address the core customer relationship management principle tested by the question.",
       "518-d": "This choice does not address the core customer relationship management principle tested by the question."
     },
-    "examTrap": "treating CRM as software only.",
-    "studyTip": "connect customer needs to service policies, data, and performance routines."
+    "examTrap": "Treating CRM as software only.",
+    "studyTip": "Connect customer needs to service policies, data, and performance routines."
   },
   {
     "id": "519",
@@ -18685,8 +18685,8 @@ export const generatedQuestions: Question[] = [
       "519-c": "This choice does not address the core customer relationship management principle tested by the question.",
       "519-d": "This choice does not address the core customer relationship management principle tested by the question."
     },
-    "examTrap": "treating CRM as software only.",
-    "studyTip": "connect customer needs to service policies, data, and performance routines."
+    "examTrap": "Treating CRM as software only.",
+    "studyTip": "Connect customer needs to service policies, data, and performance routines."
   },
   {
     "id": "520",
@@ -18699,7 +18699,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "520-a",
-        "text": "connect customer needs to service policies, data, and performance routines and verify the impact through agreed metrics."
+        "text": "Connect customer needs to service policies, data, and performance routines and verify the impact through agreed metrics."
       },
       {
         "id": "520-b",
@@ -18721,8 +18721,8 @@ export const generatedQuestions: Question[] = [
       "520-c": "This choice does not address the core customer relationship management principle tested by the question.",
       "520-d": "This choice does not address the core customer relationship management principle tested by the question."
     },
-    "examTrap": "treating CRM as software only.",
-    "studyTip": "connect customer needs to service policies, data, and performance routines."
+    "examTrap": "Treating CRM as software only.",
+    "studyTip": "Connect customer needs to service policies, data, and performance routines."
   },
   {
     "id": "521",
@@ -18757,8 +18757,8 @@ export const generatedQuestions: Question[] = [
       "521-b": "This choice does not address the core supplier relationship management principle tested by the question.",
       "521-c": "This choice does not address the core supplier relationship management principle tested by the question."
     },
-    "examTrap": "using the same supplier management intensity for all suppliers.",
-    "studyTip": "segment suppliers and govern relationships based on value and risk."
+    "examTrap": "Using the same supplier management intensity for all suppliers.",
+    "studyTip": "Segment suppliers and govern relationships based on value and risk."
   },
   {
     "id": "522",
@@ -18779,7 +18779,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "522-c",
-        "text": "segment suppliers and govern relationships based on value and risk."
+        "text": "Segment suppliers and govern relationships based on value and risk."
       },
       {
         "id": "522-d",
@@ -18793,8 +18793,8 @@ export const generatedQuestions: Question[] = [
       "522-b": "This choice does not address the core supplier relationship management principle tested by the question.",
       "522-d": "This choice does not address the core supplier relationship management principle tested by the question."
     },
-    "examTrap": "using the same supplier management intensity for all suppliers.",
-    "studyTip": "segment suppliers and govern relationships based on value and risk."
+    "examTrap": "Using the same supplier management intensity for all suppliers.",
+    "studyTip": "Segment suppliers and govern relationships based on value and risk."
   },
   {
     "id": "523",
@@ -18811,7 +18811,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "523-b",
-        "text": "using the same supplier management intensity for all suppliers."
+        "text": "Using the same supplier management intensity for all suppliers."
       },
       {
         "id": "523-c",
@@ -18829,8 +18829,8 @@ export const generatedQuestions: Question[] = [
       "523-c": "This choice does not address the core supplier relationship management principle tested by the question.",
       "523-d": "This choice does not address the core supplier relationship management principle tested by the question."
     },
-    "examTrap": "using the same supplier management intensity for all suppliers.",
-    "studyTip": "segment suppliers and govern relationships based on value and risk."
+    "examTrap": "Using the same supplier management intensity for all suppliers.",
+    "studyTip": "Segment suppliers and govern relationships based on value and risk."
   },
   {
     "id": "524",
@@ -18865,8 +18865,8 @@ export const generatedQuestions: Question[] = [
       "524-c": "This choice does not address the core supplier relationship management principle tested by the question.",
       "524-d": "This choice does not address the core supplier relationship management principle tested by the question."
     },
-    "examTrap": "using the same supplier management intensity for all suppliers.",
-    "studyTip": "segment suppliers and govern relationships based on value and risk."
+    "examTrap": "Using the same supplier management intensity for all suppliers.",
+    "studyTip": "Segment suppliers and govern relationships based on value and risk."
   },
   {
     "id": "525",
@@ -18891,7 +18891,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "525-d",
-        "text": "segment suppliers and govern relationships based on value and risk and verify the impact through agreed metrics."
+        "text": "Segment suppliers and govern relationships based on value and risk and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "525-d",
@@ -18901,8 +18901,8 @@ export const generatedQuestions: Question[] = [
       "525-b": "This choice does not address the core supplier relationship management principle tested by the question.",
       "525-c": "This choice does not address the core supplier relationship management principle tested by the question."
     },
-    "examTrap": "using the same supplier management intensity for all suppliers.",
-    "studyTip": "segment suppliers and govern relationships based on value and risk."
+    "examTrap": "Using the same supplier management intensity for all suppliers.",
+    "studyTip": "Segment suppliers and govern relationships based on value and risk."
   },
   {
     "id": "526",
@@ -18937,8 +18937,8 @@ export const generatedQuestions: Question[] = [
       "526-b": "This choice does not address the core cpfr principle tested by the question.",
       "526-d": "This choice does not address the core cpfr principle tested by the question."
     },
-    "examTrap": "sharing data without a process to resolve differences.",
-    "studyTip": "use shared forecasts, exception management, and joint plans to improve flow."
+    "examTrap": "Sharing data without a process to resolve differences.",
+    "studyTip": "Use shared forecasts, exception management, and joint plans to improve flow."
   },
   {
     "id": "527",
@@ -18955,7 +18955,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "527-b",
-        "text": "use shared forecasts, exception management, and joint plans to improve flow."
+        "text": "Use shared forecasts, exception management, and joint plans to improve flow."
       },
       {
         "id": "527-c",
@@ -18973,8 +18973,8 @@ export const generatedQuestions: Question[] = [
       "527-c": "This choice does not address the core cpfr principle tested by the question.",
       "527-d": "This choice does not address the core cpfr principle tested by the question."
     },
-    "examTrap": "sharing data without a process to resolve differences.",
-    "studyTip": "use shared forecasts, exception management, and joint plans to improve flow."
+    "examTrap": "Sharing data without a process to resolve differences.",
+    "studyTip": "Use shared forecasts, exception management, and joint plans to improve flow."
   },
   {
     "id": "528",
@@ -18987,7 +18987,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "528-a",
-        "text": "sharing data without a process to resolve differences."
+        "text": "Sharing data without a process to resolve differences."
       },
       {
         "id": "528-b",
@@ -19009,8 +19009,8 @@ export const generatedQuestions: Question[] = [
       "528-c": "This choice does not address the core cpfr principle tested by the question.",
       "528-d": "This choice does not address the core cpfr principle tested by the question."
     },
-    "examTrap": "sharing data without a process to resolve differences.",
-    "studyTip": "use shared forecasts, exception management, and joint plans to improve flow."
+    "examTrap": "Sharing data without a process to resolve differences.",
+    "studyTip": "Use shared forecasts, exception management, and joint plans to improve flow."
   },
   {
     "id": "529",
@@ -19045,8 +19045,8 @@ export const generatedQuestions: Question[] = [
       "529-b": "This choice does not address the core cpfr principle tested by the question.",
       "529-c": "This choice does not address the core cpfr principle tested by the question."
     },
-    "examTrap": "sharing data without a process to resolve differences.",
-    "studyTip": "use shared forecasts, exception management, and joint plans to improve flow."
+    "examTrap": "Sharing data without a process to resolve differences.",
+    "studyTip": "Use shared forecasts, exception management, and joint plans to improve flow."
   },
   {
     "id": "530",
@@ -19067,7 +19067,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "530-c",
-        "text": "use shared forecasts, exception management, and joint plans to improve flow and verify the impact through agreed metrics."
+        "text": "Use shared forecasts, exception management, and joint plans to improve flow and verify the impact through agreed metrics."
       },
       {
         "id": "530-d",
@@ -19081,8 +19081,8 @@ export const generatedQuestions: Question[] = [
       "530-b": "This choice does not address the core cpfr principle tested by the question.",
       "530-d": "This choice does not address the core cpfr principle tested by the question."
     },
-    "examTrap": "sharing data without a process to resolve differences.",
-    "studyTip": "use shared forecasts, exception management, and joint plans to improve flow."
+    "examTrap": "Sharing data without a process to resolve differences.",
+    "studyTip": "Use shared forecasts, exception management, and joint plans to improve flow."
   },
   {
     "id": "531",
@@ -19117,8 +19117,8 @@ export const generatedQuestions: Question[] = [
       "531-c": "This choice does not address the core vendor-managed inventory principle tested by the question.",
       "531-d": "This choice does not address the core vendor-managed inventory principle tested by the question."
     },
-    "examTrap": "letting suppliers manage inventory without service and inventory targets.",
-    "studyTip": "use VMI when data visibility and trust support supplier-managed replenishment."
+    "examTrap": "Letting suppliers manage inventory without service and inventory targets.",
+    "studyTip": "Use VMI when data visibility and trust support supplier-managed replenishment."
   },
   {
     "id": "532",
@@ -19131,7 +19131,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "532-a",
-        "text": "use VMI when data visibility and trust support supplier-managed replenishment."
+        "text": "Use VMI when data visibility and trust support supplier-managed replenishment."
       },
       {
         "id": "532-b",
@@ -19153,8 +19153,8 @@ export const generatedQuestions: Question[] = [
       "532-c": "This choice does not address the core vendor-managed inventory principle tested by the question.",
       "532-d": "This choice does not address the core vendor-managed inventory principle tested by the question."
     },
-    "examTrap": "letting suppliers manage inventory without service and inventory targets.",
-    "studyTip": "use VMI when data visibility and trust support supplier-managed replenishment."
+    "examTrap": "Letting suppliers manage inventory without service and inventory targets.",
+    "studyTip": "Use VMI when data visibility and trust support supplier-managed replenishment."
   },
   {
     "id": "533",
@@ -19179,7 +19179,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "533-d",
-        "text": "letting suppliers manage inventory without service and inventory targets."
+        "text": "Letting suppliers manage inventory without service and inventory targets."
       }
     ],
     "correctChoiceId": "533-d",
@@ -19189,8 +19189,8 @@ export const generatedQuestions: Question[] = [
       "533-b": "This choice does not address the core vendor-managed inventory principle tested by the question.",
       "533-c": "This choice does not address the core vendor-managed inventory principle tested by the question."
     },
-    "examTrap": "letting suppliers manage inventory without service and inventory targets.",
-    "studyTip": "use VMI when data visibility and trust support supplier-managed replenishment."
+    "examTrap": "Letting suppliers manage inventory without service and inventory targets.",
+    "studyTip": "Use VMI when data visibility and trust support supplier-managed replenishment."
   },
   {
     "id": "534",
@@ -19225,8 +19225,8 @@ export const generatedQuestions: Question[] = [
       "534-b": "This choice does not address the core vendor-managed inventory principle tested by the question.",
       "534-d": "This choice does not address the core vendor-managed inventory principle tested by the question."
     },
-    "examTrap": "letting suppliers manage inventory without service and inventory targets.",
-    "studyTip": "use VMI when data visibility and trust support supplier-managed replenishment."
+    "examTrap": "Letting suppliers manage inventory without service and inventory targets.",
+    "studyTip": "Use VMI when data visibility and trust support supplier-managed replenishment."
   },
   {
     "id": "535",
@@ -19243,7 +19243,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "535-b",
-        "text": "use VMI when data visibility and trust support supplier-managed replenishment and verify the impact through agreed metrics."
+        "text": "Use VMI when data visibility and trust support supplier-managed replenishment and verify the impact through agreed metrics."
       },
       {
         "id": "535-c",
@@ -19261,8 +19261,8 @@ export const generatedQuestions: Question[] = [
       "535-c": "This choice does not address the core vendor-managed inventory principle tested by the question.",
       "535-d": "This choice does not address the core vendor-managed inventory principle tested by the question."
     },
-    "examTrap": "letting suppliers manage inventory without service and inventory targets.",
-    "studyTip": "use VMI when data visibility and trust support supplier-managed replenishment."
+    "examTrap": "Letting suppliers manage inventory without service and inventory targets.",
+    "studyTip": "Use VMI when data visibility and trust support supplier-managed replenishment."
   },
   {
     "id": "536",
@@ -19297,8 +19297,8 @@ export const generatedQuestions: Question[] = [
       "536-c": "This choice does not address the core customer service policy principle tested by the question.",
       "536-d": "This choice does not address the core customer service policy principle tested by the question."
     },
-    "examTrap": "promising premium service to every customer regardless of cost.",
-    "studyTip": "align service levels with profitability, strategy, and operational capability."
+    "examTrap": "Promising premium service to every customer regardless of cost.",
+    "studyTip": "Align service levels with profitability, strategy, and operational capability."
   },
   {
     "id": "537",
@@ -19323,7 +19323,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "537-d",
-        "text": "align service levels with profitability, strategy, and operational capability."
+        "text": "Align service levels with profitability, strategy, and operational capability."
       }
     ],
     "correctChoiceId": "537-d",
@@ -19333,8 +19333,8 @@ export const generatedQuestions: Question[] = [
       "537-b": "This choice does not address the core customer service policy principle tested by the question.",
       "537-c": "This choice does not address the core customer service policy principle tested by the question."
     },
-    "examTrap": "promising premium service to every customer regardless of cost.",
-    "studyTip": "align service levels with profitability, strategy, and operational capability."
+    "examTrap": "Promising premium service to every customer regardless of cost.",
+    "studyTip": "Align service levels with profitability, strategy, and operational capability."
   },
   {
     "id": "538",
@@ -19355,7 +19355,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "538-c",
-        "text": "promising premium service to every customer regardless of cost."
+        "text": "Promising premium service to every customer regardless of cost."
       },
       {
         "id": "538-d",
@@ -19369,8 +19369,8 @@ export const generatedQuestions: Question[] = [
       "538-b": "This choice does not address the core customer service policy principle tested by the question.",
       "538-d": "This choice does not address the core customer service policy principle tested by the question."
     },
-    "examTrap": "promising premium service to every customer regardless of cost.",
-    "studyTip": "align service levels with profitability, strategy, and operational capability."
+    "examTrap": "Promising premium service to every customer regardless of cost.",
+    "studyTip": "Align service levels with profitability, strategy, and operational capability."
   },
   {
     "id": "539",
@@ -19405,8 +19405,8 @@ export const generatedQuestions: Question[] = [
       "539-c": "This choice does not address the core customer service policy principle tested by the question.",
       "539-d": "This choice does not address the core customer service policy principle tested by the question."
     },
-    "examTrap": "promising premium service to every customer regardless of cost.",
-    "studyTip": "align service levels with profitability, strategy, and operational capability."
+    "examTrap": "Promising premium service to every customer regardless of cost.",
+    "studyTip": "Align service levels with profitability, strategy, and operational capability."
   },
   {
     "id": "540",
@@ -19419,7 +19419,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "540-a",
-        "text": "align service levels with profitability, strategy, and operational capability and verify the impact through agreed metrics."
+        "text": "Align service levels with profitability, strategy, and operational capability and verify the impact through agreed metrics."
       },
       {
         "id": "540-b",
@@ -19441,8 +19441,8 @@ export const generatedQuestions: Question[] = [
       "540-c": "This choice does not address the core customer service policy principle tested by the question.",
       "540-d": "This choice does not address the core customer service policy principle tested by the question."
     },
-    "examTrap": "promising premium service to every customer regardless of cost.",
-    "studyTip": "align service levels with profitability, strategy, and operational capability."
+    "examTrap": "Promising premium service to every customer regardless of cost.",
+    "studyTip": "Align service levels with profitability, strategy, and operational capability."
   },
   {
     "id": "541",
@@ -19477,8 +19477,8 @@ export const generatedQuestions: Question[] = [
       "541-b": "This choice does not address the core service recovery principle tested by the question.",
       "541-c": "This choice does not address the core service recovery principle tested by the question."
     },
-    "examTrap": "hiding bad news until the customer discovers it.",
-    "studyTip": "communicate quickly, fix the issue, and prevent recurrence."
+    "examTrap": "Hiding bad news until the customer discovers it.",
+    "studyTip": "Communicate quickly, fix the issue, and prevent recurrence."
   },
   {
     "id": "542",
@@ -19499,7 +19499,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "542-c",
-        "text": "communicate quickly, fix the issue, and prevent recurrence."
+        "text": "Communicate quickly, fix the issue, and prevent recurrence."
       },
       {
         "id": "542-d",
@@ -19513,8 +19513,8 @@ export const generatedQuestions: Question[] = [
       "542-b": "This choice does not address the core service recovery principle tested by the question.",
       "542-d": "This choice does not address the core service recovery principle tested by the question."
     },
-    "examTrap": "hiding bad news until the customer discovers it.",
-    "studyTip": "communicate quickly, fix the issue, and prevent recurrence."
+    "examTrap": "Hiding bad news until the customer discovers it.",
+    "studyTip": "Communicate quickly, fix the issue, and prevent recurrence."
   },
   {
     "id": "543",
@@ -19531,7 +19531,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "543-b",
-        "text": "hiding bad news until the customer discovers it."
+        "text": "Hiding bad news until the customer discovers it."
       },
       {
         "id": "543-c",
@@ -19549,8 +19549,8 @@ export const generatedQuestions: Question[] = [
       "543-c": "This choice does not address the core service recovery principle tested by the question.",
       "543-d": "This choice does not address the core service recovery principle tested by the question."
     },
-    "examTrap": "hiding bad news until the customer discovers it.",
-    "studyTip": "communicate quickly, fix the issue, and prevent recurrence."
+    "examTrap": "Hiding bad news until the customer discovers it.",
+    "studyTip": "Communicate quickly, fix the issue, and prevent recurrence."
   },
   {
     "id": "544",
@@ -19585,8 +19585,8 @@ export const generatedQuestions: Question[] = [
       "544-c": "This choice does not address the core service recovery principle tested by the question.",
       "544-d": "This choice does not address the core service recovery principle tested by the question."
     },
-    "examTrap": "hiding bad news until the customer discovers it.",
-    "studyTip": "communicate quickly, fix the issue, and prevent recurrence."
+    "examTrap": "Hiding bad news until the customer discovers it.",
+    "studyTip": "Communicate quickly, fix the issue, and prevent recurrence."
   },
   {
     "id": "545",
@@ -19611,7 +19611,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "545-d",
-        "text": "communicate quickly, fix the issue, and prevent recurrence and verify the impact through agreed metrics."
+        "text": "Communicate quickly, fix the issue, and prevent recurrence and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "545-d",
@@ -19621,8 +19621,8 @@ export const generatedQuestions: Question[] = [
       "545-b": "This choice does not address the core service recovery principle tested by the question.",
       "545-c": "This choice does not address the core service recovery principle tested by the question."
     },
-    "examTrap": "hiding bad news until the customer discovers it.",
-    "studyTip": "communicate quickly, fix the issue, and prevent recurrence."
+    "examTrap": "Hiding bad news until the customer discovers it.",
+    "studyTip": "Communicate quickly, fix the issue, and prevent recurrence."
   },
   {
     "id": "546",
@@ -19657,8 +19657,8 @@ export const generatedQuestions: Question[] = [
       "546-b": "This choice does not address the core performance review cadence principle tested by the question.",
       "546-d": "This choice does not address the core performance review cadence principle tested by the question."
     },
-    "examTrap": "reviewing performance only after a crisis.",
-    "studyTip": "use recurring reviews with owners and due dates."
+    "examTrap": "Reviewing performance only after a crisis.",
+    "studyTip": "Use recurring reviews with owners and due dates."
   },
   {
     "id": "547",
@@ -19675,7 +19675,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "547-b",
-        "text": "use recurring reviews with owners and due dates."
+        "text": "Use recurring reviews with owners and due dates."
       },
       {
         "id": "547-c",
@@ -19693,8 +19693,8 @@ export const generatedQuestions: Question[] = [
       "547-c": "This choice does not address the core performance review cadence principle tested by the question.",
       "547-d": "This choice does not address the core performance review cadence principle tested by the question."
     },
-    "examTrap": "reviewing performance only after a crisis.",
-    "studyTip": "use recurring reviews with owners and due dates."
+    "examTrap": "Reviewing performance only after a crisis.",
+    "studyTip": "Use recurring reviews with owners and due dates."
   },
   {
     "id": "548",
@@ -19707,7 +19707,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "548-a",
-        "text": "reviewing performance only after a crisis."
+        "text": "Reviewing performance only after a crisis."
       },
       {
         "id": "548-b",
@@ -19729,8 +19729,8 @@ export const generatedQuestions: Question[] = [
       "548-c": "This choice does not address the core performance review cadence principle tested by the question.",
       "548-d": "This choice does not address the core performance review cadence principle tested by the question."
     },
-    "examTrap": "reviewing performance only after a crisis.",
-    "studyTip": "use recurring reviews with owners and due dates."
+    "examTrap": "Reviewing performance only after a crisis.",
+    "studyTip": "Use recurring reviews with owners and due dates."
   },
   {
     "id": "549",
@@ -19765,8 +19765,8 @@ export const generatedQuestions: Question[] = [
       "549-b": "This choice does not address the core performance review cadence principle tested by the question.",
       "549-c": "This choice does not address the core performance review cadence principle tested by the question."
     },
-    "examTrap": "reviewing performance only after a crisis.",
-    "studyTip": "use recurring reviews with owners and due dates."
+    "examTrap": "Reviewing performance only after a crisis.",
+    "studyTip": "Use recurring reviews with owners and due dates."
   },
   {
     "id": "550",
@@ -19787,7 +19787,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "550-c",
-        "text": "use recurring reviews with owners and due dates and verify the impact through agreed metrics."
+        "text": "Use recurring reviews with owners and due dates and verify the impact through agreed metrics."
       },
       {
         "id": "550-d",
@@ -19801,8 +19801,8 @@ export const generatedQuestions: Question[] = [
       "550-b": "This choice does not address the core performance review cadence principle tested by the question.",
       "550-d": "This choice does not address the core performance review cadence principle tested by the question."
     },
-    "examTrap": "reviewing performance only after a crisis.",
-    "studyTip": "use recurring reviews with owners and due dates."
+    "examTrap": "Reviewing performance only after a crisis.",
+    "studyTip": "Use recurring reviews with owners and due dates."
   },
   {
     "id": "551",
@@ -19837,8 +19837,8 @@ export const generatedQuestions: Question[] = [
       "551-c": "This choice does not address the core incentive alignment principle tested by the question.",
       "551-d": "This choice does not address the core incentive alignment principle tested by the question."
     },
-    "examTrap": "creating metrics that reward one party for hurting the other.",
-    "studyTip": "design metrics and contracts so partners benefit from shared success."
+    "examTrap": "Creating metrics that reward one party for hurting the other.",
+    "studyTip": "Design metrics and contracts so partners benefit from shared success."
   },
   {
     "id": "552",
@@ -19851,7 +19851,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "552-a",
-        "text": "design metrics and contracts so partners benefit from shared success."
+        "text": "Design metrics and contracts so partners benefit from shared success."
       },
       {
         "id": "552-b",
@@ -19873,8 +19873,8 @@ export const generatedQuestions: Question[] = [
       "552-c": "This choice does not address the core incentive alignment principle tested by the question.",
       "552-d": "This choice does not address the core incentive alignment principle tested by the question."
     },
-    "examTrap": "creating metrics that reward one party for hurting the other.",
-    "studyTip": "design metrics and contracts so partners benefit from shared success."
+    "examTrap": "Creating metrics that reward one party for hurting the other.",
+    "studyTip": "Design metrics and contracts so partners benefit from shared success."
   },
   {
     "id": "553",
@@ -19899,7 +19899,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "553-d",
-        "text": "creating metrics that reward one party for hurting the other."
+        "text": "Creating metrics that reward one party for hurting the other."
       }
     ],
     "correctChoiceId": "553-d",
@@ -19909,8 +19909,8 @@ export const generatedQuestions: Question[] = [
       "553-b": "This choice does not address the core incentive alignment principle tested by the question.",
       "553-c": "This choice does not address the core incentive alignment principle tested by the question."
     },
-    "examTrap": "creating metrics that reward one party for hurting the other.",
-    "studyTip": "design metrics and contracts so partners benefit from shared success."
+    "examTrap": "Creating metrics that reward one party for hurting the other.",
+    "studyTip": "Design metrics and contracts so partners benefit from shared success."
   },
   {
     "id": "554",
@@ -19945,8 +19945,8 @@ export const generatedQuestions: Question[] = [
       "554-b": "This choice does not address the core incentive alignment principle tested by the question.",
       "554-d": "This choice does not address the core incentive alignment principle tested by the question."
     },
-    "examTrap": "creating metrics that reward one party for hurting the other.",
-    "studyTip": "design metrics and contracts so partners benefit from shared success."
+    "examTrap": "Creating metrics that reward one party for hurting the other.",
+    "studyTip": "Design metrics and contracts so partners benefit from shared success."
   },
   {
     "id": "555",
@@ -19963,7 +19963,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "555-b",
-        "text": "design metrics and contracts so partners benefit from shared success and verify the impact through agreed metrics."
+        "text": "Design metrics and contracts so partners benefit from shared success and verify the impact through agreed metrics."
       },
       {
         "id": "555-c",
@@ -19981,8 +19981,8 @@ export const generatedQuestions: Question[] = [
       "555-c": "This choice does not address the core incentive alignment principle tested by the question.",
       "555-d": "This choice does not address the core incentive alignment principle tested by the question."
     },
-    "examTrap": "creating metrics that reward one party for hurting the other.",
-    "studyTip": "design metrics and contracts so partners benefit from shared success."
+    "examTrap": "Creating metrics that reward one party for hurting the other.",
+    "studyTip": "Design metrics and contracts so partners benefit from shared success."
   },
   {
     "id": "556",
@@ -20017,8 +20017,8 @@ export const generatedQuestions: Question[] = [
       "556-c": "This choice does not address the core conflict resolution principle tested by the question.",
       "556-d": "This choice does not address the core conflict resolution principle tested by the question."
     },
-    "examTrap": "letting conflict become personal or invisible.",
-    "studyTip": "use facts, escalation rules, and shared objectives to resolve issues."
+    "examTrap": "Letting conflict become personal or invisible.",
+    "studyTip": "Use facts, escalation rules, and shared objectives to resolve issues."
   },
   {
     "id": "557",
@@ -20043,7 +20043,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "557-d",
-        "text": "use facts, escalation rules, and shared objectives to resolve issues."
+        "text": "Use facts, escalation rules, and shared objectives to resolve issues."
       }
     ],
     "correctChoiceId": "557-d",
@@ -20053,8 +20053,8 @@ export const generatedQuestions: Question[] = [
       "557-b": "This choice does not address the core conflict resolution principle tested by the question.",
       "557-c": "This choice does not address the core conflict resolution principle tested by the question."
     },
-    "examTrap": "letting conflict become personal or invisible.",
-    "studyTip": "use facts, escalation rules, and shared objectives to resolve issues."
+    "examTrap": "Letting conflict become personal or invisible.",
+    "studyTip": "Use facts, escalation rules, and shared objectives to resolve issues."
   },
   {
     "id": "558",
@@ -20075,7 +20075,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "558-c",
-        "text": "letting conflict become personal or invisible."
+        "text": "Letting conflict become personal or invisible."
       },
       {
         "id": "558-d",
@@ -20089,8 +20089,8 @@ export const generatedQuestions: Question[] = [
       "558-b": "This choice does not address the core conflict resolution principle tested by the question.",
       "558-d": "This choice does not address the core conflict resolution principle tested by the question."
     },
-    "examTrap": "letting conflict become personal or invisible.",
-    "studyTip": "use facts, escalation rules, and shared objectives to resolve issues."
+    "examTrap": "Letting conflict become personal or invisible.",
+    "studyTip": "Use facts, escalation rules, and shared objectives to resolve issues."
   },
   {
     "id": "559",
@@ -20125,8 +20125,8 @@ export const generatedQuestions: Question[] = [
       "559-c": "This choice does not address the core conflict resolution principle tested by the question.",
       "559-d": "This choice does not address the core conflict resolution principle tested by the question."
     },
-    "examTrap": "letting conflict become personal or invisible.",
-    "studyTip": "use facts, escalation rules, and shared objectives to resolve issues."
+    "examTrap": "Letting conflict become personal or invisible.",
+    "studyTip": "Use facts, escalation rules, and shared objectives to resolve issues."
   },
   {
     "id": "560",
@@ -20139,7 +20139,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "560-a",
-        "text": "use facts, escalation rules, and shared objectives to resolve issues and verify the impact through agreed metrics."
+        "text": "Use facts, escalation rules, and shared objectives to resolve issues and verify the impact through agreed metrics."
       },
       {
         "id": "560-b",
@@ -20161,8 +20161,8 @@ export const generatedQuestions: Question[] = [
       "560-c": "This choice does not address the core conflict resolution principle tested by the question.",
       "560-d": "This choice does not address the core conflict resolution principle tested by the question."
     },
-    "examTrap": "letting conflict become personal or invisible.",
-    "studyTip": "use facts, escalation rules, and shared objectives to resolve issues."
+    "examTrap": "Letting conflict become personal or invisible.",
+    "studyTip": "Use facts, escalation rules, and shared objectives to resolve issues."
   },
   {
     "id": "561",
@@ -20197,8 +20197,8 @@ export const generatedQuestions: Question[] = [
       "561-b": "This choice does not address the core information sharing principle tested by the question.",
       "561-c": "This choice does not address the core information sharing principle tested by the question."
     },
-    "examTrap": "sharing too much noisy data and calling it visibility.",
-    "studyTip": "share accurate, timely, actionable information with appropriate controls."
+    "examTrap": "Sharing too much noisy data and calling it visibility.",
+    "studyTip": "Share accurate, timely, actionable information with appropriate controls."
   },
   {
     "id": "562",
@@ -20219,7 +20219,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "562-c",
-        "text": "share accurate, timely, actionable information with appropriate controls."
+        "text": "Share accurate, timely, actionable information with appropriate controls."
       },
       {
         "id": "562-d",
@@ -20233,8 +20233,8 @@ export const generatedQuestions: Question[] = [
       "562-b": "This choice does not address the core information sharing principle tested by the question.",
       "562-d": "This choice does not address the core information sharing principle tested by the question."
     },
-    "examTrap": "sharing too much noisy data and calling it visibility.",
-    "studyTip": "share accurate, timely, actionable information with appropriate controls."
+    "examTrap": "Sharing too much noisy data and calling it visibility.",
+    "studyTip": "Share accurate, timely, actionable information with appropriate controls."
   },
   {
     "id": "563",
@@ -20251,7 +20251,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "563-b",
-        "text": "sharing too much noisy data and calling it visibility."
+        "text": "Sharing too much noisy data and calling it visibility."
       },
       {
         "id": "563-c",
@@ -20269,8 +20269,8 @@ export const generatedQuestions: Question[] = [
       "563-c": "This choice does not address the core information sharing principle tested by the question.",
       "563-d": "This choice does not address the core information sharing principle tested by the question."
     },
-    "examTrap": "sharing too much noisy data and calling it visibility.",
-    "studyTip": "share accurate, timely, actionable information with appropriate controls."
+    "examTrap": "Sharing too much noisy data and calling it visibility.",
+    "studyTip": "Share accurate, timely, actionable information with appropriate controls."
   },
   {
     "id": "564",
@@ -20305,8 +20305,8 @@ export const generatedQuestions: Question[] = [
       "564-c": "This choice does not address the core information sharing principle tested by the question.",
       "564-d": "This choice does not address the core information sharing principle tested by the question."
     },
-    "examTrap": "sharing too much noisy data and calling it visibility.",
-    "studyTip": "share accurate, timely, actionable information with appropriate controls."
+    "examTrap": "Sharing too much noisy data and calling it visibility.",
+    "studyTip": "Share accurate, timely, actionable information with appropriate controls."
   },
   {
     "id": "565",
@@ -20331,7 +20331,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "565-d",
-        "text": "share accurate, timely, actionable information with appropriate controls and verify the impact through agreed metrics."
+        "text": "Share accurate, timely, actionable information with appropriate controls and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "565-d",
@@ -20341,8 +20341,8 @@ export const generatedQuestions: Question[] = [
       "565-b": "This choice does not address the core information sharing principle tested by the question.",
       "565-c": "This choice does not address the core information sharing principle tested by the question."
     },
-    "examTrap": "sharing too much noisy data and calling it visibility.",
-    "studyTip": "share accurate, timely, actionable information with appropriate controls."
+    "examTrap": "Sharing too much noisy data and calling it visibility.",
+    "studyTip": "Share accurate, timely, actionable information with appropriate controls."
   },
   {
     "id": "566",
@@ -20377,8 +20377,8 @@ export const generatedQuestions: Question[] = [
       "566-b": "This choice does not address the core joint business planning principle tested by the question.",
       "566-d": "This choice does not address the core joint business planning principle tested by the question."
     },
-    "examTrap": "holding planning meetings without decisions or owners.",
-    "studyTip": "align objectives, projects, metrics, and resource commitments."
+    "examTrap": "Holding planning meetings without decisions or owners.",
+    "studyTip": "Align objectives, projects, metrics, and resource commitments."
   },
   {
     "id": "567",
@@ -20395,7 +20395,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "567-b",
-        "text": "align objectives, projects, metrics, and resource commitments."
+        "text": "Align objectives, projects, metrics, and resource commitments."
       },
       {
         "id": "567-c",
@@ -20413,8 +20413,8 @@ export const generatedQuestions: Question[] = [
       "567-c": "This choice does not address the core joint business planning principle tested by the question.",
       "567-d": "This choice does not address the core joint business planning principle tested by the question."
     },
-    "examTrap": "holding planning meetings without decisions or owners.",
-    "studyTip": "align objectives, projects, metrics, and resource commitments."
+    "examTrap": "Holding planning meetings without decisions or owners.",
+    "studyTip": "Align objectives, projects, metrics, and resource commitments."
   },
   {
     "id": "568",
@@ -20427,7 +20427,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "568-a",
-        "text": "holding planning meetings without decisions or owners."
+        "text": "Holding planning meetings without decisions or owners."
       },
       {
         "id": "568-b",
@@ -20449,8 +20449,8 @@ export const generatedQuestions: Question[] = [
       "568-c": "This choice does not address the core joint business planning principle tested by the question.",
       "568-d": "This choice does not address the core joint business planning principle tested by the question."
     },
-    "examTrap": "holding planning meetings without decisions or owners.",
-    "studyTip": "align objectives, projects, metrics, and resource commitments."
+    "examTrap": "Holding planning meetings without decisions or owners.",
+    "studyTip": "Align objectives, projects, metrics, and resource commitments."
   },
   {
     "id": "569",
@@ -20485,8 +20485,8 @@ export const generatedQuestions: Question[] = [
       "569-b": "This choice does not address the core joint business planning principle tested by the question.",
       "569-c": "This choice does not address the core joint business planning principle tested by the question."
     },
-    "examTrap": "holding planning meetings without decisions or owners.",
-    "studyTip": "align objectives, projects, metrics, and resource commitments."
+    "examTrap": "Holding planning meetings without decisions or owners.",
+    "studyTip": "Align objectives, projects, metrics, and resource commitments."
   },
   {
     "id": "570",
@@ -20507,7 +20507,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "570-c",
-        "text": "align objectives, projects, metrics, and resource commitments and verify the impact through agreed metrics."
+        "text": "Align objectives, projects, metrics, and resource commitments and verify the impact through agreed metrics."
       },
       {
         "id": "570-d",
@@ -20521,8 +20521,8 @@ export const generatedQuestions: Question[] = [
       "570-b": "This choice does not address the core joint business planning principle tested by the question.",
       "570-d": "This choice does not address the core joint business planning principle tested by the question."
     },
-    "examTrap": "holding planning meetings without decisions or owners.",
-    "studyTip": "align objectives, projects, metrics, and resource commitments."
+    "examTrap": "Holding planning meetings without decisions or owners.",
+    "studyTip": "Align objectives, projects, metrics, and resource commitments."
   },
   {
     "id": "571",
@@ -20557,8 +20557,8 @@ export const generatedQuestions: Question[] = [
       "571-c": "This choice does not address the core supplier innovation principle tested by the question.",
       "571-d": "This choice does not address the core supplier innovation principle tested by the question."
     },
-    "examTrap": "blocking supplier input until everything is already specified.",
-    "studyTip": "involve capable suppliers early and protect intellectual property appropriately."
+    "examTrap": "Blocking supplier input until everything is already specified.",
+    "studyTip": "Involve capable suppliers early and protect intellectual property appropriately."
   },
   {
     "id": "572",
@@ -20571,7 +20571,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "572-a",
-        "text": "involve capable suppliers early and protect intellectual property appropriately."
+        "text": "Involve capable suppliers early and protect intellectual property appropriately."
       },
       {
         "id": "572-b",
@@ -20593,8 +20593,8 @@ export const generatedQuestions: Question[] = [
       "572-c": "This choice does not address the core supplier innovation principle tested by the question.",
       "572-d": "This choice does not address the core supplier innovation principle tested by the question."
     },
-    "examTrap": "blocking supplier input until everything is already specified.",
-    "studyTip": "involve capable suppliers early and protect intellectual property appropriately."
+    "examTrap": "Blocking supplier input until everything is already specified.",
+    "studyTip": "Involve capable suppliers early and protect intellectual property appropriately."
   },
   {
     "id": "573",
@@ -20619,7 +20619,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "573-d",
-        "text": "blocking supplier input until everything is already specified."
+        "text": "Blocking supplier input until everything is already specified."
       }
     ],
     "correctChoiceId": "573-d",
@@ -20629,8 +20629,8 @@ export const generatedQuestions: Question[] = [
       "573-b": "This choice does not address the core supplier innovation principle tested by the question.",
       "573-c": "This choice does not address the core supplier innovation principle tested by the question."
     },
-    "examTrap": "blocking supplier input until everything is already specified.",
-    "studyTip": "involve capable suppliers early and protect intellectual property appropriately."
+    "examTrap": "Blocking supplier input until everything is already specified.",
+    "studyTip": "Involve capable suppliers early and protect intellectual property appropriately."
   },
   {
     "id": "574",
@@ -20665,8 +20665,8 @@ export const generatedQuestions: Question[] = [
       "574-b": "This choice does not address the core supplier innovation principle tested by the question.",
       "574-d": "This choice does not address the core supplier innovation principle tested by the question."
     },
-    "examTrap": "blocking supplier input until everything is already specified.",
-    "studyTip": "involve capable suppliers early and protect intellectual property appropriately."
+    "examTrap": "Blocking supplier input until everything is already specified.",
+    "studyTip": "Involve capable suppliers early and protect intellectual property appropriately."
   },
   {
     "id": "575",
@@ -20683,7 +20683,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "575-b",
-        "text": "involve capable suppliers early and protect intellectual property appropriately and verify the impact through agreed metrics."
+        "text": "Involve capable suppliers early and protect intellectual property appropriately and verify the impact through agreed metrics."
       },
       {
         "id": "575-c",
@@ -20701,8 +20701,8 @@ export const generatedQuestions: Question[] = [
       "575-c": "This choice does not address the core supplier innovation principle tested by the question.",
       "575-d": "This choice does not address the core supplier innovation principle tested by the question."
     },
-    "examTrap": "blocking supplier input until everything is already specified.",
-    "studyTip": "involve capable suppliers early and protect intellectual property appropriately."
+    "examTrap": "Blocking supplier input until everything is already specified.",
+    "studyTip": "Involve capable suppliers early and protect intellectual property appropriately."
   },
   {
     "id": "576",
@@ -20737,8 +20737,8 @@ export const generatedQuestions: Question[] = [
       "576-c": "This choice does not address the core partnership governance principle tested by the question.",
       "576-d": "This choice does not address the core partnership governance principle tested by the question."
     },
-    "examTrap": "depending on heroics instead of a relationship operating system.",
-    "studyTip": "define governance so issues are resolved at the right level."
+    "examTrap": "Depending on heroics instead of a relationship operating system.",
+    "studyTip": "Define governance so issues are resolved at the right level."
   },
   {
     "id": "577",
@@ -20763,7 +20763,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "577-d",
-        "text": "define governance so issues are resolved at the right level."
+        "text": "Define governance so issues are resolved at the right level."
       }
     ],
     "correctChoiceId": "577-d",
@@ -20773,8 +20773,8 @@ export const generatedQuestions: Question[] = [
       "577-b": "This choice does not address the core partnership governance principle tested by the question.",
       "577-c": "This choice does not address the core partnership governance principle tested by the question."
     },
-    "examTrap": "depending on heroics instead of a relationship operating system.",
-    "studyTip": "define governance so issues are resolved at the right level."
+    "examTrap": "Depending on heroics instead of a relationship operating system.",
+    "studyTip": "Define governance so issues are resolved at the right level."
   },
   {
     "id": "578",
@@ -20795,7 +20795,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "578-c",
-        "text": "depending on heroics instead of a relationship operating system."
+        "text": "Depending on heroics instead of a relationship operating system."
       },
       {
         "id": "578-d",
@@ -20809,8 +20809,8 @@ export const generatedQuestions: Question[] = [
       "578-b": "This choice does not address the core partnership governance principle tested by the question.",
       "578-d": "This choice does not address the core partnership governance principle tested by the question."
     },
-    "examTrap": "depending on heroics instead of a relationship operating system.",
-    "studyTip": "define governance so issues are resolved at the right level."
+    "examTrap": "Depending on heroics instead of a relationship operating system.",
+    "studyTip": "Define governance so issues are resolved at the right level."
   },
   {
     "id": "579",
@@ -20845,8 +20845,8 @@ export const generatedQuestions: Question[] = [
       "579-c": "This choice does not address the core partnership governance principle tested by the question.",
       "579-d": "This choice does not address the core partnership governance principle tested by the question."
     },
-    "examTrap": "depending on heroics instead of a relationship operating system.",
-    "studyTip": "define governance so issues are resolved at the right level."
+    "examTrap": "Depending on heroics instead of a relationship operating system.",
+    "studyTip": "Define governance so issues are resolved at the right level."
   },
   {
     "id": "580",
@@ -20859,7 +20859,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "580-a",
-        "text": "define governance so issues are resolved at the right level and verify the impact through agreed metrics."
+        "text": "Define governance so issues are resolved at the right level and verify the impact through agreed metrics."
       },
       {
         "id": "580-b",
@@ -20881,8 +20881,8 @@ export const generatedQuestions: Question[] = [
       "580-c": "This choice does not address the core partnership governance principle tested by the question.",
       "580-d": "This choice does not address the core partnership governance principle tested by the question."
     },
-    "examTrap": "depending on heroics instead of a relationship operating system.",
-    "studyTip": "define governance so issues are resolved at the right level."
+    "examTrap": "Depending on heroics instead of a relationship operating system.",
+    "studyTip": "Define governance so issues are resolved at the right level."
   },
   {
     "id": "581",
@@ -20917,8 +20917,8 @@ export const generatedQuestions: Question[] = [
       "581-b": "This choice does not address the core cost-to-serve principle tested by the question.",
       "581-c": "This choice does not address the core cost-to-serve principle tested by the question."
     },
-    "examTrap": "assuming revenue alone identifies best customers.",
-    "studyTip": "use cost-to-serve to design profitable service policies."
+    "examTrap": "Assuming revenue alone identifies best customers.",
+    "studyTip": "Use cost-to-serve to design profitable service policies."
   },
   {
     "id": "582",
@@ -20939,7 +20939,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "582-c",
-        "text": "use cost-to-serve to design profitable service policies."
+        "text": "Use cost-to-serve to design profitable service policies."
       },
       {
         "id": "582-d",
@@ -20953,8 +20953,8 @@ export const generatedQuestions: Question[] = [
       "582-b": "This choice does not address the core cost-to-serve principle tested by the question.",
       "582-d": "This choice does not address the core cost-to-serve principle tested by the question."
     },
-    "examTrap": "assuming revenue alone identifies best customers.",
-    "studyTip": "use cost-to-serve to design profitable service policies."
+    "examTrap": "Assuming revenue alone identifies best customers.",
+    "studyTip": "Use cost-to-serve to design profitable service policies."
   },
   {
     "id": "583",
@@ -20971,7 +20971,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "583-b",
-        "text": "assuming revenue alone identifies best customers."
+        "text": "Assuming revenue alone identifies best customers."
       },
       {
         "id": "583-c",
@@ -20989,8 +20989,8 @@ export const generatedQuestions: Question[] = [
       "583-c": "This choice does not address the core cost-to-serve principle tested by the question.",
       "583-d": "This choice does not address the core cost-to-serve principle tested by the question."
     },
-    "examTrap": "assuming revenue alone identifies best customers.",
-    "studyTip": "use cost-to-serve to design profitable service policies."
+    "examTrap": "Assuming revenue alone identifies best customers.",
+    "studyTip": "Use cost-to-serve to design profitable service policies."
   },
   {
     "id": "584",
@@ -21025,8 +21025,8 @@ export const generatedQuestions: Question[] = [
       "584-c": "This choice does not address the core cost-to-serve principle tested by the question.",
       "584-d": "This choice does not address the core cost-to-serve principle tested by the question."
     },
-    "examTrap": "assuming revenue alone identifies best customers.",
-    "studyTip": "use cost-to-serve to design profitable service policies."
+    "examTrap": "Assuming revenue alone identifies best customers.",
+    "studyTip": "Use cost-to-serve to design profitable service policies."
   },
   {
     "id": "585",
@@ -21051,7 +21051,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "585-d",
-        "text": "use cost-to-serve to design profitable service policies and verify the impact through agreed metrics."
+        "text": "Use cost-to-serve to design profitable service policies and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "585-d",
@@ -21061,8 +21061,8 @@ export const generatedQuestions: Question[] = [
       "585-b": "This choice does not address the core cost-to-serve principle tested by the question.",
       "585-c": "This choice does not address the core cost-to-serve principle tested by the question."
     },
-    "examTrap": "assuming revenue alone identifies best customers.",
-    "studyTip": "use cost-to-serve to design profitable service policies."
+    "examTrap": "Assuming revenue alone identifies best customers.",
+    "studyTip": "Use cost-to-serve to design profitable service policies."
   },
   {
     "id": "586",
@@ -21097,8 +21097,8 @@ export const generatedQuestions: Question[] = [
       "586-b": "This choice does not address the core customer profitability principle tested by the question.",
       "586-d": "This choice does not address the core customer profitability principle tested by the question."
     },
-    "examTrap": "treating the largest customer as automatically the most profitable.",
-    "studyTip": "manage service and pricing based on profitability and strategic value."
+    "examTrap": "Treating the largest customer as automatically the most profitable.",
+    "studyTip": "Manage service and pricing based on profitability and strategic value."
   },
   {
     "id": "587",
@@ -21115,7 +21115,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "587-b",
-        "text": "manage service and pricing based on profitability and strategic value."
+        "text": "Manage service and pricing based on profitability and strategic value."
       },
       {
         "id": "587-c",
@@ -21133,8 +21133,8 @@ export const generatedQuestions: Question[] = [
       "587-c": "This choice does not address the core customer profitability principle tested by the question.",
       "587-d": "This choice does not address the core customer profitability principle tested by the question."
     },
-    "examTrap": "treating the largest customer as automatically the most profitable.",
-    "studyTip": "manage service and pricing based on profitability and strategic value."
+    "examTrap": "Treating the largest customer as automatically the most profitable.",
+    "studyTip": "Manage service and pricing based on profitability and strategic value."
   },
   {
     "id": "588",
@@ -21147,7 +21147,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "588-a",
-        "text": "treating the largest customer as automatically the most profitable."
+        "text": "Treating the largest customer as automatically the most profitable."
       },
       {
         "id": "588-b",
@@ -21169,8 +21169,8 @@ export const generatedQuestions: Question[] = [
       "588-c": "This choice does not address the core customer profitability principle tested by the question.",
       "588-d": "This choice does not address the core customer profitability principle tested by the question."
     },
-    "examTrap": "treating the largest customer as automatically the most profitable.",
-    "studyTip": "manage service and pricing based on profitability and strategic value."
+    "examTrap": "Treating the largest customer as automatically the most profitable.",
+    "studyTip": "Manage service and pricing based on profitability and strategic value."
   },
   {
     "id": "589",
@@ -21205,8 +21205,8 @@ export const generatedQuestions: Question[] = [
       "589-b": "This choice does not address the core customer profitability principle tested by the question.",
       "589-c": "This choice does not address the core customer profitability principle tested by the question."
     },
-    "examTrap": "treating the largest customer as automatically the most profitable.",
-    "studyTip": "manage service and pricing based on profitability and strategic value."
+    "examTrap": "Treating the largest customer as automatically the most profitable.",
+    "studyTip": "Manage service and pricing based on profitability and strategic value."
   },
   {
     "id": "590",
@@ -21227,7 +21227,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "590-c",
-        "text": "manage service and pricing based on profitability and strategic value and verify the impact through agreed metrics."
+        "text": "Manage service and pricing based on profitability and strategic value and verify the impact through agreed metrics."
       },
       {
         "id": "590-d",
@@ -21241,8 +21241,8 @@ export const generatedQuestions: Question[] = [
       "590-b": "This choice does not address the core customer profitability principle tested by the question.",
       "590-d": "This choice does not address the core customer profitability principle tested by the question."
     },
-    "examTrap": "treating the largest customer as automatically the most profitable.",
-    "studyTip": "manage service and pricing based on profitability and strategic value."
+    "examTrap": "Treating the largest customer as automatically the most profitable.",
+    "studyTip": "Manage service and pricing based on profitability and strategic value."
   },
   {
     "id": "591",
@@ -21277,8 +21277,8 @@ export const generatedQuestions: Question[] = [
       "591-c": "This choice does not address the core change communication principle tested by the question.",
       "591-d": "This choice does not address the core change communication principle tested by the question."
     },
-    "examTrap": "surprising partners with late changes.",
-    "studyTip": "use controlled communication, timing, and impact analysis."
+    "examTrap": "Surprising partners with late changes.",
+    "studyTip": "Use controlled communication, timing, and impact analysis."
   },
   {
     "id": "592",
@@ -21291,7 +21291,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "592-a",
-        "text": "use controlled communication, timing, and impact analysis."
+        "text": "Use controlled communication, timing, and impact analysis."
       },
       {
         "id": "592-b",
@@ -21313,8 +21313,8 @@ export const generatedQuestions: Question[] = [
       "592-c": "This choice does not address the core change communication principle tested by the question.",
       "592-d": "This choice does not address the core change communication principle tested by the question."
     },
-    "examTrap": "surprising partners with late changes.",
-    "studyTip": "use controlled communication, timing, and impact analysis."
+    "examTrap": "Surprising partners with late changes.",
+    "studyTip": "Use controlled communication, timing, and impact analysis."
   },
   {
     "id": "593",
@@ -21339,7 +21339,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "593-d",
-        "text": "surprising partners with late changes."
+        "text": "Surprising partners with late changes."
       }
     ],
     "correctChoiceId": "593-d",
@@ -21349,8 +21349,8 @@ export const generatedQuestions: Question[] = [
       "593-b": "This choice does not address the core change communication principle tested by the question.",
       "593-c": "This choice does not address the core change communication principle tested by the question."
     },
-    "examTrap": "surprising partners with late changes.",
-    "studyTip": "use controlled communication, timing, and impact analysis."
+    "examTrap": "Surprising partners with late changes.",
+    "studyTip": "Use controlled communication, timing, and impact analysis."
   },
   {
     "id": "594",
@@ -21385,8 +21385,8 @@ export const generatedQuestions: Question[] = [
       "594-b": "This choice does not address the core change communication principle tested by the question.",
       "594-d": "This choice does not address the core change communication principle tested by the question."
     },
-    "examTrap": "surprising partners with late changes.",
-    "studyTip": "use controlled communication, timing, and impact analysis."
+    "examTrap": "Surprising partners with late changes.",
+    "studyTip": "Use controlled communication, timing, and impact analysis."
   },
   {
     "id": "595",
@@ -21403,7 +21403,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "595-b",
-        "text": "use controlled communication, timing, and impact analysis and verify the impact through agreed metrics."
+        "text": "Use controlled communication, timing, and impact analysis and verify the impact through agreed metrics."
       },
       {
         "id": "595-c",
@@ -21421,8 +21421,8 @@ export const generatedQuestions: Question[] = [
       "595-c": "This choice does not address the core change communication principle tested by the question.",
       "595-d": "This choice does not address the core change communication principle tested by the question."
     },
-    "examTrap": "surprising partners with late changes.",
-    "studyTip": "use controlled communication, timing, and impact analysis."
+    "examTrap": "Surprising partners with late changes.",
+    "studyTip": "Use controlled communication, timing, and impact analysis."
   },
   {
     "id": "596",
@@ -21457,8 +21457,8 @@ export const generatedQuestions: Question[] = [
       "596-c": "This choice does not address the core relationship exit planning principle tested by the question.",
       "596-d": "This choice does not address the core relationship exit planning principle tested by the question."
     },
-    "examTrap": "ending a relationship without a continuity plan.",
-    "studyTip": "manage transition risk, inventory, data, tooling, and communication."
+    "examTrap": "Ending a relationship without a continuity plan.",
+    "studyTip": "Manage transition risk, inventory, data, tooling, and communication."
   },
   {
     "id": "597",
@@ -21483,7 +21483,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "597-d",
-        "text": "manage transition risk, inventory, data, tooling, and communication."
+        "text": "Manage transition risk, inventory, data, tooling, and communication."
       }
     ],
     "correctChoiceId": "597-d",
@@ -21493,8 +21493,8 @@ export const generatedQuestions: Question[] = [
       "597-b": "This choice does not address the core relationship exit planning principle tested by the question.",
       "597-c": "This choice does not address the core relationship exit planning principle tested by the question."
     },
-    "examTrap": "ending a relationship without a continuity plan.",
-    "studyTip": "manage transition risk, inventory, data, tooling, and communication."
+    "examTrap": "Ending a relationship without a continuity plan.",
+    "studyTip": "Manage transition risk, inventory, data, tooling, and communication."
   },
   {
     "id": "598",
@@ -21515,7 +21515,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "598-c",
-        "text": "ending a relationship without a continuity plan."
+        "text": "Ending a relationship without a continuity plan."
       },
       {
         "id": "598-d",
@@ -21529,8 +21529,8 @@ export const generatedQuestions: Question[] = [
       "598-b": "This choice does not address the core relationship exit planning principle tested by the question.",
       "598-d": "This choice does not address the core relationship exit planning principle tested by the question."
     },
-    "examTrap": "ending a relationship without a continuity plan.",
-    "studyTip": "manage transition risk, inventory, data, tooling, and communication."
+    "examTrap": "Ending a relationship without a continuity plan.",
+    "studyTip": "Manage transition risk, inventory, data, tooling, and communication."
   },
   {
     "id": "599",
@@ -21565,8 +21565,8 @@ export const generatedQuestions: Question[] = [
       "599-c": "This choice does not address the core relationship exit planning principle tested by the question.",
       "599-d": "This choice does not address the core relationship exit planning principle tested by the question."
     },
-    "examTrap": "ending a relationship without a continuity plan.",
-    "studyTip": "manage transition risk, inventory, data, tooling, and communication."
+    "examTrap": "Ending a relationship without a continuity plan.",
+    "studyTip": "Manage transition risk, inventory, data, tooling, and communication."
   },
   {
     "id": "600",
@@ -21579,7 +21579,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "600-a",
-        "text": "manage transition risk, inventory, data, tooling, and communication and verify the impact through agreed metrics."
+        "text": "Manage transition risk, inventory, data, tooling, and communication and verify the impact through agreed metrics."
       },
       {
         "id": "600-b",
@@ -21601,8 +21601,8 @@ export const generatedQuestions: Question[] = [
       "600-c": "This choice does not address the core relationship exit planning principle tested by the question.",
       "600-d": "This choice does not address the core relationship exit planning principle tested by the question."
     },
-    "examTrap": "ending a relationship without a continuity plan.",
-    "studyTip": "manage transition risk, inventory, data, tooling, and communication."
+    "examTrap": "Ending a relationship without a continuity plan.",
+    "studyTip": "Manage transition risk, inventory, data, tooling, and communication."
   },
   {
     "id": "601",
@@ -21637,8 +21637,8 @@ export const generatedQuestions: Question[] = [
       "601-b": "This choice does not address the core risk identification principle tested by the question.",
       "601-c": "This choice does not address the core risk identification principle tested by the question."
     },
-    "examTrap": "only listing obvious risks that happened before.",
-    "studyTip": "map risks across suppliers, operations, logistics, demand, systems, and external forces."
+    "examTrap": "Only listing obvious risks that happened before.",
+    "studyTip": "Map risks across suppliers, operations, logistics, demand, systems, and external forces."
   },
   {
     "id": "602",
@@ -21659,7 +21659,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "602-c",
-        "text": "map risks across suppliers, operations, logistics, demand, systems, and external forces."
+        "text": "Map risks across suppliers, operations, logistics, demand, systems, and external forces."
       },
       {
         "id": "602-d",
@@ -21673,8 +21673,8 @@ export const generatedQuestions: Question[] = [
       "602-b": "This choice does not address the core risk identification principle tested by the question.",
       "602-d": "This choice does not address the core risk identification principle tested by the question."
     },
-    "examTrap": "only listing obvious risks that happened before.",
-    "studyTip": "map risks across suppliers, operations, logistics, demand, systems, and external forces."
+    "examTrap": "Only listing obvious risks that happened before.",
+    "studyTip": "Map risks across suppliers, operations, logistics, demand, systems, and external forces."
   },
   {
     "id": "603",
@@ -21691,7 +21691,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "603-b",
-        "text": "only listing obvious risks that happened before."
+        "text": "Only listing obvious risks that happened before."
       },
       {
         "id": "603-c",
@@ -21709,8 +21709,8 @@ export const generatedQuestions: Question[] = [
       "603-c": "This choice does not address the core risk identification principle tested by the question.",
       "603-d": "This choice does not address the core risk identification principle tested by the question."
     },
-    "examTrap": "only listing obvious risks that happened before.",
-    "studyTip": "map risks across suppliers, operations, logistics, demand, systems, and external forces."
+    "examTrap": "Only listing obvious risks that happened before.",
+    "studyTip": "Map risks across suppliers, operations, logistics, demand, systems, and external forces."
   },
   {
     "id": "604",
@@ -21745,8 +21745,8 @@ export const generatedQuestions: Question[] = [
       "604-c": "This choice does not address the core risk identification principle tested by the question.",
       "604-d": "This choice does not address the core risk identification principle tested by the question."
     },
-    "examTrap": "only listing obvious risks that happened before.",
-    "studyTip": "map risks across suppliers, operations, logistics, demand, systems, and external forces."
+    "examTrap": "Only listing obvious risks that happened before.",
+    "studyTip": "Map risks across suppliers, operations, logistics, demand, systems, and external forces."
   },
   {
     "id": "605",
@@ -21771,7 +21771,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "605-d",
-        "text": "map risks across suppliers, operations, logistics, demand, systems, and external forces and verify the impact through agreed metrics."
+        "text": "Map risks across suppliers, operations, logistics, demand, systems, and external forces and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "605-d",
@@ -21781,8 +21781,8 @@ export const generatedQuestions: Question[] = [
       "605-b": "This choice does not address the core risk identification principle tested by the question.",
       "605-c": "This choice does not address the core risk identification principle tested by the question."
     },
-    "examTrap": "only listing obvious risks that happened before.",
-    "studyTip": "map risks across suppliers, operations, logistics, demand, systems, and external forces."
+    "examTrap": "Only listing obvious risks that happened before.",
+    "studyTip": "Map risks across suppliers, operations, logistics, demand, systems, and external forces."
   },
   {
     "id": "606",
@@ -21817,8 +21817,8 @@ export const generatedQuestions: Question[] = [
       "606-b": "This choice does not address the core risk assessment principle tested by the question.",
       "606-d": "This choice does not address the core risk assessment principle tested by the question."
     },
-    "examTrap": "treating all risks as equally urgent.",
-    "studyTip": "prioritize risks by exposure and business criticality."
+    "examTrap": "Treating all risks as equally urgent.",
+    "studyTip": "Prioritize risks by exposure and business criticality."
   },
   {
     "id": "607",
@@ -21835,7 +21835,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "607-b",
-        "text": "prioritize risks by exposure and business criticality."
+        "text": "Prioritize risks by exposure and business criticality."
       },
       {
         "id": "607-c",
@@ -21853,8 +21853,8 @@ export const generatedQuestions: Question[] = [
       "607-c": "This choice does not address the core risk assessment principle tested by the question.",
       "607-d": "This choice does not address the core risk assessment principle tested by the question."
     },
-    "examTrap": "treating all risks as equally urgent.",
-    "studyTip": "prioritize risks by exposure and business criticality."
+    "examTrap": "Treating all risks as equally urgent.",
+    "studyTip": "Prioritize risks by exposure and business criticality."
   },
   {
     "id": "608",
@@ -21867,7 +21867,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "608-a",
-        "text": "treating all risks as equally urgent."
+        "text": "Treating all risks as equally urgent."
       },
       {
         "id": "608-b",
@@ -21889,8 +21889,8 @@ export const generatedQuestions: Question[] = [
       "608-c": "This choice does not address the core risk assessment principle tested by the question.",
       "608-d": "This choice does not address the core risk assessment principle tested by the question."
     },
-    "examTrap": "treating all risks as equally urgent.",
-    "studyTip": "prioritize risks by exposure and business criticality."
+    "examTrap": "Treating all risks as equally urgent.",
+    "studyTip": "Prioritize risks by exposure and business criticality."
   },
   {
     "id": "609",
@@ -21925,8 +21925,8 @@ export const generatedQuestions: Question[] = [
       "609-b": "This choice does not address the core risk assessment principle tested by the question.",
       "609-c": "This choice does not address the core risk assessment principle tested by the question."
     },
-    "examTrap": "treating all risks as equally urgent.",
-    "studyTip": "prioritize risks by exposure and business criticality."
+    "examTrap": "Treating all risks as equally urgent.",
+    "studyTip": "Prioritize risks by exposure and business criticality."
   },
   {
     "id": "610",
@@ -21947,7 +21947,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "610-c",
-        "text": "prioritize risks by exposure and business criticality and verify the impact through agreed metrics."
+        "text": "Prioritize risks by exposure and business criticality and verify the impact through agreed metrics."
       },
       {
         "id": "610-d",
@@ -21961,8 +21961,8 @@ export const generatedQuestions: Question[] = [
       "610-b": "This choice does not address the core risk assessment principle tested by the question.",
       "610-d": "This choice does not address the core risk assessment principle tested by the question."
     },
-    "examTrap": "treating all risks as equally urgent.",
-    "studyTip": "prioritize risks by exposure and business criticality."
+    "examTrap": "Treating all risks as equally urgent.",
+    "studyTip": "Prioritize risks by exposure and business criticality."
   },
   {
     "id": "611",
@@ -21997,8 +21997,8 @@ export const generatedQuestions: Question[] = [
       "611-c": "This choice does not address the core risk mitigation principle tested by the question.",
       "611-d": "This choice does not address the core risk mitigation principle tested by the question."
     },
-    "examTrap": "writing a risk register without mitigation owners.",
-    "studyTip": "choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
+    "examTrap": "Writing a risk register without mitigation owners.",
+    "studyTip": "Choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
   },
   {
     "id": "612",
@@ -22011,7 +22011,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "612-a",
-        "text": "choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
+        "text": "Choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
       },
       {
         "id": "612-b",
@@ -22033,8 +22033,8 @@ export const generatedQuestions: Question[] = [
       "612-c": "This choice does not address the core risk mitigation principle tested by the question.",
       "612-d": "This choice does not address the core risk mitigation principle tested by the question."
     },
-    "examTrap": "writing a risk register without mitigation owners.",
-    "studyTip": "choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
+    "examTrap": "Writing a risk register without mitigation owners.",
+    "studyTip": "Choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
   },
   {
     "id": "613",
@@ -22059,7 +22059,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "613-d",
-        "text": "writing a risk register without mitigation owners."
+        "text": "Writing a risk register without mitigation owners."
       }
     ],
     "correctChoiceId": "613-d",
@@ -22069,8 +22069,8 @@ export const generatedQuestions: Question[] = [
       "613-b": "This choice does not address the core risk mitigation principle tested by the question.",
       "613-c": "This choice does not address the core risk mitigation principle tested by the question."
     },
-    "examTrap": "writing a risk register without mitigation owners.",
-    "studyTip": "choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
+    "examTrap": "Writing a risk register without mitigation owners.",
+    "studyTip": "Choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
   },
   {
     "id": "614",
@@ -22105,8 +22105,8 @@ export const generatedQuestions: Question[] = [
       "614-b": "This choice does not address the core risk mitigation principle tested by the question.",
       "614-d": "This choice does not address the core risk mitigation principle tested by the question."
     },
-    "examTrap": "writing a risk register without mitigation owners.",
-    "studyTip": "choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
+    "examTrap": "Writing a risk register without mitigation owners.",
+    "studyTip": "Choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
   },
   {
     "id": "615",
@@ -22123,7 +22123,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "615-b",
-        "text": "choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans and verify the impact through agreed metrics."
+        "text": "Choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans and verify the impact through agreed metrics."
       },
       {
         "id": "615-c",
@@ -22141,8 +22141,8 @@ export const generatedQuestions: Question[] = [
       "615-c": "This choice does not address the core risk mitigation principle tested by the question.",
       "615-d": "This choice does not address the core risk mitigation principle tested by the question."
     },
-    "examTrap": "writing a risk register without mitigation owners.",
-    "studyTip": "choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
+    "examTrap": "Writing a risk register without mitigation owners.",
+    "studyTip": "Choose controls such as dual sourcing, buffers, redesign, monitoring, or contingency plans."
   },
   {
     "id": "616",
@@ -22177,8 +22177,8 @@ export const generatedQuestions: Question[] = [
       "616-c": "This choice does not address the core business continuity planning principle tested by the question.",
       "616-d": "This choice does not address the core business continuity planning principle tested by the question."
     },
-    "examTrap": "having a continuity plan that no one has tested.",
-    "studyTip": "define recovery priorities, roles, triggers, and playbooks."
+    "examTrap": "Having a continuity plan that no one has tested.",
+    "studyTip": "Define recovery priorities, roles, triggers, and playbooks."
   },
   {
     "id": "617",
@@ -22203,7 +22203,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "617-d",
-        "text": "define recovery priorities, roles, triggers, and playbooks."
+        "text": "Define recovery priorities, roles, triggers, and playbooks."
       }
     ],
     "correctChoiceId": "617-d",
@@ -22213,8 +22213,8 @@ export const generatedQuestions: Question[] = [
       "617-b": "This choice does not address the core business continuity planning principle tested by the question.",
       "617-c": "This choice does not address the core business continuity planning principle tested by the question."
     },
-    "examTrap": "having a continuity plan that no one has tested.",
-    "studyTip": "define recovery priorities, roles, triggers, and playbooks."
+    "examTrap": "Having a continuity plan that no one has tested.",
+    "studyTip": "Define recovery priorities, roles, triggers, and playbooks."
   },
   {
     "id": "618",
@@ -22235,7 +22235,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "618-c",
-        "text": "having a continuity plan that no one has tested."
+        "text": "Having a continuity plan that no one has tested."
       },
       {
         "id": "618-d",
@@ -22249,8 +22249,8 @@ export const generatedQuestions: Question[] = [
       "618-b": "This choice does not address the core business continuity planning principle tested by the question.",
       "618-d": "This choice does not address the core business continuity planning principle tested by the question."
     },
-    "examTrap": "having a continuity plan that no one has tested.",
-    "studyTip": "define recovery priorities, roles, triggers, and playbooks."
+    "examTrap": "Having a continuity plan that no one has tested.",
+    "studyTip": "Define recovery priorities, roles, triggers, and playbooks."
   },
   {
     "id": "619",
@@ -22285,8 +22285,8 @@ export const generatedQuestions: Question[] = [
       "619-c": "This choice does not address the core business continuity planning principle tested by the question.",
       "619-d": "This choice does not address the core business continuity planning principle tested by the question."
     },
-    "examTrap": "having a continuity plan that no one has tested.",
-    "studyTip": "define recovery priorities, roles, triggers, and playbooks."
+    "examTrap": "Having a continuity plan that no one has tested.",
+    "studyTip": "Define recovery priorities, roles, triggers, and playbooks."
   },
   {
     "id": "620",
@@ -22299,7 +22299,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "620-a",
-        "text": "define recovery priorities, roles, triggers, and playbooks and verify the impact through agreed metrics."
+        "text": "Define recovery priorities, roles, triggers, and playbooks and verify the impact through agreed metrics."
       },
       {
         "id": "620-b",
@@ -22321,8 +22321,8 @@ export const generatedQuestions: Question[] = [
       "620-c": "This choice does not address the core business continuity planning principle tested by the question.",
       "620-d": "This choice does not address the core business continuity planning principle tested by the question."
     },
-    "examTrap": "having a continuity plan that no one has tested.",
-    "studyTip": "define recovery priorities, roles, triggers, and playbooks."
+    "examTrap": "Having a continuity plan that no one has tested.",
+    "studyTip": "Define recovery priorities, roles, triggers, and playbooks."
   },
   {
     "id": "621",
@@ -22357,8 +22357,8 @@ export const generatedQuestions: Question[] = [
       "621-b": "This choice does not address the core supplier financial risk principle tested by the question.",
       "621-c": "This choice does not address the core supplier financial risk principle tested by the question."
     },
-    "examTrap": "discovering financial risk after shipments stop.",
-    "studyTip": "monitor financial health and critical dependency indicators."
+    "examTrap": "Discovering financial risk after shipments stop.",
+    "studyTip": "Monitor financial health and critical dependency indicators."
   },
   {
     "id": "622",
@@ -22379,7 +22379,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "622-c",
-        "text": "monitor financial health and critical dependency indicators."
+        "text": "Monitor financial health and critical dependency indicators."
       },
       {
         "id": "622-d",
@@ -22393,8 +22393,8 @@ export const generatedQuestions: Question[] = [
       "622-b": "This choice does not address the core supplier financial risk principle tested by the question.",
       "622-d": "This choice does not address the core supplier financial risk principle tested by the question."
     },
-    "examTrap": "discovering financial risk after shipments stop.",
-    "studyTip": "monitor financial health and critical dependency indicators."
+    "examTrap": "Discovering financial risk after shipments stop.",
+    "studyTip": "Monitor financial health and critical dependency indicators."
   },
   {
     "id": "623",
@@ -22411,7 +22411,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "623-b",
-        "text": "discovering financial risk after shipments stop."
+        "text": "Discovering financial risk after shipments stop."
       },
       {
         "id": "623-c",
@@ -22429,8 +22429,8 @@ export const generatedQuestions: Question[] = [
       "623-c": "This choice does not address the core supplier financial risk principle tested by the question.",
       "623-d": "This choice does not address the core supplier financial risk principle tested by the question."
     },
-    "examTrap": "discovering financial risk after shipments stop.",
-    "studyTip": "monitor financial health and critical dependency indicators."
+    "examTrap": "Discovering financial risk after shipments stop.",
+    "studyTip": "Monitor financial health and critical dependency indicators."
   },
   {
     "id": "624",
@@ -22465,8 +22465,8 @@ export const generatedQuestions: Question[] = [
       "624-c": "This choice does not address the core supplier financial risk principle tested by the question.",
       "624-d": "This choice does not address the core supplier financial risk principle tested by the question."
     },
-    "examTrap": "discovering financial risk after shipments stop.",
-    "studyTip": "monitor financial health and critical dependency indicators."
+    "examTrap": "Discovering financial risk after shipments stop.",
+    "studyTip": "Monitor financial health and critical dependency indicators."
   },
   {
     "id": "625",
@@ -22491,7 +22491,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "625-d",
-        "text": "monitor financial health and critical dependency indicators and verify the impact through agreed metrics."
+        "text": "Monitor financial health and critical dependency indicators and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "625-d",
@@ -22501,8 +22501,8 @@ export const generatedQuestions: Question[] = [
       "625-b": "This choice does not address the core supplier financial risk principle tested by the question.",
       "625-c": "This choice does not address the core supplier financial risk principle tested by the question."
     },
-    "examTrap": "discovering financial risk after shipments stop.",
-    "studyTip": "monitor financial health and critical dependency indicators."
+    "examTrap": "Discovering financial risk after shipments stop.",
+    "studyTip": "Monitor financial health and critical dependency indicators."
   },
   {
     "id": "626",
@@ -22537,8 +22537,8 @@ export const generatedQuestions: Question[] = [
       "626-b": "This choice does not address the core geopolitical risk principle tested by the question.",
       "626-d": "This choice does not address the core geopolitical risk principle tested by the question."
     },
-    "examTrap": "assuming political conditions are stable because they were stable last year.",
-    "studyTip": "monitor exposure by geography and build sourcing or logistics alternatives."
+    "examTrap": "Assuming political conditions are stable because they were stable last year.",
+    "studyTip": "Monitor exposure by geography and build sourcing or logistics alternatives."
   },
   {
     "id": "627",
@@ -22555,7 +22555,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "627-b",
-        "text": "monitor exposure by geography and build sourcing or logistics alternatives."
+        "text": "Monitor exposure by geography and build sourcing or logistics alternatives."
       },
       {
         "id": "627-c",
@@ -22573,8 +22573,8 @@ export const generatedQuestions: Question[] = [
       "627-c": "This choice does not address the core geopolitical risk principle tested by the question.",
       "627-d": "This choice does not address the core geopolitical risk principle tested by the question."
     },
-    "examTrap": "assuming political conditions are stable because they were stable last year.",
-    "studyTip": "monitor exposure by geography and build sourcing or logistics alternatives."
+    "examTrap": "Assuming political conditions are stable because they were stable last year.",
+    "studyTip": "Monitor exposure by geography and build sourcing or logistics alternatives."
   },
   {
     "id": "628",
@@ -22587,7 +22587,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "628-a",
-        "text": "assuming political conditions are stable because they were stable last year."
+        "text": "Assuming political conditions are stable because they were stable last year."
       },
       {
         "id": "628-b",
@@ -22609,8 +22609,8 @@ export const generatedQuestions: Question[] = [
       "628-c": "This choice does not address the core geopolitical risk principle tested by the question.",
       "628-d": "This choice does not address the core geopolitical risk principle tested by the question."
     },
-    "examTrap": "assuming political conditions are stable because they were stable last year.",
-    "studyTip": "monitor exposure by geography and build sourcing or logistics alternatives."
+    "examTrap": "Assuming political conditions are stable because they were stable last year.",
+    "studyTip": "Monitor exposure by geography and build sourcing or logistics alternatives."
   },
   {
     "id": "629",
@@ -22645,8 +22645,8 @@ export const generatedQuestions: Question[] = [
       "629-b": "This choice does not address the core geopolitical risk principle tested by the question.",
       "629-c": "This choice does not address the core geopolitical risk principle tested by the question."
     },
-    "examTrap": "assuming political conditions are stable because they were stable last year.",
-    "studyTip": "monitor exposure by geography and build sourcing or logistics alternatives."
+    "examTrap": "Assuming political conditions are stable because they were stable last year.",
+    "studyTip": "Monitor exposure by geography and build sourcing or logistics alternatives."
   },
   {
     "id": "630",
@@ -22667,7 +22667,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "630-c",
-        "text": "monitor exposure by geography and build sourcing or logistics alternatives and verify the impact through agreed metrics."
+        "text": "Monitor exposure by geography and build sourcing or logistics alternatives and verify the impact through agreed metrics."
       },
       {
         "id": "630-d",
@@ -22681,8 +22681,8 @@ export const generatedQuestions: Question[] = [
       "630-b": "This choice does not address the core geopolitical risk principle tested by the question.",
       "630-d": "This choice does not address the core geopolitical risk principle tested by the question."
     },
-    "examTrap": "assuming political conditions are stable because they were stable last year.",
-    "studyTip": "monitor exposure by geography and build sourcing or logistics alternatives."
+    "examTrap": "Assuming political conditions are stable because they were stable last year.",
+    "studyTip": "Monitor exposure by geography and build sourcing or logistics alternatives."
   },
   {
     "id": "631",
@@ -22717,8 +22717,8 @@ export const generatedQuestions: Question[] = [
       "631-c": "This choice does not address the core cybersecurity risk principle tested by the question.",
       "631-d": "This choice does not address the core cybersecurity risk principle tested by the question."
     },
-    "examTrap": "viewing cyber risk as an IT-only issue.",
-    "studyTip": "protect data, access, integrations, and continuity plans."
+    "examTrap": "Viewing cyber risk as an IT-only issue.",
+    "studyTip": "Protect data, access, integrations, and continuity plans."
   },
   {
     "id": "632",
@@ -22731,7 +22731,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "632-a",
-        "text": "protect data, access, integrations, and continuity plans."
+        "text": "Protect data, access, integrations, and continuity plans."
       },
       {
         "id": "632-b",
@@ -22753,8 +22753,8 @@ export const generatedQuestions: Question[] = [
       "632-c": "This choice does not address the core cybersecurity risk principle tested by the question.",
       "632-d": "This choice does not address the core cybersecurity risk principle tested by the question."
     },
-    "examTrap": "viewing cyber risk as an IT-only issue.",
-    "studyTip": "protect data, access, integrations, and continuity plans."
+    "examTrap": "Viewing cyber risk as an IT-only issue.",
+    "studyTip": "Protect data, access, integrations, and continuity plans."
   },
   {
     "id": "633",
@@ -22779,7 +22779,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "633-d",
-        "text": "viewing cyber risk as an IT-only issue."
+        "text": "Viewing cyber risk as an IT-only issue."
       }
     ],
     "correctChoiceId": "633-d",
@@ -22789,8 +22789,8 @@ export const generatedQuestions: Question[] = [
       "633-b": "This choice does not address the core cybersecurity risk principle tested by the question.",
       "633-c": "This choice does not address the core cybersecurity risk principle tested by the question."
     },
-    "examTrap": "viewing cyber risk as an IT-only issue.",
-    "studyTip": "protect data, access, integrations, and continuity plans."
+    "examTrap": "Viewing cyber risk as an IT-only issue.",
+    "studyTip": "Protect data, access, integrations, and continuity plans."
   },
   {
     "id": "634",
@@ -22825,8 +22825,8 @@ export const generatedQuestions: Question[] = [
       "634-b": "This choice does not address the core cybersecurity risk principle tested by the question.",
       "634-d": "This choice does not address the core cybersecurity risk principle tested by the question."
     },
-    "examTrap": "viewing cyber risk as an IT-only issue.",
-    "studyTip": "protect data, access, integrations, and continuity plans."
+    "examTrap": "Viewing cyber risk as an IT-only issue.",
+    "studyTip": "Protect data, access, integrations, and continuity plans."
   },
   {
     "id": "635",
@@ -22843,7 +22843,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "635-b",
-        "text": "protect data, access, integrations, and continuity plans and verify the impact through agreed metrics."
+        "text": "Protect data, access, integrations, and continuity plans and verify the impact through agreed metrics."
       },
       {
         "id": "635-c",
@@ -22861,8 +22861,8 @@ export const generatedQuestions: Question[] = [
       "635-c": "This choice does not address the core cybersecurity risk principle tested by the question.",
       "635-d": "This choice does not address the core cybersecurity risk principle tested by the question."
     },
-    "examTrap": "viewing cyber risk as an IT-only issue.",
-    "studyTip": "protect data, access, integrations, and continuity plans."
+    "examTrap": "Viewing cyber risk as an IT-only issue.",
+    "studyTip": "Protect data, access, integrations, and continuity plans."
   },
   {
     "id": "636",
@@ -22897,8 +22897,8 @@ export const generatedQuestions: Question[] = [
       "636-c": "This choice does not address the core natural disaster risk principle tested by the question.",
       "636-d": "This choice does not address the core natural disaster risk principle tested by the question."
     },
-    "examTrap": "not knowing which suppliers are in the same affected region.",
-    "studyTip": "map critical nodes and recovery paths by geography."
+    "examTrap": "Not knowing which suppliers are in the same affected region.",
+    "studyTip": "Map critical nodes and recovery paths by geography."
   },
   {
     "id": "637",
@@ -22923,7 +22923,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "637-d",
-        "text": "map critical nodes and recovery paths by geography."
+        "text": "Map critical nodes and recovery paths by geography."
       }
     ],
     "correctChoiceId": "637-d",
@@ -22933,8 +22933,8 @@ export const generatedQuestions: Question[] = [
       "637-b": "This choice does not address the core natural disaster risk principle tested by the question.",
       "637-c": "This choice does not address the core natural disaster risk principle tested by the question."
     },
-    "examTrap": "not knowing which suppliers are in the same affected region.",
-    "studyTip": "map critical nodes and recovery paths by geography."
+    "examTrap": "Not knowing which suppliers are in the same affected region.",
+    "studyTip": "Map critical nodes and recovery paths by geography."
   },
   {
     "id": "638",
@@ -22955,7 +22955,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "638-c",
-        "text": "not knowing which suppliers are in the same affected region."
+        "text": "Not knowing which suppliers are in the same affected region."
       },
       {
         "id": "638-d",
@@ -22969,8 +22969,8 @@ export const generatedQuestions: Question[] = [
       "638-b": "This choice does not address the core natural disaster risk principle tested by the question.",
       "638-d": "This choice does not address the core natural disaster risk principle tested by the question."
     },
-    "examTrap": "not knowing which suppliers are in the same affected region.",
-    "studyTip": "map critical nodes and recovery paths by geography."
+    "examTrap": "Not knowing which suppliers are in the same affected region.",
+    "studyTip": "Map critical nodes and recovery paths by geography."
   },
   {
     "id": "639",
@@ -23005,8 +23005,8 @@ export const generatedQuestions: Question[] = [
       "639-c": "This choice does not address the core natural disaster risk principle tested by the question.",
       "639-d": "This choice does not address the core natural disaster risk principle tested by the question."
     },
-    "examTrap": "not knowing which suppliers are in the same affected region.",
-    "studyTip": "map critical nodes and recovery paths by geography."
+    "examTrap": "Not knowing which suppliers are in the same affected region.",
+    "studyTip": "Map critical nodes and recovery paths by geography."
   },
   {
     "id": "640",
@@ -23019,7 +23019,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "640-a",
-        "text": "map critical nodes and recovery paths by geography and verify the impact through agreed metrics."
+        "text": "Map critical nodes and recovery paths by geography and verify the impact through agreed metrics."
       },
       {
         "id": "640-b",
@@ -23041,8 +23041,8 @@ export const generatedQuestions: Question[] = [
       "640-c": "This choice does not address the core natural disaster risk principle tested by the question.",
       "640-d": "This choice does not address the core natural disaster risk principle tested by the question."
     },
-    "examTrap": "not knowing which suppliers are in the same affected region.",
-    "studyTip": "map critical nodes and recovery paths by geography."
+    "examTrap": "Not knowing which suppliers are in the same affected region.",
+    "studyTip": "Map critical nodes and recovery paths by geography."
   },
   {
     "id": "641",
@@ -23077,8 +23077,8 @@ export const generatedQuestions: Question[] = [
       "641-b": "This choice does not address the core demand risk principle tested by the question.",
       "641-c": "This choice does not address the core demand risk principle tested by the question."
     },
-    "examTrap": "locking the supply chain to one forecast.",
-    "studyTip": "use scenario planning, segmentation, and flexible supply responses."
+    "examTrap": "Locking the supply chain to one forecast.",
+    "studyTip": "Use scenario planning, segmentation, and flexible supply responses."
   },
   {
     "id": "642",
@@ -23099,7 +23099,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "642-c",
-        "text": "use scenario planning, segmentation, and flexible supply responses."
+        "text": "Use scenario planning, segmentation, and flexible supply responses."
       },
       {
         "id": "642-d",
@@ -23113,8 +23113,8 @@ export const generatedQuestions: Question[] = [
       "642-b": "This choice does not address the core demand risk principle tested by the question.",
       "642-d": "This choice does not address the core demand risk principle tested by the question."
     },
-    "examTrap": "locking the supply chain to one forecast.",
-    "studyTip": "use scenario planning, segmentation, and flexible supply responses."
+    "examTrap": "Locking the supply chain to one forecast.",
+    "studyTip": "Use scenario planning, segmentation, and flexible supply responses."
   },
   {
     "id": "643",
@@ -23131,7 +23131,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "643-b",
-        "text": "locking the supply chain to one forecast."
+        "text": "Locking the supply chain to one forecast."
       },
       {
         "id": "643-c",
@@ -23149,8 +23149,8 @@ export const generatedQuestions: Question[] = [
       "643-c": "This choice does not address the core demand risk principle tested by the question.",
       "643-d": "This choice does not address the core demand risk principle tested by the question."
     },
-    "examTrap": "locking the supply chain to one forecast.",
-    "studyTip": "use scenario planning, segmentation, and flexible supply responses."
+    "examTrap": "Locking the supply chain to one forecast.",
+    "studyTip": "Use scenario planning, segmentation, and flexible supply responses."
   },
   {
     "id": "644",
@@ -23185,8 +23185,8 @@ export const generatedQuestions: Question[] = [
       "644-c": "This choice does not address the core demand risk principle tested by the question.",
       "644-d": "This choice does not address the core demand risk principle tested by the question."
     },
-    "examTrap": "locking the supply chain to one forecast.",
-    "studyTip": "use scenario planning, segmentation, and flexible supply responses."
+    "examTrap": "Locking the supply chain to one forecast.",
+    "studyTip": "Use scenario planning, segmentation, and flexible supply responses."
   },
   {
     "id": "645",
@@ -23211,7 +23211,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "645-d",
-        "text": "use scenario planning, segmentation, and flexible supply responses and verify the impact through agreed metrics."
+        "text": "Use scenario planning, segmentation, and flexible supply responses and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "645-d",
@@ -23221,8 +23221,8 @@ export const generatedQuestions: Question[] = [
       "645-b": "This choice does not address the core demand risk principle tested by the question.",
       "645-c": "This choice does not address the core demand risk principle tested by the question."
     },
-    "examTrap": "locking the supply chain to one forecast.",
-    "studyTip": "use scenario planning, segmentation, and flexible supply responses."
+    "examTrap": "Locking the supply chain to one forecast.",
+    "studyTip": "Use scenario planning, segmentation, and flexible supply responses."
   },
   {
     "id": "646",
@@ -23257,8 +23257,8 @@ export const generatedQuestions: Question[] = [
       "646-b": "This choice does not address the core supply risk principle tested by the question.",
       "646-d": "This choice does not address the core supply risk principle tested by the question."
     },
-    "examTrap": "reacting only after a past due shipment appears.",
-    "studyTip": "monitor supplier capacity, quality, lead time, and constraints."
+    "examTrap": "Reacting only after a past due shipment appears.",
+    "studyTip": "Monitor supplier capacity, quality, lead time, and constraints."
   },
   {
     "id": "647",
@@ -23275,7 +23275,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "647-b",
-        "text": "monitor supplier capacity, quality, lead time, and constraints."
+        "text": "Monitor supplier capacity, quality, lead time, and constraints."
       },
       {
         "id": "647-c",
@@ -23293,8 +23293,8 @@ export const generatedQuestions: Question[] = [
       "647-c": "This choice does not address the core supply risk principle tested by the question.",
       "647-d": "This choice does not address the core supply risk principle tested by the question."
     },
-    "examTrap": "reacting only after a past due shipment appears.",
-    "studyTip": "monitor supplier capacity, quality, lead time, and constraints."
+    "examTrap": "Reacting only after a past due shipment appears.",
+    "studyTip": "Monitor supplier capacity, quality, lead time, and constraints."
   },
   {
     "id": "648",
@@ -23307,7 +23307,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "648-a",
-        "text": "reacting only after a past due shipment appears."
+        "text": "Reacting only after a past due shipment appears."
       },
       {
         "id": "648-b",
@@ -23329,8 +23329,8 @@ export const generatedQuestions: Question[] = [
       "648-c": "This choice does not address the core supply risk principle tested by the question.",
       "648-d": "This choice does not address the core supply risk principle tested by the question."
     },
-    "examTrap": "reacting only after a past due shipment appears.",
-    "studyTip": "monitor supplier capacity, quality, lead time, and constraints."
+    "examTrap": "Reacting only after a past due shipment appears.",
+    "studyTip": "Monitor supplier capacity, quality, lead time, and constraints."
   },
   {
     "id": "649",
@@ -23365,8 +23365,8 @@ export const generatedQuestions: Question[] = [
       "649-b": "This choice does not address the core supply risk principle tested by the question.",
       "649-c": "This choice does not address the core supply risk principle tested by the question."
     },
-    "examTrap": "reacting only after a past due shipment appears.",
-    "studyTip": "monitor supplier capacity, quality, lead time, and constraints."
+    "examTrap": "Reacting only after a past due shipment appears.",
+    "studyTip": "Monitor supplier capacity, quality, lead time, and constraints."
   },
   {
     "id": "650",
@@ -23387,7 +23387,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "650-c",
-        "text": "monitor supplier capacity, quality, lead time, and constraints and verify the impact through agreed metrics."
+        "text": "Monitor supplier capacity, quality, lead time, and constraints and verify the impact through agreed metrics."
       },
       {
         "id": "650-d",
@@ -23401,8 +23401,8 @@ export const generatedQuestions: Question[] = [
       "650-b": "This choice does not address the core supply risk principle tested by the question.",
       "650-d": "This choice does not address the core supply risk principle tested by the question."
     },
-    "examTrap": "reacting only after a past due shipment appears.",
-    "studyTip": "monitor supplier capacity, quality, lead time, and constraints."
+    "examTrap": "Reacting only after a past due shipment appears.",
+    "studyTip": "Monitor supplier capacity, quality, lead time, and constraints."
   },
   {
     "id": "651",
@@ -23437,8 +23437,8 @@ export const generatedQuestions: Question[] = [
       "651-c": "This choice does not address the core operational risk principle tested by the question.",
       "651-d": "This choice does not address the core operational risk principle tested by the question."
     },
-    "examTrap": "blaming suppliers for failures caused internally.",
-    "studyTip": "control processes, maintenance, training, and escalation."
+    "examTrap": "Blaming suppliers for failures caused internally.",
+    "studyTip": "Control processes, maintenance, training, and escalation."
   },
   {
     "id": "652",
@@ -23451,7 +23451,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "652-a",
-        "text": "control processes, maintenance, training, and escalation."
+        "text": "Control processes, maintenance, training, and escalation."
       },
       {
         "id": "652-b",
@@ -23473,8 +23473,8 @@ export const generatedQuestions: Question[] = [
       "652-c": "This choice does not address the core operational risk principle tested by the question.",
       "652-d": "This choice does not address the core operational risk principle tested by the question."
     },
-    "examTrap": "blaming suppliers for failures caused internally.",
-    "studyTip": "control processes, maintenance, training, and escalation."
+    "examTrap": "Blaming suppliers for failures caused internally.",
+    "studyTip": "Control processes, maintenance, training, and escalation."
   },
   {
     "id": "653",
@@ -23499,7 +23499,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "653-d",
-        "text": "blaming suppliers for failures caused internally."
+        "text": "Blaming suppliers for failures caused internally."
       }
     ],
     "correctChoiceId": "653-d",
@@ -23509,8 +23509,8 @@ export const generatedQuestions: Question[] = [
       "653-b": "This choice does not address the core operational risk principle tested by the question.",
       "653-c": "This choice does not address the core operational risk principle tested by the question."
     },
-    "examTrap": "blaming suppliers for failures caused internally.",
-    "studyTip": "control processes, maintenance, training, and escalation."
+    "examTrap": "Blaming suppliers for failures caused internally.",
+    "studyTip": "Control processes, maintenance, training, and escalation."
   },
   {
     "id": "654",
@@ -23545,8 +23545,8 @@ export const generatedQuestions: Question[] = [
       "654-b": "This choice does not address the core operational risk principle tested by the question.",
       "654-d": "This choice does not address the core operational risk principle tested by the question."
     },
-    "examTrap": "blaming suppliers for failures caused internally.",
-    "studyTip": "control processes, maintenance, training, and escalation."
+    "examTrap": "Blaming suppliers for failures caused internally.",
+    "studyTip": "Control processes, maintenance, training, and escalation."
   },
   {
     "id": "655",
@@ -23563,7 +23563,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "655-b",
-        "text": "control processes, maintenance, training, and escalation and verify the impact through agreed metrics."
+        "text": "Control processes, maintenance, training, and escalation and verify the impact through agreed metrics."
       },
       {
         "id": "655-c",
@@ -23581,8 +23581,8 @@ export const generatedQuestions: Question[] = [
       "655-c": "This choice does not address the core operational risk principle tested by the question.",
       "655-d": "This choice does not address the core operational risk principle tested by the question."
     },
-    "examTrap": "blaming suppliers for failures caused internally.",
-    "studyTip": "control processes, maintenance, training, and escalation."
+    "examTrap": "Blaming suppliers for failures caused internally.",
+    "studyTip": "Control processes, maintenance, training, and escalation."
   },
   {
     "id": "656",
@@ -23617,8 +23617,8 @@ export const generatedQuestions: Question[] = [
       "656-c": "This choice does not address the core compliance risk principle tested by the question.",
       "656-d": "This choice does not address the core compliance risk principle tested by the question."
     },
-    "examTrap": "assuming compliance is handled after shipment.",
-    "studyTip": "build controls, audits, and ownership into the process."
+    "examTrap": "Assuming compliance is handled after shipment.",
+    "studyTip": "Build controls, audits, and ownership into the process."
   },
   {
     "id": "657",
@@ -23643,7 +23643,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "657-d",
-        "text": "build controls, audits, and ownership into the process."
+        "text": "Build controls, audits, and ownership into the process."
       }
     ],
     "correctChoiceId": "657-d",
@@ -23653,8 +23653,8 @@ export const generatedQuestions: Question[] = [
       "657-b": "This choice does not address the core compliance risk principle tested by the question.",
       "657-c": "This choice does not address the core compliance risk principle tested by the question."
     },
-    "examTrap": "assuming compliance is handled after shipment.",
-    "studyTip": "build controls, audits, and ownership into the process."
+    "examTrap": "Assuming compliance is handled after shipment.",
+    "studyTip": "Build controls, audits, and ownership into the process."
   },
   {
     "id": "658",
@@ -23675,7 +23675,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "658-c",
-        "text": "assuming compliance is handled after shipment."
+        "text": "Assuming compliance is handled after shipment."
       },
       {
         "id": "658-d",
@@ -23689,8 +23689,8 @@ export const generatedQuestions: Question[] = [
       "658-b": "This choice does not address the core compliance risk principle tested by the question.",
       "658-d": "This choice does not address the core compliance risk principle tested by the question."
     },
-    "examTrap": "assuming compliance is handled after shipment.",
-    "studyTip": "build controls, audits, and ownership into the process."
+    "examTrap": "Assuming compliance is handled after shipment.",
+    "studyTip": "Build controls, audits, and ownership into the process."
   },
   {
     "id": "659",
@@ -23725,8 +23725,8 @@ export const generatedQuestions: Question[] = [
       "659-c": "This choice does not address the core compliance risk principle tested by the question.",
       "659-d": "This choice does not address the core compliance risk principle tested by the question."
     },
-    "examTrap": "assuming compliance is handled after shipment.",
-    "studyTip": "build controls, audits, and ownership into the process."
+    "examTrap": "Assuming compliance is handled after shipment.",
+    "studyTip": "Build controls, audits, and ownership into the process."
   },
   {
     "id": "660",
@@ -23739,7 +23739,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "660-a",
-        "text": "build controls, audits, and ownership into the process and verify the impact through agreed metrics."
+        "text": "Build controls, audits, and ownership into the process and verify the impact through agreed metrics."
       },
       {
         "id": "660-b",
@@ -23761,8 +23761,8 @@ export const generatedQuestions: Question[] = [
       "660-c": "This choice does not address the core compliance risk principle tested by the question.",
       "660-d": "This choice does not address the core compliance risk principle tested by the question."
     },
-    "examTrap": "assuming compliance is handled after shipment.",
-    "studyTip": "build controls, audits, and ownership into the process."
+    "examTrap": "Assuming compliance is handled after shipment.",
+    "studyTip": "Build controls, audits, and ownership into the process."
   },
   {
     "id": "661",
@@ -23797,8 +23797,8 @@ export const generatedQuestions: Question[] = [
       "661-b": "This choice does not address the core risk appetite principle tested by the question.",
       "661-c": "This choice does not address the core risk appetite principle tested by the question."
     },
-    "examTrap": "spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
-    "studyTip": "align mitigation investment with risk tolerance and business strategy."
+    "examTrap": "Spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
+    "studyTip": "Align mitigation investment with risk tolerance and business strategy."
   },
   {
     "id": "662",
@@ -23819,7 +23819,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "662-c",
-        "text": "align mitigation investment with risk tolerance and business strategy."
+        "text": "Align mitigation investment with risk tolerance and business strategy."
       },
       {
         "id": "662-d",
@@ -23833,8 +23833,8 @@ export const generatedQuestions: Question[] = [
       "662-b": "This choice does not address the core risk appetite principle tested by the question.",
       "662-d": "This choice does not address the core risk appetite principle tested by the question."
     },
-    "examTrap": "spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
-    "studyTip": "align mitigation investment with risk tolerance and business strategy."
+    "examTrap": "Spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
+    "studyTip": "Align mitigation investment with risk tolerance and business strategy."
   },
   {
     "id": "663",
@@ -23851,7 +23851,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "663-b",
-        "text": "spending heavily to eliminate low-impact risks while ignoring high-impact ones."
+        "text": "Spending heavily to eliminate low-impact risks while ignoring high-impact ones."
       },
       {
         "id": "663-c",
@@ -23869,8 +23869,8 @@ export const generatedQuestions: Question[] = [
       "663-c": "This choice does not address the core risk appetite principle tested by the question.",
       "663-d": "This choice does not address the core risk appetite principle tested by the question."
     },
-    "examTrap": "spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
-    "studyTip": "align mitigation investment with risk tolerance and business strategy."
+    "examTrap": "Spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
+    "studyTip": "Align mitigation investment with risk tolerance and business strategy."
   },
   {
     "id": "664",
@@ -23905,8 +23905,8 @@ export const generatedQuestions: Question[] = [
       "664-c": "This choice does not address the core risk appetite principle tested by the question.",
       "664-d": "This choice does not address the core risk appetite principle tested by the question."
     },
-    "examTrap": "spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
-    "studyTip": "align mitigation investment with risk tolerance and business strategy."
+    "examTrap": "Spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
+    "studyTip": "Align mitigation investment with risk tolerance and business strategy."
   },
   {
     "id": "665",
@@ -23931,7 +23931,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "665-d",
-        "text": "align mitigation investment with risk tolerance and business strategy and verify the impact through agreed metrics."
+        "text": "Align mitigation investment with risk tolerance and business strategy and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "665-d",
@@ -23941,8 +23941,8 @@ export const generatedQuestions: Question[] = [
       "665-b": "This choice does not address the core risk appetite principle tested by the question.",
       "665-c": "This choice does not address the core risk appetite principle tested by the question."
     },
-    "examTrap": "spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
-    "studyTip": "align mitigation investment with risk tolerance and business strategy."
+    "examTrap": "Spending heavily to eliminate low-impact risks while ignoring high-impact ones.",
+    "studyTip": "Align mitigation investment with risk tolerance and business strategy."
   },
   {
     "id": "666",
@@ -23977,8 +23977,8 @@ export const generatedQuestions: Question[] = [
       "666-b": "This choice does not address the core risk transfer principle tested by the question.",
       "666-d": "This choice does not address the core risk transfer principle tested by the question."
     },
-    "examTrap": "believing transferred risk means no monitoring is needed.",
-    "studyTip": "transfer risk when another party can better absorb or manage it."
+    "examTrap": "Believing transferred risk means no monitoring is needed.",
+    "studyTip": "Transfer risk when another party can better absorb or manage it."
   },
   {
     "id": "667",
@@ -23995,7 +23995,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "667-b",
-        "text": "transfer risk when another party can better absorb or manage it."
+        "text": "Transfer risk when another party can better absorb or manage it."
       },
       {
         "id": "667-c",
@@ -24013,8 +24013,8 @@ export const generatedQuestions: Question[] = [
       "667-c": "This choice does not address the core risk transfer principle tested by the question.",
       "667-d": "This choice does not address the core risk transfer principle tested by the question."
     },
-    "examTrap": "believing transferred risk means no monitoring is needed.",
-    "studyTip": "transfer risk when another party can better absorb or manage it."
+    "examTrap": "Believing transferred risk means no monitoring is needed.",
+    "studyTip": "Transfer risk when another party can better absorb or manage it."
   },
   {
     "id": "668",
@@ -24027,7 +24027,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "668-a",
-        "text": "believing transferred risk means no monitoring is needed."
+        "text": "Believing transferred risk means no monitoring is needed."
       },
       {
         "id": "668-b",
@@ -24049,8 +24049,8 @@ export const generatedQuestions: Question[] = [
       "668-c": "This choice does not address the core risk transfer principle tested by the question.",
       "668-d": "This choice does not address the core risk transfer principle tested by the question."
     },
-    "examTrap": "believing transferred risk means no monitoring is needed.",
-    "studyTip": "transfer risk when another party can better absorb or manage it."
+    "examTrap": "Believing transferred risk means no monitoring is needed.",
+    "studyTip": "Transfer risk when another party can better absorb or manage it."
   },
   {
     "id": "669",
@@ -24085,8 +24085,8 @@ export const generatedQuestions: Question[] = [
       "669-b": "This choice does not address the core risk transfer principle tested by the question.",
       "669-c": "This choice does not address the core risk transfer principle tested by the question."
     },
-    "examTrap": "believing transferred risk means no monitoring is needed.",
-    "studyTip": "transfer risk when another party can better absorb or manage it."
+    "examTrap": "Believing transferred risk means no monitoring is needed.",
+    "studyTip": "Transfer risk when another party can better absorb or manage it."
   },
   {
     "id": "670",
@@ -24107,7 +24107,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "670-c",
-        "text": "transfer risk when another party can better absorb or manage it and verify the impact through agreed metrics."
+        "text": "Transfer risk when another party can better absorb or manage it and verify the impact through agreed metrics."
       },
       {
         "id": "670-d",
@@ -24121,8 +24121,8 @@ export const generatedQuestions: Question[] = [
       "670-b": "This choice does not address the core risk transfer principle tested by the question.",
       "670-d": "This choice does not address the core risk transfer principle tested by the question."
     },
-    "examTrap": "believing transferred risk means no monitoring is needed.",
-    "studyTip": "transfer risk when another party can better absorb or manage it."
+    "examTrap": "Believing transferred risk means no monitoring is needed.",
+    "studyTip": "Transfer risk when another party can better absorb or manage it."
   },
   {
     "id": "671",
@@ -24157,8 +24157,8 @@ export const generatedQuestions: Question[] = [
       "671-c": "This choice does not address the core risk avoidance principle tested by the question.",
       "671-d": "This choice does not address the core risk avoidance principle tested by the question."
     },
-    "examTrap": "using avoidance when mitigation would be more practical.",
-    "studyTip": "avoid activities that exceed risk appetite or violate constraints."
+    "examTrap": "Using avoidance when mitigation would be more practical.",
+    "studyTip": "Avoid activities that exceed risk appetite or violate constraints."
   },
   {
     "id": "672",
@@ -24171,7 +24171,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "672-a",
-        "text": "avoid activities that exceed risk appetite or violate constraints."
+        "text": "Avoid activities that exceed risk appetite or violate constraints."
       },
       {
         "id": "672-b",
@@ -24193,8 +24193,8 @@ export const generatedQuestions: Question[] = [
       "672-c": "This choice does not address the core risk avoidance principle tested by the question.",
       "672-d": "This choice does not address the core risk avoidance principle tested by the question."
     },
-    "examTrap": "using avoidance when mitigation would be more practical.",
-    "studyTip": "avoid activities that exceed risk appetite or violate constraints."
+    "examTrap": "Using avoidance when mitigation would be more practical.",
+    "studyTip": "Avoid activities that exceed risk appetite or violate constraints."
   },
   {
     "id": "673",
@@ -24219,7 +24219,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "673-d",
-        "text": "using avoidance when mitigation would be more practical."
+        "text": "Using avoidance when mitigation would be more practical."
       }
     ],
     "correctChoiceId": "673-d",
@@ -24229,8 +24229,8 @@ export const generatedQuestions: Question[] = [
       "673-b": "This choice does not address the core risk avoidance principle tested by the question.",
       "673-c": "This choice does not address the core risk avoidance principle tested by the question."
     },
-    "examTrap": "using avoidance when mitigation would be more practical.",
-    "studyTip": "avoid activities that exceed risk appetite or violate constraints."
+    "examTrap": "Using avoidance when mitigation would be more practical.",
+    "studyTip": "Avoid activities that exceed risk appetite or violate constraints."
   },
   {
     "id": "674",
@@ -24265,8 +24265,8 @@ export const generatedQuestions: Question[] = [
       "674-b": "This choice does not address the core risk avoidance principle tested by the question.",
       "674-d": "This choice does not address the core risk avoidance principle tested by the question."
     },
-    "examTrap": "using avoidance when mitigation would be more practical.",
-    "studyTip": "avoid activities that exceed risk appetite or violate constraints."
+    "examTrap": "Using avoidance when mitigation would be more practical.",
+    "studyTip": "Avoid activities that exceed risk appetite or violate constraints."
   },
   {
     "id": "675",
@@ -24283,7 +24283,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "675-b",
-        "text": "avoid activities that exceed risk appetite or violate constraints and verify the impact through agreed metrics."
+        "text": "Avoid activities that exceed risk appetite or violate constraints and verify the impact through agreed metrics."
       },
       {
         "id": "675-c",
@@ -24301,8 +24301,8 @@ export const generatedQuestions: Question[] = [
       "675-c": "This choice does not address the core risk avoidance principle tested by the question.",
       "675-d": "This choice does not address the core risk avoidance principle tested by the question."
     },
-    "examTrap": "using avoidance when mitigation would be more practical.",
-    "studyTip": "avoid activities that exceed risk appetite or violate constraints."
+    "examTrap": "Using avoidance when mitigation would be more practical.",
+    "studyTip": "Avoid activities that exceed risk appetite or violate constraints."
   },
   {
     "id": "676",
@@ -24337,8 +24337,8 @@ export const generatedQuestions: Question[] = [
       "676-c": "This choice does not address the core risk acceptance principle tested by the question.",
       "676-d": "This choice does not address the core risk acceptance principle tested by the question."
     },
-    "examTrap": "accepting risk by doing nothing and calling it strategy.",
-    "studyTip": "document rationale, owners, and monitoring triggers."
+    "examTrap": "Accepting risk by doing nothing and calling it strategy.",
+    "studyTip": "Document rationale, owners, and monitoring triggers."
   },
   {
     "id": "677",
@@ -24363,7 +24363,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "677-d",
-        "text": "document rationale, owners, and monitoring triggers."
+        "text": "Document rationale, owners, and monitoring triggers."
       }
     ],
     "correctChoiceId": "677-d",
@@ -24373,8 +24373,8 @@ export const generatedQuestions: Question[] = [
       "677-b": "This choice does not address the core risk acceptance principle tested by the question.",
       "677-c": "This choice does not address the core risk acceptance principle tested by the question."
     },
-    "examTrap": "accepting risk by doing nothing and calling it strategy.",
-    "studyTip": "document rationale, owners, and monitoring triggers."
+    "examTrap": "Accepting risk by doing nothing and calling it strategy.",
+    "studyTip": "Document rationale, owners, and monitoring triggers."
   },
   {
     "id": "678",
@@ -24395,7 +24395,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "678-c",
-        "text": "accepting risk by doing nothing and calling it strategy."
+        "text": "Accepting risk by doing nothing and calling it strategy."
       },
       {
         "id": "678-d",
@@ -24409,8 +24409,8 @@ export const generatedQuestions: Question[] = [
       "678-b": "This choice does not address the core risk acceptance principle tested by the question.",
       "678-d": "This choice does not address the core risk acceptance principle tested by the question."
     },
-    "examTrap": "accepting risk by doing nothing and calling it strategy.",
-    "studyTip": "document rationale, owners, and monitoring triggers."
+    "examTrap": "Accepting risk by doing nothing and calling it strategy.",
+    "studyTip": "Document rationale, owners, and monitoring triggers."
   },
   {
     "id": "679",
@@ -24445,8 +24445,8 @@ export const generatedQuestions: Question[] = [
       "679-c": "This choice does not address the core risk acceptance principle tested by the question.",
       "679-d": "This choice does not address the core risk acceptance principle tested by the question."
     },
-    "examTrap": "accepting risk by doing nothing and calling it strategy.",
-    "studyTip": "document rationale, owners, and monitoring triggers."
+    "examTrap": "Accepting risk by doing nothing and calling it strategy.",
+    "studyTip": "Document rationale, owners, and monitoring triggers."
   },
   {
     "id": "680",
@@ -24459,7 +24459,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "680-a",
-        "text": "document rationale, owners, and monitoring triggers and verify the impact through agreed metrics."
+        "text": "Document rationale, owners, and monitoring triggers and verify the impact through agreed metrics."
       },
       {
         "id": "680-b",
@@ -24481,8 +24481,8 @@ export const generatedQuestions: Question[] = [
       "680-c": "This choice does not address the core risk acceptance principle tested by the question.",
       "680-d": "This choice does not address the core risk acceptance principle tested by the question."
     },
-    "examTrap": "accepting risk by doing nothing and calling it strategy.",
-    "studyTip": "document rationale, owners, and monitoring triggers."
+    "examTrap": "Accepting risk by doing nothing and calling it strategy.",
+    "studyTip": "Document rationale, owners, and monitoring triggers."
   },
   {
     "id": "681",
@@ -24517,8 +24517,8 @@ export const generatedQuestions: Question[] = [
       "681-b": "This choice does not address the core scenario planning principle tested by the question.",
       "681-c": "This choice does not address the core scenario planning principle tested by the question."
     },
-    "examTrap": "planning only for the most likely case.",
-    "studyTip": "prepare responses for multiple demand, supply, cost, or disruption scenarios."
+    "examTrap": "Planning only for the most likely case.",
+    "studyTip": "Prepare responses for multiple demand, supply, cost, or disruption scenarios."
   },
   {
     "id": "682",
@@ -24539,7 +24539,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "682-c",
-        "text": "prepare responses for multiple demand, supply, cost, or disruption scenarios."
+        "text": "Prepare responses for multiple demand, supply, cost, or disruption scenarios."
       },
       {
         "id": "682-d",
@@ -24553,8 +24553,8 @@ export const generatedQuestions: Question[] = [
       "682-b": "This choice does not address the core scenario planning principle tested by the question.",
       "682-d": "This choice does not address the core scenario planning principle tested by the question."
     },
-    "examTrap": "planning only for the most likely case.",
-    "studyTip": "prepare responses for multiple demand, supply, cost, or disruption scenarios."
+    "examTrap": "Planning only for the most likely case.",
+    "studyTip": "Prepare responses for multiple demand, supply, cost, or disruption scenarios."
   },
   {
     "id": "683",
@@ -24571,7 +24571,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "683-b",
-        "text": "planning only for the most likely case."
+        "text": "Planning only for the most likely case."
       },
       {
         "id": "683-c",
@@ -24589,8 +24589,8 @@ export const generatedQuestions: Question[] = [
       "683-c": "This choice does not address the core scenario planning principle tested by the question.",
       "683-d": "This choice does not address the core scenario planning principle tested by the question."
     },
-    "examTrap": "planning only for the most likely case.",
-    "studyTip": "prepare responses for multiple demand, supply, cost, or disruption scenarios."
+    "examTrap": "Planning only for the most likely case.",
+    "studyTip": "Prepare responses for multiple demand, supply, cost, or disruption scenarios."
   },
   {
     "id": "684",
@@ -24625,8 +24625,8 @@ export const generatedQuestions: Question[] = [
       "684-c": "This choice does not address the core scenario planning principle tested by the question.",
       "684-d": "This choice does not address the core scenario planning principle tested by the question."
     },
-    "examTrap": "planning only for the most likely case.",
-    "studyTip": "prepare responses for multiple demand, supply, cost, or disruption scenarios."
+    "examTrap": "Planning only for the most likely case.",
+    "studyTip": "Prepare responses for multiple demand, supply, cost, or disruption scenarios."
   },
   {
     "id": "685",
@@ -24651,7 +24651,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "685-d",
-        "text": "prepare responses for multiple demand, supply, cost, or disruption scenarios and verify the impact through agreed metrics."
+        "text": "Prepare responses for multiple demand, supply, cost, or disruption scenarios and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "685-d",
@@ -24661,8 +24661,8 @@ export const generatedQuestions: Question[] = [
       "685-b": "This choice does not address the core scenario planning principle tested by the question.",
       "685-c": "This choice does not address the core scenario planning principle tested by the question."
     },
-    "examTrap": "planning only for the most likely case.",
-    "studyTip": "prepare responses for multiple demand, supply, cost, or disruption scenarios."
+    "examTrap": "Planning only for the most likely case.",
+    "studyTip": "Prepare responses for multiple demand, supply, cost, or disruption scenarios."
   },
   {
     "id": "686",
@@ -24697,8 +24697,8 @@ export const generatedQuestions: Question[] = [
       "686-b": "This choice does not address the core early warning indicators principle tested by the question.",
       "686-d": "This choice does not address the core early warning indicators principle tested by the question."
     },
-    "examTrap": "waiting for the full failure instead of acting on leading signals.",
-    "studyTip": "track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
+    "examTrap": "Waiting for the full failure instead of acting on leading signals.",
+    "studyTip": "Track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
   },
   {
     "id": "687",
@@ -24715,7 +24715,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "687-b",
-        "text": "track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
+        "text": "Track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
       },
       {
         "id": "687-c",
@@ -24733,8 +24733,8 @@ export const generatedQuestions: Question[] = [
       "687-c": "This choice does not address the core early warning indicators principle tested by the question.",
       "687-d": "This choice does not address the core early warning indicators principle tested by the question."
     },
-    "examTrap": "waiting for the full failure instead of acting on leading signals.",
-    "studyTip": "track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
+    "examTrap": "Waiting for the full failure instead of acting on leading signals.",
+    "studyTip": "Track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
   },
   {
     "id": "688",
@@ -24747,7 +24747,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "688-a",
-        "text": "waiting for the full failure instead of acting on leading signals."
+        "text": "Waiting for the full failure instead of acting on leading signals."
       },
       {
         "id": "688-b",
@@ -24769,8 +24769,8 @@ export const generatedQuestions: Question[] = [
       "688-c": "This choice does not address the core early warning indicators principle tested by the question.",
       "688-d": "This choice does not address the core early warning indicators principle tested by the question."
     },
-    "examTrap": "waiting for the full failure instead of acting on leading signals.",
-    "studyTip": "track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
+    "examTrap": "Waiting for the full failure instead of acting on leading signals.",
+    "studyTip": "Track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
   },
   {
     "id": "689",
@@ -24805,8 +24805,8 @@ export const generatedQuestions: Question[] = [
       "689-b": "This choice does not address the core early warning indicators principle tested by the question.",
       "689-c": "This choice does not address the core early warning indicators principle tested by the question."
     },
-    "examTrap": "waiting for the full failure instead of acting on leading signals.",
-    "studyTip": "track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
+    "examTrap": "Waiting for the full failure instead of acting on leading signals.",
+    "studyTip": "Track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
   },
   {
     "id": "690",
@@ -24827,7 +24827,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "690-c",
-        "text": "track indicators such as late shipments, quality trends, financial distress, or geopolitical events and verify the impact through agreed metrics."
+        "text": "Track indicators such as late shipments, quality trends, financial distress, or geopolitical events and verify the impact through agreed metrics."
       },
       {
         "id": "690-d",
@@ -24841,8 +24841,8 @@ export const generatedQuestions: Question[] = [
       "690-b": "This choice does not address the core early warning indicators principle tested by the question.",
       "690-d": "This choice does not address the core early warning indicators principle tested by the question."
     },
-    "examTrap": "waiting for the full failure instead of acting on leading signals.",
-    "studyTip": "track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
+    "examTrap": "Waiting for the full failure instead of acting on leading signals.",
+    "studyTip": "Track indicators such as late shipments, quality trends, financial distress, or geopolitical events."
   },
   {
     "id": "691",
@@ -24877,8 +24877,8 @@ export const generatedQuestions: Question[] = [
       "691-c": "This choice does not address the core recovery time objective principle tested by the question.",
       "691-d": "This choice does not address the core recovery time objective principle tested by the question."
     },
-    "examTrap": "setting recovery targets without testing actual capability.",
-    "studyTip": "set recovery targets based on business impact and customer requirements."
+    "examTrap": "Setting recovery targets without testing actual capability.",
+    "studyTip": "Set recovery targets based on business impact and customer requirements."
   },
   {
     "id": "692",
@@ -24891,7 +24891,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "692-a",
-        "text": "set recovery targets based on business impact and customer requirements."
+        "text": "Set recovery targets based on business impact and customer requirements."
       },
       {
         "id": "692-b",
@@ -24913,8 +24913,8 @@ export const generatedQuestions: Question[] = [
       "692-c": "This choice does not address the core recovery time objective principle tested by the question.",
       "692-d": "This choice does not address the core recovery time objective principle tested by the question."
     },
-    "examTrap": "setting recovery targets without testing actual capability.",
-    "studyTip": "set recovery targets based on business impact and customer requirements."
+    "examTrap": "Setting recovery targets without testing actual capability.",
+    "studyTip": "Set recovery targets based on business impact and customer requirements."
   },
   {
     "id": "693",
@@ -24939,7 +24939,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "693-d",
-        "text": "setting recovery targets without testing actual capability."
+        "text": "Setting recovery targets without testing actual capability."
       }
     ],
     "correctChoiceId": "693-d",
@@ -24949,8 +24949,8 @@ export const generatedQuestions: Question[] = [
       "693-b": "This choice does not address the core recovery time objective principle tested by the question.",
       "693-c": "This choice does not address the core recovery time objective principle tested by the question."
     },
-    "examTrap": "setting recovery targets without testing actual capability.",
-    "studyTip": "set recovery targets based on business impact and customer requirements."
+    "examTrap": "Setting recovery targets without testing actual capability.",
+    "studyTip": "Set recovery targets based on business impact and customer requirements."
   },
   {
     "id": "694",
@@ -24985,8 +24985,8 @@ export const generatedQuestions: Question[] = [
       "694-b": "This choice does not address the core recovery time objective principle tested by the question.",
       "694-d": "This choice does not address the core recovery time objective principle tested by the question."
     },
-    "examTrap": "setting recovery targets without testing actual capability.",
-    "studyTip": "set recovery targets based on business impact and customer requirements."
+    "examTrap": "Setting recovery targets without testing actual capability.",
+    "studyTip": "Set recovery targets based on business impact and customer requirements."
   },
   {
     "id": "695",
@@ -25003,7 +25003,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "695-b",
-        "text": "set recovery targets based on business impact and customer requirements and verify the impact through agreed metrics."
+        "text": "Set recovery targets based on business impact and customer requirements and verify the impact through agreed metrics."
       },
       {
         "id": "695-c",
@@ -25021,8 +25021,8 @@ export const generatedQuestions: Question[] = [
       "695-c": "This choice does not address the core recovery time objective principle tested by the question.",
       "695-d": "This choice does not address the core recovery time objective principle tested by the question."
     },
-    "examTrap": "setting recovery targets without testing actual capability.",
-    "studyTip": "set recovery targets based on business impact and customer requirements."
+    "examTrap": "Setting recovery targets without testing actual capability.",
+    "studyTip": "Set recovery targets based on business impact and customer requirements."
   },
   {
     "id": "696",
@@ -25057,8 +25057,8 @@ export const generatedQuestions: Question[] = [
       "696-c": "This choice does not address the core risk culture principle tested by the question.",
       "696-d": "This choice does not address the core risk culture principle tested by the question."
     },
-    "examTrap": "punishing bad news until people hide it.",
-    "studyTip": "encourage early escalation and fact-based problem solving."
+    "examTrap": "Punishing bad news until people hide it.",
+    "studyTip": "Encourage early escalation and fact-based problem solving."
   },
   {
     "id": "697",
@@ -25083,7 +25083,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "697-d",
-        "text": "encourage early escalation and fact-based problem solving."
+        "text": "Encourage early escalation and fact-based problem solving."
       }
     ],
     "correctChoiceId": "697-d",
@@ -25093,8 +25093,8 @@ export const generatedQuestions: Question[] = [
       "697-b": "This choice does not address the core risk culture principle tested by the question.",
       "697-c": "This choice does not address the core risk culture principle tested by the question."
     },
-    "examTrap": "punishing bad news until people hide it.",
-    "studyTip": "encourage early escalation and fact-based problem solving."
+    "examTrap": "Punishing bad news until people hide it.",
+    "studyTip": "Encourage early escalation and fact-based problem solving."
   },
   {
     "id": "698",
@@ -25115,7 +25115,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "698-c",
-        "text": "punishing bad news until people hide it."
+        "text": "Punishing bad news until people hide it."
       },
       {
         "id": "698-d",
@@ -25129,8 +25129,8 @@ export const generatedQuestions: Question[] = [
       "698-b": "This choice does not address the core risk culture principle tested by the question.",
       "698-d": "This choice does not address the core risk culture principle tested by the question."
     },
-    "examTrap": "punishing bad news until people hide it.",
-    "studyTip": "encourage early escalation and fact-based problem solving."
+    "examTrap": "Punishing bad news until people hide it.",
+    "studyTip": "Encourage early escalation and fact-based problem solving."
   },
   {
     "id": "699",
@@ -25165,8 +25165,8 @@ export const generatedQuestions: Question[] = [
       "699-c": "This choice does not address the core risk culture principle tested by the question.",
       "699-d": "This choice does not address the core risk culture principle tested by the question."
     },
-    "examTrap": "punishing bad news until people hide it.",
-    "studyTip": "encourage early escalation and fact-based problem solving."
+    "examTrap": "Punishing bad news until people hide it.",
+    "studyTip": "Encourage early escalation and fact-based problem solving."
   },
   {
     "id": "700",
@@ -25179,7 +25179,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "700-a",
-        "text": "encourage early escalation and fact-based problem solving and verify the impact through agreed metrics."
+        "text": "Encourage early escalation and fact-based problem solving and verify the impact through agreed metrics."
       },
       {
         "id": "700-b",
@@ -25201,8 +25201,8 @@ export const generatedQuestions: Question[] = [
       "700-c": "This choice does not address the core risk culture principle tested by the question.",
       "700-d": "This choice does not address the core risk culture principle tested by the question."
     },
-    "examTrap": "punishing bad news until people hide it.",
-    "studyTip": "encourage early escalation and fact-based problem solving."
+    "examTrap": "Punishing bad news until people hide it.",
+    "studyTip": "Encourage early escalation and fact-based problem solving."
   },
   {
     "id": "701",
@@ -25237,8 +25237,8 @@ export const generatedQuestions: Question[] = [
       "701-b": "This choice does not address the core supply chain optimization principle tested by the question.",
       "701-c": "This choice does not address the core supply chain optimization principle tested by the question."
     },
-    "examTrap": "maximizing one metric while damaging the system.",
-    "studyTip": "define the objective and constraints before optimizing."
+    "examTrap": "Maximizing one metric while damaging the system.",
+    "studyTip": "Define the objective and constraints before optimizing."
   },
   {
     "id": "702",
@@ -25259,7 +25259,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "702-c",
-        "text": "define the objective and constraints before optimizing."
+        "text": "Define the objective and constraints before optimizing."
       },
       {
         "id": "702-d",
@@ -25273,8 +25273,8 @@ export const generatedQuestions: Question[] = [
       "702-b": "This choice does not address the core supply chain optimization principle tested by the question.",
       "702-d": "This choice does not address the core supply chain optimization principle tested by the question."
     },
-    "examTrap": "maximizing one metric while damaging the system.",
-    "studyTip": "define the objective and constraints before optimizing."
+    "examTrap": "Maximizing one metric while damaging the system.",
+    "studyTip": "Define the objective and constraints before optimizing."
   },
   {
     "id": "703",
@@ -25291,7 +25291,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "703-b",
-        "text": "maximizing one metric while damaging the system."
+        "text": "Maximizing one metric while damaging the system."
       },
       {
         "id": "703-c",
@@ -25309,8 +25309,8 @@ export const generatedQuestions: Question[] = [
       "703-c": "This choice does not address the core supply chain optimization principle tested by the question.",
       "703-d": "This choice does not address the core supply chain optimization principle tested by the question."
     },
-    "examTrap": "maximizing one metric while damaging the system.",
-    "studyTip": "define the objective and constraints before optimizing."
+    "examTrap": "Maximizing one metric while damaging the system.",
+    "studyTip": "Define the objective and constraints before optimizing."
   },
   {
     "id": "704",
@@ -25345,8 +25345,8 @@ export const generatedQuestions: Question[] = [
       "704-c": "This choice does not address the core supply chain optimization principle tested by the question.",
       "704-d": "This choice does not address the core supply chain optimization principle tested by the question."
     },
-    "examTrap": "maximizing one metric while damaging the system.",
-    "studyTip": "define the objective and constraints before optimizing."
+    "examTrap": "Maximizing one metric while damaging the system.",
+    "studyTip": "Define the objective and constraints before optimizing."
   },
   {
     "id": "705",
@@ -25371,7 +25371,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "705-d",
-        "text": "define the objective and constraints before optimizing and verify the impact through agreed metrics."
+        "text": "Define the objective and constraints before optimizing and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "705-d",
@@ -25381,8 +25381,8 @@ export const generatedQuestions: Question[] = [
       "705-b": "This choice does not address the core supply chain optimization principle tested by the question.",
       "705-c": "This choice does not address the core supply chain optimization principle tested by the question."
     },
-    "examTrap": "maximizing one metric while damaging the system.",
-    "studyTip": "define the objective and constraints before optimizing."
+    "examTrap": "Maximizing one metric while damaging the system.",
+    "studyTip": "Define the objective and constraints before optimizing."
   },
   {
     "id": "706",
@@ -25417,8 +25417,8 @@ export const generatedQuestions: Question[] = [
       "706-b": "This choice does not address the core constraint-based planning principle tested by the question.",
       "706-d": "This choice does not address the core constraint-based planning principle tested by the question."
     },
-    "examTrap": "creating plans that assume infinite capacity.",
-    "studyTip": "plan around real constraints and resolve trade-offs explicitly."
+    "examTrap": "Creating plans that assume infinite capacity.",
+    "studyTip": "Plan around real constraints and resolve trade-offs explicitly."
   },
   {
     "id": "707",
@@ -25435,7 +25435,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "707-b",
-        "text": "plan around real constraints and resolve trade-offs explicitly."
+        "text": "Plan around real constraints and resolve trade-offs explicitly."
       },
       {
         "id": "707-c",
@@ -25453,8 +25453,8 @@ export const generatedQuestions: Question[] = [
       "707-c": "This choice does not address the core constraint-based planning principle tested by the question.",
       "707-d": "This choice does not address the core constraint-based planning principle tested by the question."
     },
-    "examTrap": "creating plans that assume infinite capacity.",
-    "studyTip": "plan around real constraints and resolve trade-offs explicitly."
+    "examTrap": "Creating plans that assume infinite capacity.",
+    "studyTip": "Plan around real constraints and resolve trade-offs explicitly."
   },
   {
     "id": "708",
@@ -25467,7 +25467,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "708-a",
-        "text": "creating plans that assume infinite capacity."
+        "text": "Creating plans that assume infinite capacity."
       },
       {
         "id": "708-b",
@@ -25489,8 +25489,8 @@ export const generatedQuestions: Question[] = [
       "708-c": "This choice does not address the core constraint-based planning principle tested by the question.",
       "708-d": "This choice does not address the core constraint-based planning principle tested by the question."
     },
-    "examTrap": "creating plans that assume infinite capacity.",
-    "studyTip": "plan around real constraints and resolve trade-offs explicitly."
+    "examTrap": "Creating plans that assume infinite capacity.",
+    "studyTip": "Plan around real constraints and resolve trade-offs explicitly."
   },
   {
     "id": "709",
@@ -25525,8 +25525,8 @@ export const generatedQuestions: Question[] = [
       "709-b": "This choice does not address the core constraint-based planning principle tested by the question.",
       "709-c": "This choice does not address the core constraint-based planning principle tested by the question."
     },
-    "examTrap": "creating plans that assume infinite capacity.",
-    "studyTip": "plan around real constraints and resolve trade-offs explicitly."
+    "examTrap": "Creating plans that assume infinite capacity.",
+    "studyTip": "Plan around real constraints and resolve trade-offs explicitly."
   },
   {
     "id": "710",
@@ -25547,7 +25547,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "710-c",
-        "text": "plan around real constraints and resolve trade-offs explicitly and verify the impact through agreed metrics."
+        "text": "Plan around real constraints and resolve trade-offs explicitly and verify the impact through agreed metrics."
       },
       {
         "id": "710-d",
@@ -25561,8 +25561,8 @@ export const generatedQuestions: Question[] = [
       "710-b": "This choice does not address the core constraint-based planning principle tested by the question.",
       "710-d": "This choice does not address the core constraint-based planning principle tested by the question."
     },
-    "examTrap": "creating plans that assume infinite capacity.",
-    "studyTip": "plan around real constraints and resolve trade-offs explicitly."
+    "examTrap": "Creating plans that assume infinite capacity.",
+    "studyTip": "Plan around real constraints and resolve trade-offs explicitly."
   },
   {
     "id": "711",
@@ -25597,8 +25597,8 @@ export const generatedQuestions: Question[] = [
       "711-c": "This choice does not address the core continuous improvement principle tested by the question.",
       "711-d": "This choice does not address the core continuous improvement principle tested by the question."
     },
-    "examTrap": "jumping to solutions without understanding the process.",
-    "studyTip": "use facts, root cause analysis, experiments, and standardization."
+    "examTrap": "Jumping to solutions without understanding the process.",
+    "studyTip": "Use facts, root cause analysis, experiments, and standardization."
   },
   {
     "id": "712",
@@ -25611,7 +25611,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "712-a",
-        "text": "use facts, root cause analysis, experiments, and standardization."
+        "text": "Use facts, root cause analysis, experiments, and standardization."
       },
       {
         "id": "712-b",
@@ -25633,8 +25633,8 @@ export const generatedQuestions: Question[] = [
       "712-c": "This choice does not address the core continuous improvement principle tested by the question.",
       "712-d": "This choice does not address the core continuous improvement principle tested by the question."
     },
-    "examTrap": "jumping to solutions without understanding the process.",
-    "studyTip": "use facts, root cause analysis, experiments, and standardization."
+    "examTrap": "Jumping to solutions without understanding the process.",
+    "studyTip": "Use facts, root cause analysis, experiments, and standardization."
   },
   {
     "id": "713",
@@ -25659,7 +25659,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "713-d",
-        "text": "jumping to solutions without understanding the process."
+        "text": "Jumping to solutions without understanding the process."
       }
     ],
     "correctChoiceId": "713-d",
@@ -25669,8 +25669,8 @@ export const generatedQuestions: Question[] = [
       "713-b": "This choice does not address the core continuous improvement principle tested by the question.",
       "713-c": "This choice does not address the core continuous improvement principle tested by the question."
     },
-    "examTrap": "jumping to solutions without understanding the process.",
-    "studyTip": "use facts, root cause analysis, experiments, and standardization."
+    "examTrap": "Jumping to solutions without understanding the process.",
+    "studyTip": "Use facts, root cause analysis, experiments, and standardization."
   },
   {
     "id": "714",
@@ -25705,8 +25705,8 @@ export const generatedQuestions: Question[] = [
       "714-b": "This choice does not address the core continuous improvement principle tested by the question.",
       "714-d": "This choice does not address the core continuous improvement principle tested by the question."
     },
-    "examTrap": "jumping to solutions without understanding the process.",
-    "studyTip": "use facts, root cause analysis, experiments, and standardization."
+    "examTrap": "Jumping to solutions without understanding the process.",
+    "studyTip": "Use facts, root cause analysis, experiments, and standardization."
   },
   {
     "id": "715",
@@ -25723,7 +25723,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "715-b",
-        "text": "use facts, root cause analysis, experiments, and standardization and verify the impact through agreed metrics."
+        "text": "Use facts, root cause analysis, experiments, and standardization and verify the impact through agreed metrics."
       },
       {
         "id": "715-c",
@@ -25741,8 +25741,8 @@ export const generatedQuestions: Question[] = [
       "715-c": "This choice does not address the core continuous improvement principle tested by the question.",
       "715-d": "This choice does not address the core continuous improvement principle tested by the question."
     },
-    "examTrap": "jumping to solutions without understanding the process.",
-    "studyTip": "use facts, root cause analysis, experiments, and standardization."
+    "examTrap": "Jumping to solutions without understanding the process.",
+    "studyTip": "Use facts, root cause analysis, experiments, and standardization."
   },
   {
     "id": "716",
@@ -25777,8 +25777,8 @@ export const generatedQuestions: Question[] = [
       "716-c": "This choice does not address the core root cause analysis principle tested by the question.",
       "716-d": "This choice does not address the core root cause analysis principle tested by the question."
     },
-    "examTrap": "stopping at human error without asking why the system allowed it.",
-    "studyTip": "use evidence to find process causes and prevent recurrence."
+    "examTrap": "Stopping at human error without asking why the system allowed it.",
+    "studyTip": "Use evidence to find process causes and prevent recurrence."
   },
   {
     "id": "717",
@@ -25803,7 +25803,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "717-d",
-        "text": "use evidence to find process causes and prevent recurrence."
+        "text": "Use evidence to find process causes and prevent recurrence."
       }
     ],
     "correctChoiceId": "717-d",
@@ -25813,8 +25813,8 @@ export const generatedQuestions: Question[] = [
       "717-b": "This choice does not address the core root cause analysis principle tested by the question.",
       "717-c": "This choice does not address the core root cause analysis principle tested by the question."
     },
-    "examTrap": "stopping at human error without asking why the system allowed it.",
-    "studyTip": "use evidence to find process causes and prevent recurrence."
+    "examTrap": "Stopping at human error without asking why the system allowed it.",
+    "studyTip": "Use evidence to find process causes and prevent recurrence."
   },
   {
     "id": "718",
@@ -25835,7 +25835,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "718-c",
-        "text": "stopping at human error without asking why the system allowed it."
+        "text": "Stopping at human error without asking why the system allowed it."
       },
       {
         "id": "718-d",
@@ -25849,8 +25849,8 @@ export const generatedQuestions: Question[] = [
       "718-b": "This choice does not address the core root cause analysis principle tested by the question.",
       "718-d": "This choice does not address the core root cause analysis principle tested by the question."
     },
-    "examTrap": "stopping at human error without asking why the system allowed it.",
-    "studyTip": "use evidence to find process causes and prevent recurrence."
+    "examTrap": "Stopping at human error without asking why the system allowed it.",
+    "studyTip": "Use evidence to find process causes and prevent recurrence."
   },
   {
     "id": "719",
@@ -25885,8 +25885,8 @@ export const generatedQuestions: Question[] = [
       "719-c": "This choice does not address the core root cause analysis principle tested by the question.",
       "719-d": "This choice does not address the core root cause analysis principle tested by the question."
     },
-    "examTrap": "stopping at human error without asking why the system allowed it.",
-    "studyTip": "use evidence to find process causes and prevent recurrence."
+    "examTrap": "Stopping at human error without asking why the system allowed it.",
+    "studyTip": "Use evidence to find process causes and prevent recurrence."
   },
   {
     "id": "720",
@@ -25899,7 +25899,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "720-a",
-        "text": "use evidence to find process causes and prevent recurrence and verify the impact through agreed metrics."
+        "text": "Use evidence to find process causes and prevent recurrence and verify the impact through agreed metrics."
       },
       {
         "id": "720-b",
@@ -25921,8 +25921,8 @@ export const generatedQuestions: Question[] = [
       "720-c": "This choice does not address the core root cause analysis principle tested by the question.",
       "720-d": "This choice does not address the core root cause analysis principle tested by the question."
     },
-    "examTrap": "stopping at human error without asking why the system allowed it.",
-    "studyTip": "use evidence to find process causes and prevent recurrence."
+    "examTrap": "Stopping at human error without asking why the system allowed it.",
+    "studyTip": "Use evidence to find process causes and prevent recurrence."
   },
   {
     "id": "721",
@@ -25957,8 +25957,8 @@ export const generatedQuestions: Question[] = [
       "721-b": "This choice does not address the core lean six sigma principle tested by the question.",
       "721-c": "This choice does not address the core lean six sigma principle tested by the question."
     },
-    "examTrap": "using advanced tools when basic process discipline is missing.",
-    "studyTip": "apply the right tools to flow problems, variation problems, or both."
+    "examTrap": "Using advanced tools when basic process discipline is missing.",
+    "studyTip": "Apply the right tools to flow problems, variation problems, or both."
   },
   {
     "id": "722",
@@ -25979,7 +25979,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "722-c",
-        "text": "apply the right tools to flow problems, variation problems, or both."
+        "text": "Apply the right tools to flow problems, variation problems, or both."
       },
       {
         "id": "722-d",
@@ -25993,8 +25993,8 @@ export const generatedQuestions: Question[] = [
       "722-b": "This choice does not address the core lean six sigma principle tested by the question.",
       "722-d": "This choice does not address the core lean six sigma principle tested by the question."
     },
-    "examTrap": "using advanced tools when basic process discipline is missing.",
-    "studyTip": "apply the right tools to flow problems, variation problems, or both."
+    "examTrap": "Using advanced tools when basic process discipline is missing.",
+    "studyTip": "Apply the right tools to flow problems, variation problems, or both."
   },
   {
     "id": "723",
@@ -26011,7 +26011,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "723-b",
-        "text": "using advanced tools when basic process discipline is missing."
+        "text": "Using advanced tools when basic process discipline is missing."
       },
       {
         "id": "723-c",
@@ -26029,8 +26029,8 @@ export const generatedQuestions: Question[] = [
       "723-c": "This choice does not address the core lean six sigma principle tested by the question.",
       "723-d": "This choice does not address the core lean six sigma principle tested by the question."
     },
-    "examTrap": "using advanced tools when basic process discipline is missing.",
-    "studyTip": "apply the right tools to flow problems, variation problems, or both."
+    "examTrap": "Using advanced tools when basic process discipline is missing.",
+    "studyTip": "Apply the right tools to flow problems, variation problems, or both."
   },
   {
     "id": "724",
@@ -26065,8 +26065,8 @@ export const generatedQuestions: Question[] = [
       "724-c": "This choice does not address the core lean six sigma principle tested by the question.",
       "724-d": "This choice does not address the core lean six sigma principle tested by the question."
     },
-    "examTrap": "using advanced tools when basic process discipline is missing.",
-    "studyTip": "apply the right tools to flow problems, variation problems, or both."
+    "examTrap": "Using advanced tools when basic process discipline is missing.",
+    "studyTip": "Apply the right tools to flow problems, variation problems, or both."
   },
   {
     "id": "725",
@@ -26091,7 +26091,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "725-d",
-        "text": "apply the right tools to flow problems, variation problems, or both and verify the impact through agreed metrics."
+        "text": "Apply the right tools to flow problems, variation problems, or both and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "725-d",
@@ -26101,8 +26101,8 @@ export const generatedQuestions: Question[] = [
       "725-b": "This choice does not address the core lean six sigma principle tested by the question.",
       "725-c": "This choice does not address the core lean six sigma principle tested by the question."
     },
-    "examTrap": "using advanced tools when basic process discipline is missing.",
-    "studyTip": "apply the right tools to flow problems, variation problems, or both."
+    "examTrap": "Using advanced tools when basic process discipline is missing.",
+    "studyTip": "Apply the right tools to flow problems, variation problems, or both."
   },
   {
     "id": "726",
@@ -26137,8 +26137,8 @@ export const generatedQuestions: Question[] = [
       "726-b": "This choice does not address the core sustainability principle tested by the question.",
       "726-d": "This choice does not address the core sustainability principle tested by the question."
     },
-    "examTrap": "using sustainability language without measurable operational drivers.",
-    "studyTip": "connect sustainability goals to measurable supply chain actions."
+    "examTrap": "Using sustainability language without measurable operational drivers.",
+    "studyTip": "Connect sustainability goals to measurable supply chain actions."
   },
   {
     "id": "727",
@@ -26155,7 +26155,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "727-b",
-        "text": "connect sustainability goals to measurable supply chain actions."
+        "text": "Connect sustainability goals to measurable supply chain actions."
       },
       {
         "id": "727-c",
@@ -26173,8 +26173,8 @@ export const generatedQuestions: Question[] = [
       "727-c": "This choice does not address the core sustainability principle tested by the question.",
       "727-d": "This choice does not address the core sustainability principle tested by the question."
     },
-    "examTrap": "using sustainability language without measurable operational drivers.",
-    "studyTip": "connect sustainability goals to measurable supply chain actions."
+    "examTrap": "Using sustainability language without measurable operational drivers.",
+    "studyTip": "Connect sustainability goals to measurable supply chain actions."
   },
   {
     "id": "728",
@@ -26187,7 +26187,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "728-a",
-        "text": "using sustainability language without measurable operational drivers."
+        "text": "Using sustainability language without measurable operational drivers."
       },
       {
         "id": "728-b",
@@ -26209,8 +26209,8 @@ export const generatedQuestions: Question[] = [
       "728-c": "This choice does not address the core sustainability principle tested by the question.",
       "728-d": "This choice does not address the core sustainability principle tested by the question."
     },
-    "examTrap": "using sustainability language without measurable operational drivers.",
-    "studyTip": "connect sustainability goals to measurable supply chain actions."
+    "examTrap": "Using sustainability language without measurable operational drivers.",
+    "studyTip": "Connect sustainability goals to measurable supply chain actions."
   },
   {
     "id": "729",
@@ -26245,8 +26245,8 @@ export const generatedQuestions: Question[] = [
       "729-b": "This choice does not address the core sustainability principle tested by the question.",
       "729-c": "This choice does not address the core sustainability principle tested by the question."
     },
-    "examTrap": "using sustainability language without measurable operational drivers.",
-    "studyTip": "connect sustainability goals to measurable supply chain actions."
+    "examTrap": "Using sustainability language without measurable operational drivers.",
+    "studyTip": "Connect sustainability goals to measurable supply chain actions."
   },
   {
     "id": "730",
@@ -26267,7 +26267,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "730-c",
-        "text": "connect sustainability goals to measurable supply chain actions and verify the impact through agreed metrics."
+        "text": "Connect sustainability goals to measurable supply chain actions and verify the impact through agreed metrics."
       },
       {
         "id": "730-d",
@@ -26281,8 +26281,8 @@ export const generatedQuestions: Question[] = [
       "730-b": "This choice does not address the core sustainability principle tested by the question.",
       "730-d": "This choice does not address the core sustainability principle tested by the question."
     },
-    "examTrap": "using sustainability language without measurable operational drivers.",
-    "studyTip": "connect sustainability goals to measurable supply chain actions."
+    "examTrap": "Using sustainability language without measurable operational drivers.",
+    "studyTip": "Connect sustainability goals to measurable supply chain actions."
   },
   {
     "id": "731",
@@ -26317,8 +26317,8 @@ export const generatedQuestions: Question[] = [
       "731-c": "This choice does not address the core circular economy principle tested by the question.",
       "731-d": "This choice does not address the core circular economy principle tested by the question."
     },
-    "examTrap": "treating recycling as the only circular strategy.",
-    "studyTip": "design products and reverse flows for lifecycle value."
+    "examTrap": "Treating recycling as the only circular strategy.",
+    "studyTip": "Design products and reverse flows for lifecycle value."
   },
   {
     "id": "732",
@@ -26331,7 +26331,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "732-a",
-        "text": "design products and reverse flows for lifecycle value."
+        "text": "Design products and reverse flows for lifecycle value."
       },
       {
         "id": "732-b",
@@ -26353,8 +26353,8 @@ export const generatedQuestions: Question[] = [
       "732-c": "This choice does not address the core circular economy principle tested by the question.",
       "732-d": "This choice does not address the core circular economy principle tested by the question."
     },
-    "examTrap": "treating recycling as the only circular strategy.",
-    "studyTip": "design products and reverse flows for lifecycle value."
+    "examTrap": "Treating recycling as the only circular strategy.",
+    "studyTip": "Design products and reverse flows for lifecycle value."
   },
   {
     "id": "733",
@@ -26379,7 +26379,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "733-d",
-        "text": "treating recycling as the only circular strategy."
+        "text": "Treating recycling as the only circular strategy."
       }
     ],
     "correctChoiceId": "733-d",
@@ -26389,8 +26389,8 @@ export const generatedQuestions: Question[] = [
       "733-b": "This choice does not address the core circular economy principle tested by the question.",
       "733-c": "This choice does not address the core circular economy principle tested by the question."
     },
-    "examTrap": "treating recycling as the only circular strategy.",
-    "studyTip": "design products and reverse flows for lifecycle value."
+    "examTrap": "Treating recycling as the only circular strategy.",
+    "studyTip": "Design products and reverse flows for lifecycle value."
   },
   {
     "id": "734",
@@ -26425,8 +26425,8 @@ export const generatedQuestions: Question[] = [
       "734-b": "This choice does not address the core circular economy principle tested by the question.",
       "734-d": "This choice does not address the core circular economy principle tested by the question."
     },
-    "examTrap": "treating recycling as the only circular strategy.",
-    "studyTip": "design products and reverse flows for lifecycle value."
+    "examTrap": "Treating recycling as the only circular strategy.",
+    "studyTip": "Design products and reverse flows for lifecycle value."
   },
   {
     "id": "735",
@@ -26443,7 +26443,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "735-b",
-        "text": "design products and reverse flows for lifecycle value and verify the impact through agreed metrics."
+        "text": "Design products and reverse flows for lifecycle value and verify the impact through agreed metrics."
       },
       {
         "id": "735-c",
@@ -26461,8 +26461,8 @@ export const generatedQuestions: Question[] = [
       "735-c": "This choice does not address the core circular economy principle tested by the question.",
       "735-d": "This choice does not address the core circular economy principle tested by the question."
     },
-    "examTrap": "treating recycling as the only circular strategy.",
-    "studyTip": "design products and reverse flows for lifecycle value."
+    "examTrap": "Treating recycling as the only circular strategy.",
+    "studyTip": "Design products and reverse flows for lifecycle value."
   },
   {
     "id": "736",
@@ -26497,8 +26497,8 @@ export const generatedQuestions: Question[] = [
       "736-c": "This choice does not address the core carbon footprint principle tested by the question.",
       "736-d": "This choice does not address the core carbon footprint principle tested by the question."
     },
-    "examTrap": "making claims without measurement boundaries.",
-    "studyTip": "measure emissions and target reductions through sourcing, logistics, energy, and design choices."
+    "examTrap": "Making claims without measurement boundaries.",
+    "studyTip": "Measure emissions and target reductions through sourcing, logistics, energy, and design choices."
   },
   {
     "id": "737",
@@ -26523,7 +26523,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "737-d",
-        "text": "measure emissions and target reductions through sourcing, logistics, energy, and design choices."
+        "text": "Measure emissions and target reductions through sourcing, logistics, energy, and design choices."
       }
     ],
     "correctChoiceId": "737-d",
@@ -26533,8 +26533,8 @@ export const generatedQuestions: Question[] = [
       "737-b": "This choice does not address the core carbon footprint principle tested by the question.",
       "737-c": "This choice does not address the core carbon footprint principle tested by the question."
     },
-    "examTrap": "making claims without measurement boundaries.",
-    "studyTip": "measure emissions and target reductions through sourcing, logistics, energy, and design choices."
+    "examTrap": "Making claims without measurement boundaries.",
+    "studyTip": "Measure emissions and target reductions through sourcing, logistics, energy, and design choices."
   },
   {
     "id": "738",
@@ -26555,7 +26555,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "738-c",
-        "text": "making claims without measurement boundaries."
+        "text": "Making claims without measurement boundaries."
       },
       {
         "id": "738-d",
@@ -26569,8 +26569,8 @@ export const generatedQuestions: Question[] = [
       "738-b": "This choice does not address the core carbon footprint principle tested by the question.",
       "738-d": "This choice does not address the core carbon footprint principle tested by the question."
     },
-    "examTrap": "making claims without measurement boundaries.",
-    "studyTip": "measure emissions and target reductions through sourcing, logistics, energy, and design choices."
+    "examTrap": "Making claims without measurement boundaries.",
+    "studyTip": "Measure emissions and target reductions through sourcing, logistics, energy, and design choices."
   },
   {
     "id": "739",
@@ -26605,8 +26605,8 @@ export const generatedQuestions: Question[] = [
       "739-c": "This choice does not address the core carbon footprint principle tested by the question.",
       "739-d": "This choice does not address the core carbon footprint principle tested by the question."
     },
-    "examTrap": "making claims without measurement boundaries.",
-    "studyTip": "measure emissions and target reductions through sourcing, logistics, energy, and design choices."
+    "examTrap": "Making claims without measurement boundaries.",
+    "studyTip": "Measure emissions and target reductions through sourcing, logistics, energy, and design choices."
   },
   {
     "id": "740",
@@ -26619,7 +26619,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "740-a",
-        "text": "measure emissions and target reductions through sourcing, logistics, energy, and design choices and verify the impact through agreed metrics."
+        "text": "Measure emissions and target reductions through sourcing, logistics, energy, and design choices and verify the impact through agreed metrics."
       },
       {
         "id": "740-b",
@@ -26641,8 +26641,8 @@ export const generatedQuestions: Question[] = [
       "740-c": "This choice does not address the core carbon footprint principle tested by the question.",
       "740-d": "This choice does not address the core carbon footprint principle tested by the question."
     },
-    "examTrap": "making claims without measurement boundaries.",
-    "studyTip": "measure emissions and target reductions through sourcing, logistics, energy, and design choices."
+    "examTrap": "Making claims without measurement boundaries.",
+    "studyTip": "Measure emissions and target reductions through sourcing, logistics, energy, and design choices."
   },
   {
     "id": "741",
@@ -26677,8 +26677,8 @@ export const generatedQuestions: Question[] = [
       "741-b": "This choice does not address the core esg reporting principle tested by the question.",
       "741-c": "This choice does not address the core esg reporting principle tested by the question."
     },
-    "examTrap": "treating ESG as marketing instead of governance and performance.",
-    "studyTip": "align metrics, data quality, controls, and stakeholder requirements."
+    "examTrap": "Treating ESG as marketing instead of governance and performance.",
+    "studyTip": "Align metrics, data quality, controls, and stakeholder requirements."
   },
   {
     "id": "742",
@@ -26699,7 +26699,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "742-c",
-        "text": "align metrics, data quality, controls, and stakeholder requirements."
+        "text": "Align metrics, data quality, controls, and stakeholder requirements."
       },
       {
         "id": "742-d",
@@ -26713,8 +26713,8 @@ export const generatedQuestions: Question[] = [
       "742-b": "This choice does not address the core esg reporting principle tested by the question.",
       "742-d": "This choice does not address the core esg reporting principle tested by the question."
     },
-    "examTrap": "treating ESG as marketing instead of governance and performance.",
-    "studyTip": "align metrics, data quality, controls, and stakeholder requirements."
+    "examTrap": "Treating ESG as marketing instead of governance and performance.",
+    "studyTip": "Align metrics, data quality, controls, and stakeholder requirements."
   },
   {
     "id": "743",
@@ -26731,7 +26731,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "743-b",
-        "text": "treating ESG as marketing instead of governance and performance."
+        "text": "Treating ESG as marketing instead of governance and performance."
       },
       {
         "id": "743-c",
@@ -26749,8 +26749,8 @@ export const generatedQuestions: Question[] = [
       "743-c": "This choice does not address the core esg reporting principle tested by the question.",
       "743-d": "This choice does not address the core esg reporting principle tested by the question."
     },
-    "examTrap": "treating ESG as marketing instead of governance and performance.",
-    "studyTip": "align metrics, data quality, controls, and stakeholder requirements."
+    "examTrap": "Treating ESG as marketing instead of governance and performance.",
+    "studyTip": "Align metrics, data quality, controls, and stakeholder requirements."
   },
   {
     "id": "744",
@@ -26785,8 +26785,8 @@ export const generatedQuestions: Question[] = [
       "744-c": "This choice does not address the core esg reporting principle tested by the question.",
       "744-d": "This choice does not address the core esg reporting principle tested by the question."
     },
-    "examTrap": "treating ESG as marketing instead of governance and performance.",
-    "studyTip": "align metrics, data quality, controls, and stakeholder requirements."
+    "examTrap": "Treating ESG as marketing instead of governance and performance.",
+    "studyTip": "Align metrics, data quality, controls, and stakeholder requirements."
   },
   {
     "id": "745",
@@ -26811,7 +26811,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "745-d",
-        "text": "align metrics, data quality, controls, and stakeholder requirements and verify the impact through agreed metrics."
+        "text": "Align metrics, data quality, controls, and stakeholder requirements and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "745-d",
@@ -26821,8 +26821,8 @@ export const generatedQuestions: Question[] = [
       "745-b": "This choice does not address the core esg reporting principle tested by the question.",
       "745-c": "This choice does not address the core esg reporting principle tested by the question."
     },
-    "examTrap": "treating ESG as marketing instead of governance and performance.",
-    "studyTip": "align metrics, data quality, controls, and stakeholder requirements."
+    "examTrap": "Treating ESG as marketing instead of governance and performance.",
+    "studyTip": "Align metrics, data quality, controls, and stakeholder requirements."
   },
   {
     "id": "746",
@@ -26857,8 +26857,8 @@ export const generatedQuestions: Question[] = [
       "746-b": "This choice does not address the core technology roadmap principle tested by the question.",
       "746-d": "This choice does not address the core technology roadmap principle tested by the question."
     },
-    "examTrap": "buying tools before defining the problem.",
-    "studyTip": "sequence technology after process and data foundations are addressed."
+    "examTrap": "Buying tools before defining the problem.",
+    "studyTip": "Sequence technology after process and data foundations are addressed."
   },
   {
     "id": "747",
@@ -26875,7 +26875,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "747-b",
-        "text": "sequence technology after process and data foundations are addressed."
+        "text": "Sequence technology after process and data foundations are addressed."
       },
       {
         "id": "747-c",
@@ -26893,8 +26893,8 @@ export const generatedQuestions: Question[] = [
       "747-c": "This choice does not address the core technology roadmap principle tested by the question.",
       "747-d": "This choice does not address the core technology roadmap principle tested by the question."
     },
-    "examTrap": "buying tools before defining the problem.",
-    "studyTip": "sequence technology after process and data foundations are addressed."
+    "examTrap": "Buying tools before defining the problem.",
+    "studyTip": "Sequence technology after process and data foundations are addressed."
   },
   {
     "id": "748",
@@ -26907,7 +26907,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "748-a",
-        "text": "buying tools before defining the problem."
+        "text": "Buying tools before defining the problem."
       },
       {
         "id": "748-b",
@@ -26929,8 +26929,8 @@ export const generatedQuestions: Question[] = [
       "748-c": "This choice does not address the core technology roadmap principle tested by the question.",
       "748-d": "This choice does not address the core technology roadmap principle tested by the question."
     },
-    "examTrap": "buying tools before defining the problem.",
-    "studyTip": "sequence technology after process and data foundations are addressed."
+    "examTrap": "Buying tools before defining the problem.",
+    "studyTip": "Sequence technology after process and data foundations are addressed."
   },
   {
     "id": "749",
@@ -26965,8 +26965,8 @@ export const generatedQuestions: Question[] = [
       "749-b": "This choice does not address the core technology roadmap principle tested by the question.",
       "749-c": "This choice does not address the core technology roadmap principle tested by the question."
     },
-    "examTrap": "buying tools before defining the problem.",
-    "studyTip": "sequence technology after process and data foundations are addressed."
+    "examTrap": "Buying tools before defining the problem.",
+    "studyTip": "Sequence technology after process and data foundations are addressed."
   },
   {
     "id": "750",
@@ -26987,7 +26987,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "750-c",
-        "text": "sequence technology after process and data foundations are addressed and verify the impact through agreed metrics."
+        "text": "Sequence technology after process and data foundations are addressed and verify the impact through agreed metrics."
       },
       {
         "id": "750-d",
@@ -27001,8 +27001,8 @@ export const generatedQuestions: Question[] = [
       "750-b": "This choice does not address the core technology roadmap principle tested by the question.",
       "750-d": "This choice does not address the core technology roadmap principle tested by the question."
     },
-    "examTrap": "buying tools before defining the problem.",
-    "studyTip": "sequence technology after process and data foundations are addressed."
+    "examTrap": "Buying tools before defining the problem.",
+    "studyTip": "Sequence technology after process and data foundations are addressed."
   },
   {
     "id": "751",
@@ -27037,8 +27037,8 @@ export const generatedQuestions: Question[] = [
       "751-c": "This choice does not address the core erp systems principle tested by the question.",
       "751-d": "This choice does not address the core erp systems principle tested by the question."
     },
-    "examTrap": "expecting ERP to overcome bad processes.",
-    "studyTip": "use ERP with disciplined master data, transactions, and governance."
+    "examTrap": "Expecting ERP to overcome bad processes.",
+    "studyTip": "Use ERP with disciplined master data, transactions, and governance."
   },
   {
     "id": "752",
@@ -27051,7 +27051,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "752-a",
-        "text": "use ERP with disciplined master data, transactions, and governance."
+        "text": "Use ERP with disciplined master data, transactions, and governance."
       },
       {
         "id": "752-b",
@@ -27073,8 +27073,8 @@ export const generatedQuestions: Question[] = [
       "752-c": "This choice does not address the core erp systems principle tested by the question.",
       "752-d": "This choice does not address the core erp systems principle tested by the question."
     },
-    "examTrap": "expecting ERP to overcome bad processes.",
-    "studyTip": "use ERP with disciplined master data, transactions, and governance."
+    "examTrap": "Expecting ERP to overcome bad processes.",
+    "studyTip": "Use ERP with disciplined master data, transactions, and governance."
   },
   {
     "id": "753",
@@ -27099,7 +27099,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "753-d",
-        "text": "expecting ERP to overcome bad processes."
+        "text": "Expecting ERP to overcome bad processes."
       }
     ],
     "correctChoiceId": "753-d",
@@ -27109,8 +27109,8 @@ export const generatedQuestions: Question[] = [
       "753-b": "This choice does not address the core erp systems principle tested by the question.",
       "753-c": "This choice does not address the core erp systems principle tested by the question."
     },
-    "examTrap": "expecting ERP to overcome bad processes.",
-    "studyTip": "use ERP with disciplined master data, transactions, and governance."
+    "examTrap": "Expecting ERP to overcome bad processes.",
+    "studyTip": "Use ERP with disciplined master data, transactions, and governance."
   },
   {
     "id": "754",
@@ -27145,8 +27145,8 @@ export const generatedQuestions: Question[] = [
       "754-b": "This choice does not address the core erp systems principle tested by the question.",
       "754-d": "This choice does not address the core erp systems principle tested by the question."
     },
-    "examTrap": "expecting ERP to overcome bad processes.",
-    "studyTip": "use ERP with disciplined master data, transactions, and governance."
+    "examTrap": "Expecting ERP to overcome bad processes.",
+    "studyTip": "Use ERP with disciplined master data, transactions, and governance."
   },
   {
     "id": "755",
@@ -27163,7 +27163,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "755-b",
-        "text": "use ERP with disciplined master data, transactions, and governance and verify the impact through agreed metrics."
+        "text": "Use ERP with disciplined master data, transactions, and governance and verify the impact through agreed metrics."
       },
       {
         "id": "755-c",
@@ -27181,8 +27181,8 @@ export const generatedQuestions: Question[] = [
       "755-c": "This choice does not address the core erp systems principle tested by the question.",
       "755-d": "This choice does not address the core erp systems principle tested by the question."
     },
-    "examTrap": "expecting ERP to overcome bad processes.",
-    "studyTip": "use ERP with disciplined master data, transactions, and governance."
+    "examTrap": "Expecting ERP to overcome bad processes.",
+    "studyTip": "Use ERP with disciplined master data, transactions, and governance."
   },
   {
     "id": "756",
@@ -27217,8 +27217,8 @@ export const generatedQuestions: Question[] = [
       "756-c": "This choice does not address the core advanced analytics principle tested by the question.",
       "756-d": "This choice does not address the core advanced analytics principle tested by the question."
     },
-    "examTrap": "building dashboards that do not change decisions.",
-    "studyTip": "apply analytics to clear decisions with trustworthy data."
+    "examTrap": "Building dashboards that do not change decisions.",
+    "studyTip": "Apply analytics to clear decisions with trustworthy data."
   },
   {
     "id": "757",
@@ -27243,7 +27243,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "757-d",
-        "text": "apply analytics to clear decisions with trustworthy data."
+        "text": "Apply analytics to clear decisions with trustworthy data."
       }
     ],
     "correctChoiceId": "757-d",
@@ -27253,8 +27253,8 @@ export const generatedQuestions: Question[] = [
       "757-b": "This choice does not address the core advanced analytics principle tested by the question.",
       "757-c": "This choice does not address the core advanced analytics principle tested by the question."
     },
-    "examTrap": "building dashboards that do not change decisions.",
-    "studyTip": "apply analytics to clear decisions with trustworthy data."
+    "examTrap": "Building dashboards that do not change decisions.",
+    "studyTip": "Apply analytics to clear decisions with trustworthy data."
   },
   {
     "id": "758",
@@ -27275,7 +27275,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "758-c",
-        "text": "building dashboards that do not change decisions."
+        "text": "Building dashboards that do not change decisions."
       },
       {
         "id": "758-d",
@@ -27289,8 +27289,8 @@ export const generatedQuestions: Question[] = [
       "758-b": "This choice does not address the core advanced analytics principle tested by the question.",
       "758-d": "This choice does not address the core advanced analytics principle tested by the question."
     },
-    "examTrap": "building dashboards that do not change decisions.",
-    "studyTip": "apply analytics to clear decisions with trustworthy data."
+    "examTrap": "Building dashboards that do not change decisions.",
+    "studyTip": "Apply analytics to clear decisions with trustworthy data."
   },
   {
     "id": "759",
@@ -27325,8 +27325,8 @@ export const generatedQuestions: Question[] = [
       "759-c": "This choice does not address the core advanced analytics principle tested by the question.",
       "759-d": "This choice does not address the core advanced analytics principle tested by the question."
     },
-    "examTrap": "building dashboards that do not change decisions.",
-    "studyTip": "apply analytics to clear decisions with trustworthy data."
+    "examTrap": "Building dashboards that do not change decisions.",
+    "studyTip": "Apply analytics to clear decisions with trustworthy data."
   },
   {
     "id": "760",
@@ -27339,7 +27339,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "760-a",
-        "text": "apply analytics to clear decisions with trustworthy data and verify the impact through agreed metrics."
+        "text": "Apply analytics to clear decisions with trustworthy data and verify the impact through agreed metrics."
       },
       {
         "id": "760-b",
@@ -27361,8 +27361,8 @@ export const generatedQuestions: Question[] = [
       "760-c": "This choice does not address the core advanced analytics principle tested by the question.",
       "760-d": "This choice does not address the core advanced analytics principle tested by the question."
     },
-    "examTrap": "building dashboards that do not change decisions.",
-    "studyTip": "apply analytics to clear decisions with trustworthy data."
+    "examTrap": "Building dashboards that do not change decisions.",
+    "studyTip": "Apply analytics to clear decisions with trustworthy data."
   },
   {
     "id": "761",
@@ -27397,8 +27397,8 @@ export const generatedQuestions: Question[] = [
       "761-b": "This choice does not address the core artificial intelligence principle tested by the question.",
       "761-c": "This choice does not address the core artificial intelligence principle tested by the question."
     },
-    "examTrap": "deploying AI without governance, explainability, or process fit.",
-    "studyTip": "use AI where patterns, data quality, and decision value justify it."
+    "examTrap": "Deploying AI without governance, explainability, or process fit.",
+    "studyTip": "Use AI where patterns, data quality, and decision value justify it."
   },
   {
     "id": "762",
@@ -27419,7 +27419,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "762-c",
-        "text": "use AI where patterns, data quality, and decision value justify it."
+        "text": "Use AI where patterns, data quality, and decision value justify it."
       },
       {
         "id": "762-d",
@@ -27433,8 +27433,8 @@ export const generatedQuestions: Question[] = [
       "762-b": "This choice does not address the core artificial intelligence principle tested by the question.",
       "762-d": "This choice does not address the core artificial intelligence principle tested by the question."
     },
-    "examTrap": "deploying AI without governance, explainability, or process fit.",
-    "studyTip": "use AI where patterns, data quality, and decision value justify it."
+    "examTrap": "Deploying AI without governance, explainability, or process fit.",
+    "studyTip": "Use AI where patterns, data quality, and decision value justify it."
   },
   {
     "id": "763",
@@ -27451,7 +27451,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "763-b",
-        "text": "deploying AI without governance, explainability, or process fit."
+        "text": "Deploying AI without governance, explainability, or process fit."
       },
       {
         "id": "763-c",
@@ -27469,8 +27469,8 @@ export const generatedQuestions: Question[] = [
       "763-c": "This choice does not address the core artificial intelligence principle tested by the question.",
       "763-d": "This choice does not address the core artificial intelligence principle tested by the question."
     },
-    "examTrap": "deploying AI without governance, explainability, or process fit.",
-    "studyTip": "use AI where patterns, data quality, and decision value justify it."
+    "examTrap": "Deploying AI without governance, explainability, or process fit.",
+    "studyTip": "Use AI where patterns, data quality, and decision value justify it."
   },
   {
     "id": "764",
@@ -27505,8 +27505,8 @@ export const generatedQuestions: Question[] = [
       "764-c": "This choice does not address the core artificial intelligence principle tested by the question.",
       "764-d": "This choice does not address the core artificial intelligence principle tested by the question."
     },
-    "examTrap": "deploying AI without governance, explainability, or process fit.",
-    "studyTip": "use AI where patterns, data quality, and decision value justify it."
+    "examTrap": "Deploying AI without governance, explainability, or process fit.",
+    "studyTip": "Use AI where patterns, data quality, and decision value justify it."
   },
   {
     "id": "765",
@@ -27531,7 +27531,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "765-d",
-        "text": "use AI where patterns, data quality, and decision value justify it and verify the impact through agreed metrics."
+        "text": "Use AI where patterns, data quality, and decision value justify it and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "765-d",
@@ -27541,8 +27541,8 @@ export const generatedQuestions: Question[] = [
       "765-b": "This choice does not address the core artificial intelligence principle tested by the question.",
       "765-c": "This choice does not address the core artificial intelligence principle tested by the question."
     },
-    "examTrap": "deploying AI without governance, explainability, or process fit.",
-    "studyTip": "use AI where patterns, data quality, and decision value justify it."
+    "examTrap": "Deploying AI without governance, explainability, or process fit.",
+    "studyTip": "Use AI where patterns, data quality, and decision value justify it."
   },
   {
     "id": "766",
@@ -27577,8 +27577,8 @@ export const generatedQuestions: Question[] = [
       "766-b": "This choice does not address the core internet of things principle tested by the question.",
       "766-d": "This choice does not address the core internet of things principle tested by the question."
     },
-    "examTrap": "collecting sensor data without an action model.",
-    "studyTip": "use IoT to improve visibility, condition monitoring, and event response."
+    "examTrap": "Collecting sensor data without an action model.",
+    "studyTip": "Use IoT to improve visibility, condition monitoring, and event response."
   },
   {
     "id": "767",
@@ -27595,7 +27595,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "767-b",
-        "text": "use IoT to improve visibility, condition monitoring, and event response."
+        "text": "Use IoT to improve visibility, condition monitoring, and event response."
       },
       {
         "id": "767-c",
@@ -27613,8 +27613,8 @@ export const generatedQuestions: Question[] = [
       "767-c": "This choice does not address the core internet of things principle tested by the question.",
       "767-d": "This choice does not address the core internet of things principle tested by the question."
     },
-    "examTrap": "collecting sensor data without an action model.",
-    "studyTip": "use IoT to improve visibility, condition monitoring, and event response."
+    "examTrap": "Collecting sensor data without an action model.",
+    "studyTip": "Use IoT to improve visibility, condition monitoring, and event response."
   },
   {
     "id": "768",
@@ -27627,7 +27627,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "768-a",
-        "text": "collecting sensor data without an action model."
+        "text": "Collecting sensor data without an action model."
       },
       {
         "id": "768-b",
@@ -27649,8 +27649,8 @@ export const generatedQuestions: Question[] = [
       "768-c": "This choice does not address the core internet of things principle tested by the question.",
       "768-d": "This choice does not address the core internet of things principle tested by the question."
     },
-    "examTrap": "collecting sensor data without an action model.",
-    "studyTip": "use IoT to improve visibility, condition monitoring, and event response."
+    "examTrap": "Collecting sensor data without an action model.",
+    "studyTip": "Use IoT to improve visibility, condition monitoring, and event response."
   },
   {
     "id": "769",
@@ -27685,8 +27685,8 @@ export const generatedQuestions: Question[] = [
       "769-b": "This choice does not address the core internet of things principle tested by the question.",
       "769-c": "This choice does not address the core internet of things principle tested by the question."
     },
-    "examTrap": "collecting sensor data without an action model.",
-    "studyTip": "use IoT to improve visibility, condition monitoring, and event response."
+    "examTrap": "Collecting sensor data without an action model.",
+    "studyTip": "Use IoT to improve visibility, condition monitoring, and event response."
   },
   {
     "id": "770",
@@ -27707,7 +27707,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "770-c",
-        "text": "use IoT to improve visibility, condition monitoring, and event response and verify the impact through agreed metrics."
+        "text": "Use IoT to improve visibility, condition monitoring, and event response and verify the impact through agreed metrics."
       },
       {
         "id": "770-d",
@@ -27721,8 +27721,8 @@ export const generatedQuestions: Question[] = [
       "770-b": "This choice does not address the core internet of things principle tested by the question.",
       "770-d": "This choice does not address the core internet of things principle tested by the question."
     },
-    "examTrap": "collecting sensor data without an action model.",
-    "studyTip": "use IoT to improve visibility, condition monitoring, and event response."
+    "examTrap": "Collecting sensor data without an action model.",
+    "studyTip": "Use IoT to improve visibility, condition monitoring, and event response."
   },
   {
     "id": "771",
@@ -27757,8 +27757,8 @@ export const generatedQuestions: Question[] = [
       "771-c": "This choice does not address the core blockchain principle tested by the question.",
       "771-d": "This choice does not address the core blockchain principle tested by the question."
     },
-    "examTrap": "using blockchain when a normal database would solve the problem.",
-    "studyTip": "use blockchain where multi-party trust, traceability, and immutability matter."
+    "examTrap": "Using blockchain when a normal database would solve the problem.",
+    "studyTip": "Use blockchain where multi-party trust, traceability, and immutability matter."
   },
   {
     "id": "772",
@@ -27771,7 +27771,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "772-a",
-        "text": "use blockchain where multi-party trust, traceability, and immutability matter."
+        "text": "Use blockchain where multi-party trust, traceability, and immutability matter."
       },
       {
         "id": "772-b",
@@ -27793,8 +27793,8 @@ export const generatedQuestions: Question[] = [
       "772-c": "This choice does not address the core blockchain principle tested by the question.",
       "772-d": "This choice does not address the core blockchain principle tested by the question."
     },
-    "examTrap": "using blockchain when a normal database would solve the problem.",
-    "studyTip": "use blockchain where multi-party trust, traceability, and immutability matter."
+    "examTrap": "Using blockchain when a normal database would solve the problem.",
+    "studyTip": "Use blockchain where multi-party trust, traceability, and immutability matter."
   },
   {
     "id": "773",
@@ -27819,7 +27819,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "773-d",
-        "text": "using blockchain when a normal database would solve the problem."
+        "text": "Using blockchain when a normal database would solve the problem."
       }
     ],
     "correctChoiceId": "773-d",
@@ -27829,8 +27829,8 @@ export const generatedQuestions: Question[] = [
       "773-b": "This choice does not address the core blockchain principle tested by the question.",
       "773-c": "This choice does not address the core blockchain principle tested by the question."
     },
-    "examTrap": "using blockchain when a normal database would solve the problem.",
-    "studyTip": "use blockchain where multi-party trust, traceability, and immutability matter."
+    "examTrap": "Using blockchain when a normal database would solve the problem.",
+    "studyTip": "Use blockchain where multi-party trust, traceability, and immutability matter."
   },
   {
     "id": "774",
@@ -27865,8 +27865,8 @@ export const generatedQuestions: Question[] = [
       "774-b": "This choice does not address the core blockchain principle tested by the question.",
       "774-d": "This choice does not address the core blockchain principle tested by the question."
     },
-    "examTrap": "using blockchain when a normal database would solve the problem.",
-    "studyTip": "use blockchain where multi-party trust, traceability, and immutability matter."
+    "examTrap": "Using blockchain when a normal database would solve the problem.",
+    "studyTip": "Use blockchain where multi-party trust, traceability, and immutability matter."
   },
   {
     "id": "775",
@@ -27883,7 +27883,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "775-b",
-        "text": "use blockchain where multi-party trust, traceability, and immutability matter and verify the impact through agreed metrics."
+        "text": "Use blockchain where multi-party trust, traceability, and immutability matter and verify the impact through agreed metrics."
       },
       {
         "id": "775-c",
@@ -27901,8 +27901,8 @@ export const generatedQuestions: Question[] = [
       "775-c": "This choice does not address the core blockchain principle tested by the question.",
       "775-d": "This choice does not address the core blockchain principle tested by the question."
     },
-    "examTrap": "using blockchain when a normal database would solve the problem.",
-    "studyTip": "use blockchain where multi-party trust, traceability, and immutability matter."
+    "examTrap": "Using blockchain when a normal database would solve the problem.",
+    "studyTip": "Use blockchain where multi-party trust, traceability, and immutability matter."
   },
   {
     "id": "776",
@@ -27937,8 +27937,8 @@ export const generatedQuestions: Question[] = [
       "776-c": "This choice does not address the core digital twin principle tested by the question.",
       "776-d": "This choice does not address the core digital twin principle tested by the question."
     },
-    "examTrap": "building a digital model that is not kept current.",
-    "studyTip": "use digital twins to test scenarios and improve decisions before physical changes."
+    "examTrap": "Building a digital model that is not kept current.",
+    "studyTip": "Use digital twins to test scenarios and improve decisions before physical changes."
   },
   {
     "id": "777",
@@ -27963,7 +27963,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "777-d",
-        "text": "use digital twins to test scenarios and improve decisions before physical changes."
+        "text": "Use digital twins to test scenarios and improve decisions before physical changes."
       }
     ],
     "correctChoiceId": "777-d",
@@ -27973,8 +27973,8 @@ export const generatedQuestions: Question[] = [
       "777-b": "This choice does not address the core digital twin principle tested by the question.",
       "777-c": "This choice does not address the core digital twin principle tested by the question."
     },
-    "examTrap": "building a digital model that is not kept current.",
-    "studyTip": "use digital twins to test scenarios and improve decisions before physical changes."
+    "examTrap": "Building a digital model that is not kept current.",
+    "studyTip": "Use digital twins to test scenarios and improve decisions before physical changes."
   },
   {
     "id": "778",
@@ -27995,7 +27995,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "778-c",
-        "text": "building a digital model that is not kept current."
+        "text": "Building a digital model that is not kept current."
       },
       {
         "id": "778-d",
@@ -28009,8 +28009,8 @@ export const generatedQuestions: Question[] = [
       "778-b": "This choice does not address the core digital twin principle tested by the question.",
       "778-d": "This choice does not address the core digital twin principle tested by the question."
     },
-    "examTrap": "building a digital model that is not kept current.",
-    "studyTip": "use digital twins to test scenarios and improve decisions before physical changes."
+    "examTrap": "Building a digital model that is not kept current.",
+    "studyTip": "Use digital twins to test scenarios and improve decisions before physical changes."
   },
   {
     "id": "779",
@@ -28045,8 +28045,8 @@ export const generatedQuestions: Question[] = [
       "779-c": "This choice does not address the core digital twin principle tested by the question.",
       "779-d": "This choice does not address the core digital twin principle tested by the question."
     },
-    "examTrap": "building a digital model that is not kept current.",
-    "studyTip": "use digital twins to test scenarios and improve decisions before physical changes."
+    "examTrap": "Building a digital model that is not kept current.",
+    "studyTip": "Use digital twins to test scenarios and improve decisions before physical changes."
   },
   {
     "id": "780",
@@ -28059,7 +28059,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "780-a",
-        "text": "use digital twins to test scenarios and improve decisions before physical changes and verify the impact through agreed metrics."
+        "text": "Use digital twins to test scenarios and improve decisions before physical changes and verify the impact through agreed metrics."
       },
       {
         "id": "780-b",
@@ -28081,8 +28081,8 @@ export const generatedQuestions: Question[] = [
       "780-c": "This choice does not address the core digital twin principle tested by the question.",
       "780-d": "This choice does not address the core digital twin principle tested by the question."
     },
-    "examTrap": "building a digital model that is not kept current.",
-    "studyTip": "use digital twins to test scenarios and improve decisions before physical changes."
+    "examTrap": "Building a digital model that is not kept current.",
+    "studyTip": "Use digital twins to test scenarios and improve decisions before physical changes."
   },
   {
     "id": "781",
@@ -28117,8 +28117,8 @@ export const generatedQuestions: Question[] = [
       "781-b": "This choice does not address the core data quality principle tested by the question.",
       "781-c": "This choice does not address the core data quality principle tested by the question."
     },
-    "examTrap": "assuming more data means better decisions.",
-    "studyTip": "fix critical data elements and ownership before relying on automation."
+    "examTrap": "Assuming more data means better decisions.",
+    "studyTip": "Fix critical data elements and ownership before relying on automation."
   },
   {
     "id": "782",
@@ -28139,7 +28139,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "782-c",
-        "text": "fix critical data elements and ownership before relying on automation."
+        "text": "Fix critical data elements and ownership before relying on automation."
       },
       {
         "id": "782-d",
@@ -28153,8 +28153,8 @@ export const generatedQuestions: Question[] = [
       "782-b": "This choice does not address the core data quality principle tested by the question.",
       "782-d": "This choice does not address the core data quality principle tested by the question."
     },
-    "examTrap": "assuming more data means better decisions.",
-    "studyTip": "fix critical data elements and ownership before relying on automation."
+    "examTrap": "Assuming more data means better decisions.",
+    "studyTip": "Fix critical data elements and ownership before relying on automation."
   },
   {
     "id": "783",
@@ -28171,7 +28171,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "783-b",
-        "text": "assuming more data means better decisions."
+        "text": "Assuming more data means better decisions."
       },
       {
         "id": "783-c",
@@ -28189,8 +28189,8 @@ export const generatedQuestions: Question[] = [
       "783-c": "This choice does not address the core data quality principle tested by the question.",
       "783-d": "This choice does not address the core data quality principle tested by the question."
     },
-    "examTrap": "assuming more data means better decisions.",
-    "studyTip": "fix critical data elements and ownership before relying on automation."
+    "examTrap": "Assuming more data means better decisions.",
+    "studyTip": "Fix critical data elements and ownership before relying on automation."
   },
   {
     "id": "784",
@@ -28225,8 +28225,8 @@ export const generatedQuestions: Question[] = [
       "784-c": "This choice does not address the core data quality principle tested by the question.",
       "784-d": "This choice does not address the core data quality principle tested by the question."
     },
-    "examTrap": "assuming more data means better decisions.",
-    "studyTip": "fix critical data elements and ownership before relying on automation."
+    "examTrap": "Assuming more data means better decisions.",
+    "studyTip": "Fix critical data elements and ownership before relying on automation."
   },
   {
     "id": "785",
@@ -28251,7 +28251,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "785-d",
-        "text": "fix critical data elements and ownership before relying on automation and verify the impact through agreed metrics."
+        "text": "Fix critical data elements and ownership before relying on automation and verify the impact through agreed metrics."
       }
     ],
     "correctChoiceId": "785-d",
@@ -28261,8 +28261,8 @@ export const generatedQuestions: Question[] = [
       "785-b": "This choice does not address the core data quality principle tested by the question.",
       "785-c": "This choice does not address the core data quality principle tested by the question."
     },
-    "examTrap": "assuming more data means better decisions.",
-    "studyTip": "fix critical data elements and ownership before relying on automation."
+    "examTrap": "Assuming more data means better decisions.",
+    "studyTip": "Fix critical data elements and ownership before relying on automation."
   },
   {
     "id": "786",
@@ -28297,8 +28297,8 @@ export const generatedQuestions: Question[] = [
       "786-b": "This choice does not address the core process automation principle tested by the question.",
       "786-d": "This choice does not address the core process automation principle tested by the question."
     },
-    "examTrap": "automating variation and chaos faster.",
-    "studyTip": "automate stable, standardized, well-understood processes."
+    "examTrap": "Automating variation and chaos faster.",
+    "studyTip": "Automate stable, standardized, well-understood processes."
   },
   {
     "id": "787",
@@ -28315,7 +28315,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "787-b",
-        "text": "automate stable, standardized, well-understood processes."
+        "text": "Automate stable, standardized, well-understood processes."
       },
       {
         "id": "787-c",
@@ -28333,8 +28333,8 @@ export const generatedQuestions: Question[] = [
       "787-c": "This choice does not address the core process automation principle tested by the question.",
       "787-d": "This choice does not address the core process automation principle tested by the question."
     },
-    "examTrap": "automating variation and chaos faster.",
-    "studyTip": "automate stable, standardized, well-understood processes."
+    "examTrap": "Automating variation and chaos faster.",
+    "studyTip": "Automate stable, standardized, well-understood processes."
   },
   {
     "id": "788",
@@ -28347,7 +28347,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "788-a",
-        "text": "automating variation and chaos faster."
+        "text": "Automating variation and chaos faster."
       },
       {
         "id": "788-b",
@@ -28369,8 +28369,8 @@ export const generatedQuestions: Question[] = [
       "788-c": "This choice does not address the core process automation principle tested by the question.",
       "788-d": "This choice does not address the core process automation principle tested by the question."
     },
-    "examTrap": "automating variation and chaos faster.",
-    "studyTip": "automate stable, standardized, well-understood processes."
+    "examTrap": "Automating variation and chaos faster.",
+    "studyTip": "Automate stable, standardized, well-understood processes."
   },
   {
     "id": "789",
@@ -28405,8 +28405,8 @@ export const generatedQuestions: Question[] = [
       "789-b": "This choice does not address the core process automation principle tested by the question.",
       "789-c": "This choice does not address the core process automation principle tested by the question."
     },
-    "examTrap": "automating variation and chaos faster.",
-    "studyTip": "automate stable, standardized, well-understood processes."
+    "examTrap": "Automating variation and chaos faster.",
+    "studyTip": "Automate stable, standardized, well-understood processes."
   },
   {
     "id": "790",
@@ -28427,7 +28427,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "790-c",
-        "text": "automate stable, standardized, well-understood processes and verify the impact through agreed metrics."
+        "text": "Automate stable, standardized, well-understood processes and verify the impact through agreed metrics."
       },
       {
         "id": "790-d",
@@ -28441,8 +28441,8 @@ export const generatedQuestions: Question[] = [
       "790-b": "This choice does not address the core process automation principle tested by the question.",
       "790-d": "This choice does not address the core process automation principle tested by the question."
     },
-    "examTrap": "automating variation and chaos faster.",
-    "studyTip": "automate stable, standardized, well-understood processes."
+    "examTrap": "Automating variation and chaos faster.",
+    "studyTip": "Automate stable, standardized, well-understood processes."
   },
   {
     "id": "791",
@@ -28477,8 +28477,8 @@ export const generatedQuestions: Question[] = [
       "791-c": "This choice does not address the core benchmarking principle tested by the question.",
       "791-d": "This choice does not address the core benchmarking principle tested by the question."
     },
-    "examTrap": "copying another company without understanding context.",
-    "studyTip": "use benchmarks to identify gaps and improvement targets."
+    "examTrap": "Copying another company without understanding context.",
+    "studyTip": "Use benchmarks to identify gaps and improvement targets."
   },
   {
     "id": "792",
@@ -28491,7 +28491,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "792-a",
-        "text": "use benchmarks to identify gaps and improvement targets."
+        "text": "Use benchmarks to identify gaps and improvement targets."
       },
       {
         "id": "792-b",
@@ -28513,8 +28513,8 @@ export const generatedQuestions: Question[] = [
       "792-c": "This choice does not address the core benchmarking principle tested by the question.",
       "792-d": "This choice does not address the core benchmarking principle tested by the question."
     },
-    "examTrap": "copying another company without understanding context.",
-    "studyTip": "use benchmarks to identify gaps and improvement targets."
+    "examTrap": "Copying another company without understanding context.",
+    "studyTip": "Use benchmarks to identify gaps and improvement targets."
   },
   {
     "id": "793",
@@ -28539,7 +28539,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "793-d",
-        "text": "copying another company without understanding context."
+        "text": "Copying another company without understanding context."
       }
     ],
     "correctChoiceId": "793-d",
@@ -28549,8 +28549,8 @@ export const generatedQuestions: Question[] = [
       "793-b": "This choice does not address the core benchmarking principle tested by the question.",
       "793-c": "This choice does not address the core benchmarking principle tested by the question."
     },
-    "examTrap": "copying another company without understanding context.",
-    "studyTip": "use benchmarks to identify gaps and improvement targets."
+    "examTrap": "Copying another company without understanding context.",
+    "studyTip": "Use benchmarks to identify gaps and improvement targets."
   },
   {
     "id": "794",
@@ -28585,8 +28585,8 @@ export const generatedQuestions: Question[] = [
       "794-b": "This choice does not address the core benchmarking principle tested by the question.",
       "794-d": "This choice does not address the core benchmarking principle tested by the question."
     },
-    "examTrap": "copying another company without understanding context.",
-    "studyTip": "use benchmarks to identify gaps and improvement targets."
+    "examTrap": "Copying another company without understanding context.",
+    "studyTip": "Use benchmarks to identify gaps and improvement targets."
   },
   {
     "id": "795",
@@ -28603,7 +28603,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "795-b",
-        "text": "use benchmarks to identify gaps and improvement targets and verify the impact through agreed metrics."
+        "text": "Use benchmarks to identify gaps and improvement targets and verify the impact through agreed metrics."
       },
       {
         "id": "795-c",
@@ -28621,8 +28621,8 @@ export const generatedQuestions: Question[] = [
       "795-c": "This choice does not address the core benchmarking principle tested by the question.",
       "795-d": "This choice does not address the core benchmarking principle tested by the question."
     },
-    "examTrap": "copying another company without understanding context.",
-    "studyTip": "use benchmarks to identify gaps and improvement targets."
+    "examTrap": "Copying another company without understanding context.",
+    "studyTip": "Use benchmarks to identify gaps and improvement targets."
   },
   {
     "id": "796",
@@ -28657,8 +28657,8 @@ export const generatedQuestions: Question[] = [
       "796-c": "This choice does not address the core change management principle tested by the question.",
       "796-d": "This choice does not address the core change management principle tested by the question."
     },
-    "examTrap": "treating go-live as the finish line.",
-    "studyTip": "manage stakeholders, communication, training, resistance, and adoption."
+    "examTrap": "Treating go-live as the finish line.",
+    "studyTip": "Manage stakeholders, communication, training, resistance, and adoption."
   },
   {
     "id": "797",
@@ -28683,7 +28683,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "797-d",
-        "text": "manage stakeholders, communication, training, resistance, and adoption."
+        "text": "Manage stakeholders, communication, training, resistance, and adoption."
       }
     ],
     "correctChoiceId": "797-d",
@@ -28693,8 +28693,8 @@ export const generatedQuestions: Question[] = [
       "797-b": "This choice does not address the core change management principle tested by the question.",
       "797-c": "This choice does not address the core change management principle tested by the question."
     },
-    "examTrap": "treating go-live as the finish line.",
-    "studyTip": "manage stakeholders, communication, training, resistance, and adoption."
+    "examTrap": "Treating go-live as the finish line.",
+    "studyTip": "Manage stakeholders, communication, training, resistance, and adoption."
   },
   {
     "id": "798",
@@ -28715,7 +28715,7 @@ export const generatedQuestions: Question[] = [
       },
       {
         "id": "798-c",
-        "text": "treating go-live as the finish line."
+        "text": "Treating go-live as the finish line."
       },
       {
         "id": "798-d",
@@ -28729,8 +28729,8 @@ export const generatedQuestions: Question[] = [
       "798-b": "This choice does not address the core change management principle tested by the question.",
       "798-d": "This choice does not address the core change management principle tested by the question."
     },
-    "examTrap": "treating go-live as the finish line.",
-    "studyTip": "manage stakeholders, communication, training, resistance, and adoption."
+    "examTrap": "Treating go-live as the finish line.",
+    "studyTip": "Manage stakeholders, communication, training, resistance, and adoption."
   },
   {
     "id": "799",
@@ -28765,8 +28765,8 @@ export const generatedQuestions: Question[] = [
       "799-c": "This choice does not address the core change management principle tested by the question.",
       "799-d": "This choice does not address the core change management principle tested by the question."
     },
-    "examTrap": "treating go-live as the finish line.",
-    "studyTip": "manage stakeholders, communication, training, resistance, and adoption."
+    "examTrap": "Treating go-live as the finish line.",
+    "studyTip": "Manage stakeholders, communication, training, resistance, and adoption."
   },
   {
     "id": "800",
@@ -28779,7 +28779,7 @@ export const generatedQuestions: Question[] = [
     "choices": [
       {
         "id": "800-a",
-        "text": "manage stakeholders, communication, training, resistance, and adoption and verify the impact through agreed metrics."
+        "text": "Manage stakeholders, communication, training, resistance, and adoption and verify the impact through agreed metrics."
       },
       {
         "id": "800-b",
@@ -28801,7 +28801,7 @@ export const generatedQuestions: Question[] = [
       "800-c": "This choice does not address the core change management principle tested by the question.",
       "800-d": "This choice does not address the core change management principle tested by the question."
     },
-    "examTrap": "treating go-live as the finish line.",
-    "studyTip": "manage stakeholders, communication, training, resistance, and adoption."
+    "examTrap": "Treating go-live as the finish line.",
+    "studyTip": "Manage stakeholders, communication, training, resistance, and adoption."
   }
 ];
